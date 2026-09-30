@@ -1,0 +1,2246 @@
+[
+    {
+        "act201": "arm,awkm,azr,aay,ahu,asy,fi,has,iac,khm,ksr,mgr,mibs,mob,mskn,mdm,mhmr,nnh,sha1,tba,tsa"
+    },
+    {
+        "act202": "awkm,awkm,ahu,fi,iac,khm,ksr,mgr,mibs,mtmd,rmh1,rqr,rby,sha1,sys,tsa"
+    },
+    {
+        "act310": "mgr,rby"
+    },
+    {
+        "act320": "mgr,rmh1"
+    },
+    {
+        "act360": "mibs,rby"
+    },
+    {
+        "act370": "ahu,rmh1"
+    },
+    {
+        "act380": "fjm"
+    },
+    {
+        "act410": "rmh1"
+    },
+    {
+        "act430": "mgr"
+    },
+    {
+        "amcs501": "mshs"
+    },
+    {
+        "amcs501l": "mshs"
+    },
+    {
+        "amcs504": "png"
+    },
+    {
+        "amcs504l": "png"
+    },
+    {
+        "amcs506": "mla"
+    },
+    {
+        "amcs507": "alq"
+    },
+    {
+        "amcs510": "mth"
+    },
+    {
+        "amcs511": "har"
+    },
+    {
+        "ant101": "bsq,mte,nje,rjs,tae,tba"
+    },
+    {
+        "ant102": "srfz"
+    },
+    {
+        "ant103": "aaa,mte,syna"
+    },
+    {
+        "ant204": "bsq"
+    },
+    {
+        "arc111": "dms,ebw,mga,rmy"
+    },
+    {
+        "arc112": "emn,ofs,rts,sqr"
+    },
+    {
+        "arc121": "mtm2,naw,tba"
+    },
+    {
+        "arc122": "hru,rts,siu,tba"
+    },
+    {
+        "arc123": "mga,rmy"
+    },
+    {
+        "arc131": "ahs1,akd1,asaa,sik3"
+    },
+    {
+        "arc133": "mga,snf"
+    },
+    {
+        "arc200": "mtm2,tba"
+    },
+    {
+        "arc213": "akd1,hru,thw"
+    },
+    {
+        "arc214": "mtm2,naw,nsdi"
+    },
+    {
+        "arc215": "mbrn,sju"
+    },
+    {
+        "arc241": "sqr"
+    },
+    {
+        "arc242": "sik3"
+    },
+    {
+        "arc251": "mtm2"
+    },
+    {
+        "arc261": "rmy,siu"
+    },
+    {
+        "arc262": "siu"
+    },
+    {
+        "arc263": "mfn"
+    },
+    {
+        "arc264": "mfn"
+    },
+    {
+        "arc271": "akd1,ntl"
+    },
+    {
+        "arc272": "mbrn,mga"
+    },
+    {
+        "arc273": "ntl"
+    },
+    {
+        "arc281": "mgd"
+    },
+    {
+        "arc282": "mgd"
+    },
+    {
+        "arc283": "nzu"
+    },
+    {
+        "arc310": "snf"
+    },
+    {
+        "arc316": "jnl,rqh"
+    },
+    {
+        "arc317": "sik3,snf"
+    },
+    {
+        "arc318": "mfn"
+    },
+    {
+        "arc324": "rqh,ssim"
+    },
+    {
+        "arc334": "ahs1"
+    },
+    {
+        "arc343": "mun"
+    },
+    {
+        "arc344": "ssim"
+    },
+    {
+        "arc384": "tba"
+    },
+    {
+        "arc410": "sjd"
+    },
+    {
+        "arc418": "ahs1,ntl"
+    },
+    {
+        "arc437": "hru"
+    },
+    {
+        "arc445": "sik3"
+    },
+    {
+        "arc453": "naw"
+    },
+    {
+        "arc454": "mbrn"
+    },
+    {
+        "arc474": "mfn"
+    },
+    {
+        "arc492": "mbrn"
+    },
+    {
+        "arc500": "sqr"
+    },
+    {
+        "arc510": "siu,tba"
+    },
+    {
+        "arc519": "asaa,mun"
+    },
+    {
+        "arc535": "ahs1"
+    },
+    {
+        "arc576": "rmy"
+    },
+    {
+        "arc596": "ssim"
+    },
+    {
+        "arc598": "ssim"
+    },
+    {
+        "bbt203": "mqn,rhs"
+    },
+    {
+        "bbt221": "arim,hml,mbe,pyn,thn,tshq"
+    },
+    {
+        "bbt230": "esd,mtsa,oah,oah"
+    },
+    {
+        "bbt312": "msh3"
+    },
+    {
+        "bbt312l": "esd,hra,nro,tba"
+    },
+    {
+        "bbt314": "arim,makn,mtsa,nta"
+    },
+    {
+        "bbt314l": "arim,hra,mtsa"
+    },
+    {
+        "bbt315": "arim,makn,smda"
+    },
+    {
+        "bbt316": "knh"
+    },
+    {
+        "bbt316l": "thn"
+    },
+    {
+        "bbt317": "msh3,oah,sdl"
+    },
+    {
+        "bbt318": "makn,sdl"
+    },
+    {
+        "bbt335": "ijn"
+    },
+    {
+        "bbt413": "cak,ijn,mbe"
+    },
+    {
+        "bbt413l": "mbe,thn"
+    },
+    {
+        "bbt415": "cak"
+    },
+    {
+        "bbt415l": "arim,msh3,nro,thn"
+    },
+    {
+        "bbt416": "oah"
+    },
+    {
+        "bbt417": "ijn"
+    },
+    {
+        "bbt418": "cak"
+    },
+    {
+        "bbt419": "sdl,smda"
+    },
+    {
+        "bbt421": "knh"
+    },
+    {
+        "bbt422": "tba"
+    },
+    {
+        "bbt423": "makn"
+    },
+    {
+        "bbt424": "smda"
+    },
+    {
+        "bbt427": "him"
+    },
+    {
+        "bbt601": "iqm"
+    },
+    {
+        "bbt608/bbt609": "awn"
+    },
+    {
+        "bbt615/bbt616": "iqm"
+    },
+    {
+        "bbt622/bbt623": "mbe"
+    },
+    {
+        "bbt631": "cqa"
+    },
+    {
+        "bbt638/bbt639": "smda"
+    },
+    {
+        "bbt659": "sdl"
+    },
+    {
+        "bbt671": "oah"
+    },
+    {
+        "bbt685": "rhs"
+    },
+    {
+        "bbt695": "msh3"
+    },
+    {
+        "bbt702": "tba"
+    },
+    {
+        "bbt792": "mtsa"
+    },
+    {
+        "ben205": "ady,abmn,adk1,fra3,gdd,har1,ksad,mbi,mbq,mkh1,njb,rme,sap,shg,sjj,snj,ss1,tba"
+    },
+    {
+        "bio103": "abe,anhr,avc,awn,bun,fmj,fzd,him,hms,hra,kfr,kna,ltb,mar5,mbmd,mris,mrkl,mar5,mbmd,mfl,nafn,nro,nus,ofk,skk,subk,tba,tht,thn"
+    },
+    {
+        "bio103l": "anhr,fha,fho,fddn,kfr,klq,kmrh,kna,ksp,mto,nbb,skk"
+    },
+    {
+        "bio201": "acn,arim,fzd,hml,klq,mrkl,mtsa,nta,spr,tba,tht"
+    },
+    {
+        "bio201l": "malm,pyn"
+    },
+    {
+        "bio202": "aam4,apz,atp,fha,fho,ltb,msim,mto,muq,mzar,nia,skk"
+    },
+    {
+        "bio202l": "aam4,atp,fha,jsj,nbb,skk"
+    },
+    {
+        "bsc201": "ak,rks"
+    },
+    {
+        "bus112": "ahsr,anhs,abs,ads1,hmn,jer,kmz,ksd,mahn,maim,maim,mmr5,mmrh,mrhn,mdt,rnm,strn"
+    },
+    {
+        "bus135": "azd,acd,bsk,fas,lrn,mja1,mltr,mnrd,mpz,msa3,mwhb,min,pkk,saj,szl,sqm,tba"
+    },
+    {
+        "bus172": "ads1,azd,hdo,iam,jhk,kms2,mhk3,mhm,mhsn,mja1,mjs,mkz,mltr,mms1,mpz,msif,mwhb,myh,mdmm,mdrh,min,mof,omg,pkk,rar,rsj,rue,rsa,srcy,sqm,tba"
+    },
+    {
+        "bus173": "bsk,grg,iam,jah,jhk,mau3,mhm,mhsn,mkz,mms1,mmtn,mdrh,rsj,rue,tba"
+    },
+    {
+        "bus251": "amtr,hmm1,lkk,mir1,syi,sqt,tya,tua,uhm,zbr"
+    },
+    {
+        "bus498": "tba"
+    },
+    {
+        "bus499": "tba"
+    },
+    {
+        "bus500": "iad,tba"
+    },
+    {
+        "bus501": "kmz,mhk3,mde,mot,omg"
+    },
+    {
+        "bus505": "ayi,fjm,ghk,mibs,mdmz"
+    },
+    {
+        "bus511": "absa,kzn,rue,tba,tmy"
+    },
+    {
+        "bus516": "abkr,marn,uth,zkj"
+    },
+    {
+        "bus518": "nma,zmn"
+    },
+    {
+        "bus520": "ksm,mqt,mds,sdhn,zmu"
+    },
+    {
+        "bus525": "kmz2,mau3,saf1,sbn,tmr,tmr"
+    },
+    {
+        "bus530": "mcw,mhmn,sbn,tmr,zb"
+    },
+    {
+        "bus535": "absh,dsr,mne,mtdi,zkj"
+    },
+    {
+        "bus601": "alm,ksm,srcy"
+    },
+    {
+        "bus620": "bkr,mhhs,mm1,mne,rda"
+    },
+    {
+        "bus635": "mhmn,rma,shnm,tnk"
+    },
+    {
+        "bus650": "fas,sno,ztm"
+    },
+    {
+        "bus685": "mei,tmu,zmu"
+    },
+    {
+        "bus690": "mds,nzq,zmu"
+    },
+    {
+        "bus698": "tba"
+    },
+    {
+        "bus699": "tba"
+    },
+    {
+        "bus700": "mkr2"
+    },
+    {
+        "ce6000": "sbc,sji"
+    },
+    {
+        "ce6000a": "jbr,sji"
+    },
+    {
+        "ce6000b": "sbc,sji"
+    },
+    {
+        "ce6000c": "sji"
+    },
+    {
+        "ce6001a": "sji"
+    },
+    {
+        "ce6001b": "sbc"
+    },
+    {
+        "ce6103": "jis"
+    },
+    {
+        "ce6204": "nmsn"
+    },
+    {
+        "ce6512": "sbc"
+    },
+    {
+        "ce6513": "sbc"
+    },
+    {
+        "cee100": "hasw,srl,srl"
+    },
+    {
+        "cee110": "aikn,amw,nzu,siu,sjd,sjd,tta"
+    },
+    {
+        "cee209": "sakm,seq"
+    },
+    {
+        "cee210": "nmsn,tta"
+    },
+    {
+        "cee211": "aikn,nmr"
+    },
+    {
+        "cee211l": "aikn,nmr"
+    },
+    {
+        "cee212": "mik,sakm"
+    },
+    {
+        "cee212l": "tmy"
+    },
+    {
+        "cee213": "aikn,slw"
+    },
+    {
+        "cee213l": "mif"
+    },
+    {
+        "cee214": "nmsn"
+    },
+    {
+        "cee214l": "mfq,nmsn"
+    },
+    {
+        "cee215": "nem,tmy"
+    },
+    {
+        "cee240": "mms4"
+    },
+    {
+        "cee240l": "mms4"
+    },
+    {
+        "cee250": "dns,jbr"
+    },
+    {
+        "cee250l": "tta"
+    },
+    {
+        "cee260": "sji"
+    },
+    {
+        "cee271l": "ykb"
+    },
+    {
+        "cee310": "amw"
+    },
+    {
+        "cee330": "mik,mfq"
+    },
+    {
+        "cee330l": "nzu"
+    },
+    {
+        "cee331": "tmy"
+    },
+    {
+        "cee335": "nzu"
+    },
+    {
+        "cee335l": "mfq"
+    },
+    {
+        "cee340": "mms4"
+    },
+    {
+        "cee350": "tba"
+    },
+    {
+        "cee360": "sji"
+    },
+    {
+        "cee360l": "amw"
+    },
+    {
+        "cee370": "nem"
+    },
+    {
+        "cee371l": "amw"
+    },
+    {
+        "cee373": "amw"
+    },
+    {
+        "cee415": "sbc"
+    },
+    {
+        "cee430": "jis"
+    },
+    {
+        "cee431": "tmy"
+    },
+    {
+        "cee452": "jbr"
+    },
+    {
+        "cee460": "nmr"
+    },
+    {
+        "cee470": "seq"
+    },
+    {
+        "cee472": "sji"
+    },
+    {
+        "cee492": "amw,jbr,mms4,mfq,nmsn,nem,nmr,nzu,sakm,sbc,sji,tmy"
+    },
+    {
+        "cee498": "amw,jbr,mms4,mfq,nmsn,nem,nmr,nzu,sakm,sbc,sji,tmy"
+    },
+    {
+        "cee499a": "aikn,amw,jbr,mms4,mfq,nmsn,nem,nmr,nzu,sakm,seq,sbc,sji,tmy,tta"
+    },
+    {
+        "cee499b": "aikn,amw,jbr,mms4,mfq,nmsn,nem,nmr,nzu,sakm,seq,sbc,sji,tmy,tta"
+    },
+    {
+        "cee499c": "aikn,amw,jbr,mms4,mfq,nmsn,nem,nmr,nzu,sakm,seq,sbc,sji,tmy,tta"
+    },
+    {
+        "che101": "abi,acn,ays,fzd,lizn,maba,masm,mazm,mbe,mkr,mmr3,mrkl,mtn2,mtn2,nka,pyn,sfrs,smd1,smd1,snht,soh,spr,squ,szf,tba"
+    },
+    {
+        "che101l": "acn,adp,avc,fzd,hml,malm,mazm,meh,mh1,mmr3,mrkl,pyn"
+    },
+    {
+        "che201": "adp,esd,mkun,nro,szf"
+    },
+    {
+        "che202": "ays,mio,mkun,tshq"
+    },
+    {
+        "che202l": "mio,mkun,nro,pyn,tshq"
+    },
+    {
+        "che203": "mkun,tshq"
+    },
+    {
+        "che203l": "mkun,szf,tht,tshq"
+    },
+    {
+        "chn101": "azh1,rbt,tba"
+    },
+    {
+        "chn201": "rbt,tba"
+    },
+    {
+        "cse101": "mslk,sva"
+    },
+    {
+        "cse115": "fth,hsm,mhis,mle,msrb,nlh,nva,oisd,rsy,rjp,smsl,sus,shaifur,tba,tnr,tns1"
+    },
+    {
+        "cse115l": "fth,hsm,mhis,mle,msrb,nlh,nva,oisd,rsy,rjp,smsl,sus,tba,tnr,tns1"
+    },
+    {
+        "cse145": "sfa"
+    },
+    {
+        "cse146": "auq"
+    },
+    {
+        "cse173": "itn,mle,msk1,msrb,sle,ssi,sva,tba,tnf"
+    },
+    {
+        "cse215": "hsm,mft,mhis,muo,rih,rrn,rjp,sfr1,sva,tba"
+    },
+    {
+        "cse215l": "hsm,may,mft,mhis,muo,rih,rrn,rjp,sfr1,sva,tba"
+    },
+    {
+        "cse225": "fth,iqn,mhis,muo,rih,rjp,shafiur,tba"
+    },
+    {
+        "cse225l": "fth,iqn,mhis,muo,rih,rjp,tba"
+    },
+    {
+        "cse231": "alhq,hsm,kmm,kse,mslk,mkl,njl,sle,tnf,tnf,tnr"
+    },
+    {
+        "cse231l": "alhq,hsm,kmm,kse,mslk,mkl,njl,sle,tnf,tnr"
+    },
+    {
+        "cse273": "ara2,mhis,mmk1,smsl,tba"
+    },
+    {
+        "cse299": "afe,itn,mle,msrb,muo,nlh,oisd,smsl,sfr1,tns1"
+    },
+    {
+        "cse311": "fth,nlh,rih,tba,tns1"
+    },
+    {
+        "cse311l": "fth,nlh,rih,tba,tns1"
+    },
+    {
+        "cse323": "auq,mslk,njl,nva,rsy,smsl,ssi"
+    },
+    {
+        "cse325": "msk1,ssi,sus,tba"
+    },
+    {
+        "cse327": "afe,iqn,itn,iqn,rsy"
+    },
+    {
+        "cse331": "acq,maqm,moj,rqn,tba"
+    },
+    {
+        "cse331l": "acq,maqm,moj,mua3,rqn,tba"
+    },
+    {
+        "cse332": "alhq,maqm,njl,tba,tnf,tnr"
+    },
+    {
+        "cse332l": "alhq,maqm,njl,tba,tnf,tnr"
+    },
+    {
+        "cse338": "auq,rjp"
+    },
+    {
+        "cse338l": "auq,rjp"
+    },
+    {
+        "cse373": "ara2,iqn,oisd,sti,sus,sfm1"
+    },
+    {
+        "cse411": "tba"
+    },
+    {
+        "cse413": "iqr"
+    },
+    {
+        "cse413l": "iqr"
+    },
+    {
+        "cse425": "msk1,ssi,sus,tba"
+    },
+    {
+        "cse434": "ssi"
+    },
+    {
+        "cse435": "iqr"
+    },
+    {
+        "cse435l": "iqr"
+    },
+    {
+        "cse438": "auq,rjp"
+    },
+    {
+        "cse438l": "auq,rjp"
+    },
+    {
+        "cse440": "msdl,msrb,tba"
+    },
+    {
+        "cse445": "jsa,maqm,msrb,rtk,sfm1,sfr1"
+    },
+    {
+        "cse465": "afe,azk,nbm,oisd,sfm1"
+    },
+    {
+        "cse468": "nbm,shaifur"
+    },
+    {
+        "cse482": "tba"
+    },
+    {
+        "cse482l": "tba"
+    },
+    {
+        "cse491": "sti"
+    },
+    {
+        "cse495a": "sns1"
+    },
+    {
+        "cse495b": "azk,nbm"
+    },
+    {
+        "cse498r": "tba"
+    },
+    {
+        "cse499a": "afe,auq,azk,fmzn,kas,kmm,maqm,moj,mdy,nck,nva,rrn,rtk,sfr1,sle,sns1,sti,szz"
+    },
+    {
+        "cse499b": "abo,afe,azk,kas,kmm,moj,msrb,mdy,nck,nbm,rrn,rtk,sfr1,sle,sns1,sti,szz"
+    },
+    {
+        "cse534": "ssi"
+    },
+    {
+        "cse545": "fmzn"
+    },
+    {
+        "cse552": "sle"
+    },
+    {
+        "cse553": "nbm,shaifur"
+    },
+    {
+        "cse597": "sti"
+    },
+    {
+        "cse598": "azk"
+    },
+    {
+        "dev503": "isn"
+    },
+    {
+        "dev504": "nys"
+    },
+    {
+        "dev564": "nzm1"
+    },
+    {
+        "dev565": "nys"
+    },
+    {
+        "dev569": "nra"
+    },
+    {
+        "dev573": "nra"
+    },
+    {
+        "dev577": "asrn"
+    },
+    {
+        "dev595": "aar,akp,atr,gha,grg,isn,jvhn,muk,nra,nys,nzm1,sbn,sfy,sme,sakn,tba,tpa"
+    },
+    {
+        "dev596": "aar,akp,atr,gha,grg,isn,jvhn,muk,nra,nys,nzm1,sbn,sfy,sme,sakn,tba,tpa"
+    },
+    {
+        "eco101": "aar,aba,acd,ayo,abt,ans,aqrm,cnq,isn,mltr,muk,mna2,mzq,nnm,psk,psk,rdb,rfah,rsa,sbad,sfy,sme,sakn,sqm,stq"
+    },
+    {
+        "eco103": "mssk,rfad"
+    },
+    {
+        "eco104": "acd,akp,aqrm,ans,aqrm,gha,mcw,mna2,nnm,psk,rsa,sbad,stq,tba,tpa"
+    },
+    {
+        "eco135": "abt,cnq,sfy"
+    },
+    {
+        "eco172": "aba,mmdr,mzq"
+    },
+    {
+        "eco173": "ayo,grg"
+    },
+    {
+        "eco201": "muk,rdb,rfah"
+    },
+    {
+        "eco204": "gha,jvhn"
+    },
+    {
+        "eco245": "ayo,cnq"
+    },
+    {
+        "eco301": "rfah,tpa"
+    },
+    {
+        "eco304": "jvhn,mcw"
+    },
+    {
+        "eco309": "aba"
+    },
+    {
+        "eco317": "mcw"
+    },
+    {
+        "eco328": "mmdr"
+    },
+    {
+        "eco348": "isn"
+    },
+    {
+        "eco372": "sbn,sme"
+    },
+    {
+        "eco406": "aar"
+    },
+    {
+        "eco415": "gha"
+    },
+    {
+        "eco430": "jvhn"
+    },
+    {
+        "eco441": "tpa"
+    },
+    {
+        "eco490": "atr"
+    },
+    {
+        "eco503": "tpa"
+    },
+    {
+        "eco504": "akp"
+    },
+    {
+        "eco511": "muk"
+    },
+    {
+        "eco514": "mmdr"
+    },
+    {
+        "eco614": "jvhn"
+    },
+    {
+        "eco653": "mmdr"
+    },
+    {
+        "eco684": "mcw"
+    },
+    {
+        "eco686": "rfah"
+    },
+    {
+        "eco689": "nzm1"
+    },
+    {
+        "eco695": "aar,akp,ayo,atr,gha,grg,isn,jvhn,mcw,mmdr,muk,nzm1,rdb,rfah,sbad,sbn,sfy,sme,sakn,tba,tpa"
+    },
+    {
+        "eco699": "aar,akp,ayo,atr,gha,grg,isn,jvhn,mcw,mmdr,muk,nzm1,rdb,rfah,sbad,sbn,sfy,sme,sakn,tba,tpa"
+    },
+    {
+        "eee111": "acq,aqu,jsa,kse,mslk,mkl,nck,nanr,rtk,ssh1,svs,tba,lih"
+    },
+    {
+        "eee111l": "acq,aqu,jsa,kse,mslk,mkl,nck,nanr,rtk,ssh1,svs,svs,tba,lih"
+    },
+    {
+        "eee141": "abo,fkr,kas,kmm,mft,rtk,ssh1,tba,lih,mtn"
+    },
+    {
+        "eee141l": "abo,fkr,kas,kmm,mft,rqn,rtk,ssh1,tba,lih,mtn"
+    },
+    {
+        "eee154": "acq,jsa,mfy,tba"
+    },
+    {
+        "eee211": "alhq,hsm,kmm,kse,mslk,mkl,njl,sle,tnf,tnf,tnr"
+    },
+    {
+        "eee211l": "alhq,hsm,kmm,kse,mslk,mkl,njl,sle,tnf,tnr"
+    },
+    {
+        "eee221": "fkr,fqc,mdy"
+    },
+    {
+        "eee221l": "fkr,fqc,mdy"
+    },
+    {
+        "eee241": "ajh,abo,mfy,rqn"
+    },
+    {
+        "eee241l": "ajh,abo,mfy,rqn,tba"
+    },
+    {
+        "eee299": "fmzn,kmm,moj,nanr"
+    },
+    {
+        "eee311": "moj,mkl"
+    },
+    {
+        "eee311l": "mkl,moj"
+    },
+    {
+        "eee312": "mfy,nck,tba"
+    },
+    {
+        "eee312l": "mfy,nck,tba"
+    },
+    {
+        "eee321": "fmzn,fqc"
+    },
+    {
+        "eee321l": "fmzn,fqc"
+    },
+    {
+        "eee331": "auq"
+    },
+    {
+        "eee331l": "auq"
+    },
+    {
+        "eee332": "acq,maqm,moj,rqn,tba"
+    },
+    {
+        "eee332l": "acq,maqm,moj,mua3,rqn,tba"
+    },
+    {
+        "eee333": "msdl,msrb,tba"
+    },
+    {
+        "eee336": "alhq,maqm,njl,tba,tnf,tnr"
+    },
+    {
+        "eee336l": "alhq,maqm,njl,tba,tnf,tnr"
+    },
+    {
+        "eee342": "svs,sns1,lih"
+    },
+    {
+        "eee342l": "lih,sns1,svs"
+    },
+    {
+        "eee361": "mdy,nck"
+    },
+    {
+        "eee362": "ajh,mfy"
+    },
+    {
+        "eee362l": "ajh,mfy"
+    },
+    {
+        "eee363": "aqu,nqh"
+    },
+    {
+        "eee363l": "aqu,nqh"
+    },
+    {
+        "eee411": "iqr"
+    },
+    {
+        "eee411l": "iqr"
+    },
+    {
+        "eee413": "iqr"
+    },
+    {
+        "eee413l": "iqr"
+    },
+    {
+        "eee415": "nanr"
+    },
+    {
+        "eee424": "fmzn"
+    },
+    {
+        "eee452": "avc,fkr,fqc,nqh,rkz,tba"
+    },
+    {
+        "eee453": "acq,maqm,moj,rqn,tba"
+    },
+    {
+        "eee453l": "acq,maqm,moj,mua3,rqn,tba"
+    },
+    {
+        "eee462": "tba"
+    },
+    {
+        "eee465": "tba"
+    },
+    {
+        "eee468": "mfy"
+    },
+    {
+        "eee494": "sns1"
+    },
+    {
+        "eee498r": "tba"
+    },
+    {
+        "eee499a": "afe,auq,azk,fmzn,kas,kmm,maqm,moj,mdy,nck,nva,rrn,rtk,sfr1,sle,sns1,sti,szz"
+    },
+    {
+        "eee499b": "abo,afe,azk,kas,kmm,moj,msrb,mdy,nck,nbm,rrn,rtk,sfr1,sle,sns1,sti,szz"
+    },
+    {
+        "eee512": "tba"
+    },
+    {
+        "eee528": "lih"
+    },
+    {
+        "eee534": "fmzn"
+    },
+    {
+        "eee546": "sle"
+    },
+    {
+        "eee552": "ajh"
+    },
+    {
+        "eee589": "azk"
+    },
+    {
+        "eee597": "sti"
+    },
+    {
+        "eee660": "nbm,shaifur"
+    },
+    {
+        "emb500": "iad,srua,tba"
+    },
+    {
+        "emb501": "absa"
+    },
+    {
+        "emb502": "grg"
+    },
+    {
+        "emb510": "awkm"
+    },
+    {
+        "emb520": "mjj"
+    },
+    {
+        "emb601": "nzq"
+    },
+    {
+        "emb602": "tfq"
+    },
+    {
+        "emb620": "miz"
+    },
+    {
+        "emb650": "adz"
+    },
+    {
+        "emb660": "aum"
+    },
+    {
+        "emb670": "irh"
+    },
+    {
+        "emb690": "mhdn"
+    },
+    {
+        "empg500": "rzk"
+    },
+    {
+        "empg510": "rzu"
+    },
+    {
+        "empg515": "mfm"
+    },
+    {
+        "empg520": "zim"
+    },
+    {
+        "empg530": "mfm"
+    },
+    {
+        "empg540": "dvc"
+    },
+    {
+        "empg555": "mgh"
+    },
+    {
+        "empg570": "skt"
+    },
+    {
+        "emph601": "zzs"
+    },
+    {
+        "emph605": "mzim"
+    },
+    {
+        "emph609": "mzim"
+    },
+    {
+        "emph611": "tba"
+    },
+    {
+        "emph631": "mzim,tba"
+    },
+    {
+        "emph642": "sbah"
+    },
+    {
+        "emph644": "smsr"
+    },
+    {
+        "emph653": "tba"
+    },
+    {
+        "emph663": "szp"
+    },
+    {
+        "emph672": "htn"
+    },
+    {
+        "emph681": "bch"
+    },
+    {
+        "emph704": "zqaa"
+    },
+    {
+        "emph711": "hmn"
+    },
+    {
+        "emph712": "smsr"
+    },
+    {
+        "emph713": "bch"
+    },
+    {
+        "emph742": "mti"
+    },
+    {
+        "emph805": "mzim"
+    },
+    {
+        "emph806": "mzim"
+    },
+    {
+        "emph842": "htn"
+    },
+    {
+        "eng102": "ahrf,aiz,dbs,fhs,ftn,fy,fzm,hsh,hym,moe,mana,npn,nwh,rbi,rns,sdma,sei,spn,sto,stsd,slq,ssy,sut,sye,taa,tba,trn,tzn,ums,znp"
+    },
+    {
+        "eng103": "aiz,ano,atb,dbs,faa,fhs,fzm,hrkn,hym,lmh,mhn,moe,myl,mz,nca,nhu,nsl,nsj,nwh,rbi,rns,rt1,rtu,sakb,sei,sli,sncy,ssa2,sto,szn,ssy,sut,sye,szi,taa,tba,trn,tshn,ttm,tzn,zqh"
+    },
+    {
+        "eng105": "ano,ftn,ikd,khu,mcy,mz,nhu,nsl,nsj,ndm,pmz,rtu,sakb,shq,sncy,ssa2,stsd,tba,znp,zqh"
+    },
+    {
+        "eng111": "ahrf,faa,fzm,hme,mcy,mnk,nca,npn,nsj,sdma,szn,taa,tba,tshn"
+    },
+    {
+        "eng115": "atb,ftn,khu,lmh,moe,nca,sdma,ssa2,szi,tba,tshn"
+    },
+    {
+        "eng210": "snu,spn,tba"
+    },
+    {
+        "eng216": "ftn,sro,tba"
+    },
+    {
+        "eng220": "ikd,khu,lmh,ssa2,tba"
+    },
+    {
+        "eng230": "hsh,khu,mcy,tba,tshn"
+    },
+    {
+        "eng260": "hsh"
+    },
+    {
+        "eng302": "pmz,spn,tba"
+    },
+    {
+        "eng307": "hme,tba"
+    },
+    {
+        "eng334": "mhn"
+    },
+    {
+        "eng337": "mana,pmz"
+    },
+    {
+        "eng341": "ikd"
+    },
+    {
+        "eng346": "aqb"
+    },
+    {
+        "eng351": "slq"
+    },
+    {
+        "eng361": "shq"
+    },
+    {
+        "eng381": "snu"
+    },
+    {
+        "eng401": "tba"
+    },
+    {
+        "eng416": "msz2"
+    },
+    {
+        "eng417": "sro,tba"
+    },
+    {
+        "eng431": "aqb"
+    },
+    {
+        "eng441": "szi"
+    },
+    {
+        "eng458": "nm"
+    },
+    {
+        "eng461": "mhn"
+    },
+    {
+        "eng466": "mana,pmz"
+    },
+    {
+        "eng481": "mana"
+    },
+    {
+        "eng501": "shq"
+    },
+    {
+        "eng515": "nm"
+    },
+    {
+        "eng520": "szi"
+    },
+    {
+        "eng522": "aqb"
+    },
+    {
+        "eng524": "hkh"
+    },
+    {
+        "eng528": "hkh"
+    },
+    {
+        "eng552": "shq"
+    },
+    {
+        "eng553": "spn"
+    },
+    {
+        "eng555": "spn"
+    },
+    {
+        "eng557": "spn"
+    },
+    {
+        "eng570": "sro"
+    },
+    {
+        "eng575": "msz2"
+    },
+    {
+        "eng576": "msz2"
+    },
+    {
+        "eng578": "snu"
+    },
+    {
+        "eng580": "spn"
+    },
+    {
+        "eng602": "aqb"
+    },
+    {
+        "eng603": "aqb"
+    },
+    {
+        "eng606": "tba"
+    },
+    {
+        "eng611": "msz2"
+    },
+    {
+        "eng613": "sli"
+    },
+    {
+        "eng616": "sro"
+    },
+    {
+        "eng618": "tba"
+    },
+    {
+        "eng631": "snu"
+    },
+    {
+        "eng632": "tba"
+    },
+    {
+        "eng637": "tba"
+    },
+    {
+        "env102": "kmnh,kyh"
+    },
+    {
+        "env107": "ark,asuh,eaa,hrh,lizn,mjhn,mqu,mdo,nakn,nlq,rmkn,rjm,rzr,smq,snq,tba,tmi,ykb"
+    },
+    {
+        "env107l": "ahmn,ahmn,asa2,afi2,mna3,ssm1,ykb"
+    },
+    {
+        "env172": "mssk,pac,rfad"
+    },
+    {
+        "env203": "mjhn,rmr,zru"
+    },
+    {
+        "env204": "kmnh"
+    },
+    {
+        "env205": "bkf,mjhn,rmkn"
+    },
+    {
+        "env207": "nakn"
+    },
+    {
+        "env208": "jky,ykb"
+    },
+    {
+        "env209": "bkf,nek"
+    },
+    {
+        "env214": "shmk"
+    },
+    {
+        "env215": "kyh"
+    },
+    {
+        "env260": "mssk"
+    },
+    {
+        "env304": "ark"
+    },
+    {
+        "env307": "asuh"
+    },
+    {
+        "env311": "mrkn,mdmr,mdo"
+    },
+    {
+        "env315": "mnt"
+    },
+    {
+        "env316": "mdo"
+    },
+    {
+        "env317": "musr"
+    },
+    {
+        "env373": "eaa,rmkn"
+    },
+    {
+        "env375": "pac"
+    },
+    {
+        "env402": "mrkn"
+    },
+    {
+        "env405": "asuh"
+    },
+    {
+        "env419": "asuh"
+    },
+    {
+        "env455": "sud"
+    },
+    {
+        "env498": "eaa,kyh,lizn,mssk,mdo,rmkn,rjm,sud"
+    },
+    {
+        "env499": "asuh,eaa,kyh,mssk,rmkn,sud"
+    },
+    {
+        "env501": "sud"
+    },
+    {
+        "env502": "nrmn"
+    },
+    {
+        "env602": "nrmn"
+    },
+    {
+        "env606": "jky"
+    },
+    {
+        "env609": "fhr"
+    },
+    {
+        "env627": "smq"
+    },
+    {
+        "env630": "asuh"
+    },
+    {
+        "env632": "nek"
+    },
+    {
+        "env635": "kal"
+    },
+    {
+        "env652": "jky"
+    },
+    {
+        "env685": "rzr"
+    },
+    {
+        "env697": "asuh"
+    },
+    {
+        "ete111": "acq,aqu,jsa,kse,mslk,mkl,nck,nanr,rtk,ssh1,svs,tba,lih"
+    },
+    {
+        "ete111l": "acq,aqu,jsa,kse,mslk,mkl,nck,nanr,rtk,ssh1,svs,svs,tba,lih"
+    },
+    {
+        "ete141": "fkr,kas,kmm,mft,rtk,ssh1,tba,lih,mtn"
+    },
+    {
+        "ete141l": "abo,fkr,kas,kmm,mft,rqn,rtk,ssh1,tba,lih,mtn"
+    },
+    {
+        "ete221": "fkr,fqc,mdy"
+    },
+    {
+        "ete221l": "fkr,fqc,mdy"
+    },
+    {
+        "ete241": "ajh,abo,mfy,rqn"
+    },
+    {
+        "ete241l": "ajh,abo,mfy,rqn,tba"
+    },
+    {
+        "ete299": "fmzn,kmm,moj,nanr"
+    },
+    {
+        "ete311": "moj,mkl"
+    },
+    {
+        "ete311l": "mkl,moj"
+    },
+    {
+        "ete312": "mfy,nck,tba"
+    },
+    {
+        "ete312l": "mfy,nck,tba"
+    },
+    {
+        "ete321": "fmzn,fqc"
+    },
+    {
+        "ete321l": "fmzn,fqc"
+    },
+    {
+        "ete331": "auq"
+    },
+    {
+        "ete331l": "auq"
+    },
+    {
+        "ete332": "acq,maqm,moj,rqn,tba"
+    },
+    {
+        "ete332l": "acq,maqm,moj,mua3,rqn,tba"
+    },
+    {
+        "ete333": "msdl,msrb,tba"
+    },
+    {
+        "ete334": "tba"
+    },
+    {
+        "ete334l": "tba"
+    },
+    {
+        "ete335": "fth,nlh,rih,tba,tns1"
+    },
+    {
+        "ete335l": "fth,nlh,rih,tba,tns1"
+    },
+    {
+        "ete361": "mdy,nck"
+    },
+    {
+        "ete412": "iqr"
+    },
+    {
+        "ete412l": "iqr"
+    },
+    {
+        "ete418": "svs,sns1,lih"
+    },
+    {
+        "ete418l": "lih,sns1,svs"
+    },
+    {
+        "ete419": "iqr"
+    },
+    {
+        "ete419l": "iqr"
+    },
+    {
+        "ete424": "fmzn"
+    },
+    {
+        "ete498r": "tba"
+    },
+    {
+        "ete499a": "afe,auq,azk,fmzn,kas,kmm,maqm,moj,mdy,nck,nva,rrn,rtk,sfr1,sle,sns1,sti,szz"
+    },
+    {
+        "ete499b": "abo,afe,azk,kas,kmm,moj,msrb,mdy,nck,nbm,rrn,rtk,sfr1,sle,sns1,sti,szz"
+    },
+    {
+        "ete597": "sti"
+    },
+    {
+        "eth201": "ezk"
+    },
+    {
+        "fin254": "arm,aul,azr,aay,ahu,asy,has,iac,mkbi,msho,mdm,nnh,rqr,rby,smg,snt,sys"
+    },
+    {
+        "fin410": "has,hhq1,mkbi,rqr"
+    },
+    {
+        "fin433": "ahm,hhq1,hmu,mkbi,snt"
+    },
+    {
+        "fin435": "has,hmu,mnl1,mdm,smg"
+    },
+    {
+        "fin440": "asy,fjm,has,mhmn,mzf,sys,tks"
+    },
+    {
+        "fin444": "ahm,mbsr,mzf,tnk"
+    },
+    {
+        "fin455": "mzf"
+    },
+    {
+        "fin464": "ahm,mdm,mhmr,tsa"
+    },
+    {
+        "fin470": "rma"
+    },
+    {
+        "fin480": "tks"
+    },
+    {
+        "fin635": "mdr"
+    },
+    {
+        "fin637": "mnl1"
+    },
+    {
+        "fin639": "shnm"
+    },
+    {
+        "fin642": "rma"
+    },
+    {
+        "fin644": "pkb"
+    },
+    {
+        "fin645": "tnk"
+    },
+    {
+        "fin650": "ghk"
+    },
+    {
+        "geo205": "mjhn,rmr,zru"
+    },
+    {
+        "has501": "asz"
+    },
+    {
+        "has502": "abs3"
+    },
+    {
+        "has503": "sar3"
+    },
+    {
+        "has505": "mbu"
+    },
+    {
+        "has506": "sams"
+    },
+    {
+        "has510": "aqr1"
+    },
+    {
+        "has514": "slkn"
+    },
+    {
+        "has515": "tba"
+    },
+    {
+        "his101": "abp1,asz,mdi1,sln,zrs"
+    },
+    {
+        "his102": "abs3,afrn,ahb,arkn,aym,izn,mbk1,mpn,mzd,rhu,slkn"
+    },
+    {
+        "his103": "afbs,afrn,aym,aqr1,hyk1,hzk,izn,mar2,mbk1,mbu,mgrn,mgrn,mpn,msia,msia,nhs1,sams,sar3,swh1,trh,trz,trh"
+    },
+    {
+        "his203": "hyk1,mbu"
+    },
+    {
+        "his205": "abs3,klm"
+    },
+    {
+        "hrm340": "syi,sqt"
+    },
+    {
+        "hrm360": "alm,tba"
+    },
+    {
+        "hrm370": "sqt,tba"
+    },
+    {
+        "hrm380": "tmd,uhm"
+    },
+    {
+        "hrm450": "mfc"
+    },
+    {
+        "hrm470": "gma,qti"
+    },
+    {
+        "hrm602": "mqt"
+    },
+    {
+        "hrm603": "kda"
+    },
+    {
+        "hrm604": "alm"
+    },
+    {
+        "hrm610": "mfc"
+    },
+    {
+        "hrm631": "ksm"
+    },
+    {
+        "hrm645": "ksm"
+    },
+    {
+        "hrm660": "mfc"
+    },
+    {
+        "inb350": "asmm"
+    },
+    {
+        "inb372": "afmo,ehn,fhz,fdf,fzy,mhz,mbt,mesk,ssa1,syi,sarn,tfz,tmu"
+    },
+    {
+        "inb400": "mei"
+    },
+    {
+        "inb410": "tmu"
+    },
+    {
+        "inb480": "asmm"
+    },
+    {
+        "inb490": "fzy"
+    },
+    {
+        "law101": "ktrs,tas,tir,ttr"
+    },
+    {
+        "law200": "amsn,aso,frl,ibd,tas,tir,ttr"
+    },
+    {
+        "lba104": "mnk,sflm"
+    },
+    {
+        "mat116": "amkn,amkn,avc,abs,ada,avc,bbn,fua,kkar,mhsn,mrhn,mrm2,mtk,mde,nisd,nsr,rek,rkhn,smht,thr"
+    },
+    {
+        "mat120": "alq,chh,fdw,kkar,lizn,lsa,mahn,mhk3,mmhn,mtm,nsr,nsr,omg,rek"
+    },
+    {
+        "mat125": "ahbn,amk,aur,fdw,kkar,kmrn,lsa,mas,mfu,ms1,mshs,nisd,omg,rkhn,taa1,umm"
+    },
+    {
+        "mat130": "akad,akad,bbn,kmrn,mhk3,ms1,mtm,sbw,thr,zhn"
+    },
+    {
+        "mat250": "ata,har,mfu,mla,mshs,png,umm,zhn,zhn"
+    },
+    {
+        "mat350": "akad,ata,har,mth,png,umm"
+    },
+    {
+        "mat361": "ads1,hhs,isr,mdrk,mlm,smht"
+    },
+    {
+        "mat480": "mla"
+    },
+    {
+        "mat483": "mth"
+    },
+    {
+        "mat485": "har"
+    },
+    {
+        "mcj101": "nnk"
+    },
+    {
+        "mcj102": "srua"
+    },
+    {
+        "mcj103": "srua"
+    },
+    {
+        "mcj104": "gnh"
+    },
+    {
+        "mcj104l": "gnh"
+    },
+    {
+        "mcj201": "nni"
+    },
+    {
+        "mcj202": "mhr3"
+    },
+    {
+        "mcj203": "mee"
+    },
+    {
+        "mcj203l": "mee"
+    },
+    {
+        "mcj204": "spl"
+    },
+    {
+        "mcj205": "ztz"
+    },
+    {
+        "mcj302": "ztz"
+    },
+    {
+        "mcj303": "mkar"
+    },
+    {
+        "mcj304": "mhr3"
+    },
+    {
+        "mcj305": "mkar"
+    },
+    {
+        "mcj305l": "mkar"
+    },
+    {
+        "mcj404": "ztz"
+    },
+    {
+        "mcj405": "spl"
+    },
+    {
+        "mcj406": "tba"
+    },
+    {
+        "mcj407": "tba"
+    },
+    {
+        "mcj420": "nni"
+    },
+    {
+        "mcj420l": "nni"
+    },
+    {
+        "mgt212": "eum,fsz,gma,jna,mkr2,mli,qti,rda,sai2,sdhn,srs2,ssh2,shh,tmd,tya,tnn,uth,zbr"
+    },
+    {
+        "mgt314": "bsk,fas,jah,mhcw,mnrd,mpz,mof,sno"
+    },
+    {
+        "mgt321": "ssh2"
+    },
+    {
+        "mgt330": "zmu"
+    },
+    {
+        "mgt351": "alm,fsz,gma,hmm1,mli,syi,shh,tba,tmd,tnn,tua,uhm"
+    },
+    {
+        "mgt360": "mhcw"
+    },
+    {
+        "mgt368": "arsh,amtr,lkk,mao,mra1,sai2,srs2,ssh2,shl,smm4"
+    },
+    {
+        "mgt410": "nzq"
+    },
+    {
+        "mgt460": "zia"
+    },
+    {
+        "mgt470": "rar"
+    },
+    {
+        "mgt489": "jna,mao,qti,sdhn,srs2,ssh2,smm4,zmu,zkj"
+    },
+    {
+        "mgt490": "ztm"
+    },
+    {
+        "mgt603": "nzq"
+    },
+    {
+        "mgt604": "mkr2"
+    },
+    {
+        "mgt607": "shl"
+    },
+    {
+        "mgt670": "jah"
+    },
+    {
+        "mgt680": "adz"
+    },
+    {
+        "mic201": "abe,kna,skk,tqu"
+    },
+    {
+        "mic202": "fha,kfr,nia"
+    },
+    {
+        "mic203": "anhr,apz,kfr"
+    },
+    {
+        "mic206": "fss1,msim,nia"
+    },
+    {
+        "mic207": "msim,tqu"
+    },
+    {
+        "mic307": "jsj,kmrh,tba"
+    },
+    {
+        "mic309": "atp,kmrh"
+    },
+    {
+        "mic311": "mqn"
+    },
+    {
+        "mic314": "abe,mzar,tqu"
+    },
+    {
+        "mic315": "fho,nbb"
+    },
+    {
+        "mic315l": "fho"
+    },
+    {
+        "mic316": "fss1,jsj,tba"
+    },
+    {
+        "mic316l": "fss1,jsj,mqn"
+    },
+    {
+        "mic317": "cqa,fddn"
+    },
+    {
+        "mic317l": "fddn"
+    },
+    {
+        "mic318": "apz,mzar"
+    },
+    {
+        "mic401": "mhsr"
+    },
+    {
+        "mic404": "ksp"
+    },
+    {
+        "mic412": "mto"
+    },
+    {
+        "mic413": "fddn,fss1,mhsr"
+    },
+    {
+        "mic413l": "fho,fss1"
+    },
+    {
+        "mic414": "mto"
+    },
+    {
+        "mic414l": "tqu"
+    },
+    {
+        "mic415": "ksp,mhsr"
+    },
+    {
+        "mic415l": "ksp"
+    },
+    {
+        "mic416": "fddn"
+    },
+    {
+        "mic498": "tba"
+    },
+    {
+        "mis107": "aik,anu,asa1,abkr,ayn,ehn,fss,kms2,mms3,mnc,mrsd,mtad,mbt,mki,nwa,rar,rjm,rzz,strn,tba,uth,yar"
+    },
+    {
+        "mis207": "aik,abkr,ayn,mmb,mtad,mki,nwa,rar,tba,yar"
+    },
+    {
+        "mis210": "mnc"
+    },
+    {
+        "mis310": "kms2"
+    },
+    {
+        "mis320": "mtad"
+    },
+    {
+        "mis410": "rar"
+    },
+    {
+        "mis450": "mnc"
+    },
+    {
+        "mis470": "mnc"
+    },
+    {
+        "mis652": "abkr"
+    },
+    {
+        "mis657": "mnc"
+    },
+    {
+        "mis661": "zkj"
+    },
+    {
+        "mis662": "mdmi"
+    },
+    {
+        "mkt202": "afmo,fch,fhz,fna1,fna1,fss,fzy,ijs,mhhs,mhz,mjj,mm1,mcm,mesk,nym,sne,ssa1,seh,tba,tfz,tmr,ztk"
+    },
+    {
+        "mkt330": "ehn,nym,rda"
+    },
+    {
+        "mkt337": "fna1,fss,mhz,onf,rfe,sne"
+    },
+    {
+        "mkt344": "fch,fdf,ijs,onf,rfe"
+    },
+    {
+        "mkt355": "zbr"
+    },
+    {
+        "mkt382": "mhz,mei,sarn"
+    },
+    {
+        "mkt412": "ijs,ztk"
+    },
+    {
+        "mkt417": "fdf"
+    },
+    {
+        "mkt450": "rfe"
+    },
+    {
+        "mkt460": "mbt,rfe,seh"
+    },
+    {
+        "mkt465": "onf,seh,ztk"
+    },
+    {
+        "mkt470": "dsr,mjj,mne,mtdi,tmr"
+    },
+    {
+        "mkt475": "mtdi"
+    },
+    {
+        "mkt621": "rue"
+    },
+    {
+        "mkt623": "mm1"
+    },
+    {
+        "mkt624": "rda"
+    },
+    {
+        "mkt627": "dsr"
+    },
+    {
+        "mkt628": "knm1"
+    },
+    {
+        "mkt630": "absh"
+    },
+    {
+        "mkt633": "knm1"
+    },
+    {
+        "mkt634": "mjj"
+    },
+    {
+        "mkt636": "mtdi"
+    },
+    {
+        "pad201": "hmy,rzu,sae,srua,sua2"
+    },
+    {
+        "pbh101": "air,bch,htn,mimd,mshn,nzz,rcr,rky,sbah,shmf,snl,syk,sbs,sbs,sgd,som,szp,szp,tba,zzs"
+    },
+    {
+        "pbh101l": "mimd,shmf,snl,syk,som,zzs"
+    },
+    {
+        "pbh105": "shmf,snl,syk"
+    },
+    {
+        "pbh123": "nzz,som,zzs"
+    },
+    {
+        "pbh602": "dhh,dkm,smsr,tba"
+    },
+    {
+        "pbh605": "dhh,htn,mzim"
+    },
+    {
+        "pbh609": "mzim"
+    },
+    {
+        "pbh611": "dkm"
+    },
+    {
+        "pbh631": "kqz,mzim,tba"
+    },
+    {
+        "pbh642": "mimd,mmhk,sbah"
+    },
+    {
+        "pbh644": "smsr"
+    },
+    {
+        "pbh653": "tba"
+    },
+    {
+        "pbh663": "sgd,szp"
+    },
+    {
+        "pbh672": "htn"
+    },
+    {
+        "pbh681": "bch"
+    },
+    {
+        "pbh701": "htn,mzim"
+    },
+    {
+        "pbh704": "zqaa"
+    },
+    {
+        "pbh711": "hmn,isr"
+    },
+    {
+        "pbh712": "sbah,smsr"
+    },
+    {
+        "pbh713": "bch"
+    },
+    {
+        "pbh714": "zzs"
+    },
+    {
+        "pbh742": "dhh,mti"
+    },
+    {
+        "pbh761": "smsr"
+    },
+    {
+        "pbh781": "bch"
+    },
+    {
+        "pbh782": "mimd"
+    },
+    {
+        "pbh805": "bch,dhh,dkm,htn,mzim,sbah,smsr,tba"
+    },
+    {
+        "pbh806": "bch,dhh,dkm,htn,mzim,sbah,smsr,tba"
+    },
+    {
+        "pbh842": "htn,sbah"
+    },
+    {
+        "phi101": "arkn,jsu,mtn4,syn"
+    },
+    {
+        "phi104": "aja,lfr,mmee,mnt,mmee,syn"
+    },
+    {
+        "phi401": "ezk,ibd,mnt,rdn,soj,shl,zkh1,zkh1"
+    },
+    {
+        "phy107": "ak,auz,gmbn,mdt,rri,ruh,rks,scg,slu,zbm"
+    },
+    {
+        "phy107l": "ak,jer,ksd,rri,ruh,rks,slu,zbm"
+    },
+    {
+        "phy108": "ait,auz,hrr,ruh,scg,slu,zbm,zum"
+    },
+    {
+        "phy108l": "ait,hrr,ksd,ruh,scg,slu,zbm,zum"
+    },
+    {
+        "phy240": "zbm"
+    },
+    {
+        "phy350": "auz"
+    },
+    {
+        "pol101": "adl,akhn,hmb,ihb,klm,mbu,mju,mjun,mmh3,mnzz,nhs1,nos,sa2,sae,sua2,syna,tba,tmn,zhd,zim"
+    },
+    {
+        "pol104": "asrn,eum,mmh3"
+    },
+    {
+        "pol202": "ihb,mjun,mnzz"
+    },
+    {
+        "ppg500": "tba"
+    },
+    {
+        "ppg501": "rzk"
+    },
+    {
+        "ppg510": "tba"
+    },
+    {
+        "ppg520": "skt"
+    },
+    {
+        "psy101": "abq1,ark3,amr1,fhk,hsr,iht,mbhn,mro,musr,rasn,srhn"
+    },
+    {
+        "psy101l": "ark3,abq1,amr1,fhk,hsr,mbhn,mro,rasn,srhn"
+    },
+    {
+        "scm310": "fas,mhcw"
+    },
+    {
+        "scm320": "ztm"
+    },
+    {
+        "scm450": "mof,sno"
+    },
+    {
+        "scm601": "adz"
+    },
+    {
+        "scm602": "marn"
+    },
+    {
+        "scm603": "hsi"
+    },
+    {
+        "scm604": "sno"
+    },
+    {
+        "scm605": "tba"
+    },
+    {
+        "scm606": "zia"
+    },
+    {
+        "scm608": "hsi"
+    },
+    {
+        "soc101": "aaa,awo,cmm,fns,izs,maj,mjun,msrz,mzk,nah1,rjs,rsn,sql,srfz,syna,tae,tba,tzf,zim"
+    },
+    {
+        "soc103": "maj"
+    },
+    {
+        "soc201": "kta,nah1"
+    },
+    {
+        "soc205": "sql"
+    },
+    {
+        "tnm201": "hfi,mee,mhr3,mkar,nni,nnk,spl,tba"
+    },
+    {
+        "wms201": "kta,nje,rsn,saby"
+    }
+]
