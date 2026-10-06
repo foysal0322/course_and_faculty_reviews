@@ -1,0 +1,18 @@
+{
+  "cse495a": {
+    "sns1": [
+      {
+        "review": "465A- SNS1 sir one of the best faculty. Introduction to robotics sir top notch poray. Open book exam. No quiz, 3/4 ta Assignment submit korte hy.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Tasnuba Islam Tiha Faiyad Hossain simply the basics or it may seem an overview of robotics ,,,were being taught here,, like motion planning, open & closed loop controller etc etc,,also ,,,u'll have fun while doing this course, also sir's really helpful, he is a gem,,, I'll suggest if u're interested in robotics or aerospace engineering, then do take this one,, good luck",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "The course introduces basic robotics concepts starting with motion models like the unicycle and differential drive, explaining how robots move and are controlled using open-loop and closed-loop systems( sir also gave simulation assignments) . Besides that motion planning techniques such as PRM, RRT, and A* algorithms are covered which help robots navigate around obstacles. Lyapunov’s method is taught to ensure the robot’s stability. The course also explains camera projection models such as the thin lens , perspective projection,\nfor calibrating robot vision. Image processing techniques like smoothing and edge detection are introduced to help robots interpret visual data. SLAM is covered to show how robots build maps and locate themselves in unknown environments. To handle noisy sensor data, methods like line fitting using split-and-merge and RANSAC are taught, allowing robots to extract reliable information and correct errors. These tools form the foundation of practical robot perception and control. It was a very interesting and fun course. Although a single semester isn't enough to learn about robotics. On the other hand, Sns1 sir is very accomplished ,friendly, helpful and humble person. It was a great learning experience!",
+        "rating": "Outstanding"
+      }
+    ]
+  }
+}

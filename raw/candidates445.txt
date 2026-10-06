@@ -1,0 +1,1004 @@
+=== #0 POST (0 comments) ===
+Can anyone suggest how to do well in CSE373 and CSE445 and both math courses, especially under these faculty members? / - CSE373 – OISD / - CSE445 – SFM1 / - MAT350 – AKAD… See more
+
+=== #1 POST (4 comments) ===
+Honest Review Please! / How to do well under these faculties.. / CSE445- MSRb / CSE425- MDAR / See more
+   - Bump
+   - Rkz sir er jonno just Graph memories korba. Text hubuhub lagbe nah. But graph must. Prottek question eh graph dilei marks, jodio content jotoi choto lekho. Sir Last ber 10 root x curve korse.
+   - Kawser Sikder Graph onek thake na?
+   - Ssh1 mam learning grading 2tar jonnoi bhalo, unar class e attentive thakle you'll understand the topics easily and poranor moddhe thekei qs ashe, curve o koren
+
+=== #2 POST (5 comments) ===
+How is Rtk for cse445?
+   - Same section / So,I am looking forward to the reviews.
+   - F
+   - F
+   - .
+   - Rtk sir
+
+=== #3 POST (3 comments) ===
+CSE273-- SMSL / CSE299-- MSRB / CSE331-- ACQ / CSE445-- MAQM / PBH101-- ZZS… See more
+   - Bhaiya, apnar course list dekhe mone hocche apni CSE program student. Tahole pbh101 ki open elective hishabe count hobe?
+   - Dewan Najmus Saqib yes
+   - MSRB good
+
+=== #4 POST (14 comments) ===
+How to do well under these faculties? / CSE445 - SFR1 / CSE273 - SMSL / See more
+   - F
+   - All F
+   - Memorization level high hoile Rkz possible
+   - Mat350 png sir er class follow kore class e ja bole diben and koraben sob practice korlei exam er preparation hoye jay / EEE452 rkz sir quiz e sob graph den onek memories korte hoy , mid final e theoretically questions den, sir er suggestion question set + slide sob porte hobe
+   - Sharmin Akter Badhon thank you
+   - Sfr1 onek bhalo porai / But if you want a peaceful semester i wouldn't recommend onek pera dibe and if you can't keep up you'll do bad and sir has very high expectations he's hard to please / JSA RTK MAQM SMF1 better for good grade
+   - SparklyFish5628 kirokom pera dibe & bhalo grade Pete ki korte hobe ? Change kora difficult but will try.
+   - Onek assignments dei and ek ek ta assignment is very tough / Project o nei na / You gotta work hard study after everyclass and definitely attend every class
+   - Er moddhe quiz final mid tou asei ek ek ta onek marks 20,50 erokom / Tar upor assignments er report / Report e 100% format na maintain korte parle onek marks kaate / And you have to write the reports in LaTeX
+   - You need to focus on graph only if you want to do well under RKZ.
+   - Bro mat350 section 6 toh ATA, not png
+   - GoldGrapefruit1786 I know I changed my section to 11. Ss ta age newa just.
+   - How is NvA?
+   - https://youtube.com/playlist... / found this playlist might be helpful to you
+
+=== #5 POST (5 comments) ===
+Review please : / CSE445- Sfm1 / CSE331- ACQ / CHE101 (Lab) - MH1 / PHY108 (Lab) - HrR
+   - Bump
+   - HrR / Easy going and curve o koray valo. Just attend lab regularly.
+   - Mh1 best for che101L
+   - Sumaya Suimee details for MH1
+   - ACQ is the most easygoing faculty for 331,just follow his suggestions which includes and you are good to go. But beware of his lab instructor as she tends to give the students a hard time upto midterm but after that she becomes easygoing. Sir is gracious in marking as he gives a lot of partial marks and curves around 8-10 marks at the end. There is no pressure regarding the project too,the lab instructor is easygoing regarding the hardware labs and hardware project.
+
+=== #6 POST (6 comments) ===
+Who's the best faculty for CSE445? / (Only for Grading)
+   - F
+   - F
+   - Avoid sfr1 for 445 if you want a peaceful semester / Onek pera dae / Assignments gulo extremely hard / SFM1 RTK best for learning grading both
+   - SparklyFish5628 Thank you.
+   - but he's really good at teaching
+   - SparklyFish5628 how is maqm?
+
+=== #7 POST (4 comments) ===
+Has anyone done cse445 under MAQM last semester?
+   - Moontashir Azim
+   - Quazi Sadman eyy sem e kortesi bhai :))
+   - post o tui disos
+   - Moontashir Azim how was he? Any project?
+
+=== #8 POST (3 comments) ===
+How will be MSRB for CSE445?
+   - Safayet Hossain Alif
+   - joss! / sir ke onek strict mone hobe first e but exam e temon guard den na
+   - Easy going and good for grading I can say
+
+=== #9 POST (9 comments) ===
+Hello everyone, / I would like to request faculty reviews for the following courses : / CSE411 – RIS / CSE440– MdSH / See more
+   - .
+   - Tamanna Mou Could you please tell me Mdsh Sir’s office hours?
+   - PeacefulHedgehog5471 Office hours: 2:30PM-3:30PM (RA)
+   - Bump
+   - ...
+   - ..
+   - Bump
+   - F
+   - How did 499A go for you? Could you please explain msrb sir's method for conducting 499, or what he expects?
+
+=== #10 POST (18 comments) ===
+Help Post !  / I am a CSE student / We have to take 3 elective courses. / I am thinking of doing CSE273(Algorithm and computation Trail).… See more
+   - If you are self content and able to learn by yourself then you can cover 445 by yourself, following machine learning specialisation by andrewng, and 465, 495b are great in that case. Else, do 445 and 465.
+   - I also have the same question. Can Cse273 be taken as major trail elective course? I was planning on taking it as well.
+   - F
+   - Open elective faka thakle 3 tai krte paren.
+   - Ridwan Rafi open elective kore felsi
+   - Sharmin Aziz 445 r basic clear thakle, go for 465 & 495B / clear na thakle, go for 445 & 468 (you'll have to learn the basics of deep learning: ANN, CNN, Transformers etc by yourself before doing 468), or 445 & 465, 445 & 495B (if you want to work on LLMs).
+   - Ridwan Rafi vaia ami open elective hishebe pbh101 korechi. / Major e 445,440 korechi. / ami ki 273 korte parbo trail hishebe? / naki 411/438 korte hobe.kindly jodi authentic information diten.
+   - SharingThoughtsFr Hae. Krte prbn. / 273 different trail (not AI). So, oita apni mandatory 2nd trail hishebe nite prbn.
+   - 445,465
+   - If Azk sir is taking CSR495B, just avoid that course totally, lol. / Take CSE445, CSE465, and CSE273.
+   - Muhammad Mutasim Farhan rtk sir might be taking 495b soon.
+   - Muhammad Mutasim Farhan why avoid azk? Is his grading bad?
+   - Take 445 first and then 465. As 465 is the natural extension of 445 and you will have a natural intuition of why we need DL (465). In my opinion, these two courses are well built for knowledge about ML and DL concepts. But one small piece of advice, regardless of the faculty, do not solely depend on slides, try to gather knowledge from YouTube or the internet. Good luck.
+   - 445,465 from AI / 273 from algorithm.. / 495B in open elective
+   - Ibrahim Sani open elective kore felsilam vaiya, credit baranor jonno / Ejonnoi confused
+   - Sharmin Aziz apu apni open elective konta korechilen?
+   - Take CSE445, CSE465, and CSE273.
+   - Sarin Sadakat
+
+=== #12 POST (9 comments) ===
+Review pls: / CSE445 - sfm1 / CSE465 - nbM
+   - sfm1 sheraaa
+   - Faheema Shaheed Tamanna Apu can you please give detailed review of sfm1 sir? Ki type project assign kore and question types kemon?
+   - 465 drop
+   - bhai bhalo na. drop diye den. ami niye nei
+   - Sfm1 best for learning
+   - In class, Nbm sir will talk about sfm1 sir more than KL divergence..XD
+   - .
+   - Both goats
+   - Goated
+
+=== #13 POST (45 comments) ===
+Choose one: / CSE327 - NbM vs AFE / CSE373 - ARa2 vs STI / CSE331 - MOJ vs RQN vs ACQ / CSE445 - AZK vs Rtk vs MAQM vs MSRb / See more
+   - 327-nbm / 373-ara2 / 445-rtk
+   - Sabbir Ahmed Sakil how is ara2? may I know?
+   - F
+   - 331 ACQ
+   - Sanjida Khanom Meem can you give details please?
+   - 327 nbm anyday
+   - 331 RQN
+   - Shaira Tahsin pls ami seat pabona
+   - Nh Ashik  /  sorry
+   - nite parini brother
+   - Fahmid Shahriar Alvee amio na bro
+   - Shaira Tahsin apu RQN sir ki kono project dey?
+   - ExcitingCaterpillar4429 lab e ekta hardware project thake
+   - 445 msrb
+   - Samiyeel Alim how is MSRb for CSE445. Review plz
+   - Rokib Hasan Oli good for learning / Great for grading
+   - Nbm for 327 will be the best... syllabus is short and he will mainly focus on the project...
+   - Nithila Mahzabin does Nbm sir give freedom to work with any framework and language?
+   - Afe / Sti / Acq / Rtk / Muo
+   - Iftikhar Ahmed how is acq review plz
+   - 327 mrh1 / 373 ekd / 331 acq / 299 nlh / eigula bade onnogula nile mere felbo
+   - right now ja situation choltese kono ekta section khali pailei milad dibo
+   - adu bhai
+   - How is acq??
+   - chk inbx.
+   - 327-Nbm
+   - kichui to pelam na bondhu
+   - Sougo Okita can you please share the details what kind of project sir preferred ?
+   - Israt Jahan Ina unique, like very unique unlike gibberish management system / Very user friendly UI / And yes, Advanced
+   - Sougo Okita advanced like?and sir ki fixed project diye dibe ?
+   - 445 - Rtk
+   - 299- MLE
+   - Pr101- fsa
+   - bestt,, but 10rootx curve koreo pass korano jayna
+   - mkt107- introduction to content HSa best
+   - Humayra Ahmed Samia ami korsi ai faculty er kase amar grade er 12 ta bajay dise
+   - Bhai koyta paisen?
+   - Mahabub Kowsar just ekta course
+   - Kire bhai cse331 kon section / ?
+   - pailam na bhai
+   - Cse327 - RSY / Cse373 - STI / CSE331 - MAQm / CSE445 - JSA or MAQm / CSE299 - MUO or NLH
+   - Asif Anik does sti mam curve?
+   - ExcitingSunflower5630 not a single number tarupor mam ta mon moto grade dey
+   - BakingBrainmadam nijer mon moto grade dey not amdr
+   - Asif Anik can you give details about rsy please
+
+=== #14 POST (17 comments) ===
+How to get A/ A- under these faculties? Need detailed review. / CSE323- RMz1 / CSE445- AZK / EEE452- Rkz / ENG111- NSj / See more
+   - Bhaiya if it's okay with you, can you tell me how many credits you completed?
+   - .
+   - .
+   - .
+   - Pol same section
+   - Pol quiz onek hectic hbe / Definitions quiz e dey literally
+   - Adnan Rahman noted, thanks. Any advice?
+   - Nsj mam is very strict, about rules and everything else
+   - LoyalSeal9637 please elaborate
+   - Raeen Rizuan she is strict about the attendance and not being late at class, the rules she tells you is the only way how you can do well so follow them thoroughly, also all raw marks from her in the grade submission no curve or anything (but from the last semester that's the nsu policy anyway). But you can also learn a lot from her.
+   - .
+   - .
+   - .
+   - NSj worst
+   - Nuzhat Nawar keno?
+   - Bro How was Azk for CSE445? Can you give a review?
+   - Azk review
+
+=== #15 POST (26 comments) ===
+Need detailed review  / CSE331 - Mho1 / CSE445 - Hsm / CSE425 - SSI
+   - Ssi - assignment theke ques koren . Cls follow koiren and you’re good to go
+   - Sinthia Ahmed Rachona do you have all the materials of him?
+   - Sinthia Ahmed Rachona Apu can u give a detailed review please?
+   - He is very passionate about his teaching. He used to tell us - tomra bhujteso na eita etoo interesting akta course . Besides he’s very friendly. His questions aren’t so tricky , easy . Quiz, mid questions came from assignment .2/3 questions were from Java basic (related to slides) By attending regular classes you will get a decent grade cz he discussed questions in classes . He also told - from next semester he is going to give you guys projects so that you can enjoy those study materials and learn deeply as possible
+   - Sinthia Ahmed Rachona how is he for teaching and does he finish the entire syllabus within time?
+   - Jeta ses korte na pare oita include koren na final syllabus e
+   - Sinthia Ahmed Rachona Apu / SSI question difficulty, grading and curving kemon ?
+   - Ques easy , I don’t know curve kore naki bt partial marking kore
+   - Sinthia Ahmed Rachona apu sir koyta assignment den and what about the final question?
+   - Sinthia Ahmed Rachona Apu ssi ki 425 a kono project dey?
+   - Amdr belay dey ni
+   - MHo1 bestttt for dropping
+   - Rehnaf Leon why?
+   - Mho1 drop / Ssi & hsm average
+   - Hsm ,he is not fit for cse445,465
+   - I can understand you didn’t find any other option but you will regret doing an important course with Hsm. Drop it!
+   - Sourav Roy dropped
+   - Sourav Roy why bro?can you elaborate bit?
+   - Rayed Riasat
+   - MHo1 is easy if you pay attention in class. He explains clearly and his questions mostly come from lectures and notes. Just stay focused and you’ll do well.
+   - SSI don't curve, conceptual theory question korbe, sekhane marks jabe
+   - Nusaiba Yaana did 323 under him apu
+   - Nowshin Yesmin Apu check inbox please
+   - Nowshin Yesmin if you are okay with project, continue but he said that he will be strict from this semester
+   - how is Ssi pls review.pls
+   - SSI kmn chilo?
+
+=== #16 POST (3 comments) ===
+Cse445 / Maqm/sfm1/Rtk? / Which faculty is best for learning and grading? / TIA
+   - f
+   - Sfm1/ Rtk.
+   - Tanveer Ahmed vaiya rtk sir er details blte parben kindly
+
+=== #17 POST (19 comments) ===
+Honest review please: / CSE323-mua3 / CSE425-msdl / CSE445-maqm / EEE452-rkz / PHI104-mmee
+   - Vai cse323 and cse425 which section?
+   - Kasas 323 -sec05,425- sec 08
+   - Hossain Ahammed same section
+   - Which one
+   - Hossain Ahammed in both sec
+   - EEE452 kon section brother?
+   - Ahmed Mahin sec 01
+   - Hossain Ahammed section 2 te Aisha poro
+   - Ahmed Mahin sec02 timing?
+   - Hossain Ahammed ST 11:20 am
+   - Ahmed Mahin sec03 lagbe
+   - .
+   - Hossain Ahammed kindly inbox check koiren
+   - Hossain Ahammed vai how was msdl?
+   - Mridha Fahad Hossain easy going but you will not get the grade you deserve
+   - how was mua3?
+   - How was maqm?
+   - how was mua3 and rkz?
+   - How was mua3?
+
+=== #19 POST (55 comments) ===
+How to do well under these faculties...... / CSE273-MMk1 / CSE327-NbM… See more
+   - .
+   - Umme Jahara Simki apu check inbox
+   - .
+   - Gdd best
+   - shob best dost
+   - Nawsheen Sadia ami to ekta pore gelam azk er kache
+   - uddhar kor nijere bhai
+   - A+ confirm
+   - Cfbr
+   - .
+   - NbM section koto?
+   - Meherin Chowdhury 1
+   - .
+   - .
+   - .
+   - .
+   - .
+   - Sob A apu
+   - Nowshin Yesmin same to you apu
+   - Shob best
+   - Gdd best
+   - Gdd is good... / Unar mid ar final er syllabus ektu lengthy hoy... eta cover korte pain hoye jay ... but bhalo marks dey... curve o kore seshe...
+   - 273 peye geso..luckyy
+   - kopal bhai re bhai shob best
+   - 327 section koto?
+   - Sabbir Ahmed Sakil 1
+   - .
+   - .
+   - Bump
+   - Bump
+   - GDD best
+   - .
+   - .
+   - .
+   - .
+   - .
+   - .
+   - .
+   - .
+   - shikhte parba onk kisu cz nbm and sfm1 duitai top level er faculty. but grade er asha na rakhai valo.
+   - Syeed Mahmud kivabe valo kora jay?
+   - .
+   - How to do well under these faculties......
+   - Big fan apuuu big fan
+   - mmk1 sir seraa
+   - Sajid Hasan how to do well under him? And can you give a detailed review please?
+   - Umme Jahara Simki mmk1 sir is one of the most humble and student friendly teacher in nsu / and also his teaching quality really well and makes concepts easy to undrstand. So don't miss his classes. / Sir takes two quizes but counts the best one and midterms are quite easier if you follow his lectures properly. / Final question was a little bit tricky but if u understand the concept clearly then it's really easier for you. / Class recordings are shared which is helpful for revision. / in terms of grading he gives huge partial marks and follows the 10✓x curving. / so getting an A or A- is very easier with some effort.
+   - Mmk1 best
+   - .
+   - .
+   - .
+   - A+ confirm (2)
+   - Tomar review lage naki
+   - Albi Habiba lage lage
+   - Umme Jahara Simki check inbox please
+
+=== #21 POST (26 comments) ===
+Can anyone give me detailed review of the following courses ?  / CSE440 CSE445 CSE465 CSE495A CSE495B
+   - .
+   - .
+   - .
+   - .
+   - .
+   - Following
+   - .
+   - Following
+   - .
+   - f
+   - .
+   - .
+   - F
+   - CSE440: Artificial Intelligence / This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA. / I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts. / The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+   - CSE445: Machine Learning / This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important. / I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks. / The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+   - Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+   - Aman Fahim For ML Technical Aspect: Basic Python programming & libraries (NumPy, Pandas, Matplotlib), familiarity with Google Colab/Kaggle, and LaTeX for report writing (optional). / Mathematics Review: Linear Algebra (vectors, matrices, dot products), Probability & Statistics (distributions, PMF, PDF, mean, variance), and Calculus (differentiation, chain rule, gradients).
+   - Saif Mohammed Thanks a lot for your kind advice!
+   - CSE465: Pattern Recognition & Neural Network / This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background. / I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch. / The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+   - Saif Mohammed this is the most detailed and well-written review of this course I have seen, thank you so much for helping people out!
+   - Nawsheen Sadia Thanks!
+   - To know about CSE495A you can inbox me.
+   - Mehedi Hasan Can you please check your inbox Bhai ?
+   - Cse495A: Introduction to robotics / Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot. / You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+   - .
+   - .
+
+=== #22 POST (17 comments) ===
+Faculty review: Dr. Sifat Momen(Sfm1) /  CSE445: Machine learning  /  CSE465: Pattern recognition … See more
+   - Sfm1 GOAT
+   - Anindita Tabassum
+   - Sir is really good in 373 also
+   - Sfm1
+   - He is GOAT
+   - Sir valo
+   - Can I inbox you please?
+   - Can you inbox please!
+   - this semester, for cse445, he did 10rootx curve
+   - Sir curves a lot. I bummed his finals he still gave me a b plus.
+   - Rn Ahmed Thakur can i inbox? Plz
+   - Anisa Akter Meem
+   - Boss for a reason
+   - Can i inbox you plz?
+   - Tasnuba Islam Tiha apu kindly apnar sathe Inbox kotha bola jabe?
+   - Tasnuba Islam Tiha , sir koyjon teamate allow kore in a group ?
+   - He is good
+
+=== #23 POST (23 comments) ===
+Hi everyone! /  / Could you please suggest the best faculties (both for learning & grading) for the following courses? / ENG115 / EEE154 / CSE323 / CSE425 / CSE445 / Your suggestions would mean a lot!
+   - Eee154 sfa sir ( onshape a 3d drawing korabe course)
+   - f
+   - 323 - afe
+   - f
+   - Cse445 sfm1 sir !
+   - CSE445 - sfm1, Machine learning wouldn't be the same without him, hands down / CSE323 - smu1
+   - Cse445- sfm1, rtk
+   - EEE154- SFA sir (Onek Easy Going and I got A from him) / CSE323-SMU1 sir / CSE445-SFM1 sir
+   - 445 sfm1 sfr1 / 425 msk1 ezm
+   - 425 e avoid Fsi
+   - Abdullah Al Afique why ? oneke bollo fsi valo. Can u give me the reason to avoid him ?
+   - CSE323 RMZ1 / CSE445 SvA (as baki shbar section advising shuru hoar 1hr er mddhe fill up hoye jay, / To do well under her you have to fully understand the theory and also do very well in the project as around 40% marks will be alloted here, as for grading she curves a lot)
+   - F
+   - CSE445 - SfR1 (If you want to learn machine learning in depth)
+   - cse445 itn nite paren
+   - 323 avoid Nva (maybe sec 1 & 2)
+   - 323- SMU1 / 445-RTK / 425-MSK1, avoid FSI
+   - Mueed Arian why avoid fsi ?
+   - Sakib Ahmed Shishir ken tomar ki fsi er kachei korte hobe?
+   - Sakib Ahmed Shishir koro taile
+   - Sakib Ahmed Shishir sir onek easygoing and chill chilo amader somoy unlike his reviews but course tai ja korai, a lot of the things are outdated. akta google drive folder a sob materials thake which too Allah jane last kobe update korse uni as they are very messy, hard to get through, so it's best if you follow the book. Ar class eow bibhinno website theke porabe lol, better if you go with someone who'll go through the topic of the course thoroughly. sir er abar mood swing o korte pare jekuno somoy xD
+   - Farhana Rahman na onekei boltese valo tai jante mon chailo
+   - Cse445 MLD
+
+=== #24 POST (28 comments) ===
+CSE445-RTK /  / Review please(uni kmn project den actually?)
+   - Valo bujhai onek.class performance check kore.ar project mon moto but reasearch er jonno korlei better.grading o valo question slide onujayi
+   - Shahed bhaiya paper related project e help krben uni?
+   - Ibrahim Sani fully help korbe jevabe bolse sherokom likhle paper type hoye jai
+   - Shahed accha bhaiya thank you so much
+   - Drop dte chaile bolen
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Shaii shaii
+   - Bhaiya sec 1 er sathe exchange korben??
+   - Muhammad Saad ok...krbo
+   - Jara beshi kotha bole oderke decurve kore
+   - Peusha Tabassum tmi krsw nki rtk er kache?
+   - কেউ রিভিউ দিবেনা। / RTK স্যার পেয়ে সেন্টি ইমোজি দেওয়া আইনত দন্ডনীয় অপরাধ।
+   - মোবাশ্বের উদ্দিন জয় bhai rtk r sfm1 theke konta vlo hbe for 445?
+   - Ibrahim Sani Answer is sent to your inbox.
+   - Ibrahim Sani what’s the answer for this, bhaiya?
+   - You will get cse445 sec 1, I will get sec 2 ?? anyone ??
+   - As Shejan sfm1 thekeo ki rtk vlo nki bhai?
+   - Ibrahim Sani nh same e
+   - RTK sir er review lage na
+   - Rtk best / Unar review lage na
+   - RTK worst, drop de quick
+   - He is good for CSE445.
+   - Easy
+   - Best decision of my life
+   - Ibrahim Sani brother can you give a detailed review on him?
+
+=== #25 POST (22 comments) ===
+HOW IS RTK , SFR1 , MAQM FOR CSE445? / - kmn question koren, kmn poran, marks kmn dey, Mid/final er question kmn, Project related information, grade kmn dey, curve koren ki na / thanks
+   - Following
+   - Rtk sir is really the best for learning and grading. He provides sample questions and usually gives questions from there for mid and final. Project is 30% of the grade. He guides everyone on what to do for the project throughout the semester. I think he curved one grade, though I'm not sure as he didn't reveal the project marks.
+   - Anika Zabeen Zayeema thank you very much
+   - Sfm1 ne
+   - Maisha Rahman unar bepar..e already jani tai ar review chai ni dst. In sha Allah unake neyar iccha ache
+   - F
+   - Don't go for maqm
+   - Tamim Haque I would really appreciate it if you could elaborate on why you dislike maqm for cse445. Please do provide a small review. thank you
+   - Tamim Haque details please
+   - F
+   - If you value learning over grading, the best choice would be SfR1 Sir. / Reasons: / 1. Most of the faculties do not update their Machine Learning Syllabus and do not go in-depth. Imagine you are studying a Machine Learning course and have no idea about Neural Networks. Sounds absurd, right? SfR1 Sir's syllabus is very comprehensive and up-to-date. He even spends one class covering traditional Machine Learning Techniques (the topics most faculties spend two-thirds of a semester on). / 2. Unlike all faculties, he doesn't give a project at the end of the semester. Rather, he gives 8-9 assignments (Code + Report). The assignments are group-based and require solid knowledge of the topic (and Python) to complete. The report must be written in LaTeX (he will share the format). Although knowledge of Python beforehand will be beneficial, it's not required. You will be given sufficient time to complete the assignments so you can learn and implement within that duration. So, what's the benefit of this approach compared to a project? The answer is the learning experience. You will complete a topic theoretically and then practically implement that knowledge to solidify your understanding. The report writing experience familiarizes you with LaTeX and helps you grasp the methods of writing a research paper. / 3. This course under SfR1 Sir would be highly valuable if you wish to do CSE499 and CSE498R with an AI topic. / Lastly, sir takes class position into consideration while grading. You will get an A if you are in the top 10% of the class.
+   - Muhammad Mutasim Farhan Thank you so very much. / I really appreciate it
+   - Muhammad Mutasim Farhan sadly sir doesnt take 445 anymore, i was the last batch he took, he now took a master’s course,499, 215 right after our one.
+   - Tausif Mushtaque He is taking CSE445 this time (He told me recently).
+   - Muhammad Mutasim Farhan Kings back then
+   - Can you tell me if I miss an exam he takes a special exam and viva, what would be in that exam and in viva what will he ask?
+   - RTk sir really best for learning and grading. / Just sir er class e attentive thakben taholei hobe. And regular class e jaben
+   - Suraiya Akter Sammi thank you very much
+   - F
+   - F
+   - RTK sir's classes are interactive and fun. He's not too strict, not too easy going either, just the perfect kind of teacher one needs.
+   - Shajedul Hassan Rahin thank you
+
+=== #26 POST (66 comments) ===
+How to do better and get a fair grade under these faculties. / CSE331-MH01… See more
+   - তাই তো বলি, কোর্স পাই না কেন
+   - Vhai kindly inbox e ashen
+   - Tai to boli course pai na kn
+   - .
+   - তাই তো বলি, কোর্স পাই না কেন /  (2)
+   - Bhai onno trail theke o kisu niten shob nisen ek trail theke
+   - Since students were not informed in advance about the credit restriction while enrolling in 499A, we will allow them to take three regular courses along with 499A (totaling 10.5 credits) for Summer 2025 to ensure a smooth transition. / how come you took 18 credit ?
+   - Nazmus Sakib Nihal he didn’t take 499A.
+   - Nazmus Sakib Nihal 499 koi paas
+   - Mridha Fahad Hossain oh eta dekhi 495A
+   - Nazmus Sakib Nihal gonokhoma chaa
+   - Mridha Fahad Hossain
+   - Nazmus Sakib Nihal bhaiya next semester theke koto credit kore nite dibe?
+   - 445- MSRB sir semester er shuru te akta handnote diye dey, ota korlei motamoti sbh exam e valo kora possible, class eo khub valo poray sir. Class attend korle exam valo hobei! / 465A- SNS1 sir one of the best faculty. Introduction to robotics sir top notch poray. Open book exam. No quiz, 3/4 ta Assignment submit korte hy.
+   - Rashedul Islam vaiya can u plz check inbox
+   - 440, 445, 465, 495 all are from the AI trail. I hope you know you have to do 1 course from a different trail and exclude 2 of AI courses while doing degree analysis.
+   - Abir Al Mahdi i know sir.
+   - MLD onek hard question kore. Chokhe tara dekhba. Q pawar por. / Sfm1 sir joss both for grading + learning. But mark tula hard bcz sir partial kono mark dei na even you get 0 in final or mid dont care. But curve kore dei.
+   - এই সিনিয়রগুলাই র‍্যাগ দিচ্ছে
+   - Eijonno amra course paina! ;(
+   - Shehab Ahammed
+   - Apnr courses dekhar por amar kemne 5 ta course korbo oitar anxiety chole gese / Thanks
+   - তাই তো বলি, কোর্স পাই না কেন /  (3)
+   - MLD onak hard question kore. / uner kache course korte chaile akhon e course ta bashae nije theke akhon e practice korte hobe.  /  uner porano kicu bujha jai na. / ar uner curve holo = জুতা মেরে গুরু দান করার মতো
+   - 440,445,465 in same semester!!!
+   - Accha cse te open elective ki last semester ei nite hoy? 2nd or 3rd sem e newa jay na? Ami to cse er ar kono course e seat pai nei. Ejonno credit baranor jonno open elective nisi but eta ki only last sem ei nite hobe? Naki 3rd sem eo newa jay?
+   - Abira S Shefa jekono semester e nite parben.
+   - nice try diddy
+   - Awesome!
+   - 440 same section
+   - Drop MLD
+   - তাই তো বলি, কোর্স পাই না কেন / (3)
+   - Can CSE students do PBH101? AFAIK this course isnt in our curriculum even in GED section
+   - Mohammed Israq open elective bhai.
+   - Shawal Kabir Chy
+   - Miraz Ihsan Rafi এই জন্যই সিট নাই।
+   - Shawal Kabir Chy thakbeo na bhai.
+   - Etogula AI related course nisen which is extremely extra. Apnr korai lagbe tin ta, tar modhe abr arekta different trail er hoite hobe.
+   - Md. Towhidul Islam Rahat jantam na
+   - Best of luck:)
+   - Pbh ase amader?
+   - Sajim Salehinopenelect I assume
+   - এই সেকশন গুলা দেখি আর ভাবি সান্ডা গুলা এক্কেরে নড়েও না চড়েও না কি আজব এসব সান্ডা।
+   - Bhai ,2 ta course aro nen Ami drop ditesi Amar duita please add koren faculty valo bhai
+   - Md Kaif Afran sure bhai inbox please.
+   - তাই তো বলি, কোর্স পাই না কেন /  (5)
+   - hey bro, since you have taken 18cr this semester, assuming you have already done like 15/16 a semester before. so I wanted to know how hard is it to manage 16credit in one semester (trimester)? I think I can manage but the experienced one could know it better.
+   - Brwnlil Monke next semester break e bolbo ne bhai.very long experience.
+   - Mubtasim Fuad Arnob okay bro, will text you next sembreak
+   - ভাই এর কি বিয়ে শাদীর তাড়া আছে??
+   - তুই আসলেই এতগুলা করবি?
+   - Asif Haider Rafi bhai klk graduation kore felbe
+   - Asif Haider Rafi mama inbox.
+   - Eco 101 er jonnow SaKn kmn faculty?
+   - MLD easy going, mid final ektu hard hoi but easily A pawa jai, make sure to attend all classes, every quiz er ag e akta classwork nibe, oita jodi korte paro tahole +3 marks in quiz
+   - Ahnaf Abed Sayor I switched to MSRB Sir.
+   - Ahnaf Abed Sayor bhaiya can you give a detailed explanation on how to get A under MLD
+   - Faiza Ibnat just go through his slides. Shob slide thekei Ashe questions. Very easy going and easily A paba
+   - MTN wants to know your location.
+   - Bhaiya pbh ki free elective?
+   - aro 2 ta course niten
+   - Bless you.
+   - Oma go ma / Kemne bhai
+   - My guy 445 465 440 495 how did you do everything from 1 trail
+   - Bhaiya sns1 er class er room number ta kindly ektu bolen
+   - Bhaiya did you complete 465 under sfm1?
+
+=== #27 POST (20 comments) ===
+#Need_suggestions / I initially planned to take CSE440 and CSE445 from the AI trail….. and since my priority is maintaining a good grade I chose CSE440 over CSE465. However… now I am considering switching from CSE440 to CSE495A (Introduction to Robotics). / I am wondering….. would this be a good decision? Should I go for it? (Can any one provide me the 495A outline )… See more
+   - Bump
+   - Hasibul Hasan Risat
+   - Bump
+   - Hasibul Hasan Risat
+   - Bump
+   - Hasibul Hasan Risat
+   - Bump
+   - Hasibul Hasan Risat
+   - i would say no.. doing 445 nd 495B , make more sense.
+   - As Shejan 495B NLP one ?
+   - Tanvir Rifat yee
+   - As Shejan umm got it
+   - Ashrafur Rahman Abid bhai ektu details dia jaio toa ei papi re 495A er
+   - Go for 445 and 495B; 440 and 495A is not worth 19.5K
+   - Muhammad Aminul Islam Labib ahh but at this moment 440 495A option left baki kono tay section pai ni this is my last sem
+   - Tanvir Rifat I see - welp I guess nothing else to do;) Congrats on your graduation!
+   - if you prioritize grades, then do 440 / but I would suggest you do 445 and 495B or 465 / 495A is not that easy to get A or A- / or you can go for 440 and 495A, average difficulty overall
+   - Ashrafur Rahman Abid 440 and 495A same difficulty? 445 must will do it but confused about 440 or 495A
+   - Tanvir Rifat 440 easier to get good grades
+   - CSE445 and CSE495A,B
+
+=== #28 POST (11 comments) ===
+Please Honest review In terms of grading / Cse331.1 ---MAQM / CSE331.1L--MAQM / CSE445.10 --… See more
+   - Jitsos
+   - vai jitaen apni sob
+   - Learning ar jonno nibi faculty..r khujtecos greading
+   - Sabbir Rahman nsu theke kisu shikhte parchila?
+   - Sheikh Md Kayes Ami to course e Pai na
+   - Sob to YouTube dekhe shikhso
+   - Sheikh Md Kayes YouTube university
+   - 445 same section
+   - bro 331 same section
+   - Vai cse 331 er section exchange korben? Time issue amr.. 6 din e class pore jsce (amr section 12- Mua3)
+   - 331 maqm kirokom chilo?
+
+=== #29 POST (12 comments) ===
+Hello guys, I need some advice, I'm from the ECE department.  / I took CSE445 this semester, and honestly speaking I don't feel like continuing the AI trail. I need to know if the networks trail (CSE438, CSE482) or the VLSI trail (CSE413, CSE435) have any decent career opportunities or learning possibilities going forward.  / Moreover, I intend to take CSE499A next semester as well. So, who would be good faculties to do the course under … See more
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Cfbr
+   - Cfbr
+   - Cfbr
+   - Cfbr
+   - Network trail north South e amr kase khub ekta valo mne hoi nai. Ami 445 krsi ebr 465 are 438 krtesi. 438 onk ta concept bujha + memorizing + lab o ase. Better baire extra course krn. / 499A maximum faculty e AI nia kaj korai
+   - Abrar Faiyaz 438 ki mandatory?
+   - Razwan Wajed Ahmed nh
+   - Abrar Faiyaz network trail theke course korar iccha kom
+
+=== #30 POST (65 comments) ===
+Faculty Review / CSE323-SMU1 / CSE445-OISD / EEE154-SfA… See more
+   - F
+   - RH Ankon check inbox
+   - Hrr parle change koro
+   - Farjana Akhi Is it same with the lab?
+   - HrR is best for grading
+   - Lubana Ahmed Is it same with the lab too ?
+   - yes, if his lab instructor is Rezwana apu then good for both learning and grading.
+   - Wow your post is getting comments / Mine got almost none
+   - oisd change koro parle
+   - Soomaiya Chowdhury Noted
+   - Smu1 sir joss. Easy going and best for this course. Unar project ta ektu pera hote pare, microprocessor based. But basic project i chan usually, nothing fancy. Jodi cse331 kore thako taile oi type er i just more basic ar ki. / Like ekta arduino diye ekta temperature sensor or something like that. He will explain that in class, dw. But otherwise his questions are directly from slides. Easy A jodi properly poro ektu
+   - Tanzeem Haque I did not do CSE331 yet
+   - Shahriar Hussain pera nai kono. Youtube e tutorial dekhlei hoye jabe. I did cse331 and 323 ekshathe so got a bit lucky ar ki
+   - Tanzeem Haque okay
+   - Hrr best for grading. Unar porano oto bhalo na, he probably has ADHD  /  but sir is very easy going. I got A in phy107 and phy108 under hrr.
+   - Achha i just noticed you took lab and not theory. Lab er ta depends on the instructor tbh, but tao sir ashe lab e usually and poray jay. So all the best
+   - Tanzeem Haque Thank you
+   - Tanzeem Haque Thanks but is it same with the PHY108L ?
+   - Shahriar Hussain depends on instructor as i mentioned honestly. Tobe grade curve hobe asha kori
+   - Tanzeem Haque hi can you share more about Hrr sir
+   - Saiyara Nayeem Rumaly sure, what would you like to know
+   - Tanzeem Haque what kind of questions does he give? How does he mark? Is reading the slides enough? How to aim for an A
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr / cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+   - cfbr
+
+=== #31 POST (5 comments) ===
+Cse445 - Msrb / Kemon?
+   - F
+   - Bump
+   - Rafee MaisoonHow is he?
+   - Bump
+   - Ishayara Nishat apu..can u plz check inbox
+
+=== #33 POST (5 comments) ===
+Faculty review please  / Cse273- MKN1 / Cse440- Fsi / Cse445- Rtk / H… See more
+   - F
+   - Rtk best
+   - F for FSI
+   - FSI onk poralekha hbe
+   - can i inbox you? I'd like to know about Fsi for 440
+
+=== #34 POST (16 comments) ===
+I plan to complete my undergraduate courses within the next three semesters and have approximately 25 credits left. Should I take the following courses in sequence next semester: CSE445 (SFM1), CSE465 (NBM), CSE499A (SFR1, SFM1, NBM),498R? / Alternatively, would it be wiser to take CSE499A in the semester after next and continue with CSE499B in the final semester? / Which option would be better for managing the workload? / See more
+   - F
+   - Cse445 MLE best
+   - If you are beginner to ML/DL then, / 1. 445, 465 / 2. 499A / 3. 499B, 498R / If you have already experienced ML/DL, / 1. 445, 465, 499A / 2. 499B, 498R / Or, / 1. 465, 499A / 2. 445, 499B, 498R
+   - F
+   - Sounds very doable
+   - Sahil Yasar keep in mind that im not you..
+   - Samiul Alim Sami na like asolei it's not hard. Sfm1 r nbm sir onek chill / Project er ektu pressure thakbe but nothing u can't handle
+   - F
+   - Learn ML algorithms during semester break. / Semester 1: CSE 465 (NBM sir nile ektu pera hobe), CSE499A / Semester2: CSE 445 (SFM1 sir; highly recommended), CSE 499B, CSE498R / Best wishes.
+   - মোবাশ্বের উদ্দিন জয় vaia ami 445 kre felsi. Ami 499A 498R krte cacchi next sem alongside with EEE452, CSE273
+   - Abrar Faiyaz No issue.
+   - F
+   - yes bro u can take,, cse445, cse465, cse499A, cse498R in the upcoming sem, also u've already self-studied 465 / .. so won't be very difficult for u,, i prefer u to go for the 1st option, best of luck
+   - F
+   - F
+   - F
+
+=== #35 POST (7 comments) ===
+Reviews please and suggestions on how to get a good grade / Bio103- Aam4 / Eee452 - Nhq / Cse445 - Mle… See more
+   - Study properly you will end up with good grade
+   - Eee452 NQh Sir er kase easily A/A- pete parba, Previous que. repeat kore. ar class a ja porai oi khan thekei always dei.. but class regularly kora is a must!!!
+   - Pol101 Rsu er review Smi Fahiim er theke nite paro
+   - Eee452 Nqh —— Just do every single class and take notes on whatever he says (any technology-driven sagas that are really helpful to understand the whole vision). Nonetheless, you have to study. Try to give your best shot in every exam to secure an A-/A.
+   - ALL A
+   - apa jitsen
+   - Bio 103 porle full marks , otherwise nothing
+
+=== #36 POST (6 comments) ===
+Cse445-------MSRb / Cse273-------MMk1 / Cse299-------TnS1 / Mat361-------MLM / Phy107L-------RuH… See more
+   - Cse445 section?
+   - Thauhid Ferdhous Shanto 6
+   - Sob A paba. In sha Allah
+   - Arefin Amin Inshallah
+   - Tns1 mam best
+   - A K M Mohiuddin what about her project requirement?
+
+=== #37 POST (18 comments) ===
+Faculty Review Post / Course: CSE445 / Faculty: Sfr1 (Shafin Rahman) Sir / Since this is the first time Sfr1 sir took the machine learning (CSE445) course for the undergraduate level, I thought I would write a detailed review about him and the course in general. First of all, he doesn't follow the general syllabus most of the other faculties follow because he thinks that their syllabus is old-fashioned and is more like an introduction to m… See more
+   - Can you share his timing?
+   - Samiul Basir ST 3:05
+   - Timing please
+   - আহামেদ সাহেব ST 3:05
+   - Al Kuresh Ezaz Asif Rafid go for it.
+   - Maisha Rahman Umme Hani Roshni
+   - Thanks for this detailed review, Mutasim. What was your section?
+   - Ahsan Rizvi Section 5
+   - I could be wrong but he took only 1 section this semester right?
+   - Shadman Shahriar paba na ei semester a, next sem eksathe kori cholo
+   - Raiyan Khan nitesi nah ei semester. Onar thekei insight nisilam xD
+   - Shadman Shahriar yes
+   - Md. Mutasim Farhan bhaiya check your inbox please
+   - Ezaz Asif Rafid
+   - Ekshathe nibo eta ebar
+   - Hello brother can you check inbox?
+   - Moshiur Rahman Shawon
+   - Could you please elaborate what type of assignment he gives? like if its training models or general codes?
+
+=== #38 POST (7 comments) ===
+How to get A in CSE445 under Azk?
+   - achieve 90+ marks
+   - Shah Amanullah how to get 90+?
+   - Shah Amanullah check inbox bhaiya
+   - Shah Amanullah please check inbox bhaia
+   - Sir curves a lot, at least 10/15 marks so stay within 70 marks. But it’s very difficult.
+   - Mazharul Islam Nibir check inbox bhaiya
+   - Mazharul Islam Nibir can you elaborate little more ?
+
+=== #39 POST (27 comments) ===
+Faculty review please / Cse440 :MdSH / Cse445 : ITN / Cse327 : MRH1 / Eee 452  :FKR… See more
+   - Sob A
+   - Rahimul Haque Afrad moja neo na dada
+   - Cse440 and 425 which section ?
+   - Shakib Taher Joy 4 & 3
+   - cse327 kon section?
+   - MH Joy 6
+   - 440 kon section?
+   - Nusrat H Pritu 3
+   - Sob A
+   - Noshin Sharmila
+   - revealed through sms or rds?
+   - Ador Sharif prediction
+   - Cse445 sec??
+   - Abdullah Al Shahriar 10
+   - Vai check inbox
+   - Asiful Islam Redoy ok
+   - ITN sir er kase project and presentation bhalo korben bhalo grade korben
+   - 452 section?
+   - Raisa Islam 11
+   - MRH1 easy going ,kintu class miss dey onek
+   - Mahadi Hossain apni korchen sir er kache
+   - Mahedi Hasan yes
+   - Mahadi Hossain check inbox
+   - Mahadi Hossain taile to aro valo
+   - AG Adib ?M
+   - Mdsh kmn chilo Vai / Review dewa jabe?
+   - Shahnewaj Abrar Chowdhury sir best ...
+
+=== #40 POST (40 comments) ===
+Can anyone give me the course materials of these? / CSE327-MdSH / CSE331-MUA3 / CSE440-MdSH… See more
+   - Congratulations for MDSH
+   - MAisha Hassan
+   - Cfbr
+   - Labonnya Islam Leya cfbr ki
+   - Suraiya Akter Sammi comment for better reach /  short cut ar ki
+   - Labonnya Islam Leya then vhjmvhj
+   - Suraiya Akter Sammi eta ki
+   - Cfbr
+   - Cfbr
+   - Cfbr
+   - Cfbr
+   - Cfbr
+   - Mdsh section ?
+   - Tanvir Rifat which course?
+   - Suraiya Akter Sammi oh sorry my bad
+   - Cse327
+   - Tanvir Rifat 5
+   - Suraiya Akter Sammi Cse440 sec ?
+   - Tausib Abrar 3
+   - Szp ma’am
+   - Sob A confim
+   - Mohammad Yeasin Allah knows better
+   - Suraiya Akter Sammi 440 kon section
+   - Mohammad Yeasin 3
+   - cse331 section please
+   - AB Nirob 3
+   - Suraiya Akter Sammi thanks
+   - Mdsh, mua3, rtk- good
+   - Pbh which section?
+   - Moriom Tisha 2
+   - shob A
+   - Mahbuba Akter Neera Allah is the best of planners / Allah knows the best
+   - Suraiya Akter Sammi insha'Allah
+   - Sob A
+   - Rahimul Haque AfradAllah is the best of planners / Allah knows the best
+   - Kop
+   - Apu kindly ektu inbox check korben?
+   - Apu mdsh kmn chilo?
+   - Shahnewaj Abrar Chowdhury F
+
+=== #41 POST (42 comments) ===
+Review please / CSE440- MdSH / CSE445- sfr1 / EEE111- DMM
+   - Sfr sec kto?
+   - স্বাক্ষর হাসান 5
+   - eee111 sec koto apnar
+   - Md. Luthfor Rahman 11
+   - 440 kon section?
+   - Shakib Hasan Rayan bolchi
+   - 440 section konta?
+   - Sarah Ahmed 4
+   - Dmm sir shera
+   - Anas Marsaad most eee faculty ever
+   - 445 sec??
+   - Abdullah Al Shahriar 5
+   - Redwan Shahriar Shubho Amr ta ami predict korei nichi...
+   - 111 kon section?
+   - Aman Fahim 11
+   - Moriom Tisha thanks! same section & review o bhalo!
+   - Dmm & MDSH sir joss.
+   - Check inbox plz apu
+   - F
+   - cse440-mdsh best for grading
+   - Eee111 kon section.??!
+   - Sabbir Ahammed 11
+   - Moriom Tisha same section
+   - Mdsh sir k amar salam dio
+   - Iftakhar Rana okayy / A dibe taile?
+   - Moriom Tisha hae dibe amar kotha bolle
+   - Shob A
+   - Munshat Tasnim Reana InShaAllah  / pray for me
+   - Mdsh good
+   - Nk Mahin mdsh details please
+   - Mdsh sir onek easygoing, but pora bujhte problem hote pare / DMM sir o onek easygoing
+   - cse445 same sec
+   - cse 440 which section.
+   - Rahimul Islam 4
+   - Kivabe dekhcho?
+   - Meher Mihu collect krsii
+   - shob gula bhalo fac
+   - Hridoy Kabir sfr1 niye ektu details bolben please!
+   - Dmm best
+   - Sfr1 sera ekta manus
+   - Apu, are you doing 111 lab?
+   - how is MdSH apu? Moriom Tisha
+
+=== #42 POST (46 comments) ===
+CSE173 - SFT / CSE299 - RIH / CSE327 - MMA1 / CSE 425 - FSI / CSE445 - SVA… See more
+   - Fsi grading bhalo learning average
+   - Shahria Sarker Shuvo A A- dey?
+   - Abrar Faiyaz haee bt kom
+   - fkh & sfa shei / 445 same section
+   - Muhammad Zubair inbox for add into group
+   - Sfa kon section Bhai?
+   - Pavel Mahmud Pranta 9
+   - Abrar Faiyaz amar 8
+   - 154 same section bhaiya
+   - cse425 fsi valo na vai.onk class miss dibe tarpor online a class dibe and nibe 15 min / But question onk hard korbe.pura semester compiler porbe.
+   - Tawhid Islam 425 e A paitam nh porle?
+   - Abrar Faiyaz tumi paba
+   - Cse327 mma1 joss
+   - Avoid SFT / Class a temon kisu bujhben nah,nije theke porte hobe.tar question previous semester er same ques hoi,marks o valo paben,onkei class a phn dekhe lekhe but oirkm guard dei nah / But grade er somoy purai unexpected grade paben marks valo thakleo, ultimately honest theke o ekta bad grade niye ber hoben
+   - Minhajul Islam vai retake
+   - Abrar Faiyaz taile vai bujhe shune niyen
+   - 445 same section
+   - Aman Afif knock me for messanger Group
+   - Sft question repeat kore previous semester er question gulo same diye dey. Grading unpredictable
+   - Jannatul Ferdous Mim previous question gulu ase ki Apu?
+   - Sfa boss
+   - Oho sft /  for grading / Learning / Fkh
+   - Sinthia Ahmed Rachona questions pattern?
+   - Sadman Sakib Arnab easy . Sft ques repeat koren. / Fkh mcq r jnno book Porte hoy. Cq te easily marks Tula jay.
+   - cse327 section?
+   - Arpo Roy 8
+   - Abrar Faiyaz Tnx
+   - CSE299 which section
+   - Raeen Rizuan 16
+   - 327 sec??
+   - Iman Howlader 8
+   - Cse299 445 327 same section
+   - Mma1 best
+   - FSI joss …likhlei number but final ta ektu bhalo dite hobe to the point likha lagbe… emnite sherru..
+   - His 102 section ?
+   - Aman Ullah 11
+   - FKH sir shera. Matir manush pura. Easy going onek. Ja poran tai theke qns koren. tobe 2-3 ta qns quiz er ( mcq ) ektu tough koren. I mean ogulo boi theke den slides theke nah. / Sir ke oneke boring bolte pare cause sir tana ekdom kotha bole jan. But amar kache joos lagche cause world history ta ke uni onek interesting vabe, story telling kore bujhaisen. / Presentation nen sir. Try to follow all the criterias for the presentation. You are good to go. / Cons- Sir curve koren na ektu o ig.. / Tobe eto easy going je curve er dorkar pore nah.
+   - Sob A
+   - Che101L kon sec?
+   - Fariha Akter 8
+   - EEE154 which section?
+   - Israt Mim 9
+   - 173 section?
+   - Sfa best for learning and grading / 299 e RIH sir joss if you don’t miss his class and do the work / Even if you couldn’t do the work, don’t miss submitting the progress report showing that you have tried but could not reach the outcome. Sir is a bit strict on these facts. / *Don’t copy / *Don’t Miss class / *Don’t forget to submit progress report . / And you’ll get A.
+   - Shahriar Hossain Shezan Thank you bhaia.
+
+=== #43 POST (11 comments) ===
+CSE273 / CSE327 / CSE445 / CSE465… See more
+   - Cse327 mma1
+   - I am doing 445 and 465 simultaneously this sem and i would say if you’re fortunate enough to get into in both of the sections then don’t continue with the other ones. Only focus on these two.Especially 465 has a huge learning curve about deep learning and neural networks and only 4 sections are available. / In case you get only one of either 445/465 then you can take 327 and 273 alongside with them. For 327 (mma1 sir is best) and for 273 (mkn1 sir)
+   - CSE273 - MKN1 / CSE327 - MRH1 / CSE445 - SFR1 (Without a doubt, he is the best faculty for learning ML). / CSE465 - NBM (I Heard from many people that he teaches extremely well in this course, but FYI, grading will be challenging. You must work hard to achieve a decent grade.) / I suggest taking CSE445 in the upcoming semester and then CSE465 the semester after that because the syllabus is huge, and you must allocate a lot of time for learning and practicing. Taking these two courses in the same semester can be extremely challenging.
+   - 327 - mma1
+   - Cse273- mmk1 / Cse445- Rtk
+   - You can hardly maintain 273, 327, 445 in one semester. / It will be better for you to take 465 after completing 445.
+   - 465 - nbm sir must
+   - CSE273 - ARA2
+   - If you want to learn: / CSE273 - mmk1 / CSE327 - NbM / CSE445 - Sfm1 / CSE465 - NbM
+   - CSE273- mmk1 sir is best for everything
+   - Courses 445 and 465 are both very important, and there is a lot to learn. If you are passionate enough, this course also offers publication opportunities. I don't think it's a good idea to take them in a single semester.
+
+=== #44 POST (37 comments) ===
+Review please  / CSE440- MdSH / CSE445- Rtk / CSE499A- Abo… See more
+   - mdsh onk easy going jei sir er kotha bolsilm tore. Rtk onk best khub bhalo poray. Abo ekdom chill code dekhbe na kisu na, eee er faculty
+   - Cse445 sec??
+   - Abdullah Al Shahriar 4
+   - Rtk is good
+   - MSRH hudai pera dey
+   - Mdsh Agun bhai agun
+   - Mehrab Ahmed Apu grade er jonno kek..details please
+   - Msrh drop den
+   - Oh man how can someone be this lucky / .don’t drop msrh if you are ready to give efforts. Practice practice practice. That's also on your own..
+   - ZBM sir nice!
+   - M. M. Kasro sir kmn
+   - Tarannum Jafree Zbm sir is good for both learning and grading.
+   - Dmm best
+   - 440 which section?
+   - Moriom Tisha 4
+   - Readuanul Farid Fahim bro Check inbox
+   - খুব টেশ
+   - Dmm sir is great
+   - Anas Marsaad question kemn kore?? Ager semester theke ki mil thake?
+   - Readuanul Farid Fahim ager sem er kotha janina but sir question syllabus er bhitor thekei dey and motamoti easy question kore
+   - eee154 sec?
+   - Rtk is best for cse445
+   - RTk best
+   - Jitsen
+   - bump
+   - shob F
+   - Sayedul Karim dur *****fuwa
+   - Zbm is good
+   - Abo pera day na tmn
+   - Fairooz Tasnia abo sir kisu bolte chaile. Bolte paro
+   - Vai msrh worst...randomly grade diya dey end e.
+   - Eershan Reza Khan msrh chilona oita?
+   - Sayedul Karim drop mari disi.
+   - Readuanul Farid Fahim abo kintu joss
+   - Sayedul Karim ho
+   - 111 kon section?
+   - cse445- sfm1 / cse440- alk1 / eee111- rtk / phy108- zbm / if you need class recordings of these faculties you can ask me
+
+=== #45 POST (12 comments) ===
+how's SvA ma'am for CSE445? how to do well under her?
+   - .
+   - following
+   - section koto?
+   - Ashrafur Rahman Abid 8
+   - Section 8?
+   - Abrar Faiyaz yes
+   - SVA mam onk valo. One of the best teachers in nsu. Grading Efforts r upr
+   - SVA mam joss / . You are so lucky je apni unar section peyechen!
+   - How was SVA for Cse445?
+   - Sunehra Ahsan she was very helpful and teaches really well. Questions are comprehensive and you can ask her for office hours as much as you want she never gets tired of answering questions. Curves depending on class avg. 40% marks was from the assignments she gave us that she counts as a project.
+   - F
+   - inbox dekh
+
+=== #46 POST (15 comments) ===
+How’s MSRb for cse445?
+   - Shei. Sir ashche maybe 3 semester hoise. Pretty new. Sir pera dey na. Appreciates honesty and genuinely a very nice person. Intersession e unar class korsilam
+   - Farhan Mahdi does he give project?
+   - Which section?
+   - Tasin Tayeba Khan section 6
+   - how was he?? I got him this time around
+   - Tanzeem Haque goat
+   - Adiba Hossain thank you
+   - Tanzeem Haque does he give project?
+   - EnthusiasticPelican6530 yes
+   - F
+   - apu how was he? sir ki project den or Research?
+   - Rahman Aiza nijei project dae. And sir oneeeek nice. One of the best
+   - Adiba Hossain what kind? Is it easy?
+   - EnthusiasticPelican6530 Yesyes it’s simple project
+   - Adiba Hossain apu can u plz chk inbox
+
+=== #48 POST (10 comments) ===
+Review please to save a soul and share opinions!  / 𝘾𝙎𝙀438     𝙎𝘼𝙈3 / 𝘾𝙎𝙀445     𝙍𝙩𝙠 / 𝘾𝙎𝙀499𝘼  𝙈𝘼𝙌𝙢 / 𝙀𝙀𝙀111     𝙎𝙈𝙐1 / 𝙀𝙀𝙀4… See more
+   - RTk and MAQM best
+   - Mahin Hasan Sadat amr boro bhai re iktu Smu1 er review diye de
+   - Rubayet Hossain Dipro onek easy going faculty. Chill onek. Bhaloi curve kore
+   - 452 sec?
+   - Ayon Ahmed 11
+   - Soc101 kon sec
+   - Nawfel Mottakin 14
+   - How do you get 499A? Through regular advising or by taking recommendations?
+   - Kindly check YOUR inbox
+   - Kindly Check your inbox
+
+=== #49 POST (23 comments) ===
+Review please : cse445-itn / cse440- mdsh
+   - 440 mdsh sir is a dream for me rn. / If you got him plz continue.
+   - Progga Adrita project dey?
+   - Ankita Mon 440 full theory.. 445 e project ase and itn valo kaj korabe
+   - Progga Adrita inbox check koro
+   - Progga Adrita ITN kaj o koray? see Shamlima Deb Trena
+   - MDSH easy A / Best in terms of grading
+   - Zaqa Zeeshan Saif 440 te project dey sir?
+   - Zaqa Zeeshan Saif mdsh tumi korso?
+   - Jubaer Al Noman 327 ae korsilam / Too good
+   - Yasin Ahmed
+   - Ankita Mon check inbox
+   - Bump
+   - Bump
+   - ITN sir is very biased towards projects. Project sir er mon moto na holey it's very hard to get a good grade under him. Try to find a very good project, do well in the presentations, reach out to him for ideas, pay attention to the classes.
+   - Mdsh sir onk valo. Student friendly. Grade o valo dey. Problem ektai sir theory onk beshi poray. Memorize kora lage beshi. Last sem 327 korsi and this sem 440 kortesi unar kase.
+   - Md. Jisan Ahmed 327 e exams gula kmn nito? Slides theke question korto? Eta niye ektu details bolben kindly?
+   - Farhana Akbar sir mainly scenario based ques kore. Topic bujhle easily ans korte parben. Ar slide theke short ques ashe.
+   - Md. Jisan Ahmed sec koto 440?
+   - Ankita Mon 2
+   - Md. Jisan Ahmed owhoo.
+   - Kharap
+   - Drop
+   - Mdsh Sir best
+
+=== #50 POST (7 comments) ===
+Need suggestions for CSE trail and open elective course. / This is my choice: / Elective1 - cse445 (AI TRAIL)… See more
+   - Yes
+   - Tanvir Habib are you sure?
+   - Open elective apni ja iccha nite paren. Degree analysis er time e mention kore dilei hobe
+   - Tanvir Habib thanks for the information bhai
+   - Ditch korli ??
+   - Hemel Sarker Shuvo kn mama?
+   - Yes.

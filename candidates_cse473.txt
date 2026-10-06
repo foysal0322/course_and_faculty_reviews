@@ -1,0 +1,612 @@
+POST: Assalamualaikum as I see in the list of trail courses in NSU official website from which I have to pick 2 course from a single trail and 1 from different trail. In the Algorithms and Computation trail there two coourses CSE473: Theory of Computation & CSE417: Numerical Methods but NSU currently offers them as CSE273: Theory of Computation & MAT481: Numerical Methods. So, if I do them will they meet my elective requirement? I already h… See more
+COMMENT: you should contact to the ece department, i have never seen someone doing mat481 as a cse trail course... But i have also done 273 as a trail course...no problem with that...
+COMMENT: Sourav Roy should I mail the chairman?
+COMMENT: Yes you can
+COMMENT: MAT481 open elective hishebe kora jabe na?
+COMMENT: Oroni Tasnim Rodela you can do anything as open elective but my question is if MAT481 can be done as elective
+COMMENT: Safat Uddin Accurate information kothay pabo etar?
+COMMENT: Oroni Tasnim Rodela Chairman sir ke mail disi but got no reply
+COMMENT: Safat Uddin reply pele ektu janayen.
+COMMENT: Could you let us know here if you find anything about it? I am planning to take mat481 this sem For the foreign universities,I have seen numerical methods & theory of computation being a required course but I haven't seen CSE417 being offered since the last few semesters. I am also skeptical if mat481 could be done as a trail instead of that.
+POST: As a CSE student, how helpful will the CSE 273/CSE473 ( Theory of Computation) course be? 
+I have heard many foreign universities look for this course in the transcript. How True It is. This course is mandatory in almost all universities except NSU.
+I am weak at solving complex problems. My math grades are average (B+, A-). Should I go for it?
+COMMENT: This course mostly demands your logical thinking ability rather than math skills.
+COMMENT: F
+COMMENT: cfbr
+COMMENT: Shahedul Islam Shikderpre advising korso naki
+COMMENT: hae CSE273 korsi
+COMMENT: Honestly, not worth it anymore unless you are designing a compiler or something very basic. It helps to build logic only. Better to do electives like computer vision, special topics, robotics etc. Just my opinion.
+COMMENT: Farhana Rahman NSU er course kore computer vision, deep learning er kisui shikha hoyy na. Just definition+ formula valo memorize korte parle you can get an A easily. But that A is nothing in real time projects. Better bahir er resources theke shikhee neya, self study kora.
+COMMENT: Maths grades average A-, B+
+Bro C is average.
+You have to do ( 2 major course and another other trail course) so, you can do cse273 or cse411 or cse488 as that course... It's not like regular math course. Just see the course outline.
+POST: Seniors plz drop some suggestions 
+ELECTIVE COURSE :
+(Software trial)… See more
+POST: Seniors plz drop some suggestions 
+ELECTIVE COURSE :
+CSE411(Advance Database System)
+CSE438(Data Communication and Network)
+CSE482(Internet and web Technology)
+See more
+POST: Does anyone know why CSE473 is offered in the name of CSE273? As I have chosen CSE473 as my third elective, will taking CSE273 instead of CSE473 create any problems regarding degree analysis?
+COMMENT: .
+COMMENT: .
+COMMENT: ?!?
+POST: Which courses are regularly offered in the Software Engineering Trail, apart from CSE411? Are any courses offered in the Algorithms and Computation Trail other than CSE473 in the name of CSE273?
+COMMENT: .
+COMMENT: .
+COMMENT: .
+COMMENT: .
+COMMENT: .
+COMMENT: NSU offers no trail courses regularly except ML
+COMMENT: Abdul Mueed Thanks.
+COMMENT: Cse491 - advanced graph theory ,aibar offer korse
+COMMENT: Shahed Thanks, but how do I know if a course is offered from a trail? If I can pre-advise a course, does that mean the course will be offered the following semester?
+COMMENT: Riana Sultana yes pre advise korte parle bujhben oita offer korse .but ai type course student kom hole cancle hoi so sathe back up course rakha valo
+COMMENT: Shahed Thanks!
+COMMENT: If you have enough students interested to register for a course, you can request the chairman sir to open that course for you guys that semester.
+COMMENT: Ahmed Anisa Thanks.
+COMMENT: Following for info
+COMMENT: Answer is no, for both of the questions
+COMMENT: Subrato Chandra Pal Thanks.
+COMMENT: Riana Sultana welcome
+POST: !!!Attention Please!!!
+𝐂𝐒𝐄 473 and 𝐂𝐒𝐄 273 same course?
+cause… See more
+POST: CSE273/ CSE473 Course Review :
+In "Theory of Computation" (CSE273/473), we explore some cool stuff about computers. We learn about languages (not like English or Spanish, but computer languages!), which are sets of rules for computers to understand. Then there's grammar, which helps computers follow those rules properly.
+We dive into something called Turing Machines, which are like super simplified computers. They help us understand… See more
+COMMENT: Following
+COMMENT: Sir A ta peyei gelen
+COMMENT: Shoaib Hasan grade deyni
+COMMENT: Ara2 sir best of the bests
+COMMENT: Fazlea Rabby Undoubtedly
+COMMENT: MMK1 sir er kache CSE273 korlam ebar, ekhon porjonto CSE courses gulate unar moto etto besi humble manush ami r ektao dekhinai r dekhbo boleo mone hoyna, also onek valo bujhai and so much easygoing.
+COMMENT: Farhana Supti MMK1 sir onek bhalo unar kache amio course korechi 425
+COMMENT: Asif Rafi Amio ARA2 sir er kache 115 korecilam. Sir ektu strict chilo but also valo manush.
+COMMENT: Farhana Supti strict hoai uchit TBH
+COMMENT: Ara2 sir is one of the finest faculty of NSU
+COMMENT: Mohibur Nabil Absolutely
+COMMENT: Agreed on your point that NSU should make this course compulsory. A computer science academic programme is conceptually incomplete without Theory of Computation as a core subject.
+COMMENT: guys if you're reading this go watch" The Imitation Game"
+COMMENT: Ahh, that movie inspired me to take this course.
+COMMENT: Shafayet Rajit
+COMMENT: Theory of Computation is absolutely essential in any computer science program. I don't understand how it's not a core course. A decade or two ago, ToC would have been one of the few courses to be offered in any CS degree anywhere in the world. And nowadays it's becoming a second-class course in lieu of the more "industry-oriented" courses, which, btw, fail to be much useful in giving students the necessary skills to do well in the software industry. Sad to see CSE programs becoming substandard SWE programs.
+Anywho, if you do choose to take CSE273, which you should, consider taking ARA2 sir's section. He's one of the more brilliant and true-to-the-field faculties I've come across in NSU. Also, if your goal is to secure a top grade but you're willing to be somewhat sincere about working for it, then his classes and homeworks will be more than enough to prepare you for the exams. Best of luck!
+COMMENT: Nadman Ashraf Khan সহমত ভাই
+COMMENT: Nadman Ashraf Khan bhaiya Ami fresher.. ektu Jodi guide Korten kivabe agano jay
+COMMENT: bhaiya can you check your inbox?
+COMMENT: CSE273 te choto Ekta project koraile Valo hoto, seta Compiler construction ( Simply using LLVM) or Cryptography related hote pare . CSE course without project incomplete lage or learning ta incomplete theke gelo mone hoy. Amr mone hoy Ekta course Korer por j Valo project build korte pare tar understanding ta better. Ami j faculty er kache korechi project korai nai.
+COMMENT: Mostafizur Rahman ARA2 স্যার করায় ( অপশনাল, যারা প্রজেক্ট করবে তাদের ফাইনাল দেওয়া লাগবেনা)
+COMMENT: Asif Rafi 
+Age janle sir er kachei kortam bhai...
+COMMENT: Irtiza Mahmud
+COMMENT: Maimuna Hafsa
+COMMENT: F
+COMMENT: F
+COMMENT: F
+COMMENT: F
+COMMENT: F
+POST: Can anybody provide me CSE473's (Theory of Computation) study materials? The course code currently maybe CSE273.
+Thanks.
+POST: Hello good people!
+I needed some advise on choosing elective courses. As we know, we have to chose 2 courses from one trail, and 1 from another trail, and 1 open elective from whatever trail we like. I'm more interested on AI trail.
+I'll be done with CSE445 as my Elective-1 this intersession. My plan is to take CSE468 [Computer Vision] as Elective-2, CSE273 [Theory of Computation] as Elective-3 and CSE495-2 [Special Topic] as Open Ele… See more
+POST: #CSE_Help
+Cse 273 is a major elective course ? 
+If yes then Why it is not listed in the website ?
+ If i do cse440,445 and 273 then my elect 1,2,3 will be completed?
+POST: I have done cse473 as open elective. Now, is it wise to take cse482 and cse438 as elective courses?
+COMMENT: Yes you can
+I will take the same
+And did cse273 as well
+POST: Anyone did CSE273/CSE473 with Ara2 sir in Online semesters? Please respond.
+COMMENT: Following
+COMMENT: Following
+COMMENT: Nayem Madridista tor kopale sob worst faculty e pore all-time
+COMMENT: Ahasan Islam bhai kal k mid, 2 week cls e jaite pari nai, ki j korbo bujtesio na
+COMMENT: Nayem Madridista Vairevai kemne je ARA2 r sathe course nes Allah malum
+POST: Hello seniors, 
+Could anyone please tell me will it be a wise decision of taking the following courses as elective courses? 
+1. Cse440(Artificial Intelligence) 
+2. Cse445(Machine learning)
+3. Cse473(Theory of Computation) … See more
+COMMENT: F
+COMMENT: Now a days ML offered in every semester... And your choice is good if you are passionate about AI... Another suggestion is, if you have open elective left then consider doing another CS elective course as an open elective...
+COMMENT: A Ahad Alif I am passionate about AI. I am thinking of keeping one math minor course as the open elective. However except these three which one will be a good choice?
+COMMENT: Al Mehedi Hasan Numerical Methods, SQA, Pattern Recognition, Computer Vision, NLP, HCI
+COMMENT: A Ahad Alif Thank you bhaia.
+COMMENT: A Ahad Alif Bhaia which combination will be better (cse440 and cse445) or (cse 445 and cse465) or should I do all 3 of them?
+COMMENT: 445 & 465
+COMMENT: A Ahad Alif Thank you bhaia
+COMMENT: If you are not working for any theoretical stuff then don't take theory of computation. It's a very easy course though.
+COMMENT: Fatin Sirat I heard this course is very important for higher studies.
+COMMENT: Al Mehedi Hasan ভাই আপনি এখন কি নিয়ে হায়ার স্টাডি করবেন এইটার উপর ডিপেন্ড করে। আর এই কোর্সের টাইটেল ভুল আছে অইটা ঠিক করার জন্য আপনারে ডিপার্টমেন্টে দরজায় দরজায় ঘুরতে হবে। মনে করেন মাস্টার্স করবেন এলগরিদমের উপরে মানে থিসিস আর কি নিয়ে তাহলে এই কোর্স অতি গুরুত্বপূর্ণ। আর যদি সাইবার সিকিউরিটি (উদাহরণ দিলাম) নিয়ে করেন তাহলে ক্রিপ্টোগ্রাফি গুরুত্ব রাখবে। আশা করি বুঝাতে পেরেছি।
+COMMENT: Fatin Sirat Ji bhaia bujhte perechi. Thank you.
+COMMENT: Al Mehedi Hasan anytime
+COMMENT: 440,445, 465 or 495
+COMMENT: F
+POST: Can anyone enlighten me about-
+CSE 440( Artificial Intelligence) 
+CSE 445( Machine Learning) 
+CSE 438 ( Data Communication and Network) 
+CSE 482 ( Internet and Web Technology) … See more
+POST: আমি Pre-advising এ Cse473,Cse427,Cse499B add করেছিলাম আজ RDS ডুকে দেখি Cse427,Cse473 গায়ের হয়ে গেছে।৷ কারণ কী?
+COMMENT: 427 aro onek agei gayeb hoise without any further notice
+COMMENT: Cse473 has a code /course name issue. You can take cse273 instead for this sem, same course and will be counted as a elective
+COMMENT: প্রি এডভাইজিং এ CSE273 এড করেন।
+সেইম কোর্স " থিওরি অব কম্পিউটেশন "
+চিল করেন ভাই
+POST: আমার প্রিএডভাইজিং থেকে CSE473 হাওয়া হয়ে গেল
+এখন এড করতেও খুজে পাচ্ছি না
+এটা কি এবার অফার করবে না?
+কেউ ফেস করতেছেন এই সমস্যা
+COMMENT: You've to do CSE273 for this sem, same course, will be counted as elective. So take cse273 in advising. You should have a mail in your nsu email regarding this.
+COMMENT: Zahin Ahmed bro curriculum e jhamela ace kina
+Eta ager curriculum er jotodur jani
+COMMENT: R A Rihaan as i said, check your mail, you'll get what i'm saying
+COMMENT: Zahin Ahmed ok
+Thank you
+POST: Are these two (cse473 , cse273) the same courses?And will I face any problem if I take one of these courses as my elective course since their codes are different?
+COMMENT: same course
+COMMENT: Same
+COMMENT: 438 e jemon 338 er attendance nito age erpor 438, etao same e
+COMMENT: Sem
+COMMENT: Muhammad Zunaid how do you even know about this?
+COMMENT: Shahara Tabassum Elma I know everything
+POST: Those who have done these courses under the same faculties last semester can you please provide me the slides/notes and questions patterns or the questions itself?
+Cse331- DMH
+Cse473- MMK1… See more
+COMMENT: I did 373 with sfm1 sir last trimester. He is outstanding when it comes to teaching. As far as grades are concerned, you will get what you deserve. That being said, sir er classes bhalo moton follow korle bhalo grade pawar chances ache.
+COMMENT: Cse 373 kon sec?
+COMMENT: সুপ্তিকা সুমি sec 2
+COMMENT: Mariya Rahman Nisha Timing ta ki ??
+POST: Cse499A - NvA
+Cse473- Mmk1
+Cse482- Mah1
+Reviews please!!!
+COMMENT: Nva
+COMMENT: Mmk1 sir is good
+Change NvA
+Mam er pera nite parle korte paro
+COMMENT: NvA
+COMMENT: Cse473 sec koto
+COMMENT: Sazid Khandaker Sazid Khandaker sec-3
+COMMENT: Mmk1 to amio . Kon sec tui ?
+COMMENT: Anika Khan sec 3
+COMMENT: avoid nva
+COMMENT: Sadman Ahmed Abir how??? Ja advising 3rd phase
+COMMENT: Have no knowledge about cse499A but C programming NVA er under e korchilam 1st semester e.. Jibon hell kore disilo mam..
+COMMENT: Nahid A J Shikto আমার ফার্স্ট ফ্যাকাল্টি নোভা মিস
+,ম্যাডাম ভালো করে চিনে আমাকে এখনো
+COMMENT: Sadman Ahmed Abir jai hok vaiya NVA er class kore esechi.. So amar mone hoyna nsu er r kono faculty voy korar karon ache amar
+COMMENT: mmk1 and mah1 best best. sure A paben
+COMMENT: Ashraf Ali Imran thanks
+COMMENT: Ananna Talukder welcome
+COMMENT: but 482 lab e aktu pera khaite paren. lab bhaiya aktu besi paknami kore
+COMMENT: Ashraf Ali Imran accha
+COMMENT: 115 ar jonno NVA thik ase czz tokhn student new thake baccha thake insult korlew gaye lagbe na temon but 499A te insult korle mene newa onk difficult
+ Kar e ba Moga shunte valo lage
+POST: I pre-advised for CSE473 (Theory of Computation ) but now this course is no longer in my pre advised list. I am searching for that course in the list but still missing. Did anyone else face the same problem? Or what is the reason behind it?
+COMMENT: Ahmed Muttakin Thank you
+COMMENT: 473 er course code change hoise...
+Age chilo cse473
+Akhon hoise cse273
+COMMENT: Take 273. It is the same course
+COMMENT: 473 BT Nirob nam jader tara korte parbe na
+COMMENT: shohomot bhai
+COMMENT: Azher Uddin Tonmoy Ji vai, ami nahoi korlam e na
+COMMENT: Ami 273 korbo next semester....Tui nile bolish....
+COMMENT: Amio korbo
+COMMENT: Azher Uddin Tonmoy 273 to trail er course hishebei count korbe right??
+COMMENT: Kazi Ridoy Hae....otai howar kotha...
+COMMENT: U have done Cse445,465,482 then why CSE473? perhaps ur post is for any girl
+COMMENT: Sirajun Noor Shuvo Kothai ase na! "Jar mone ja fal pare tha" Sobai tomar moto legend na bro....
+COMMENT: BT Nirob Explain why u need this course information?
+COMMENT: Sirajun Noor Shuvo I'll take this as open elective! Now you got ur answer!!!!
+COMMENT: Ccccc
+POST: CSE373 - SFM1
+CSE473 - MMK1
+CSE482 - MAH1
+EEE154 - MUN
+Summer20 অনলাইন সেমিস্টারে যারা করেছেন স্যারদের কাছে প্লিজ রেসপন্স।
+COMMENT: eder review jana lge?
+COMMENT: Tosmia Islam Nishat ami toh review chai nai
+COMMENT: All best facilities
+COMMENT: Parvez Robin I know bhai
+ Last semester e kono ta korchilen?
+COMMENT: Did 373
+COMMENT: Ok bhai. Inbox e disturb korbo apnk
+COMMENT: Pera nai
+COMMENT: F
+COMMENT: Drop
+COMMENT: Raha Mridha jii nsu kei drop kore dei
+COMMENT: Sfm1 +MMK1 sir khub e valo...
+Taile ai semester a o kop dibi...
+COMMENT: Minhazul Islam tui mmk1 ar kache korchos??
+COMMENT: EEE154 - MUN kon section? Farhan Ishrak Munna
+COMMENT: Kaosar Habib 3
+COMMENT: Mah1 mmk1 dui jon e khub e valo and khub e easy going...onk valo grade den
+COMMENT: Faria Islam last semester korechilen?
+POST: Cse482
+Cse499A
+Cse473
+Egulo course er jonno kon faculty  valo hobe?
+And online experience kemon ei course  gulor?… See more
+COMMENT: Cse499 tnr sir
+COMMENT: Adrita Salsabil thank you
+COMMENT: F
+COMMENT: 482-mah1,sam3
+473-mmk1
+COMMENT: Al Amin thank you
+COMMENT: Cse449A AZK sir
+Cse482 MAH1 or NQH
+COMMENT: Sirajun Noor Shuvo ektu in details bolte parba kmn?
+COMMENT: Cse482- Sam3
+Cse473- Mmk1
+COMMENT: Roksana Diti tumi 482 kore falso?
+COMMENT: Afshaan Shaan haa.
+COMMENT: 473...mmk1 best best best
+COMMENT: Cse482 NQH
+COMMENT: 482 nqh
+COMMENT: Anik Raihan details e bolte parba kmn?
+COMMENT: Sadia Mahbub Mim
+COMMENT: 473 Mmk1 sir chhara ar ke nicchen eibar, keo bolte parben?
+COMMENT: Sadia Mahbub Mim ara2 maybe
+COMMENT: F
+POST: Anyone is doing #cse273 or #cse473 in this semester(spring 2021)
+COMMENT: Nah
+COMMENT: Yes
+POST: Review please-
+CSE323 Rmz1
+CSE473 Mmk1
+EEE111 SSH1
+COMMENT: Mmk1 sir best
+COMMENT: 473 sec?
+COMMENT: Section koto cse323?
+COMMENT: Vaia last sem korlam 323 ...ummmmm..cls boring ache sir tmn porabe na ..nijer porte hobe..questions tricky kore clear concept thaka lage ..project presentation assignmnet report a no pera...curve kore maybe ..grading motamoti..tmn pera day na but nijer porte hoy iktu beshi
+COMMENT: Fariha Ahmed Raha sir last semester project nise?
+COMMENT: Project related presentation and report nise...pera day nai j project dekhate e hobe ...k ki korse jante o chayni...presentation ppt and report valo holei pera nai r...
+Online er jonno onk easy kore disilo...
+COMMENT: Fariha Ahmed Raha thanks a lot Raha
+COMMENT: Welcome vaia
+COMMENT: Shb best faculty
+COMMENT: Initial pila koi
+COMMENT: Md. Omar Faruke parents portal e login korlei paba
+COMMENT: Adban Akib Protik link dao to vai
+COMMENT: Md. Omar Faruke https://rds3.northsouth.edu/index.php/welcome/parent_login
+COMMENT: Adban Akib Protik vai apni ssh1 eee111 course online e koresen?
+COMMENT: ssh1 miss vlo....cls a onk attentive thkte hobe..cls work dei onk... bar bar question korle ektu angry hoye jan..but tobuo bujhan...overall good for learning & grade
+COMMENT: Farjana Yeasmin Toma thanks for the review
+COMMENT: SSH1 mam valo... class e valoi pera dey... like choto choto shob jinish mam notice kore... onek class work koray... attendance er upr bonus marks dey... but last e grade valo dey
+COMMENT: Iftesum Mahin did you do with her online?
+COMMENT: Adban Akib Protik I did EEE141 with her last year.
+COMMENT: Iftesum Mahin thanks for your review
+COMMENT: Rmz1 based. Kono chinta nai.
+473 drop dao. Aro 2-3 semester wait koro. Onno Kono valo faculty nile tokhn 473 nio.
+COMMENT: Catalan Jm based?
+COMMENT: Adban Akib Protik Sir actually sincerely poray I have no problem with that. The thing is emn kora vabe sir zoom call e microphone video on koira ajaira sharata somoy examinee der disturb kore exams ney, for no reason. Just because he's a Dhaka Uni faculty and he believes in his version of strict proctoring.. abar Question o korbe pagoler moto tough. I was absolutely fed up. I realized shikhar dorkar ase thikase, but erokom disturb korle kothin question korle ami to grade pabona. That's I dropped his course last semester. Ara2 ar Sfm1 sir er kase course ta pailamna sadly. And unfortunately ei semester theke onara keu ei course ta nibeno na. So I thought I'll wait a couple of semesters when nsu offers someone more manageable for this course. Right he's your only choice.
+COMMENT: Catalan Jm are you talking about 473 or 323?
+COMMENT: 473 protik.
+COMMENT: Catalan Jm don't take 473 with ara2
+COMMENT: 323 te tui kono pera lois na. Rmz1 sir valo poray. Khali ektu beshi dhila ar ki. Sir majhe moddhe class/exam nite vuilla jay.
+Grade leniency ase. Project maybe dewar kotha. Oita ektu seriously koris. Sir naile ektu insult kore polapain go shamne. Other than that kono tention lois na. Sir exam er question oto significantly difficult korena. Kahini hoistase easy jinish gula sir question er vitore dey. Baire kothin jinish gula dey tore voy dekhanor jonno.
+COMMENT: Ara2 re keu valo bolena dst. Accha kahini ta ki? I mean he can't be worse than MMK1.
+POST: Which courses will be easier?
+Cse417 and cse473 or cse438 and cse482?
+TIA
+COMMENT: 417 niyen na.. Faculty bhalona
+COMMENT: 417,473
+COMMENT: Shohug I can't take courses from different trails, have to take either 438 and 482 or 417 and 473.
+COMMENT: If msk1 is taking do 417 with out hesitation but make sure he is taking the course
+COMMENT: 482
+COMMENT: 473
+COMMENT: Mahfil Sakib koi onek hard toh
+COMMENT: Mahfil Sakib kar kache korso?
+COMMENT: Struggled to get good grade r ki bolbo
+COMMENT: Nayemul Islam Nayem
+COMMENT: Tanzim Ahmed easier er jonno cse438, 482 newa uchit.. Cause 2tar concept onk similar, and 482 tw one of the easiest course.. Tui tw janos e
+COMMENT: Tanzim AhmedTanzim Ahmed 482 tui koros nai? A ki ami paisi na tui?
+COMMENT: dui bisheshoggo
+POST: Can anyone give me the email of MMK1 sir CSE473?
+COMMENT: Nooo
+COMMENT: Habiba Deepty thank you for your response
+COMMENT: mosaddek.khan@northsouth.edu
+COMMENT: Nusrat Jahan thank you Nusrat Jahan
+COMMENT: No
+COMMENT: No
+POST: In the degree analysis portal, cse473 is showing as "Parallel Processing" instead of "Theory of Computation". 
+Will it cause any problem in degree analysis?  
+if yes how to change it?
+COMMENT: Check inbox vaia
+COMMENT: Nur Ur Rahman let me know if you can fix it inbox
+COMMENT: Sazidur Rahman Sadi emni peray asi ami
+POST: Suggest faculties for cse327, cse373 and cse473 please
+(if you know their class times please mention that also)
+COMMENT: nbm, sfm1
+COMMENT: Cse 473 -mmk1
+Class time -MW 8.00,9.40,11.20
+POST: Is there anyone from CSE473 sec 02?
+COMMENT: No
+POST: Does anyone know who's taking CSE473 section 1?
+COMMENT: F
+COMMENT: Which one did you get
+COMMENT: 473 nei nai. Bhalo faculty thakle eta nibo
+COMMENT: Faria Iqbal Raha ki baad dibi
+COMMENT: 438
+COMMENT: Ayesha Rahman er faculty ne
+COMMENT: Ibtiaj Mahmud Diljar 473 to last sem korsi mmk1 sir er kache
+COMMENT: Kon section Ayesha Rahman?
+COMMENT: Onar section khali nai, mate.
+COMMENT: Samiha Akhter tui post de jeta deyar kotha tor.
+COMMENT: Faria Iqbal Raha Class e ask korbone.
+COMMENT: I hope it's not Ara2
+COMMENT: Eksho eksho.
+COMMENT: Most likely ara2
+COMMENT: it's ara2
+COMMENT: Adiba Samreen Mahmud what did you find funny here?
+COMMENT: Nothing
+Just Ara2 ee memories mone kortesilam xD
+COMMENT: He is not like people talk about him
+COMMENT: Yes
+COMMENT: Meeeeeeeeeeeee
+COMMENT: Nope. Mmk1. Ara2 ar sfm1 sir ami jototuku shnsi ei course ar nibena. Sad life.
+POST: Can anybody tell me who is taking
+PHY108 Section: 3
+CSE473 Section: 3
+POST: #URGENT_POST
+what is the name of the course CSE473? Is it "Theory of Computation" or "Parallel Processing "
+COMMENT: First one
+COMMENT: Theory of Computation
+COMMENT: যখন নিছিলাম তখন জানতাম "Theory of Computation " কিন্ত গ্রেড শিট এ নাম আছে "Parallel Processing ".....
+COMMENT: Ankit Dev same
+COMMENT: Z.i. Fahim eita toh same may b...nki vhul ashche??
+COMMENT: Ankit Dev no idea
+POST: Please suggest me some of the easy going (for grading as well) faculties for the following courses:
+CSE311
+CSE323
+CSE473
+CSE299
+See more
+COMMENT: don't take 3, 4 no course with others even those are retaken courses. It's my opinion. MAT130 - MS1/MMH5/ZHn pick anyone. EEE111 - LIH, CSE311-RRn/rajib sir/adf (maybe not available), CSE323-Tnf/Rkb
+POST: Please review CSE473.MMK1
+Thanks
+COMMENT: amio paisi.valo
+COMMENT: Dst sir er mail address ase tor kase? Dis to thakle
+COMMENT: Bhalo bhai. Amio niyechhi.
+COMMENT: Amr nsu er life e cse er jonne sobcheye valo lagar sir mmk1
+COMMENT: One of the best
+COMMENT: Best
+COMMENT: Easygoing ekebare
+COMMENT: Which section vai?
+COMMENT: He is great!
+COMMENT: mmk1 sir is just best
+COMMENT: Shera ekjon manush.
+ Onek shundor Kore prottekta topic bujhaben. Grading o valo.
+POST: For cse473, Which sec is taking mmk1?  
+Pic for attention
+COMMENT: Zannatul Ferdous ei ne, tor Bhalobasha
+COMMENT: Faria Ashraf hurr beti.. tor valobasha
+Prottek semester a or pic diye review nes
+COMMENT: Tor khub anondo lage tai na re?
+COMMENT: মোঃ মাহীন আসেফ শুভ i love you sexy
+COMMENT: Bal tui!
+COMMENT: মোঃ মাহীন আসেফ শুভ amk niye tui joto lila khela khelsish 
+, eita tw kichui na
+COMMENT: Ahahahaha
+COMMENT: মোঃ মাহীন আসেফ শুভ
+COMMENT: Tora amk niye joto lilakhela kheltesish eita kichui na
+COMMENT: Faria Ashraf Alaminer pic lagle amake bolish
+COMMENT: Tasnuba Tabassum ok
+COMMENT: Tasnuba Tabassum pic er ovab nai kintu remember that....
+COMMENT: Faria Ashraf u remember too...
+COMMENT: Alamin Hossain tomar ululululur shamne kono pic er daam nai
+COMMENT: Tasnuba Tabassum ka koise vhai ami monstar dekhaite parbo... Meye rupi monstar...
+COMMENT: Alamin Hossain Ami manush rupi sagol dekhaite parbo, tar upor shamne kurbanir eid xD
+COMMENT: Tasnuba Tabassum sagol to valo...dami jinish... Kg koto janosh? Monstar diya ki hoibo no value...
+COMMENT: Shuru hoye gelo 2 janowar
+COMMENT: Tui nijei na sec 3 nili?
+COMMENT: Tasnuba Tabassum inbox a ai
+COMMENT: Faria Ashraf
+COMMENT: Tasnuba Tabassum dhora khaise
+COMMENT: Seriously tore ami samnasamni pai harami!
+COMMENT: মোঃ মাহীন আসেফ শুভ aro de mail fariaashraf69 theke
+COMMENT: Tasnuba Tabassum oita sobar jonno kora hoise ! 69 na 90
+COMMENT: Tasnuba Tabassum ei janowar gula amk pura beche disey, eder kono bibek ase, shala poshu
+POST: Any idea who is taking CSE473 section 4?
+COMMENT: F
+COMMENT: Nooo
+COMMENT: Mmk1 nao nai ken?
+COMMENT: pai nai
+COMMENT: Sanjida Akter Mumu
+Sir best chilo 473 er
+Sfm1 sir o naki near kotha eibar ekta section
+COMMENT: Akib Rahman na sfm1 niben na. mail deya hoisilo
+COMMENT: MSS
+COMMENT: TBA
+COMMENT: Me
+COMMENT: JBJ faculty apu
+COMMENT: Ami ebar 473 nicchina. Dont tag me pls.
+COMMENT: jibon ta majak banai rekhe diso shobai mile
+POST: Who is taking CSE473 section 1?
+COMMENT: ARA2
+COMMENT: Wasik Billah how sure are you?
+COMMENT: I am not sure at all . I have just guessed
+COMMENT: Wasik Billah sir ki last semester 473 nisilo?
+POST: Anyone who did CSE473 with ARa2 in the last semester? Can you share your experience?
+TIA
+COMMENT: Ebar section 4 ke nibe janen?
+COMMENT: Edsger Dijkstra nope. Any idea about other sections?
+COMMENT: Negative
+COMMENT: Best ,Tmi A paba
+COMMENT: Nafiul Islam khub mojay aso
+COMMENT: Adban Akib Protik go corona go
+POST: Does anyone know Ara2 is going to take CSE473 in this semester?
+COMMENT: Nah maybe
+COMMENT: na nilei valo!
+COMMENT: Tamim Ahmed Ki vai
+COMMENT: Tamim Ahmed vai ignore krar jnnoi khujtesi una k. Kopale jeno na pore sei ashay asi
+COMMENT: Arif Billah Aman bujte parchi.evhabe polai thako
+.er jnnoi ai emo
+COMMENT: Tmi 473 niso?
+COMMENT: AR Orsha ha
+COMMENT: AR Orsha 1
+COMMENT: Arif Billah Aman kon faculty hote pare any idea?
+COMMENT: no!
+COMMENT: Farzana Jahan
+POST: Who's taking CSE473 section 1,2,3 & 4?
+TIA
+COMMENT: sec 2 MMK1
+COMMENT: Mehnaz Mimpa section 3 ke nichche jano?
+COMMENT: Adban Akib Protik sec 3 MMK1. ami asi sec 3 te.
+COMMENT: Aqib Mostakim section 1 ar 4 duitai ara2 kemne hoy?
+COMMENT: Adban Akib Protik 2,3,4 mmk1
+COMMENT: 1 ara2
+COMMENT: Sudipta Mandal are you in section 1?
+COMMENT: Yes
+COMMENT: Sudipta Mandal are you going to continue or drop?
+COMMENT: I am gonna continue actually
+POST: CSE473.3
+CSE373.9
+Kon Faculty any idea?
+COMMENT: 373
+473: MMK1
+373: Mah1
+POST: #NeedHelp
+CSE 417 Numerical Methods
+Actually I need at least  B- / B on this course if I take. Is it easily possible for an avg level student  in this course?? … See more
+POST: how's Ara2 for cse473?
+COMMENT: Mortuza Shaory
+COMMENT: Just avoid him. Wastage of time money labor
+COMMENT: asholei ?
+COMMENT: konovabe survive kora jabe na?
+COMMENT: alright ! thanks buddy !
+COMMENT: SakibMukter vaita ara2 kmn??
+COMMENT: Mehedy Hassan Ami Commerce er student bhaiyaa
+COMMENT: Sohanur Shawon kisu bol
+COMMENT: নুজহাত সাইয়ারা amra j section nisi seta ara2 e porbe Mone hochhe,Er jnne polapan eta khali raksilo. Poro comments gula r tmi his101 ghato slot 2 er jnno!
+Ki bolo?
+POST: CSE473 is showing up as parallel processing rather than Theory of computation, Did the course code change?
+COMMENT: Its the same
+COMMENT: Nasif parallel programming is the same as theory of computation?
+COMMENT: Or is this a glitch in the system
+COMMENT: Yeah, the name just got changed
+COMMENT: Dui semester aage
+COMMENT: already there Tahsinur, just in case niya rakhsi
+COMMENT: Nasif so im good if I take cse473 as parallel processing right?
+COMMENT: Sajid Ahmed yes
+POST: Need some ATTENTION guys !!!!!!!
+Any possibilities of increasing the number of seats for the course CSE271/CSE473? Both the sections were  filled up at the first day of advising. What should I do now? Should i go to the chairman & ask for help? I have my financial aid support upto 12th semesters & i need to finish my 130 credits within that. Will the chairman consider it & help me getting into a section? I have got only 7 credits thi… See more
+COMMENT: I’m facing the same issue!! Also having confusion whether seat will be increased or not!! I think people who are in same situation with this course should get together and go to chairman’s office..
+COMMENT: did you throw emails to respective personnel?
+COMMENT: No i didn't ..should i?
+COMMENT: People have actually..but the guy doesn't reply i heard
+COMMENT: ofcourse!!!!!
+you just can't hope for good without any effort!
+did you pre-advise any of those courses?
+if yess then throw an email right now to chairman.
+COMMENT: Yes i have pre advised.Thanks !!
+COMMENT: and maybe you should catch him on department floor.
+COMMENT: Okay. I'll try my best!!
+COMMENT: goodluck!
+COMMENT: Thank you!
+COMMENT: Saif Azad sir already thrown !! Yet no reply!! Wat to do now sir!!
+COMMENT: Yes i have mailed him also & not hoping for any kind of reply. Think we have to go to the department.
+COMMENT: who m i to say "now what" Mn Kashif?? do you think that if you don't mail , your chairman might know your problem through গায়েবি way?
+COMMENT: Mn Kashif i've got the reply.have you ?
+COMMENT: he also got his reply but doesn't have the guts to say that here!!
+COMMENT: F
+COMMENT: F
+POST: Anyone did CSE473(theory of computation) last semester?
+POST: Hi CSE folks.
+If you are in the 130 credit curriculum and you are willing to take Theory of Computation as an elective, please pre-advise for CSE473, not CSE273. CSE473 was previously listed as Parallel Processing, that's why the department asked the students to advise for CSE273 in the previous semesters. 
+I have talked to Shazzad Sir, and the course code has been fixed in the pre-advising window. Theory of Computation is now CSE47… See more
+COMMENT: Md Samiur Rahman
+COMMENT: Rafid Affan
+COMMENT: Mastura Sadaf
+POST: CSE473 matro ekta section offer korse 
+. Last semester eo 3ta section silo
+COMMENT: Shetao to reserve kore rakhse
+COMMENT: Full hoye gese
+COMMENT: Pre-advise kore ki lav hoilo
+COMMENT: sfm1 sir ebar nibe na tai may be
+COMMENT: course o change 
+ !
+POST: theoryy of computation CSE473 chilo pre advising a...
+now advising window te CSE473 hocche parallel proccesing...
+toh theory of computation konta?
+COMMENT: cse 273
+COMMENT: Jebin Ferdousi post a likhlam ki r bollla ki... 273 toh old curriculum a...eita amr window te asbe kmne amitoh pre advise krsi 473 as theory of computation..now advsing window te parallel processing..
+COMMENT: Mohammad MarZan last er ager sem eo 273 code chilo...akhon may b 273 advising korte hobe
+COMMENT: Jebin Ferdousi kintu 273 amr window a te kn dekhabe? dekhacchena toh kichui dekhabena ja pre advise krinai
+COMMENT: hmmm... pre adv koro nai...ei prb er solution jana nai ..2nd phase er jnw wait koro
+COMMENT: khaali thakbenaaa
+COMMENT: onnk a boltesilo 473 e niyaa nite naam jaai thaak...setai hobe pore giye theory of comoutation...totkhn a amr time sesh hoye gese..
+COMMENT: hay hay... akhn taile kisu korar nai apatoto
+COMMENT: taile ki 273 nite hobe 
+ ajjob to
+COMMENT: Cse 273 nite hobe must. Degree analysis er time e oita 473 hoay jabe
+COMMENT: T'äh Mîm krso tmi?
+COMMENT: ami to 473 nisi ... taile ki ekhon 273 neya lagbe
+COMMENT: T'äh Mîm nah lagbena eitai por ethory of computation hobe kon section niso?
+COMMENT: sec.3 tmi ?
+COMMENT: T'äh Mîm neinai voy a jantam na kahin8
+COMMENT: section 3 jokhon niso section 2 filledup hye gesilo?
+COMMENT: nah khali chilo ichcha korei nei nai
+COMMENT: Amito 473 nilam
+Tahmim,jebin actually konta nite hobe?
+COMMENT: ami jani na kisu 
+ jebin jane .... jebin bol kisu
+COMMENT: Raihan Nafis Radiah Zaman Sarin
+COMMENT: Mehedy Hassan ai abr kon fapor??
+COMMENT: Rubaith Adnan or gusti mari ami.er cheye vlsi newa better chilo
+COMMENT: Polapain 435 r 482 niya bohut shukhe ache.amra chul falaite elective nichi
+COMMENT: 473/ 273 theory of computation loite hoibo
+COMMENT: 473 nichi ekhn eita theory of computation na eita kmne bujhtam?
+COMMENT: Mehedy Hassan aitai theory of computation...last semester ao atar naam parellal processing chilo so chill no worry
+COMMENT: Thanks nigga
+COMMENT: voy a nilam naa r time erpor sob gyaan pailam post a...ki j dukkho...
+COMMENT: Raihan Nafis Radiah Zaman Sarin
+POST: ei semstr a keu sfm1 sir er kache CSE373 and CSE473 krsen keu asen?
+COMMENT: ji
+COMMENT: Konta korso?
+COMMENT: Akib Rahman 473
+COMMENT: Jebin Ferdousi section ta bolo
+POST: CSE273 , CSE473
+Are they same course or different ?
+COMMENT: Same
+COMMENT: Same
+COMMENT: eibar korteso naki ?
+COMMENT: Yap
+COMMENT: curricular e j nai eta Sir er sathe kotha bolso e bepare ba dept. e ?
+COMMENT: Elective ata....
+COMMENT: I have same confusion about those two although I have selected 273
+COMMENT: 130 credits er jara tader jonno 273 ai code er kno course tader cariculam a nai bt 473 hisebe tara ai course ta nite parben tokn ata open elective hisebe count hobe ...
+POST: Has anyone taken CSE473 recently? Some feedback would be very helpful. What kind of contents are covered in this course? Which faculties take this course?
+COMMENT: Theory of computation?
+COMMENT: The name's changed to Parallel Processing. I wonder if the content's been changed as well.
+COMMENT: Haha. Its not parallel processing. Its theory of computation. They messes up the name. I have done it, and we were taught TOC.
+COMMENT: I guess the contents mentioned here are being covered in the course, then? Nice. Thanks for the help.
+POST: Can anyone tell me cse473 kon kon faculty ney? urgent
+COMMENT: CSE473==CSE273
+Ara2, SfM1 as per last sem
+COMMENT: ARA2 sir last stime kon kon time e nito?
+COMMENT: Last sem he took it on ST 09:40-11:10
+POST: CSE473 & CSE273 ki aki course ?? CSE273 ki elective hishebe count hobe ?????
+COMMENT: same course, CSE473 elective hishebe count hobe 143 and erporer batch der jonno
+COMMENT: ami vai 152 batch er ..... so can i take it without any doubt ????
+COMMENT: hmm, kintu CSE473 hishebe nite hobe,cse273 hishebe nile jhamela korbe
+COMMENT: ami to 273 hishebe nisi
+COMMENT: pore jhamela korbe, CSE273 actually 143 er aager batch der jonno core course, but elective course er code 400+ hoy, e.g. CSE473. so elective hishebe nite hole CSE473 hishebe nite hobe. Eijonnoi to CSE273/CSE473 dewa nahole to sudhu CSE273 thakto!!!
+COMMENT: Ivan Kadery but ami CSE273 nile to cse473 er section o fill up hoye jaitese
+COMMENT: bujhinai
+COMMENT: Ivan Kadery mane keo jodi cse273 naay tahole Cse 473 section o fill up hoye jaay
+COMMENT: haa karon same course
+COMMENT: but ami to 473 prerecuisite er jonno nite partesi na
+COMMENT: ki prereq dekhay?
+COMMENT: Ivan Kadery CSE373
+COMMENT: tahole CSE373 kore erpor CSE473 korte hobe
+COMMENT: ami 273 nie then ki aita dept a gia change korte parbo na
+COMMENT: janina kora jabe kina, but onek jhamela hobe surely. oirokom korte chaile good luck

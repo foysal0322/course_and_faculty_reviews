@@ -702,22 +702,22 @@
         "cse425": "msk1,ssi,sus,tba"
     },
     {
-        "cse434": "ssi"
+        "**cse434": "ssi"
     },
     {
-        "cse435": "iqr"
+        "**cse435": "iqr"
     },
     {
         "cse435l": "iqr"
     },
     {
-        "cse438": "auq,rjp"
+        "**cse438": "auq,rjp"
     },
     {
         "cse438l": "auq,rjp"
     },
     {
-        "cse440": "msdl,msrb,tba"
+        "**cse440": "msdl,msrb,tba"
     },
     {
         "cse445": "jsa,maqm,msrb,rtk,sfm1,sfr1"

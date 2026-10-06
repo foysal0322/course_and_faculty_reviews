@@ -1,0 +1,135 @@
+=== #5 POST (0 comments) ===
+#Please approve this post. / Due to the severe illness, I missed the final of CSE495B(AzK) on December, 2025. Is there anyone who also missed it? Plz contact.
+
+=== #6 POST (0 comments) ===
+If there is any messenger group for CSE495B (Azk), then please add me to this group.
+
+=== #8 POST (26 comments) ===
+Can anyone give me detailed review of the following courses ?  / CSE440 CSE445 CSE465 CSE495A CSE495B
+   - .
+   - .
+   - .
+   - .
+   - .
+   - Following
+   - .
+   - Following
+   - .
+   - f
+   - .
+   - .
+   - F
+   - CSE440: Artificial Intelligence / This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA. / I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts. / The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+   - CSE445: Machine Learning / This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important. / I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks. / The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+   - Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+   - Aman Fahim For ML Technical Aspect: Basic Python programming & libraries (NumPy, Pandas, Matplotlib), familiarity with Google Colab/Kaggle, and LaTeX for report writing (optional). / Mathematics Review: Linear Algebra (vectors, matrices, dot products), Probability & Statistics (distributions, PMF, PDF, mean, variance), and Calculus (differentiation, chain rule, gradients).
+   - Saif Mohammed Thanks a lot for your kind advice!
+   - CSE465: Pattern Recognition & Neural Network / This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background. / I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch. / The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+   - Saif Mohammed this is the most detailed and well-written review of this course I have seen, thank you so much for helping people out!
+   - Nawsheen Sadia Thanks!
+   - To know about CSE495A you can inbox me.
+   - Mehedi Hasan Can you please check your inbox Bhai ?
+   - Cse495A: Introduction to robotics / Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot. / You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+   - .
+   - .
+
+=== #11 POST (9 comments) ===
+How’s Azk for Cse495b??
+   - Azk sir is really a good person and khub ee helpful. / Teaching: / 1. Uni besh bhaloi poray. Unar pora bujha jay and uni onk effort den. / 2. Slides gula well organised but class kora lagbe Naile slides bujha hard ase. / 3. Youtube theke porte parben but still need to attend class. / Question: / 1. Uni decent and logical questions koren. na besi hard na besi easy. Mane minimum jottuku na janlei noy. / 2. Uni sample and practice question theke onk question repeat kore or similar type question den. / Marking: / 1. Unar marking bhalo. Uni last moment porjonto try koren marks deyar. Kharap kore makeup nen / 2. Ekta good amount of mark Curving koren depending on the class performance. / Cons: / 1. Uni khub lazy, jodio moner onk bhalo manus. / 2. Marks ektao dekhte parben na pura semeter but ja expect korsen Oitar as pasei paben.
+   - You only have 1 section of this course. You don't really have a choice. / He is good for grading. Pretty easy going. / But he is a bit boring.
+   - Shourave Biswas dehk
+   - Fahmim Ahmed Toma jak base gasi re dst
+   - Shourave Biswas review?
+   - Anyone kindly share 495B Azk review!!! It's help me a lot!!!
+   - Shams Sajid Rahman Drop
+   - Iman Howlader that's mean A confirm pabo, Alhamdulillah
+   - Shams Sajid Rahman Bhaiya how was AzK in terms of grading ?
+
+=== #14 POST (15 comments) ===
+Doing Cse465,Cse445 , / Cse495B in AI trail and Pbh101 as open elective / Will it create any problem / in my degree analysis ?
+   - I am  /  percent sure brother Samiul Basir it will not broo
+   - Zaed Ikbal looking for more responses
+   - Zaed Ikbal They’re from same trail afaik. So problem hobe.
+   - Samiul Basir Aman Afif is also sure about it
+   - Zaed Ikbal ami ei bolsi post korte
+   - You should do 3 course from 2 different trial. Are you doing 3 course from same AI trial?
+   - Ihsanul Haque Asif yess vaia
+   - Samiul Basir Students must take minimum two courses (6 Credits) from one of the following specialized electives trails and remaining one elective course (3 Credits) may be chosen from any trail.
+   - Ihsanul Haque Asif Is the "any trail" including AI trail?
+   - Samiul Basir Students must take minimum two courses (6 Credits) from one of the following specialized electives trails and remaining one elective course (3 Credits) may be chosen from **any other trail** from the following.
+   - CSE465, CSE445, and CSE495B are from the same trail (Artificial Intelligence). As far as I know, you cannot include more than two courses from the same trail. In fact, all of my friends who have already graduated (or completed their last semester) took two courses from the AI trail and another one from a different trail. I have seen students taking three courses from the AI trail as well. However, they choose one course as the open elective.
+   - Hadi Uzzaman
+   - yes
+   - Pbh101 er ki lab kora lagbe if I take it as an open elect?
+   - cse445,cse465 sfm1 sir ar under korle problem hobe na.otherwise nightmares
+
+=== #15 POST (9 comments) ===
+Cse495b NLP azk sir nicce.. details janen kew? Kemon tough? Project ace? Sir grade kemon day?
+   - Anyone
+   - Hello
+   - .
+   - .
+   - .
+   - Bump
+   - Inbox
+   - Azk sir is really a good person and khub ee helpful. / Teaching: / 1. Uni besh bhaloi poray. Unar pora bujha jay and uni onk effort den. / 2. Slides gula well organised but class kora lagbe Naile slides bujha hard ase. / 3. Youtube theke porte parben but still need to attend class. / Question: / 1. Uni decent and logical questions koren. na besi hard na besi easy. Mane minimum jottuku na janlei noy. / 2. Uni sample and practice question theke onk question repeat kore or similar type question den. / Marking: / 1. Unar marking bhalo. Uni last moment porjonto try koren marks deyar. Kharap kore makeup nen / 2. Ekta good amount of mark Curving koren depending on the class performance. / Cons: / 1. Uni khub lazy, jodio moner onk bhalo manus. / 2. Marks ektao dekhte parben na pura semeter but ja expect korsen Oitar as pasei paben.
+   - f
+
+=== #17 POST (2 comments) ===
+CSE495B (AZK) / CSE465 (NBM) / How to do well under them?
+   - Acoo korba
+   - Azk sir is really a good person and khub ee helpful. / Teaching: / 1. Uni besh bhaloi poray. Unar pora bujha jay and uni onk effort den. / 2. Slides gula well organised but class kora lagbe Naile slides bujha hard ase. / 3. Youtube theke porte parben but still need to attend class. / Question: / 1. Uni decent and logical questions koren. na besi hard na besi easy. Mane minimum jottuku na janlei noy. / 2. Uni sample and practice question theke onk question repeat kore or similar type question den. / Marking: / 1. Unar marking bhalo. Uni last moment porjonto try koren marks deyar. Kharap kore makeup nen / 2. Ekta good amount of mark Curving koren depending on the class performance. / Cons: / 1. Uni khub lazy, jodio moner onk bhalo manus. / 2. Marks ektao dekhte parben na pura semeter but ja expect korsen Oitar as pasei paben.
+
+=== #18 POST (13 comments) ===
+Will there be a problem if I take the following courses  / Major electives: cse465,cse495B(AI trail) / Minor elective: cse438… See more
+   - f
+   - f
+   - F
+   - F
+   - f
+   - F
+   - I don’t think there will be any problems. But as 495B is a special topic course it’s better to go and ask in person at the dept.
+   - Mazharul Islam Nibir Thanks bro!
+   - .
+   - For NSU degree requirements, there will not be any issues. / For higher studies, some specific universities require Theory of Computation, so it is tough to say in a generalized matter whether not taking CSE273 will cause any issues or not. If the university you are applying to doesn’t require ToC, then it should be fine.
+   - Shafayat Osman Thank you so much for the information!
+   - Shafayat Osman Sir, what is your opinion about how a student should set up their electives or what should be the general goto in choosing electives without a plan being narrowed down ? Thank you
+   - Jarif Mohsin In my opinion, electives should be used to explore new fields of interest. Let’s say you are in your third or fourth year and you still don’t know which field of CS you want to work on or pursue in future. Electives can be a major help here. Take electives from different trails like ML or Networking or Software Engineering and see which of these fields you resonate with the most. These courses can serve as the gateway to your future field of expertise. Alternatively, you can also use electives as a means to dip your toe in a new field if you are already well-versed in an area. For example, my prime research interest is Cybersecurity and Computer Networks. But during my undergrad, I did my electives from ML and Theoretical Computer Science to learn about new things since I was well versed in CyberSec and Networking through my own self-study. / To sum up: use the electives to either see which field you want to work on or to see what other fields look like if you already have an expertise.
+
+=== #20 POST (8 comments) ===
+I will drop these two courses in the 2nd phase of advising. If anybody wants one or both of these courses and sections, do let me know. I will give them to you. / CSE495B (Natural language processing - NLP) - Faculty - Azk / Phi104 - Faculty based on predictions xD… See more
+   - Shunsilam ak frnd 495 tar kase kore naki bhalo shekhenai
+   - Zahin Abdal perspective matters ig? / Also he is a good faculty for grading as well.
+   - Farhan Tahmid ahhhh yess.... Grading er jonno
+   - Zahin Abdal sir grading kore but you won’t learn that much from him.
+   - Mehedi Hasan haa koyek frnd bollo
+   - Mohammad Tafim Akondo phi kore ne
+   - Farhan Tahmid vai,amar phi104 Lagbe, plz den
+   - Farhan Rafid kokhon niben inbox e bole rakhiyen
+
+=== #21 POST (7 comments) ===
+If I take both CSE495B and CSE495A, will they be counted as one course during degree analysis ?
+   - Is it even possible to take them simultaneously ?
+   - Mazharul Islam Nibir Yeah ig, if they are considered two different courses.
+   - Fida Ullah afaik, you can’t take them simultaneously
+   - Mazharul Islam Nibir Can you please let me know anyone who tried doing that or anyone who took both courses but in different semesters?
+   - No, 495A is introduction to robotics / 495B is Natural Language Programming, / they are two different courses and are counted as two different courses as well, afaik
+   - Ahnaf Ojayer yeah, hope so
+   - One of the courses has to be counted as open elective.
+
+=== #22 POST (0 comments) ===
+Is there any students from / CSE495B (Natural Language Processing) Section 1 / I need some information / Thanks in advance
+
+=== #24 POST (11 comments) ===
+I've a question to those who are already done with cse440. I'm a bit confused, should I take / CSE440 : artificial intelligence or, / CSE495B : natural language processing… See more
+   - Following
+   - .
+   - .
+   - .
+   - .
+   - Do 495B
+   - Tamim Haque thanks vai..
+   - bump
+   - AI te temon kichu shikhben na. Fakibaji course Ekta. Take NLP. Lots of things to learn. Projects like ChatGPT are great examples of NLP.
+   - Abir Al Mahdi thanks a lot.
+   - Abir Al Mahdi project ace

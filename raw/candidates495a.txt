@@ -1,0 +1,182 @@
+=== #2 POST (13 comments) ===
+Is anyone doing CSE495A under SNS1 sir this semester??  / Do you guys have class on 27 and 29 August??  / Does anyone know when he will be back as CSE499A CSE499B classes are cancelled from 12 August to 25 August.  / It is very urgert please let me know any information regarding SNS1 Sir. … See more
+   - F
+   - F
+   - F
+   - F
+   - F
+   - F
+   - F
+   - F
+   - F
+   - F
+   - F
+   - He will take the 27th, 29th classes
+   - Nazmul Hasan Sakib thank you
+
+=== #5 POST (0 comments) ===
+Need some suggestions!!! / I have done cse445 nd taking cse273. Now i am confused between two courses Cse465 and Cse 495 A . Should i take both or just one? Also share your experience in cse495 A. What will be wise decision to get good grade!!
+
+=== #7 POST (26 comments) ===
+Can anyone give me detailed review of the following courses ?  / CSE440 CSE445 CSE465 CSE495A CSE495B
+   - .
+   - .
+   - .
+   - .
+   - .
+   - Following
+   - .
+   - Following
+   - .
+   - f
+   - .
+   - .
+   - F
+   - CSE440: Artificial Intelligence / This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA. / I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts. / The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+   - CSE445: Machine Learning / This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important. / I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks. / The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+   - Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+   - Aman Fahim For ML Technical Aspect: Basic Python programming & libraries (NumPy, Pandas, Matplotlib), familiarity with Google Colab/Kaggle, and LaTeX for report writing (optional). / Mathematics Review: Linear Algebra (vectors, matrices, dot products), Probability & Statistics (distributions, PMF, PDF, mean, variance), and Calculus (differentiation, chain rule, gradients).
+   - Saif Mohammed Thanks a lot for your kind advice!
+   - CSE465: Pattern Recognition & Neural Network / This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background. / I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch. / The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+   - Saif Mohammed this is the most detailed and well-written review of this course I have seen, thank you so much for helping people out!
+   - Nawsheen Sadia Thanks!
+   - To know about CSE495A you can inbox me.
+   - Mehedi Hasan Can you please check your inbox Bhai ?
+   - Cse495A: Introduction to robotics / Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot. / You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+   - .
+   - .
+
+=== #9 POST (8 comments) ===
+Do you have cse495a course book(hardcopy)? I want the book. Please Help! TIA.
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+
+=== #11 POST (20 comments) ===
+#Need_suggestions / I initially planned to take CSE440 and CSE445 from the AI trail….. and since my priority is maintaining a good grade I chose CSE440 over CSE465. However… now I am considering switching from CSE440 to CSE495A (Introduction to Robotics). / I am wondering….. would this be a good decision? Should I go for it? (Can any one provide me the 495A outline )… See more
+   - Bump
+   - Hasibul Hasan Risat
+   - Bump
+   - Hasibul Hasan Risat
+   - Bump
+   - Hasibul Hasan Risat
+   - Bump
+   - Hasibul Hasan Risat
+   - i would say no.. doing 445 nd 495B , make more sense.
+   - As Shejan 495B NLP one ?
+   - Tanvir Rifat yee
+   - As Shejan umm got it
+   - Ashrafur Rahman Abid bhai ektu details dia jaio toa ei papi re 495A er
+   - Go for 445 and 495B; 440 and 495A is not worth 19.5K
+   - Muhammad Aminul Islam Labib ahh but at this moment 440 495A option left baki kono tay section pai ni this is my last sem
+   - Tanvir Rifat I see - welp I guess nothing else to do;) Congrats on your graduation!
+   - if you prioritize grades, then do 440 / but I would suggest you do 445 and 495B or 465 / 495A is not that easy to get A or A- / or you can go for 440 and 495A, average difficulty overall
+   - Ashrafur Rahman Abid 440 and 495A same difficulty? 445 must will do it but confused about 440 or 495A
+   - Tanvir Rifat 440 easier to get good grades
+   - CSE445 and CSE495A,B
+
+=== #12 POST (13 comments) ===
+I will be giving away books(free of charge) for the following courses: / 1)EEE111 / 2) EEE141/241 / 3)EEE494/CSE495A / 4)MAT350/MAT480… See more
+   - Hello. Eee111 book pls??
+   - Sajid Fardin Toha alright
+   - Raiyan Haque Thank you.
+   - Check inbox pls
+   - Need mat 350 vai
+   - Jubayed Ahmed Sahel already ekjon claim kore felse bhai
+   - Eee 361 book pls?
+   - Hello.... Can I get the 241 please?
+   - Sandipan Das already taken
+   - Eee141 book available?
+   - Mastura Nisa already taken
+   - None of these books are available anymore.
+   - Raiyan Haque ahare 495A book
+
+=== #13 POST (29 comments) ===
+Please give me some suggestions to get 'A' under these faculties / Cse445- msrb / Eee452- rkz / Cse323 - nva / Cse495A -sns1 / See more
+   - F
+   - F
+   - Cfbr
+   - Mazm sir je ki grade dey kichui bujhi na. / Shocking phase falay dey
+   - Tasbid Al Rahman lab eo?
+   - Ekfat Jahan Ashrafy oh sorry!!! I didn’t notice the ‘L’. I did the theory under him. Don’t know about lab.
+   - .
+   - .
+   - .
+   - .
+   - B
+   - U
+   - M
+   - P
+   - C
+   - F
+   - B
+   - R
+   - msrb section?
+   - Tanmoy Mahmud 5
+   - Tanmoy Mahmud How was he
+   - Rafee Maisoon best
+   - nva worst / mazm grading e unpredictable
+   - Tanmoy Mahmud bhaiya mazm ki A de?
+   - Ekfat Jahan Ashrafy ami jokhon korechi sir fresher chilo grade ulta palta dise, but ekhon kmn sir jani na, summer 22 e korsilam
+   - Rkz
+   - Maj win vai
+   - Bump
+   - msrb kemon chilo?
+
+=== #16 POST (2 comments) ===
+Assalamualaikum. Can any please share the room number of cse495A for which sns1 is taking in this semester?
+   - NAC992 MW 11:20AM
+   - Muhammad Aminul Islam Labib thank you bhaiya
+
+=== #18 POST (35 comments) ===
+Can anyone provide an overview of CSE495A: "Introduction to Robotics", taught by SNS1? I'm interested in what extent of the field of robotics is covered in this course, what kind of project is expected in it (if any), how up to date it is, and what are the courseworks given.
+   - Bump
+   - Badump tsss
+   - Skibidibap boom dada
+   - Skibidi dop dop
+   - F
+   - Bump
+   - Bump
+   - Bump
+   - Jobslayer
+   - Robotics enthusiast
+   - Future industry leader
+   - Bump
+   - Cfbr
+   - Md Taibur Rahman bhai please provide some insights
+   - Sara Rahman share your experience bro.
+   - Tasnuba Islam Tiha Faiyad Hossain simply the basics or it may seem an overview of robotics ,,,were being taught here,, like motion planning, open & closed loop controller etc etc,,also ,,,u'll have fun while doing this course, also sir's really helpful, he is a gem,,, I'll suggest if u're interested in robotics or aerospace engineering, then do take this one,, good luck
+   - Sara Rahman thanks for the info. / Is there any project for this?
+   - Santo bhaloi
+   - Tahsin Refat
+   - Mansur Juboraz
+   - Nandini Das thenkss
+   - Md Tasbeer Ahmed
+   - You can inbox me to know the details.
+   - Mehedi Hasan bhaiya inbox a ektu tips diyen plz
+   - Mehedi Hasan hello bhaiya... Ektu help pawa jabe ?
+   - Zannatul Ferdous obosshoi
+   - Mehedi Hasan hello bhaiya. Can you also help me regarding this course?
+   - Robotics with Sns1 Sir
+   - Samira Afroze apu eta korar jonno ki 445 aage kora lage? I mean 445 er knowledge lage?
+   - Samira Afroze grading kmn over all?
+   - The course introduces basic robotics concepts starting with motion models like the unicycle and differential drive, explaining how robots move and are controlled using open-loop and closed-loop systems( sir also gave simulation assignments) . Besides that motion planning techniques such as PRM, RRT, and A* algorithms are covered which help robots navigate around obstacles. Lyapunov’s method is taught to ensure the robot’s stability. The course also explains camera projection models such as the thin lens , perspective projection, / for calibrating robot vision. Image processing techniques like smoothing and edge detection are introduced to help robots interpret visual data. SLAM is covered to show how robots build maps and locate themselves in unknown environments. To handle noisy sensor data, methods like line fitting using split-and-merge and RANSAC are taught, allowing robots to extract reliable information and correct errors. These tools form the foundation of practical robot perception and control. It was a very interesting and fun course. Although a single semester isn't enough to learn about robotics. On the other hand, Sns1 sir is very accomplished ,friendly, helpful and humble person. It was a great learning experience!
+   - Anika Z apu tmi shb bhalo faculty pao kmne?
+   - Sayeda Nusrat NSU teh until second year I didn't have the privilege to get any good faculties  / . Aijonno cse interesting o lagtona. I used to feel demotivated. But some teachers are actually gem. They delve deeper to ensure we enjoy the class.
+   - Anika Z apnar ei review dekhe toh ekhn amro ei course nite mon chay
+   - Satavisa Borno
+
+=== #22 POST (7 comments) ===
+If I take both CSE495B and CSE495A, will they be counted as one course during degree analysis ?
+   - Is it even possible to take them simultaneously ?
+   - Mazharul Islam Nibir Yeah ig, if they are considered two different courses.
+   - Fida Ullah afaik, you can’t take them simultaneously
+   - Mazharul Islam Nibir Can you please let me know anyone who tried doing that or anyone who took both courses but in different semesters?
+   - No, 495A is introduction to robotics / 495B is Natural Language Programming, / they are two different courses and are counted as two different courses as well, afaik
+   - Ahnaf Ojayer yeah, hope so
+   - One of the courses has to be counted as open elective.

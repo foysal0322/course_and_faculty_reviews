@@ -45,7 +45,7 @@ function scroller(d) {
 async function readComments(k) {
   // The comment count lives on the "Leave a comment" button; it exists even when a post has no reactions.
   const cb = [...k.querySelectorAll('[role=button][aria-label="Leave a comment"]')].find(b => /^\d+$/.test(b.innerText.trim()));
-  if (!cb) return {comments: [], permalink: ''};
+  if (!cb || cb.closest('a[href]')) return {comments: [], permalink: ''};
   cb.click();
   await sleep(rnd(2500, 4000));
   const d = [...document.querySelectorAll('[role=dialog]')].pop();
@@ -115,8 +115,15 @@ async function readComments(k) {
       await sleep(rnd(1000, 2000));
       persist(info);
       await sleep(500);
+      const courseMatch = NAME.match(/[a-z]{3}\d+[a-z]*/i);
+      const coursePat = courseMatch ? new RegExp('\\b' + courseMatch[0].slice(0, 3) + '[-_\\s]?' + courseMatch[0].slice(3) + '\\b', 'i') : null;
+      const fullPostHeader = info.text + ' ' + info.image_alt.join(' ');
+      const hasCourse = !coursePat || coursePat.test(fullPostHeader);
+
       let c = {comments: [], permalink: ''};
-      try { c = await readComments(k); } catch (e) { S.log.push('err ' + e.message); }
+      if (hasCourse) {
+        try { c = await readComments(k); } catch (e) { S.log.push('err ' + e.message); }
+      }
       S.posts.push({...info, ...c});
       save();
       persist();

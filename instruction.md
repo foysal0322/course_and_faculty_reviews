@@ -41,29 +41,11 @@ course_and_faculty_reviews/
     build173.py / build215.py       turn judged picks into the final JSON
 ```
 
----
+## 3. Dynamic Faculty Discovery Rule
 
-## 3. Reference dataset: `course_faculty.json`
-
-- Format: a list of one-key objects with comma-separated lowercase initials, e.g.
-  `[{"cse115": "fth,hsm,mhis,..."}, {"cse173": "itn,mle,msk1,..."}]`. May contain
-  duplicates, so normalize case and dedupe.
-- Read the list for a course in PowerShell:
-  ```powershell
-  $j = Get-Content course_faculty.json -Raw | ConvertFrom-Json; ($j | ? { $_.cse215 }).cse215
-  ```
-- The relationship is **many-to-many**. Build both lookups: COURSE → FACULTIES and
-  FACULTY → COURSES. Never assume a faculty teaches only one course.
-- `tba` = "to be announced"; ignore it.
-- Suffixed initials (`tns1`, `msk1`, `sfr1`, `sha1`) are distinct people. Keep them exact.
-  If a student writes a bare form such as "SHA" and it's ambiguous, mark it UNCERTAIN.
-  Don't guess.
-
-Faculty lists used so far:
-
-- CSE115: fth, hsm, mhis, mle, msrb, nlh, nva, oisd, rsy, rjp, smsl, sus, shaifur, tnr, tns1
-- CSE173: itn, mle, msk1, msrb, sle, ssi, sva, tnf
-- CSE215: hsm, mft, mhis, muo, rih, rrn, rjp, sfr1, sva
+- **Do NOT restrict faculty extraction to a static reference dataset or `course_faculty.json`.**
+- For any target course, discover **ALL faculty members** mentioned, discussed, or reviewed in the scraped post headers and comment threads for that course.
+- Automatically identify all 3-to-4 letter faculty initial codes (and variants) referenced by students for the target course code.
 
 ---
 
@@ -103,26 +85,24 @@ Start-Process python -ArgumentList "raw\sink.py" -WindowStyle Hidden
 If you edit `sink.py`, kill every old instance first (`Get-Process python | Stop-Process -Force`),
 because a stale process keeps serving the old code.
 
-### Step 2: Get the faculty list
-From `course_faculty.json` (see section 3).
-
-### Step 3: Open the search
+### Step 2: Open the search
 `navigate` to the group search URL with `q=<course code>` (e.g. `cse215`).
 
-### Step 4: Start the collector
+### Step 3: Start the collector
 Call `execute_script` with the **full contents of `raw/collector.js`** as `script` and
 `args: ["q_<course>.json", 60]` (the output file name and the max post count). It returns
 `started ...` immediately and keeps running inside the page.
 
 For each post, the collector:
-1. Clicks the post's **"Leave a comment"** button (the one showing the comment count).
-2. Switches the comment filter to **All comments**.
-3. Keeps clicking "View more comments" / "View N replies" / "See more" and scrolling the
+1. **Course Code Pre-Check:** Checks if the post text or image alt explicitly contains the target course code (e.g., `CSE445`, `CSE 445`, `CSE-445`). If the post does NOT contain the course code, **do NOT open the comment section**; record the post text and move immediately to the next post.
+2. If it contains the course code, clicks the post's **"Leave a comment"** button (the one showing the comment count).
+3. Switches the comment filter to **All comments**.
+4. Keeps clicking "View more comments" / "View N replies" / "See more" and scrolling the
    comment box until nothing new loads. Ensure all truncated comments with "See more" are clicked to expand the full text.
-4. Reads every comment (`role=article`; its `aria-label` holds author + relative age).
-5. Closes the dialog, saves to disk, scrolls the page a little, and **waits ~5–7 s**
+5. Reads every comment (`role=article`; its `aria-label` holds author + relative age).
+6. Closes the dialog, saves to disk, scrolls the page a little, and **waits ~5–7 s**
    before the next post (~3 s for posts without comments).
-6. When nothing new is loaded, scrolls to the bottom to trigger more results.
+7. When nothing new is loaded, scrolls to the bottom to trigger more results.
 
 It stops when:
 - **"End of results"** is on screen and no unprocessed posts remain,
@@ -148,22 +128,34 @@ python -c "import json;d=json.load(open('raw/q_cse215.json',encoding='utf-8'));p
   disk, and the post that caused the reload is recorded without comments and skipped.
 - **To stop** when the user asks: `window.__fb.stop = true`, then push a manual save.
 
-### Step 6: Extract candidates
-Copy `raw/extract215.py`, change the input file, output file and faculty list, and run it.
-It writes `raw/candidates<course>.txt`: each post that mentions a listed faculty, followed
-by its comments, plus comments elsewhere that name a listed faculty. Read that file fully.
+### Step 5: Extract candidates for LLM evaluation
+Run a candidate extraction script (e.g. `python -c ...` or an `extract_<course>.py` script).
+It reads `q_<course>.json`, checks course code relevance, dynamically matches candidate comments against all discovered faculty initials for that course, and outputs two files:
+- `candidates_<course>.txt` (Human-readable text thread file)
+- `<course>_llm_candidates.json` (Structured candidate review objects)
 
-Also check posts whose comments came back empty but whose text is a question about a
-listed faculty. If there are many, the comment button wasn't found (see pitfalls).
+### Step 6: Automated LLM Evaluation & Sentiment Processing (Gemini Flash Model)
+Use an LLM subagent (preferably **Gemini Flash** / `flash` tier model for cost efficiency across all course batches):
+1. **Full-Text Semantic Comprehension (No String-Keyword Reliance):**
+   - Read every candidate comment end-to-end to understand genuine student sentiment, underlying tone, emotions, overall experience, and intent.
+   - Do NOT rely on simple string or keyword matching (e.g., avoid misclassifying recommendations that quote "saying to avoid" or mention board practice/homework).
+2. **Sentiment & Rating Assignment (5 Scale):**
+   - `Outstanding`: Glowing praise, top-tier goated teachers, 11/10, student expresses extreme satisfaction.
+   - `great`: Positive recommendation, good teaching, fair/generous curves or grading, student advice on succeeding under a solid faculty.
+   - `normal`: Neutral, balanced, factual description of course structure, exams, slides, or attendance.
+   - `harsh`: Extremely strict, unaccommodating, heavy pressure with poor teaching support, or frustrating course atmosphere.
+   - `avoid`: Student strongly warns others against taking the faculty, expresses deep dissatisfaction, or experienced unfair outcomes.
+3. **Filter Non-Reviews & False Positives:**
+   - Filter out invalid faculty initials that are common words or pronouns (e.g. `TMI`, `SEI`, `TAE`, `HAS`, `ABT`, `HIM` when used as a pronoun, `TMR`, `KSE`).
+   - Filter out student questions, seat requests, routine/partner queries, or tag-only chatter.
+4. **Multi-Faculty Disambiguation & Deduplication:**
+   - Extract independent feedback for each professor if a comment discusses multiple faculty members.
+   - Deduplicate verbatim identical comments for the same professor.
+   - Enforce a max cap of 20 detailed reviews per faculty member.
+5. **Output Generation:**
+   - Save directly to `<course>_detailed_reviews.json` (or inside subject folders like `accounting/` or `finance/`).
 
-### Step 7: Judge and rate (manual, semantic)
-Read each candidate in its post's context and decide keep/drop plus a rating (sections 6–7).
-Record your picks as `(faculty, opening words of the comment, rating)` in a copy of
-`raw/build215.py`. The script finds the full original text by prefix (exact match first),
-so the saved review is always the verbatim Facebook text. It dedupes and applies the
-review count rule. Run it and confirm `missing: []`.
-
-### Step 8: Report to the user
+### Step 7: Report to the user
 Give a per-faculty table of review counts by rating, name faculty with no reviews, and
 flag the judgment calls (split opinions, sarcasm, skipped non-reference faculty).
 
@@ -172,27 +164,23 @@ flag the judgment calls (split opinions, sarcasm, skipped non-reference faculty)
 ## 6. Interpretation rules
 
 ### What counts as a review source
-- Any post about the course, especially:
-  - "Best faculty for CSE215?" / "Review please: CSE215 - RRN"
-  - **"How is X for COURSE?" posts**, e.g. "How's RRn for cse215?", "How is Sva for
-    CSE 215?", "Anyone did CSE215 under RRN?", "Is RIH better than MFT for CSE215?".
-    Replies to such posts review that faculty for that course, **even if the reply doesn't
-    repeat the initials** ("Drop", "best for learning, curves a lot"). If the post compares
-    two faculty, give each reply to the faculty it's actually about.
-- A post whose own text is a detailed review (e.g. "#FacultyReview #sva #cse173 …") is
-  itself a review.
+- A post whose own text is a detailed review (e.g. "#FacultyReview #sva #cse173 …") is itself a review.
+- Replies under posts that offer a **CLEAR STATEMENT, VERDICT, OR EXPERIENCE** regarding a faculty.
+- **CRITICAL RULE — QUESTION-TYPE COMMENTS MUST BE DROPPED:**
+  - Ignore and drop ALL question-type comments and posts in both top-level comments and replies. Examples to DROP:
+    - "Can anyone give a detailed review for MLE CSE299 please?"
+    - "Honest Faculty review please"
+    - "How was AUQ for 323?" / "How was auq?"
+    - "Question pattern ki?" / "Qus ki slidebased koren naki lecture notes based?"
+    - "how much does sir curve?" / "details review please.."
+    - "Bhai kew advice den" / "which section" / "same section"
+  - Replies that only ask a follow-up question or request details without providing a verdict are **NOT reviews** and MUST be dropped.
 
 ### Course/faculty validation
-- When a post names both a course and a faculty, check the pair against the reference:
-  `VALID`, `NOT_FOUND_IN_REFERENCE` (the student isn't necessarily wrong; the data may be
-  outdated), or `UNCERTAIN`.
-- **Only include faculty that are in the course's reference list.** Skip others, even in
-  course context (e.g. AKR, SFT, MSRB for CSE215). Never fabricate a faculty-course link.
-- Faculty-only mention ("MFS kemon?"): use the reverse lookup for the possible courses and
-  use the surrounding context to pick one. If the context doesn't establish the course,
-  don't include it.
-- Course-only question ("Best faculty for CSE215?"): the reference says who teaches it,
-  but a recommendation must come from actual comments.
+- **MANDATORY COURSE CODE INCLUSION RULE:** The post text (or its direct comment thread context) **MUST explicitly contain the target course code** (e.g., `CSE434`, `CSE 434`, `CSE-434`, `CSE_434`). If a post/thread does NOT explicitly mention the target course code, skip and drop it completely to prevent cross-course leakage.
+- **ALL FACULTY INCLUSION RULE:** Include **ALL faculty members** related to, mentioned in, or reviewed for the target course code.
+- Do not restrict extraction to static reference lists. Automatically discover and include all faculty members mentioned by students in posts/threads belonging to that course.
+- Validate faculty codes against full NSU faculty databases when available, but preserve any newly discovered faculty who teach or are reviewed for that course.
 
 ### Text normalization
 - Treat `CSE 215`, `CSE-215`, `cse215`, "CSE215 er jonno" as the same course.
@@ -207,15 +195,11 @@ Read for meaning, not keywords. Common phrases:
 - matir manush = down-to-earth, kind
 
 ### Context and comments
-- The post supplies the context. Under "Best faculty for CSE115?", a reply of "Nva" is a
-  recommendation. Under "Faculty NvA CSE115 review plz", a reply of "Drop" is a negative
-  review of NVA.
-- A reply tagging a name and then giving an opinion ("Tousif … A+ o paite paren") keeps
-  its original text, name included. Judge the opinion.
-- Watch for **sarcasm**, e.g. "khub valo ki r bolbo… eto valo je just valo bolleo kom hoye
-  jabe", and "Koren vai Msk1.. be ready for insult" (means avoid). Rate the intent.
-- Skip comments about a *different* faculty or course in the same thread, like a lab
-  instructor, MAT120 faculty in a CSE215 post, or a CSE225 experience in a CSE215 thread.
+- Read each comment as a human evaluator: evaluate the exact human intent.
+- Under "Best faculty for CSE115?", a reply of "Nva" is a recommendation. Under "Faculty NvA CSE115 review plz", a reply of "Drop" is a negative review of NVA.
+- A reply tagging a name and then giving an opinion ("Tousif … A+ o paite paren") keeps its original text, name included. Judge the opinion.
+- Watch for **sarcasm and negative outcomes**, e.g. "khub valo ki r bolbo… eto valo je just valo bolleo kom hoye jabe", "Koren vai Msk1.. be ready for insult" (means avoid), or praising a project initially but ending up giving a C grade (means avoid).
+- Skip comments about a *different* faculty or course in the same thread, like a lab instructor, MAT120 faculty in a CSE215 post, or a CSE225 experience in a CSE215 thread.
 
 ### Images
 If course/faculty info is only in an image, read it (the collector stores `img.alt`; use
@@ -233,16 +217,12 @@ verbatim.**
 ## 7. Keep/drop and rating rules
 
 ### Drop (not a review)
-Name tags alone, `.`, `F`, `up`, `bump`, `cfbr`, thank-yous, "same section", section and
-timing talk, section-exchange / course-exchange logistics (e.g., "Exchange post: / You get: / CSE273.01 (ARa2)"),
-bare schedule lists (e.g., "Cse273 - SMSL / Mkn1 / Cse373 - Ara2"), pure questions/requests
-(e.g., "Kindly provide your valuable review on those faculties", "How to get A/A- under these faculties"),
-jokes with no judgment, and comments about a faculty not in the reference list.
+- **All Question-Type Comments:** Any comment or post asking for reviews, advice, questions about exam pattern, slide dependence, grading curve questions, or course inquiries.
+- **Noise / Logistics:** Name tags alone, `.`, `F`, `up`, `bump`, `BUMP`, `cfbr`, thank-yous, `#followers`, "same section", section exchange, course exchange, partner search ("Looking for a CSE299 Project Mate!!", "Interested"), bare schedule lists, jokes, social chatter ("pabi na", "AIUB secret agent", "Hat-trick hoye gelo", "Double Dekhi", "Doomed", "why :')"), and comments reviewing a faculty not in the reference list.
 
 ### Keep
-Anything that judges the faculty: teaching, grading, curving, question difficulty,
-behavior, experience ("got A-"), recommendation ("go for X", "MHIS is good"), or warning ("drop X", "drop MHIS").
-A bare short verdict or recommendation under a post (e.g., "MHIS is good", "drop MHIS") MUST be kept as a review.
+- **Clear Statements Only:** Keep ONLY comments that contain a clear statement, judgment, or experience regarding the faculty (teaching quality, slide quality, grading, curving, question difficulty, behavior, experience, recommendation, or warning).
+- Short verdicts under a recommendation post (e.g., "MHIS is good", "drop MHIS") must be kept if they express a clear statement/recommendation.
 
 ### Review count rule
 - **Target minimum:** Keep scraping until *each* faculty has at least 10 meaningful reviews. If you reach posts from 2020 (estimate post age via comment timestamps like "4 years ago" or "5 years ago") OR see "End of results" on screen before reaching 2020, stop there even if 10 reviews were not found for a faculty.
@@ -253,11 +233,11 @@ A bare short verdict or recommendation under a post (e.g., "MHIS is good", "drop
 ### Rating scale (one rating per review)
 | Rating | Use when |
 |---|---|
-| `Outstanding` | Superlative praise: "best best best", "GOAT", "11/10", "got A even with a bad mid", "best for learning AND grading", detailed glowing experience |
-| `great` | Clearly positive / recommendation: "X best", "go for X", "valo", bare initials under a "who's best" post, positive with minor caveats |
-| `normal` | Mixed or neutral: "average learning, good grading", "fair grading, no curve", tips without a verdict, probable-sarcasm praise |
-| `harsh` | Tough but not a flat "drop": hard questions, stressful, biased, strict, "not for freshers", "you'll struggle", heavy-pressure warnings |
-| `avoid` | "Drop", "avoid", "worst", "save your money", clearly sarcastic praise that means avoid |
+| `Outstanding` | Superlative glowing praise with detailed positive experience: "best best best", "GOAT", "11/10", "got A even with a bad mid", "best for learning AND grading". |
+| `great` | Clearly positive recommendation: "X best", "go for X", "valo", "very good teacher, regular updates", positive with minor caveats. |
+| `normal` | Mixed or neutral statement: "average learning, good grading", "fair grading, no curve", humble/helpful teacher with average grade, casual praise with course uncertainty ("goated, not sure about 299"). |
+| `harsh` | Tough / strict / warning: slide reader, unorganized slides, gets angry when students struggle, hard questions, stressful, heavy-pressure warnings. |
+| `avoid` | Explicit warning: "nah. onek kharap", gets angry when asked questions, praised project initially but gave C grade, "Drop", "avoid", "worst", "save your money", clearly sarcastic praise. |
 
 ---
 

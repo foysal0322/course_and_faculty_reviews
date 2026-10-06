@@ -1,0 +1,308 @@
+POST: Assalamualaikum as I see in the list of trail courses in NSU official website from which I have to pick 2 course from a single trail and 1 from different trail. In the Algorithms and Computation trail there two coourses CSE473: Theory of Computation & CSE417: Numerical Methods but NSU currently offers them as CSE273: Theory of Computation & MAT481: Numerical Methods. So, if I do them will they meet my elective requirement? I already h… See more
+COMMENT: you should contact to the ece department, i have never seen someone doing mat481 as a cse trail course... But i have also done 273 as a trail course...no problem with that...
+COMMENT: Sourav Roy should I mail the chairman?
+COMMENT: Yes you can
+COMMENT: MAT481 open elective hishebe kora jabe na?
+COMMENT: Oroni Tasnim Rodela you can do anything as open elective but my question is if MAT481 can be done as elective
+COMMENT: Safat Uddin Accurate information kothay pabo etar?
+COMMENT: Oroni Tasnim Rodela Chairman sir ke mail disi but got no reply
+COMMENT: Safat Uddin reply pele ektu janayen.
+COMMENT: Could you let us know here if you find anything about it? I am planning to take mat481 this sem For the foreign universities,I have seen numerical methods & theory of computation being a required course but I haven't seen CSE417 being offered since the last few semesters. I am also skeptical if mat481 could be done as a trail instead of that.
+POST: Suggest some good faculties for these courses. Also, it would be very helpful if you can provide me with the course outlines.  Is there any  difference between CSE417 and MAT481 - Numerical Methods ?
+COMMENT: Cse311 Slf
+Cse373 Smah
+COMMENT: Mat481 ki Har ma'am nei?
+POST: Hey everyone,
+As we’ll soon have a chance to discuss curriculum changes with the Dean of ECE and Chairman of CSE, I wanted to get your thoughts on some ideas I’m considering suggesting. Please let me know if you think I’m asking for too much or if there’s anything I should adjust!
+   1.  CSE Core Courses : … See more
+POST: #Faculty Review
+CSE417- Numerical Methods.
+F.I- SBW(Dr. Samir Kumar Bhowmik)… See more
+COMMENT: SBW CSE course o nei dekhi.
+COMMENT: Approx koy grade curve kore ?
+COMMENT: Jawad Aziz 2 Grade
+POST: Ignore this message, if you are not taking CSE257/CSE417
+This was a mandatory course of ECE dept till batch 142.… See more
+COMMENT: Nsu be like : " jai aktu moja kore ashi "
+COMMENT: 257 and 273 both ki kora lagbe?
+COMMENT: Itz Fahad
+COMMENT: Sanjida Bithi
+COMMENT: Jahid Shan To
+COMMENT: Md Khaled Hossain Emon bece gelam
+COMMENT: Nadia Alam Sanjena Hoque
+COMMENT: Jannatul Ferdous Marine hae etar kothai toh bollam apnake Apu
+COMMENT: Jannatul Ferdous Marine thanks alot
+COMMENT: Sanjana Islam
+COMMENT: Ibrahim Khalil
+COMMENT: Kanij Fatema Mahi Tasnim Jannat
+COMMENT: Humaira Mim
+COMMENT: Afsar Tasnia jak alhamdulillah
+COMMENT: Faiyaz Rahim
+POST: CSE417 (Numerical Methods) or CSE273 (Theory of Computation), which has more importance in foreign universities? 
+NB: I can only take one course from here.
+COMMENT: ...
+COMMENT: 417
+POST: #CSE417
+How to do well with SBW? (Allahr kase dua kora chara)
+Thanks in advance.
+COMMENT: Numerical?
+COMMENT: শাকিফুল আলম অয়ন hae dost. 445 toh pailam na, compiler o dilo na, ekhon etai niye nilam
+COMMENT: Fairooz Rahman compiler korbo
+ algo trail er 273 ar 426 e
+COMMENT: শাকিফুল আলম অয়ন 445 paile eta drop dibo, but na pawar possibility e beshi. Eta na nile ei semester pura fao jabe. 426 toh sure chilam je offer korbe, majhe diye 493 offer kore bash mere dilo.
+COMMENT: Fairooz Rahman 493 e seat ase, nite paros chaile
+COMMENT: শাকিফুল আলম অয়ন nah re, networking e oto interest nai, 438 korbo just open elective.
+COMMENT: Fairooz Rahman ami to shob kisu e test koira dekhtesi
+COMMENT: শাকিফুল আলম অয়ন bioinformetics o koira fel taile
+COMMENT: Fairooz Rahman intro ta nite chaisilam. Offer kore nai
+COMMENT: F
+COMMENT: Lamia Akter Shahinur
+COMMENT: initial reveal korse?
+COMMENT: Mehedi Hasan nah but uni e ney proti bar, so pretty sure uni nibe.
+COMMENT: worst for learning and grading
+COMMENT: Md Moin Uddin bhai ar toh keu ney nah, ki korle valo kora jay?
+COMMENT: Fairooz Rahman I was actually very much interested to do this course. Waited for 3 consecutive semesters that anyone else would take the course. Unfortunate. If you are interested to do this course, you have no other options now or in future
+COMMENT: Md Moin Uddin bhaia ami actually compiler construction nite chacchilam, karon amr kase algo trail ta besh interesting lagse, but ebar offer kore nai. I really need to do a major course this semester. Ekhon eta nilam. But sbw niye besh chintay asi.
+COMMENT: Fairooz Rahman amio ei trail theke 473 korsilam. amader somoy cse473 ar cse417 offer korto. if you are really interested, go for it. compiler construction er course code koto?
+COMMENT: Md Moin Uddin 473 amr kora sesh bhai. Ekhon arekta kora lagbe ei trail er.
+Compiler er ta hocche 426.
+COMMENT: Fairooz Rahman 426/417 theke nao. 426 er jonno wait kore dekhte paro. 417 sob semester ei sbw nibe
+COMMENT: Nowadays Gender transformation is so available around the glob. You can try it. Let me know, if it helps.
+Tamanna Rahman Toma Ahmed Bulbul Md Moin Uddin don't forget to share your thoughts.
+COMMENT: ভাব দেখায়া কোর্স করতে গেছিলাম। পরিনতি রিটেক।
+COMMENT: Ahmed Bulbul ক্লাসের মাক্সিমাম গ্রেড দিছিলো, C+
+COMMENT: Samiur Prapon meye der proti biased?
+COMMENT: Class a attentive thaken and sir kiso practice day oigula koren . class a response korben …overall akta valo student ar j sob quality thake oigula maintain koren ..Inshallah valo korben.
+COMMENT: Asrafi Akter apu I heard that uni fair grade den na?
+COMMENT: Fairooz Rahman No comment..Amader section a 11 jon cilam probably..Oni kaoke A den nai.. A- 2 Jon paicilam bakira A- ar niche…
+COMMENT: Asrafi Akter I see. Tahole grading actually valo nah. Mark katen onek naki decurve koren?
+COMMENT: Fairooz Rahman decurve koren Na .. Actually tomi jodi enough hard work koro, Tomi akta decent grade paba..Oni obviously easygoing faculty Na ..Tomake earn kore nite hobe..
+COMMENT: Asrafi Akter thanks apu.
+COMMENT: Fairooz Rahman welcome
+COMMENT: Don't really know why people hate sir so much. I did both mat250 and Cse417 with sir. Sir is very interested in teaching so if you show you're keen on learning, that will definitely work in your favor. And it's mostly a math course, so a lot of practice is needed for the big maths. You need to get the procedures perfect otherwise you'll lose marks
+COMMENT: Zahin Ahmed i was hoping je coding thakbe ei course e. Coding koto ta thake and maths koto ta thake? And also, uni ki decurve koren?
+COMMENT: Fairooz Rahman as far as i saw de curve korena. Matlab use kore lab e but it's not much tbh, and code usually diei day classe.
+COMMENT: Zahin Ahmed thanks bhai.
+COMMENT: K. Suchana
+POST: Anyone did Numerical method (CSE417)?
+Please response.
+COMMENT: Yes
+COMMENT: Abir Hossain Rohan can you please check inbox?
+COMMENT: Yes
+COMMENT: Al Sabab can you please check inbox?
+POST: Is there anyone who has done CSE417 last semester? It would be very helpful if you could describe what the course is about. Is it easy or very hard? Thanks in advance.
+POST: Help please!
+Between CSE417 and CSE273 which one should be done and why? Which one's more likely to be used in further studies or in practical field?
+Also between 411, 438 and 482 which one would be better!
+Thanks in advance!
+COMMENT: 273 is really important as far as I heard from the seniors. And the course is also really easy and interesting. Recommended
+POST: Anyone taking cse417 or cse257 for upcoming semester? And suggest faculties please ..
+POST: #help
+CSE417 Numerical methods and CSE473 theory of computation can anyone tell me about these two courses in details? Which will be more useful or more important for future? Thanks!
+POST: Which courses will be easier?
+Cse417 and cse473 or cse438 and cse482?
+TIA
+COMMENT: 417 niyen na.. Faculty bhalona
+COMMENT: 417,473
+COMMENT: Shohug I can't take courses from different trails, have to take either 438 and 482 or 417 and 473.
+COMMENT: If msk1 is taking do 417 with out hesitation but make sure he is taking the course
+COMMENT: 482
+COMMENT: 473
+COMMENT: Mahfil Sakib koi onek hard toh
+COMMENT: Mahfil Sakib kar kache korso?
+COMMENT: Struggled to get good grade r ki bolbo
+COMMENT: Nayemul Islam Nayem
+COMMENT: Tanzim Ahmed easier er jonno cse438, 482 newa uchit.. Cause 2tar concept onk similar, and 482 tw one of the easiest course.. Tui tw janos e
+COMMENT: Tanzim AhmedTanzim Ahmed 482 tui koros nai? A ki ami paisi na tui?
+COMMENT: dui bisheshoggo
+POST: Is there anyone who is doing #CSE417 & #417L
+in this semester? Need help,i have some queries regarding this course ...TIA
+POST: Is there anyone who is doing #CSE417 & #417L
+in this semester? Need help,i have some queries,for take this course next semester...TIA
+COMMENT: Bhai jitsos
+POST: Have anyone done Mat250 under SBW?
+POST: Who is taking CSE326/CSE426 Sec 1 and CSE257/CSE417/EEE232 Sec 1 in this semester? Thnx in advance
+COMMENT: https://nsu.nihal.one/
+COMMENT: Cse326 RJP sir...
+POST: Can anyone kindly give me the slides and course outline of the following courses? 
+CSE445 (sfm1 sir)
+CSE467 (saa3 sir)
+CSE438 (saa3 sir/rjp sir)
+CSE417 … See more
+POST: #CSE373.6( ABH1)
+#CSE417.1(SBW)
+I just changed the section of CSE373 and added CSE417 as a new course. … See more
+COMMENT: SBW from math department?
+COMMENT: yes
+COMMENT: Farjana Khanam Nishi should have dropped it
+COMMENT: drop sbw
+COMMENT: Md Sajid Ahmed na vlo sir
+COMMENT: Pinky Biswas Farjana Khanam Nishi ke review daw
+COMMENT: Md Sajid Ahmed dye dsi alrdy..
+COMMENT: Sbw bhalo na chagol
+COMMENT: Asta bolod! Ask korti age
+COMMENT: Pinky Biswas ki ki shunte hoitese amk
+COMMENT: sagol,pagol,bolod...
+COMMENT: Farjana Khanam Nishi sir k mntn kre dbo nki? Amr shte sir add ase
+COMMENT: Pinky Biswas bhai eigula na kore bhalo kisu bol jeno at least amk sagol pagol na bole
+COMMENT: Farjana Khanam Nishi tmi kre A pye dekhai daw tylei hbe
+COMMENT: Pinky Biswas shob gali comment a dawa jay na..tai inbox a ay..
+COMMENT: A paiya dekha...hala bolod!
+COMMENT: Bayezid Prince eishob language use korteso amr sathe!!
+ thx
+COMMENT: tmk ami bhalo bhalo faculty suggest kori with details!! even inspire o kori ....r tumi amk depressed kore disso!! tui sagol beta fazil,soytan
+COMMENT: Farjana Khanam Nishi
+COMMENT: Did a math course under sbw. If u have other options, drop him
+COMMENT: Sbw unpredictable but bujhay bhalo
+COMMENT: Ikbal Hossain bhaiya can u plz check ur inbox.
+POST: CSE417 - Numerical method who is taking the course in this semester ?
+COMMENT: Probably msk1 I'm not sure.He was talking about that course last semester.
+COMMENT: SBW
+COMMENT: Ikbal Hossain ai semester e o sir nicchen Tumi sure ?
+POST: Review please
+POST: CSE417 Section 1 er Lab hobe 21 tarikh (tuesday)?
+Please reply!!
+TY
+POST: Is there anyone who has done #CSE417 in the previous semester? Need some help.
+COMMENT: Shamima Haque Priya
+COMMENT: Yes. I have done 417 in the previous semester. Please state the help that you require
+COMMENT: Shamima Haque Priya can I Inbox you?
+COMMENT: Shamima Haque Priya apu can you kindly check your inbox?
+COMMENT: Limon Motin kon faculty nei and kmon porai?
+COMMENT: Limon Motin apu can you kindly check your inbox?
+COMMENT: Limon Motin apu apnake message sent kora jacche na. can you kindly send me message if you are ok with it?
+COMMENT: Pinky Biswas
+COMMENT: Akib Rahman
+POST: Any idea on who's taking CSE417 this semester?
+POST: Does Anyone have any lecture slides for CSE473(Theory of Computation) and CSE417(Numerical Methods)?
+POST: Any idea about who is going to take cse257/cse417 ? Bcz only one section is appeared in offered course list
+POST: #urgent
+hello,
+Can anyone please let me know whether I've to take Lab along with EEE424 (it's one of the major trail courses of EEE)?
+POST: Is there anyone from
+cse473 sec 1
+cse417 sec1
+POST: kindly suggest me some good faculties for the following courses 
+#pbh101
+#phi101
+#cse473
+#cse417… See more
+POST: If anyone wants to take cse257/cse417 and/or cse273/473 , but could not do so due to lack of sections , please provide your name and id along with the course initial on the comments below. I will be submitting an application to the chairman with the list of of your ids' for opening new sections by tomorrow.
+COMMENT: Niye nisi
+POST: Who is taking cse417??
+COMMENT: msk1 maybe
+COMMENT: Shamim Rahman sure bro??
+COMMENT: Ikbal Hossain sir er newar kotha
+COMMENT: Mokarrom Ibne Alam
+COMMENT: Sanjida Akter Mumu age nito
+POST: Any idea who is taking cse417?
+POST: Is there anyone who did cse417? I need info about this course .
+COMMENT: Numerical analysis korba?..etar to prerequisite ase mat240..ami jotodur shunsi eta te Matlab die kaj kora shrkhai
+COMMENT: Imtiaz Mahmood ohhh Tahole korbo nah
+COMMENT: Tasfia Islam dekho matlab ase , i am also not comfortable with this thing, bujhtesi na oita na paile eta nibo naki!
+COMMENT: Tasnia Nishat ne ne
+COMMENT: Riath Tamanna Khan u r joking...n I know it...
+COMMENT: Tasnia Nishat i have done it
+COMMENT: Riath Tamanna Khan haan...tai to bolteso...nije pera ta khaiso...akhon amk khawaite chaiteso...
+COMMENT: Tasnia Nishat 
+ dst ki diye ki korlam kisui bujhlam na re
+COMMENT: Riath Tamanna Khan Matlab ase to Jani...r tmr motlob o bujhchhi...
+POST: Can anyone kindly give me the course outline for the following courses 
+CSE440, CSE445, CSE467, CSE468, CSE495, CSE486, CSE417, CSE418
+POST: Is there any kind soul who is going to describe what cse417 is about?what's the pros and cons of taking this course??? Thank you in advance
+COMMENT: Ishan Sen
+COMMENT: if u give me a trt i will tell u
+COMMENT: Ishan Sen vaya sobaire free te suggestion deya hoy amr belay treat??
+...avabe na kadaleo parte
+COMMENT: Akn Ar free suggestions dai nah
+COMMENT: Ishan Sen female hola discount asa nah???
+COMMENT: Sakib discount ki asa?
+COMMENT: Sakiber pasa thakla discount asa.na thakla nai Aminul Islam
+COMMENT: Mehedy Hassan hmmm tmr jonno 200% discount
+COMMENT: Aminul Islam Ami equality tae believe kori
+COMMENT: Ishan Sen tai ata o sunta holo ...amamder satea tho 1 minute o adda deta choue na r........ bollam nah
+COMMENT: Tmi Jodi nah bostae chao Kamne adda dibo
+COMMENT: Aminul Islam meira Jodi Amar sathae bodtae chai Ami Ki kortae Pari
+COMMENT: Ishan Sen
+COMMENT: joghonno akta course
+COMMENT: Rafe Islam details vai
+COMMENT: full maths.amar kase baje lagse
+COMMENT: ki jonne kortesi ki korlam kisue buja jayna
+COMMENT: Rafe Islam thats the purpose of math actually...cse te directly ai math er apply kothao korlam na aaj porjonto...ki kortesi bujte bujtei course shes
+COMMENT: eta aro boring
+COMMENT: Rafe Islam prblm nai vai...amr mone hoy na mat350 te ja korsi ai gula re keo beat korte parbe
+COMMENT: oisob math er kisue nai eikhane eta akdm new concept
+COMMENT: hehehe ki korlam Allah jane
+COMMENT: Riath Tamanna Khan ki koray apu aktu idea diben??
+COMMENT: Rubaith Adnan sir youtube er link diten oita dekhe quiz ditam mid r final eh paper nisen jodi keu nijer paper likhte interested na thaken tahole ekta paper choose kore oita doc eh type korte hobe r presentation on paper
+COMMENT: Bah kon sir ato mohan??
+COMMENT: Rubaith Adnan tim sir
+COMMENT: Asif Mahmud ajk kom pari bole
+COMMENT: Shei course. Onk easy.no pera.only chill. Hu ha
+COMMENT: Mehedy Hassan mane seriously!!!!!
+COMMENT: Aminul Islam ke ke porae bolo oka
+COMMENT: Rootfinding methods, Interpolation, Numerical integration, Solution of system of linear equation,boundary value
+problem etc
+COMMENT: Vai ai jinish ki khub pechailla kisu??kemon pera khaite pari idea nite chaitasilam
+COMMENT: SON there are 7.7 billion human soul on earth according to united nation as of 2019.
+COMMENT: Hasan Asif but i need one kind soul to answer my question and that soul should be a student of nsu
+COMMENT: then i hope someone would roger that
+COMMENT: Tasfia Islam
+COMMENT: Tasnia Nishat ami nibo eta!
+COMMENT: Tasfia Islam ne ne...he he...
+COMMENT: Tasfia amio nicchi hopefully ei faculty chole jabe xD eita paile korboi na
+COMMENT: Dawood Yaseen k faculty ebar??
+COMMENT: Dawood Yaseen Tasfia Islam Ami bujhtesi na Tora bhalo student Ra 417 Kore ki Moja pabi... it's a boring math like course, jta te grade tulao sometimes tough hoye jay for bad faculty...Ami nijei Baad dlam Tai...naile Kobe Kore feltam...Amar to 273 teo heavy grip chhilo...but korinai...417...ER theke 438 rjp sir better... course ta Khali Khali boring bole...bujhe porle bhaloi lage...jante how internet thing is working...at least it's better than knowing how obsolete math formulas n principle, n never get to know where can you ever use this 417 math in cse...shesh Kotha...417 I don't like... Period
+COMMENT: Tasnia Nishat maths is 
+.... But ei course e ki type er maths porabe eta niye no idea!!!
+COMMENT: Tasfia Islam Amar math love age chhilo...Akhon r nai...math er M o Mone nai Amar...egula korar moddhe thakle...pari...naile out of my mind like air...
+POST: How is TCW for CSE417?
+Please it's urgent.
+COMMENT: New faculty maybe
+COMMENT: Masum Billah nah aage onno course nise
+COMMENT: Oh
+COMMENT: Masum Billah New e almost sob e nitese ebar.
+COMMENT: Hmm
+COMMENT: Masum Billah
+COMMENT: New Korean faculty I think
+COMMENT: Guessing from the name lol japanese Chinese o hote pare lol
+COMMENT: Check inbox
+COMMENT: Seriously Chinese
+COMMENT: Suparna Arya Biswas 
+ Ami kanna koram
+COMMENT: New experience hobe tomader.
+COMMENT: Suparna Arya Biswas Dst onak curve kora shikhais plzzz
+COMMENT: Suparna Arya Biswas
+COMMENT: Best of luck and enjoy! I hope he makes the course interesting and fun enough!
+COMMENT: Fairuz Maesha Habib thanx
+COMMENT: Can anyone tell me the full name of this faculty??
+COMMENT: Tim Chen
+COMMENT: Tim Chen; He has duel masters and duel PhD. Taiwan birthplace. Thought in several countries such as Australia, Saudi etc. Not fluent in English. But expert in paper writing and publishing. Top top journal e publish korse sir. Riath
+COMMENT: Ahmed Ishmum Rashique thnx dst
+POST: can anyone tell me for cse417 who is taking section 2?
+COMMENT: F
+COMMENT: tcw
+COMMENT: any idea how is s/he?
+COMMENT: he is from taiwan..foreign faculty..has double PhD.
+COMMENT: Farlina Barik thanks a lot
+COMMENT: Zenhar Prodipto
+POST: Faculty review
+Cse417 MSK1
+Cse425 EZM
+COMMENT: cse 425 ezm amio
+COMMENT: 417 msk1 Kon section
+POST: How is msk1 for cse173 ?
+Grading policy?
+How to get good grades?
+POST: How is SAK1 for CSE417?Review please....
+TIA
+COMMENT: Worst faculty.. sem drop daw
+COMMENT: Worst faculty.. sem drop daw 
+ (2)
+POST: CSE417 (Numerical Methods) eta ki old curriculm(134credits) e elective hishebe neua jabe? Ami already 257 korechi . TIA
+COMMENT: Strongly no.
+POST: URGENT HELP POST: I'm from the 134 credit curriculum. CSE 257 is a core course for me but I'm planning to do it next semester. Is there any chance that it won't be offered again? 
+Also, CSE417 and CSE257 is the same course. Can I do 417 if 257 is not offered?
+Are any of you planning to do it in the next semester?Please comment
+Thanks In Advance
+COMMENT: Ha asif you can. But you've to notify program officer to adjust it when you do the course analysis.

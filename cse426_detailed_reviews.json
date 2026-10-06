@@ -1,0 +1,30 @@
+{
+  "cse426": {
+    "rjp": [
+      {
+        "review": "RJP sir is excellent. Did 438 under him this semester. Teaches really well.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "I've done courses under RJP, RTK and I can relate. the way you explained your experience rather than saying best or worst, i hope everyone does the same",
+        "rating": "great"
+      }
+    ],
+    "rtk": [
+      {
+        "review": "RTK sir is a godsend!!! Such an amazing person and the way he teaches is beyond imagination! Did EEE141 with him, hope to get him for EEE111 :')",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Rtk Sir He's not only a good teacher, but also a great human being! Undoubtedly he's one of the best mentors I've got in my undergrad life!",
+        "rating": "Outstanding"
+      }
+    ],
+    "mzk": [
+      {
+        "review": "mzk to haste haste bash diye dei",
+        "rating": "harsh"
+      }
+    ]
+  }
+}

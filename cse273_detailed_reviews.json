@@ -1,193 +1,411 @@
 {
   "cse273": {
-    "ara2": [
+    "acq": [
       {
-        "review": "Ara2 sir is very easy-going and one of the most humble faculty members. He teaches extremely well and practices many exercises in class related to each topic. He gives around 4 homework/ assignments, and quiz questions are usually taken from the homework. The midterm and final exam questions are of the same type as the practice problems. / Only the final exam includes some theory parts, such as a few MCQs and 2–3 proof-based questions. Students are required to answer only one proof question, and he informs the class in advance which proof will appear in the exam. He also gives clear suggestions about the exam pattern and often sets questions exactly as discussed. / The most important thing is to regularly practice the exercises done in class. He gives bonus marks to students who solve practice problems during class, although he does not announce it openly. He writes the names on a white paper at the end of the class. / attending all classes is essential if you do not want to miss out on bonus marks.",
+        "review": "Raeen Rizuan ACQ Valo. Amar friend ra korse! Amio ebar ACQ nitam but lab pai nai tai nei nai",
         "rating": "great"
       },
       {
-        "review": "Theory of Computation is absolutely essential in any computer science program. I don't understand how it's not a core course. A decade or two ago, ToC would have been one of the few courses to be offered in any CS degree anywhere in the world. And nowadays it's becoming a second-class course in lieu of the more \"industry-oriented\" courses, which, btw, fail to be much useful in giving students the necessary skills to do well in the software industry. Sad to see CSE programs becoming substandard SWE programs. / Anywho, if you do choose to take CSE273, which you should, consider taking ARA2 sir's section. He's one of the more brilliant and true-to-the-field faculties I've come across in NSU. Also, if your goal is to secure a top grade but you're willing to be somewhat sincere about working for it, then his classes and homeworks will be more than enough to prepare you for the exams. Best of luck!",
+        "review": "Acq is really good. Kono effort charai easily A pawa jay. Sir is too good and very friendly as well.",
         "rating": "great"
       },
       {
-        "review": "Jawadul Karim Tanzim He taught really well in 323, but are his lectures easy to understand in 273? CSE323 felt much easier for me because I already had a good grasp of CSE332 and CSE331. So I was able to follow along and relate to some of the topics at the beginning, which gave me a solid start with his lectures. Later on, everything went smoothly. However, CSE273 is a completely different course. I have a basic idea about turing machines, but I don’t think that would be enough. So I’m confused about whether to take the course with ARa2 or SMSL sir. / Can you elaborate on his teaching and grading, particularly in 273?",
+        "review": "Dewan Najmus Saqib yes",
+        "rating": "normal"
+      }
+    ],
+    "afrn": [
+      {
+        "review": "AFRN sir best!!",
+        "rating": "great"
+      }
+    ],
+    "air": [
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Eyyyyy",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee স্যার আপনার থেকে বেস্ট ইনপুট চাইবে. উইকলি আপডেট দিতে হবে . বেস্ট প্রজেক্ট দিতে হবে . উইকলি কাজ করতে হবে. স্যার উইকলি আপডেট নোট ডাউন করে নিয়ে যায়.\nফাইনাল রিপোর্ট খুব ভালো হইতে হবে. মন মত না হলে করেকশন দিতে থাকবে.",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob A paben apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Doa koiren apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee Apnio doa koiren apu .",
+        "rating": "normal"
+      },
+      {
+        "review": "#mkn1 o valo ache",
         "rating": "great"
       },
       {
-        "review": "Ara2 sir, practice a lot in class, just understand these problems well and practice them at home. Also, try to solve the problems that sir gives during class quickly in the class itself, as sir gives performance marks. / Mua3: memorize ,memorize and memorize the slides . / Sir doesn’t put any pressure during the whole semester and he accepts any type of project, but his marking is not good;deduct unnecessary marks, so try to keep ans precise",
+        "review": "Areh brilliant student amar section e kmne ki !",
+        "rating": "normal"
+      },
+      {
+        "review": "Ektu apnak follow korlam arki",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiyeel Alim 499A nilam. Hope for the best.",
         "rating": "great"
       },
       {
-        "review": "CSE273 - Ara2 or SMSL? / I did CSE323 under SMSL sir. He was outstanding at teaching the course. The course felt much easier because of him. I heard he also takes CSE273. However, 273 is an extremely important course and I don't want to take a risk. I heard Ara2 sir is the best for this course. So, If anyone did CSE273 under SMSL sir or Ara2 sir please provide a detailed review. Thank you.",
+        "review": "Muhammad Mutasim Farhan Thanks for your valuable comment",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee You're welcome!",
+        "rating": "normal"
+      },
+      {
+        "review": "ScenicPomegranate5275 It's my 2nd last semester. I hope it's cleared to you now",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee sadly, no. We had multiple sections of MKN1 during my time, so I asked my friends who had exams before me about the question types, and it helped me prepare.",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee collect the previous question. Memorise the slides otherwise he Won't give you marks. Sir is so rude. Judges in every minutes. If you ace every exam then you are ready to go",
+        "rating": "normal"
+      },
+      {
+        "review": "Moira ja",
+        "rating": "normal"
+      },
+      {
+        "review": "Dibona review",
+        "rating": "normal"
+      },
+      {
+        "review": "Sanjana Fariha Apu fin major kemon lage review den",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee jake take ami review diye time waste korina..",
+        "rating": "normal"
+      }
+    ],
+    "ans": [
+      {
+        "review": "Raeen Rizuan maam is easygoing. Class e attentive hote hbe, questions shb slides thekei ashe, class e maam important topics bole dey shekhan thekei question ashe. Quizzes onk easy hoy and ans kachakachi holeo mark den. Mid and final eo Maam onk mark den but she doesn’t curve at all.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ara2 sir, practice a lot in class, just understand these problems well and practice them at home. Also, try to solve the problems that sir gives during class quickly in the class itself, as sir gives performance marks.\nMua3: memorize ,memorize and memorize the slides .\nSir doesn’t put any pressure during the whole semester and he accepts any type of project, but his marking is not good;deduct unnecessary marks, so try to keep ans precise",
+        "rating": "harsh"
+      }
+    ],
+    "aqrm": [
+      {
+        "review": "Kindly provide your valuable review on those faculties...\nCSE273.1- ARA2\nPhi104.9- Syn\nECO101.39- Aqrm… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "Ibrahim Sani aqrm",
+        "rating": "normal"
+      },
+      {
+        "review": "Aqrm good",
+        "rating": "great"
+      },
+      {
+        "review": "Ibrahim Sani hea",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily yes",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily I don't remember much clearly, because I did it 2 years ago. But I can tell you that getting an A from Sir by rote is not an option. You must study with understanding.",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily yes. Sir easygoing",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily sir ja porai tar theke question kore. Mid, final er age sir bole dey ki ki ashte pare oigula porle common ashbe. Assignment dibe ekta ar viva ase.",
+        "rating": "normal"
+      },
+      {
+        "review": "ExcellentCamel5932 no only assignment and viva",
+        "rating": "normal"
+      },
+      {
+        "review": "AQRM sir shera",
+        "rating": "normal"
+      },
+      {
+        "review": "syn, aqrm 2 tai Goat",
         "rating": "Outstanding"
       },
       {
-        "review": "Ara2 sir onk easy going..class e ja porae tai xm e ashe..but class e attentive thakte hoe..question ekbare easy koren.. / Mua3 sir mukhosto chara kono goti nai and try to collect previous semester questions..oigula theke valoi common pore",
+        "review": "A random nsuer nah",
+        "rating": "normal"
+      },
+      {
+        "review": "Aqrm curve king \n and he is probably the only faculty who curves in this course",
+        "rating": "normal"
+      },
+      {
+        "review": "Aqrm is red wine",
+        "rating": "normal"
+      },
+      {
+        "review": "You will fall in love with economics",
+        "rating": "normal"
+      }
+    ],
+    "ara2": [
+      {
+        "review": "Fax u",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse273 ara2\nEng111 tshn bt no curve, mark dey bhalo",
         "rating": "great"
+      },
+      {
+        "review": "Cse273 ara2\nCse440 msdl",
+        "rating": "normal"
+      },
+      {
+        "review": "ExcitingCaterpillar4429 He knows a lot of stuffs and teaches quite well. He delivers the whole lecture in english, some students struggle with that. He takes 4 quizzes, counts best two. Gives a simple project (adding two unique features to xv6 os). Takes one assignment which includes a 5 minutes presentation (You make slides, explain the whole thing, make a video of that, post it on the canvas, that's it). Usually almost everyone gets full marks on project and assignment. If you do exactly what he tells you to do, you will get full marks. Quiz questions are very easy, usually small theories, simulations and mcqs. But his midterm and final question are a bit tricky. To do good in his exams, you have to attend all of his lectures and solve the practice problems. He provides a tons of practice problems. So here you go, his grading is also very generous, he does curve I think, depends on the performance of the section.",
+        "rating": "great"
+      },
+      {
+        "review": "A Haque No",
+        "rating": "normal"
+      },
+      {
+        "review": "Jawadul Karim Tanzim bhai ami ask korle to eto boro review den na",
+        "rating": "normal"
+      },
+      {
+        "review": "Just go for ara2 he is very good for this course\nUnderstanding and learning the topics will be so easy and it will go very smoothly",
+        "rating": "great"
+      },
+      {
+        "review": "Shamiul Alam Miraj he teaches very well. If you just be focused on studies that will be enough.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ara2\nCls boring lgbe..but monojog dia krle bujhben...\nAnd question akdm slide er moto kore...\nLast e 10√x curve kre",
+        "rating": "normal"
+      },
+      {
+        "review": "Ibrahim Sani Ekhn new system e kore nah 10✓x",
+        "rating": "normal"
       },
       {
         "review": "Don't miss a chance to do the course with SMSL. Ara2 is good, but take SMSL. Don't miss the chance. His explanations are amazing and on point. It's rare to find faculties like him. One of the finest NSU has to offer. Go with SMSL.",
         "rating": "great"
       },
       {
-        "review": "273,373- Ara2 (easy going, and quiz,mid,final ki type question dibe bole dey and class a regular practice koran so extra pera neowa lage na.)",
-        "rating": "harsh"
+        "review": "Sumaya Suimee in detail bolo ektu",
+        "rating": "normal"
       },
       {
-        "review": "Just go for ara2 he is very good for this course / Understanding and learning the topics will be so easy and it will go very smoothly",
+        "review": "Raeen Rizuan just follow his instructions that will be enough",
+        "rating": "normal"
+      },
+      {
+        "review": "Ei cheletar kotha keu shunben na\nO exceptional apni drop dilei better tao apnar iccha",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ayishah Marium ops",
+        "rating": "normal"
+      },
+      {
+        "review": "Sohan Sezio thank you",
+        "rating": "normal"
+      },
+      {
+        "review": "Best Faculties paiso shob course e",
         "rating": "great"
       },
       {
-        "review": "Ara2 / Cls boring lgbe..but monojog dia krle bujhben... / And question akdm slide er moto kore... / Last e 10√x curve kre",
+        "review": "Khadiza Jahan Kheya\nkindly elaborate a bit.",
         "rating": "normal"
       },
       {
-        "review": "Asif Rafi Amio ARA2 sir er kache 115 korecilam. Sir ektu strict chilo but also valo manush.",
-        "rating": "harsh"
-      },
+        "review": "He does",
+        "rating": "normal"
+      }
+    ],
+    "ata": [
       {
-        "review": "Mostafizur Rahman ARA2 স্যার করায় ( অপশনাল, যারা প্রজেক্ট করবে তাদের ফাইনাল দেওয়া লাগবেনা)",
+        "review": "Bro mat350 section 6 toh ATA, not png",
         "rating": "normal"
       },
       {
-        "review": "Nazmus Sakib Nihal I'm doing gaddari. Ara2 e jabo. Unar contents bhallagche.",
-        "rating": "normal"
-      },
-      {
-        "review": "Ara2 for both learning, grading, life lesson.. He is a great human being",
+        "review": "Ata maam will select some problems.\nAnd you have to memorize the theorems also.\nTry to interact with her.\nIf you follow her instructions then you are good to go.",
         "rating": "great"
       },
       {
-        "review": "Guys quick #review pls / CSE331 mua3 / CSE273 mmk1 / CSE373 ara2",
+        "review": "Humayra Rahman Nipa apu I like to know about ATA mam more",
+        "rating": "normal"
+      }
+    ],
+    "atp": [
+      {
+        "review": "Tausif Mushtaque Yep, that's a no-brainer atp",
+        "rating": "normal"
+      }
+    ],
+    "azk": [
+      {
+        "review": "If Azk sir is taking CSR495B, just avoid that course totally, lol.\nTake CSE445, CSE465, and CSE273.",
         "rating": "normal"
       },
       {
-        "review": "Cse273 ara2 / Eng111 tshn bt no curve, mark dey bhalo",
+        "review": "Lamia Islam 452 FKR 499 Azk",
+        "rating": "normal"
+      },
+      {
+        "review": "Modassir Hasan leader Azk nile manabena\nLeader Paper publish krbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Lamia Islam azk sir easygoing..\nFkr regular class korlei enough. Ajaira graph korabena",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse331 maqm/ Mua3\nCse499A azk ( easygoing project na dile hoy )\nCse273 mmk1\nEee452 rkz",
+        "rating": "normal"
+      },
+      {
+        "review": "Nawsheen Sadia ami to ekta pore gelam azk er kache",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE 440 -MDSH ,Alk1\nCSE445 - BMH ,AZK",
+        "rating": "normal"
+      }
+    ],
+    "fkr": [
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Eyyyyy",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee স্যার আপনার থেকে বেস্ট ইনপুট চাইবে. উইকলি আপডেট দিতে হবে . বেস্ট প্রজেক্ট দিতে হবে . উইকলি কাজ করতে হবে. স্যার উইকলি আপডেট নোট ডাউন করে নিয়ে যায়.\nফাইনাল রিপোর্ট খুব ভালো হইতে হবে. মন মত না হলে করেকশন দিতে থাকবে.",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob A paben apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Doa koiren apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee Apnio doa koiren apu .",
+        "rating": "normal"
+      },
+      {
+        "review": "FKR sir to best",
         "rating": "great"
       },
       {
-        "review": "Mushfiqur Motaid Rahat Ara2 , beautiful faculty",
+        "review": "#mkn1 o valo ache",
+        "rating": "great"
+      },
+      {
+        "review": "Areh brilliant student amar section e kmne ki !",
         "rating": "normal"
       },
       {
-        "review": "Ara2 sir is one of the finest faculty of NSU",
+        "review": "Ektu apnak follow korlam arki",
         "rating": "normal"
       },
       {
-        "review": "Ami groupe search disi ARa2",
+        "review": "Samiyeel Alim 499A nilam. Hope for the best.",
+        "rating": "great"
+      },
+      {
+        "review": "452 -FKR (my dream)",
         "rating": "normal"
       },
       {
-        "review": "Ara2 sir best of the bests",
+        "review": "Muhammad Mutasim Farhan Thanks for your valuable comment",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee You're welcome!",
+        "rating": "normal"
+      },
+      {
+        "review": "ScenicPomegranate5275 It's my 2nd last semester. I hope it's cleared to you now",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee sadly, no. We had multiple sections of MKN1 during my time, so I asked my friends who had exams before me about the question types, and it helped me prepare.",
+        "rating": "normal"
+      },
+      {
+        "review": "Fkr r kase shb perfect hote hbe. Rtk sir are Mkn1 goated faculty. But faw faw marks debe nh A A- r Jonno efforts dete hbe.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Sumaya Suimee collect the previous question. Memorise the slides otherwise he Won't give you marks. Sir is so rude. Judges in every minutes. If you ace every exam then you are ready to go",
+        "rating": "normal"
+      },
+      {
+        "review": "Mkn-1 best.Fkr pagla typer.onar moto answer na hole marks onk beshi cut kore",
         "rating": "great"
       }
     ],
-    "mmk1": [
+    "gdd": [
       {
-        "review": "Umme Jahara Simki mmk1 sir is one of the most humble and student friendly teacher in nsu / and also his teaching quality really well and makes concepts easy to undrstand. So don't miss his classes. / Sir takes two quizes but counts the best one and midterms are quite easier if you follow his lectures properly. / Final question was a little bit tricky but if u understand the concept clearly then it's really easier for you. / Class recordings are shared which is helpful for revision. / in terms of grading he gives huge partial marks and follows the 10✓x curving. / so getting an A or A- is very easier with some effort.",
+        "review": "Gdd best",
         "rating": "great"
       },
       {
-        "review": "Review of MMK1 (CSE273): Alhamdulillah for everything, especially for the privilege of being a part of this exceptional man's class. What an outstanding individual Sir is! Allow me to elaborate; we had finals on a remarkably chilly winter morning, with the exam scheduled to commence at 8:00 am. Just an hour before, I emailed Sir explaining the extreme cold outside and requested a 30-minute delay for the finals. Believe me, Sir accommodated the request. I am eternally grateful… See more",
-        "rating": "Outstanding"
-      },
-      {
-        "review": "Raisa Mahabub Ahona mkn1 sir khubi easygoing. Concepts clear thakle and practice bhalo bhabe korle onek bhalo marks pawa jay (uni onek partial marks o dey). On top of that she 10✓x curve kore. Jodio unar porano boring but youtube dekhe almost shob shikhe felano jabe  /  MMk1 sir shunsilam bhalo but ektu harder.",
+        "review": "Gdd is good...\nUnar mid ar final er syllabus ektu lengthy hoy... eta cover korte pain hoye jay ... but bhalo marks dey... curve o kore seshe...",
         "rating": "great"
       },
       {
-        "review": "273 akhon ar real world e oto lagena for most field of work. Its an outdated course which people take for getting a good grade, since its on the easier side (and more easy if you get Mmk1) / And by problem, it depends on what field of work you want to pursue in the future.",
+        "review": "GDD best",
         "rating": "great"
-      },
-      {
-        "review": "I got A under MMK1 . The questions are quite tricky! It’s like you have to perform realtime problem solving in the exams. I lost 10 marks in the mid but aced final with the highest mark in the class. The 10xcurve did the thing. I heard mkn1 is much more easy going.",
-        "rating": "Outstanding"
-      },
-      {
-        "review": "Mmk1 best like ar kono word nai best. Uni process thik thakle 90% mark dey baki 10 you have to make it accurate. End e curve o kore. / Mua3 amake mone koray dio uni question repeat kore ja slide er baire answer dile uni number kete rekhe dey. Curve kre na",
-        "rating": "great"
-      },
-      {
-        "review": "You can do it as an open elective. The course is interesting and important too.The way Mmk1 sir makes the course easier and interesting at the same time I don’t think youtube can do it. And there’s no connection with the courses you mentioned.",
-        "rating": "normal"
-      },
-      {
-        "review": "mmk1 sir besh valo for learning & / slow pace follow koren topic wise, class attend korte hbe + sir prev recorded lecture dye dei .. / 10root(x) e curve koren if section result is bad / such a gentleman !!!",
-        "rating": "great"
-      },
-      {
-        "review": "MMK1 sir er kache CSE273 korlam ebar, ekhon porjonto CSE courses gulate unar moto etto besi humble manush ami r ektao dekhinai r dekhbo boleo mone hoyna, also onek valo bujhai and so much easygoing.",
-        "rating": "great"
-      },
-      {
-        "review": "mmk1. huge partial marking. also curves the grade in the end. but you'll have to self study a lot since he provides complicated questions in exam.",
-        "rating": "normal"
-      },
-      {
-        "review": "Mmk1 bad den. Pore kono lav hbe na.kuttar moto poreo onk marks kata jai exam e. R onk hard question koren uni.",
-        "rating": "harsh"
-      },
-      {
-        "review": "Mmk1 sir is very humble & student friendly, sir onek partial marking koren, 10 √x curve koren",
-        "rating": "normal"
-      },
-      {
-        "review": "Cse331 maqm/ Mua3 / Cse499A azk ( easygoing project na dile hoy ) / Cse273 mmk1 / Eee452 rkz",
-        "rating": "normal"
-      },
-      {
-        "review": "Nirzon Rahman 6 din class pore jay / MMK1 niye rakhsi, ejonnoi switch korte chacchilam",
-        "rating": "normal"
-      },
-      {
-        "review": "Mmk1 outstanding, angel. / Mrh1 amazing and so cool straight to the point.",
-        "rating": "Outstanding"
-      },
-      {
-        "review": "Mmk1 er qstn pattern khub e hard / 10√x curve kre / Partial marking kre",
-        "rating": "harsh"
-      },
-      {
-        "review": "Farhana Supti MMK1 sir onek bhalo unar kache amio course korechi 425",
-        "rating": "great"
-      },
-      {
-        "review": "Mmk1 joss / Nbm good for learning.hardworking hole vlo kora jabe",
-        "rating": "great"
-      },
-      {
-        "review": "Guys quick #review pls / CSE331 mua3 / CSE273 mmk1 / CSE373 ara2",
-        "rating": "normal"
-      },
-      {
-        "review": "Mmk1 qstn khub e hard kre / Partial marks dey / 10√x curve kre",
-        "rating": "harsh"
       }
     ],
-    "smsl": [
+    "has": [
       {
-        "review": "Smsl er sathe exchange korle boillen",
-        "rating": "normal"
-      },
-      {
-        "review": "Cse273 smsl / Eng111 Nca",
-        "rating": "normal"
-      },
-      {
-        "review": "CSE273 Smsl / ENG111 Tshn",
-        "rating": "normal"
-      },
-      {
-        "review": "CSE273 - Ara2 or SMSL? / I did CSE323 under SMSL sir. He was outstanding at teaching the course. The course felt much easier because of him. I heard he also takes CSE273. However, 273 is an extremely important course and I don't want to take a risk. I heard Ara2 sir is the best for this course. So, If anyone did CSE273 under SMSL sir or Ara2 sir please provide a detailed review. Thank you.",
-        "rating": "Outstanding"
-      },
-      {
-        "review": "As you did a course under SMSL, you already have a good idea of his teaching. Same goes for 273, he's very knowledgeable and questions were relatively easy compared to last semester. I had difficulty grasping the concepts at the beginning, as I found them to be unconventional, involving a lot of thinking and intuition.",
-        "rating": "great"
-      },
-      {
-        "review": "Jawadul Karim Tanzim He taught really well in 323, but are his lectures easy to understand in 273? CSE323 felt much easier for me because I already had a good grasp of CSE332 and CSE331. So I was able to follow along and relate to some of the topics at the beginning, which gave me a solid start with his lectures. Later on, everything went smoothly. However, CSE273 is a completely different course. I have a basic idea about turing machines, but I don’t think that would be enough. So I’m confused about whether to take the course with ARa2 or SMSL sir. / Can you elaborate on his teaching and grading, particularly in 273?",
-        "rating": "great"
+        "review": "Sfr1 onek bhalo porai\nBut if you want a peaceful semester i wouldn't recommend onek pera dibe and if you can't keep up you'll do bad and sir has very high expectations he's hard to please\nJSA RTK MAQM SMF1 better for good grade",
+        "rating": "harsh"
       },
       {
         "review": "I took CSE273 under SMSL. His classes can be a bit boring, and I feel his explanations aren't always the clearest, though he definitely has a strong grasp of the subject. The best part is that he provides practice questions along with previous mid and final exam questions to study from.",
@@ -198,7 +416,45 @@
         "rating": "great"
       },
       {
-        "review": "Smsl sir’s Classes can be boring , but you can do good in exams if you do the assignments by yourself and understand the topic. / I studied from youtube and didn’t faced that much problem. / Sir gives partial marking if the process is right, curving may depend on whole class performance.",
+        "review": "Last semester was his first at NSU, and he has a strong command of the course content. However, students often struggle to keep up during lectures, as he sometimes moves too quickly and does not always engage the class effectively.\nThe exam questions were relevant to the practice problems and assignments. Some questions were tricky but manageable for students who had a solid understanding of the concepts. He also awarded partial marks.\nLastly, he applied 10√x curve to our section; however, this was section-specific, as my friend did 323 with him in another section where no curving was applied.\nIf you can self study a little bit this course will be easy for you.",
+        "rating": "normal"
+      },
+      {
+        "review": "I am doing 445 and 465 simultaneously this sem and i would say if you’re fortunate enough to get into in both of the sections then don’t continue with the other ones. Only focus on these two.Especially 465 has a huge learning curve about deep learning and neural networks and only 4 sections are available.\nIn case you get only one of either 445/465 then you can take 327 and 273 alongside with them. For 327 (mma1 sir is best) and for 273 (mkn1 sir)",
+        "rating": "great"
+      }
+    ],
+    "him": [
+      {
+        "review": "dont trust him guys he will definitely scam you",
+        "rating": "normal"
+      },
+      {
+        "review": "dont trust him guys he doesn't have these sections. he will ask you to drop first then take it for himself. My friend was scammed by him in Summer 25.",
+        "rating": "avoid"
+      },
+      {
+        "review": "ExcitingCaterpillar4429 He knows a lot of stuffs and teaches quite well. He delivers the whole lecture in english, some students struggle with that. He takes 4 quizzes, counts best two. Gives a simple project (adding two unique features to xv6 os). Takes one assignment which includes a 5 minutes presentation (You make slides, explain the whole thing, make a video of that, post it on the canvas, that's it). Usually almost everyone gets full marks on project and assignment. If you do exactly what he tells you to do, you will get full marks. Quiz questions are very easy, usually small theories, simulations and mcqs. But his midterm and final question are a bit tricky. To do good in his exams, you have to attend all of his lectures and solve the practice problems. He provides a tons of practice problems. So here you go, his grading is also very generous, he does curve I think, depends on the performance of the section.",
+        "rating": "great"
+      },
+      {
+        "review": "A Haque No",
+        "rating": "normal"
+      },
+      {
+        "review": "Jawadul Karim Tanzim bhai ami ask korle to eto boro review den na",
+        "rating": "normal"
+      },
+      {
+        "review": "Shamiul Alam Miraj he teaches very well. If you just be focused on studies that will be enough.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ibrahim Sani Ekhn new system e kore nah 10✓x",
+        "rating": "normal"
+      },
+      {
+        "review": "Don't miss a chance to do the course with SMSL. Ara2 is good, but take SMSL. Don't miss the chance. His explanations are amazing and on point. It's rare to find faculties like him. One of the finest NSU has to offer. Go with SMSL.",
         "rating": "great"
       },
       {
@@ -206,7 +462,1343 @@
         "rating": "harsh"
       },
       {
-        "review": "hello could you give a review on smsl sir",
+        "review": "Tarif Islam Ador kindly elaborate how to get the desired grade under him.",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE499A (RTk) - This course can be a life-changing course if you enroll under a faculty member who will guide you in building an excellent project that will both elevate your technical skills and your CV. And, if the faculty pushes you for a publication in a reputed Q1 journal, that's a huge plus point. RTk is one such faculty. Not only does he guide you in choosing an elegant project, but he will be there throughout the entire journey: building the project to writing the research paper, to publishing the paper in a reputed Journal or Conference. When I took this course under him in 2024, all the groups in our section had published a paper based on their CSE499 project. Our paper was published in the Q1 Journal Plos Computational Biology. He is very friendly, supportive, and approachable. However, one thing about him is particularly dangerous: he is very strict with deadlines, meeting his standards, and adhering to academic integrity, including avoiding plagiarism. He will share this detail in the first class. If you fail to give regular, meaningful updates in every class, or fail to meet his deadlines, or plagiarise, he will heavily penalize your marks. He is extremely picky in giving A's. Although this is a group project, your grade depends on your own effort, not that of your group members (every member might get a different grade based on their efforts and contributions). He failed 5-6 students from our CSE499A section and also gave very low grades (D) to some students in CSE499B. So be very careful about that. If you remain consistent on a regular basis and put on honest efforts, you don't need to worry about your grade. You have made a good choice.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Last semester was his first at NSU, and he has a strong command of the course content. However, students often struggle to keep up during lectures, as he sometimes moves too quickly and does not always engage the class effectively.\nThe exam questions were relevant to the practice problems and assignments. Some questions were tricky but manageable for students who had a solid understanding of the concepts. He also awarded partial marks.\nLastly, he applied 10√x curve to our section; however, this was section-specific, as my friend did 323 with him in another section where no curving was applied.\nIf you can self study a little bit this course will be easy for you.",
+        "rating": "normal"
+      },
+      {
+        "review": "TAA sir is extremely good for learning. His grading is fair enough. But you've to put some effort into the course. More likely you'll struggle at first if your speaking skills are not good because sir will go in a rush and you could find it difficult to cope up. But if you can somehow go along with him your English skills will sky rocket.",
+        "rating": "great"
+      },
+      {
+        "review": "I did cse225 under him, he is really great for learning and grading.",
+        "rating": "normal"
+      },
+      {
+        "review": "Jvn Sir is leaving NSU. He won’t be taking classes from next semester. I just finished doing the course with him.",
+        "rating": "normal"
+      },
+      {
+        "review": "Sir as a person khub e bhalo. But time management baje khubi. He curves a lot at the end. But you must avoid any kind of plagiarism or copying codes from google. Otherwise direct 0diye dey. Also his lab instructor is super strict. But if you give exams in honest ways,you’ll surely get good grades. Try to communicate with him during class time.",
+        "rating": "harsh"
+      }
+    ],
+    "iqn": [
+      {
+        "review": "A re vondo re, janar poro review chai",
+        "rating": "normal"
+      },
+      {
+        "review": "Rabiul Islam toder review shunei uttejito hoye beshi course nei, then mara kheye bujhi ami alien na",
+        "rating": "normal"
+      },
+      {
+        "review": "Raiyan Khan tui e sobcheye boro alien, random class a jaiya jaiya cls koros adda na diya",
+        "rating": "normal"
+      },
+      {
+        "review": "Following",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Faisal Sheikh ha",
+        "rating": "normal"
+      },
+      {
+        "review": "Istiak Ahammed amar CSE231 3rd semester ei kora hoye giyeche.",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Faisal Sheikh orreeh\nSeniuuuurs",
+        "rating": "normal"
+      },
+      {
+        "review": "MUU sir best",
+        "rating": "great"
+      },
+      {
+        "review": "Sanjida Khanom Meem share details please",
+        "rating": "normal"
+      },
+      {
+        "review": "Raiyan Khan Sir er teaching style khub valo,sir ektu slowly agabe kintu sobai jeno bujhe emon vabe porabe. Quiz 3 ta nibe,best 2 count korbe. Quiz, mid,final er question much easier than we expected. Kono project, assignment dibe na. & finally ektu curve oo korbe.",
+        "rating": "great"
+      },
+      {
+        "review": "Ardashir T. Shiraj sure",
+        "rating": "normal"
+      },
+      {
+        "review": "Adnan Arafat Ãbîr mongodb r upor assignment",
+        "rating": "normal"
+      },
+      {
+        "review": "Raiyan Khan thank you vai",
+        "rating": "normal"
+      },
+      {
+        "review": "All A",
+        "rating": "normal"
+      },
+      {
+        "review": "Shadman Shahriar worst semester vai, 3 ta retake porse",
+        "rating": "avoid"
+      },
+      {
+        "review": "Raiyan Khan polapan bhoy pabe, eine boilo na miya. Era bhalo faculty",
+        "rating": "great"
+      },
+      {
+        "review": "Ahammed Jumma https://www.facebook.com/photo/?fbid=724930626861828&set=gm.4082131135337360&idorvanity=1574365339447298",
+        "rating": "normal"
+      },
+      {
+        "review": "Shams Sajid Rahman https://www.facebook.com/photo/?fbid=724930626861828&set=gm.4082131135337360&idorvanity=1574365339447298",
+        "rating": "normal"
+      },
+      {
+        "review": "Shams Sajid Rahman best",
+        "rating": "great"
+      },
+      {
+        "review": "Slf sir and muu sir BESTS!",
+        "rating": "great"
+      }
+    ],
+    "isn": [
+      {
+        "review": "SMSL isn’t taking 273 this semester. Anyways you already did 323 under him so you have the idea how he takes classes and all. It’s true that you might not understand everything that are taught in the class. But sir is always there, visit his office and clear out all your doubts. And for the exams solve practice problems on your own, exam’s questions aren’t that hard but a bit tricky, if you have clear concept you can answer them all.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Just to clarify, my team and I contacted a few faculty members, and most said there are no seats this semester. Seniors and friends also mentioned it usually takes 1–2 semesters to get a recommendation, so we wanted to understand the process. The project isn’t the issue right now.",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE273 (MKN1) - This instructor is the best for CSE273: very humble and down-to-earth, teaches well (although the lectures can be boring, but that's due to the subject matter), questions are easy, and last but not least, he curves (10 root x). If you can obtain his old questions, that would be a plus point (just to understand his question pattern), but that isn't really necessary. There are numerous online resources available on YouTube, should you ever need them.",
+        "rating": "great"
+      },
+      {
+        "review": "A random nsuer Rjp sir is both good for grading n learning but all of his questions are quite tricky so it’s tough to get desired mark if the answer isn’t upto the mark and yeah there’s a project in lab not in theory",
+        "rating": "harsh"
+      },
+      {
+        "review": "440, 445 n 465 r all from AI trail, 3 ta nite parben na, ekta minor onno trail theke kora lage tai oneke 273 nei. But yes, you can consider one of them as open elective though.\nAnd no, not taking 273 isn't problematic. It all depends on what field you wish to pursue or have interest on.",
+        "rating": "normal"
+      }
+    ],
+    "isr": [
+      {
+        "review": "273- Mkn1\n331- Skh1\n361- Isr",
+        "rating": "normal"
+      }
+    ],
+    "jsa": [
+      {
+        "review": "Sfr1 onek bhalo porai\nBut if you want a peaceful semester i wouldn't recommend onek pera dibe and if you can't keep up you'll do bad and sir has very high expectations he's hard to please\nJSA RTK MAQM SMF1 better for good grade",
+        "rating": "harsh"
+      }
+    ],
+    "kas": [
+      {
+        "review": "EEE141 - KAS",
+        "rating": "normal"
+      }
+    ],
+    "kmm": [
+      {
+        "review": "Best bhai",
+        "rating": "great"
+      },
+      {
+        "review": "Shob shera faculty",
+        "rating": "normal"
+      },
+      {
+        "review": "Easy A",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop",
+        "rating": "avoid"
+      },
+      {
+        "review": "MALn avoid",
+        "rating": "normal"
+      },
+      {
+        "review": "Tahsin Rahman best best best",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Tahmidur Rahman Alif vai abr uni nissen e nah\n...ami jei faculty e choose kre rkhsi unie abr nissenh",
+        "rating": "normal"
+      },
+      {
+        "review": "Maln question easy atooo",
+        "rating": "normal"
+      }
+    ],
+    "ksd": [
+      {
+        "review": "Cse273 mmk1 ar phy108L-ksd",
+        "rating": "normal"
+      }
+    ],
+    "lfr": [
+      {
+        "review": "Lfr good",
+        "rating": "great"
+      },
+      {
+        "review": "Lfr sir is good. Previous semester er question o repeat kore. Slide porle kichui bujha jayna temon. Class e note kora better. Okhan thekei sob ashe mainly.",
+        "rating": "great"
+      },
+      {
+        "review": "Lfr sir class e ja bole tar theke ei questions kore. Sir er class regular Korte hobe. Slide pore bishesh Kono laav nei.",
+        "rating": "normal"
+      }
+    ],
+    "maqm": [
+      {
+        "review": "Sfr1 onek bhalo porai\nBut if you want a peaceful semester i wouldn't recommend onek pera dibe and if you can't keep up you'll do bad and sir has very high expectations he's hard to please\nJSA RTK MAQM SMF1 better for good grade",
+        "rating": "harsh"
+      },
+      {
+        "review": "273 mmk1\n331 maqm\n499 rtk\n111 tbsi\n452 rkz",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse331 maqm/ Mua3\nCse499A azk ( easygoing project na dile hoy )\nCse273 mmk1\nEee452 rkz",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahabub Kowsar maqm er review den vaiya",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE331 maqm\nCSE273 MMK1\nEEE452 Fkr",
+        "rating": "normal"
+      },
+      {
+        "review": "Dewan Najmus Saqib yes",
+        "rating": "normal"
+      }
+    ],
+    "may": [
+      {
+        "review": "Smsl sir’s Classes can be boring , but you can do good in exams if you do the assignments by yourself and understand the topic.\nI studied from youtube and didn’t faced that much problem.\nSir gives partial marking if the process is right, curving may depend on whole class performance.",
+        "rating": "great"
+      },
+      {
+        "review": "He cares about discipline, and sometimes teaches discipline in strict ways. Otherwise, he is good.\nPray for Real Madrid. Curving may rely on the UCL run.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Class notes thekei ashbe. Ektu ghuray dibe question ta. But as far I know sir may not take the next semester as he is probably going to study abroad.",
+        "rating": "normal"
+      }
+    ],
+    "mh1": [
+      {
+        "review": "Honest review, please \nCHE101L.1-MH1\nCSE273.4- MMK1\nCSE373.5- OISD\nCSE425.4- MDAR… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "MDAR = drp drp drp",
+        "rating": "normal"
+      },
+      {
+        "review": "আহামেদ সাহেব I will keep that in mind",
+        "rating": "normal"
+      },
+      {
+        "review": "আহামেদ সাহেব mdar onk easy....mukhasto korte parle...",
+        "rating": "normal"
+      },
+      {
+        "review": "Shakhawat Hossain Shoaib",
+        "rating": "normal"
+      },
+      {
+        "review": "Shakhawat Hossain Shoaib Noted",
+        "rating": "normal"
+      },
+      {
+        "review": "Shahriar Hussain just note down his class lectures. Class a ja mukh diye bolbe mostly oigula theke e ques korbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee Thank you",
+        "rating": "normal"
+      },
+      {
+        "review": "Shahriar Hussain that was NAWT a positive comment",
+        "rating": "normal"
+      },
+      {
+        "review": "Shahraj Adan Thanks",
+        "rating": "normal"
+      },
+      {
+        "review": "Ramiza Rahman Bhuiyan Thank you",
+        "rating": "normal"
+      }
+    ],
+    "mhis": [
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Nafi Faiyaz 3",
+        "rating": "normal"
+      },
+      {
+        "review": "Sabbath Areeb Azad aight bro",
+        "rating": "normal"
+      },
+      {
+        "review": "#ScammerAlert",
+        "rating": "normal"
+      },
+      {
+        "review": "W",
+        "rating": "normal"
+      }
+    ],
+    "mle": [
+      {
+        "review": "CSE499A Mle",
+        "rating": "normal"
+      }
+    ],
+    "mlm": [
+      {
+        "review": "Thauhid Ferdhous Shanto 6",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob A paba. In sha Allah",
+        "rating": "normal"
+      },
+      {
+        "review": "Arefin Amin Inshallah",
+        "rating": "normal"
+      },
+      {
+        "review": "Mmk1\n-/-\nSmu1\nMlm\nRtk",
+        "rating": "normal"
+      }
+    ],
+    "mmk1": [
+      {
+        "review": "Best bhai",
+        "rating": "great"
+      },
+      {
+        "review": "Shob shera faculty",
+        "rating": "normal"
+      },
+      {
+        "review": "Easy A",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop",
+        "rating": "avoid"
+      },
+      {
+        "review": "MALn avoid",
+        "rating": "normal"
+      },
+      {
+        "review": "mmk1 goat",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Avoid MMK1 ..take MNK1",
+        "rating": "normal"
+      },
+      {
+        "review": "Tahsin Rahman best best best",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Tahmidur Rahman Alif vai abr uni nissen e nah\n...ami jei faculty e choose kre rkhsi unie abr nissenh",
+        "rating": "normal"
+      },
+      {
+        "review": "Avoid MMK1",
+        "rating": "normal"
+      },
+      {
+        "review": "Mmk1 bad den. Pore kono lav hbe na.kuttar moto poreo onk marks kata jai exam e. R onk hard question koren uni.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Maln question easy atooo",
+        "rating": "normal"
+      },
+      {
+        "review": "Mmk1 er qstn pattern khub e hard\n10√x curve kre\nPartial marking kre",
+        "rating": "harsh"
+      },
+      {
+        "review": "jaguarbabax ha sir qstn valo e hard kren\nTobe valo vabe practice krle parben",
+        "rating": "harsh"
+      },
+      {
+        "review": "Go for mmk1",
+        "rating": "great"
+      },
+      {
+        "review": "Muhammad Mutasim Farhan bolen bhaia kichuuu",
+        "rating": "normal"
+      },
+      {
+        "review": "Raisa Mahabub Ahona mkn1 sir khubi easygoing. Concepts clear thakle and practice bhalo bhabe korle onek bhalo marks pawa jay (uni onek partial marks o dey). On top of that she 10✓x curve kore. Jodio unar porano boring but youtube dekhe almost shob shikhe felano jabe \n MMk1 sir shunsilam bhalo but ektu harder.",
+        "rating": "harsh"
+      },
+      {
+        "review": "mmk1. huge partial marking. also curves the grade in the end. but you'll have to self study a lot since he provides complicated questions in exam.",
+        "rating": "normal"
+      },
+      {
+        "review": "I got A under MMK1 . The questions are quite tricky! It’s like you have to perform realtime problem solving in the exams. I lost 10 marks in the mid but aced final with the highest mark in the class. The 10xcurve did the thing. I heard mkn1 is much more easy going.",
+        "rating": "great"
+      },
+      {
+        "review": "MMK1 anyday;",
+        "rating": "normal"
+      }
+    ],
+    "mnk": [
+      {
+        "review": "ENG111=> MNK",
+        "rating": "normal"
+      },
+      {
+        "review": "Sakhiur Rahman MNK to bhalo review pacchina bhai",
+        "rating": "great"
+      },
+      {
+        "review": "Eng111 Mnk\nCSE331 Avoid Samd :\")",
+        "rating": "normal"
+      }
+    ],
+    "msdl": [
+      {
+        "review": "Cse273 ara2\nCse440 msdl",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse440 msdl but sir nijai bujhe kom.. exam er paper dekhanor somoy marks baray nite lage, na bujhe marks kate",
+        "rating": "normal"
+      }
+    ],
+    "msk1": [
+      {
+        "review": "Jhilmil Turni msk1 pera dibe project krabe",
+        "rating": "harsh"
+      }
+    ],
+    "msrb": [
+      {
+        "review": "Thauhid Ferdhous Shanto 6",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob A paba. In sha Allah",
+        "rating": "normal"
+      },
+      {
+        "review": "Arefin Amin Inshallah",
+        "rating": "normal"
+      },
+      {
+        "review": "Dewan Najmus Saqib yes",
+        "rating": "normal"
+      },
+      {
+        "review": "MSRB good",
+        "rating": "great"
+      }
+    ],
+    "mua3": [
+      {
+        "review": "Cse331 maqm/ Mua3\nCse499A azk ( easygoing project na dile hoy )\nCse273 mmk1\nEee452 rkz",
+        "rating": "normal"
+      },
+      {
+        "review": "Mua3 er kache onek mukhosto korte hobe slides. Project ta valo kore korte hobe.\nRjp sir o valo dekhsi grading er jonno.\nFkr er kache amio korbo,",
+        "rating": "great"
+      },
+      {
+        "review": "But can u pls tell me Mua3 n Rjp sir’s qs pattern? N do they curve? نعيم الحسن مونا",
+        "rating": "normal"
+      },
+      {
+        "review": "Kazi Tazrian Mon inbox apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Ibrahim Siddik na na akshathei..",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob A",
+        "rating": "normal"
+      },
+      {
+        "review": "Nazib Riasat Omio I wish",
+        "rating": "normal"
+      },
+      {
+        "review": "Ara2 sir, practice a lot in class, just understand these problems well and practice them at home. Also, try to solve the problems that sir gives during class quickly in the class itself, as sir gives performance marks.\nMua3: memorize ,memorize and memorize the slides .\nSir doesn’t put any pressure during the whole semester and he accepts any type of project, but his marking is not good;deduct unnecessary marks, so try to keep ans precise",
+        "rating": "harsh"
+      },
+      {
+        "review": "Aurongojeb Lishad thank u for ur detailed review",
+        "rating": "normal"
+      },
+      {
+        "review": "Ara2 sir onk easy going..class e ja porae tai xm e ashe..but class e attentive thakte hoe..question ekbare easy koren..\nMua3 sir mukhosto chara kono goti nai and try to collect previous semester questions..oigula theke valoi common pore",
+        "rating": "great"
+      },
+      {
+        "review": "Ashraful Haque Lipu thank u !!!",
+        "rating": "normal"
+      },
+      {
+        "review": "Farhan F. Leon thank u!! Yeah he’s actually a bit strict n I just hope he curves this time as well",
+        "rating": "harsh"
+      },
+      {
+        "review": "how to do well under fkr,mua3",
+        "rating": "normal"
+      },
+      {
+        "review": "Salman Fahîm fkr sir curves and he repeats previous questions but gives binary marking if ur answer is not upto his requirement then he will give u zero…\nMua3- U have to memorize a lot.. he repeats the question 80% almost and does curve n sir project niye temon pera diben na but qs er answer ektu elaborately likhle preferred r ki..",
+        "rating": "harsh"
+      },
+      {
+        "review": "Guys quick #review pls\nCSE331 mua3\nCSE273 mmk1\nCSE373 ara2",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhaiminu Mehedi Mahin amar toh done, collecting reviews for a friend",
+        "rating": "normal"
+      },
+      {
+        "review": "Kazi Iftakher Rahman owww",
+        "rating": "normal"
+      },
+      {
+        "review": "373",
+        "rating": "normal"
+      },
+      {
+        "review": "331 Mua3 best",
+        "rating": "great"
+      },
+      {
+        "review": "Graduated manush DER review di na",
+        "rating": "normal"
+      }
+    ],
+    "nbm": [
+      {
+        "review": "nbm er sathe mmk1",
+        "rating": "normal"
+      },
+      {
+        "review": "Nbm joss onk kichu shikhte parbe. Just Ektu hardwork kora lagbe project e.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Nbm easy",
+        "rating": "normal"
+      },
+      {
+        "review": "NBM স্যার অনেক ভালো মানের একজন শিক্ষক । অনেক কিছু শিখতে পারবেন",
+        "rating": "normal"
+      },
+      {
+        "review": "Nbm goat",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Mmk1 joss\nNbm good for learning.hardworking hole vlo kora jabe",
+        "rating": "harsh"
+      },
+      {
+        "review": "Umme Jahara Simki apu check inbox",
+        "rating": "normal"
+      },
+      {
+        "review": "shob best dost",
+        "rating": "great"
+      },
+      {
+        "review": "uddhar kor nijere bhai",
+        "rating": "normal"
+      },
+      {
+        "review": "A+ confirm",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Meherin Chowdhury 1",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob A apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Nowshin Yesmin same to you apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob best",
+        "rating": "great"
+      },
+      {
+        "review": "273 peye geso..luckyy",
+        "rating": "normal"
+      },
+      {
+        "review": "kopal bhai re bhai shob best",
+        "rating": "great"
+      },
+      {
+        "review": "Sabbir Ahmed Sakil 1",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "shikhte parba onk kisu cz nbm and sfm1 duitai top level er faculty. but grade er asha na rakhai valo.",
+        "rating": "great"
+      }
+    ],
+    "nca": [
+      {
+        "review": "Cse273 smsl\nEng111 Nca",
+        "rating": "normal"
+      },
+      {
+        "review": "Eng111 NCA",
+        "rating": "normal"
+      },
+      {
+        "review": "499 - RTK\n111 - NCA\n273 - MMK1\n452 - FKR",
+        "rating": "normal"
+      },
+      {
+        "review": "Nca section koto",
+        "rating": "normal"
+      },
+      {
+        "review": "Somik Islam Dibos thanks for the detailed review",
+        "rating": "normal"
+      },
+      {
+        "review": "Nca is good",
+        "rating": "great"
+      },
+      {
+        "review": "NCA best",
+        "rating": "great"
+      },
+      {
+        "review": "NCA Ma’am is amazingg",
+        "rating": "normal"
+      },
+      {
+        "review": "Tbh, just focus on the slides and the topics she stressed more in class.",
+        "rating": "normal"
+      }
+    ],
+    "oisd": [
+      {
+        "review": "Honest review, please \nCHE101L.1-MH1\nCSE273.4- MMK1\nCSE373.5- OISD\nCSE425.4- MDAR… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "MDAR = drp drp drp",
+        "rating": "normal"
+      },
+      {
+        "review": "আহামেদ সাহেব I will keep that in mind",
+        "rating": "normal"
+      },
+      {
+        "review": "আহামেদ সাহেব mdar onk easy....mukhasto korte parle...",
+        "rating": "normal"
+      },
+      {
+        "review": "Shakhawat Hossain Shoaib",
+        "rating": "normal"
+      },
+      {
+        "review": "Shakhawat Hossain Shoaib Noted",
+        "rating": "normal"
+      },
+      {
+        "review": "Shahriar Hussain just note down his class lectures. Class a ja mukh diye bolbe mostly oigula theke e ques korbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee Thank you",
+        "rating": "normal"
+      },
+      {
+        "review": "Oisd er moto faculty ei jibone paba na",
+        "rating": "normal"
+      },
+      {
+        "review": "Shahriar Hussain that was NAWT a positive comment",
+        "rating": "normal"
+      },
+      {
+        "review": "Shahraj Adan Thanks",
+        "rating": "normal"
+      },
+      {
+        "review": "Ramiza Rahman Bhuiyan Thank you",
+        "rating": "normal"
+      }
+    ],
+    "png": [
+      {
+        "review": "Mat350 png sir er class follow kore class e ja bole diben and koraben sob practice korlei exam er preparation hoye jay\nEEE452 rkz sir quiz e sob graph den onek memories korte hoy , mid final e theoretically questions den, sir er suggestion question set + slide sob porte hobe",
+        "rating": "normal"
+      },
+      {
+        "review": "Bro mat350 section 6 toh ATA, not png",
+        "rating": "normal"
+      }
+    ],
+    "rjp": [
+      {
+        "review": "Mua3 er kache onek mukhosto korte hobe slides. Project ta valo kore korte hobe.\nRjp sir o valo dekhsi grading er jonno.\nFkr er kache amio korbo,",
+        "rating": "great"
+      },
+      {
+        "review": "But can u pls tell me Mua3 n Rjp sir’s qs pattern? N do they curve? نعيم الحسن مونا",
+        "rating": "normal"
+      },
+      {
+        "review": "A random nsuer Rjp sir is both good for grading n learning but all of his questions are quite tricky so it’s tough to get desired mark if the answer isn’t upto the mark and yeah there’s a project in lab not in theory",
+        "rating": "harsh"
+      }
+    ],
+    "rkz": [
+      {
+        "review": "Memorization level high hoile Rkz possible",
+        "rating": "normal"
+      },
+      {
+        "review": "Mat350 png sir er class follow kore class e ja bole diben and koraben sob practice korlei exam er preparation hoye jay\nEEE452 rkz sir quiz e sob graph den onek memories korte hoy , mid final e theoretically questions den, sir er suggestion question set + slide sob porte hobe",
+        "rating": "normal"
+      },
+      {
+        "review": "You need to focus on graph only if you want to do well under RKZ.",
+        "rating": "normal"
+      },
+      {
+        "review": "273 mmk1\n331 maqm\n499 rtk\n111 tbsi\n452 rkz",
+        "rating": "normal"
+      },
+      {
+        "review": "Modassir Hasan Rkz huge Curve kre",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse331 maqm/ Mua3\nCse499A azk ( easygoing project na dile hoy )\nCse273 mmk1\nEee452 rkz",
+        "rating": "normal"
+      }
+    ],
+    "rri": [
+      {
+        "review": "Phy107 rri slides tkei hubhu dai....\nPhy108 ruh slides theke dai but guraye dai uni... concept clear thakle para Jabe",
+        "rating": "normal"
+      },
+      {
+        "review": "Lab RRI\nMam onk vlo...",
+        "rating": "normal"
+      }
+    ],
+    "rtk": [
+      {
+        "review": "Sfr1 onek bhalo porai\nBut if you want a peaceful semester i wouldn't recommend onek pera dibe and if you can't keep up you'll do bad and sir has very high expectations he's hard to please\nJSA RTK MAQM SMF1 better for good grade",
+        "rating": "harsh"
+      },
+      {
+        "review": "Rtk boss\n273 MNK1 nis",
+        "rating": "normal"
+      },
+      {
+        "review": "Rtk best",
+        "rating": "great"
+      },
+      {
+        "review": "Muhammad Mutasim Farhan rtk sir might be taking 495b soon.",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Eyyyyy",
+        "rating": "normal"
+      },
+      {
+        "review": "RTK sir seraaa",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee স্যার আপনার থেকে বেস্ট ইনপুট চাইবে. উইকলি আপডেট দিতে হবে . বেস্ট প্রজেক্ট দিতে হবে . উইকলি কাজ করতে হবে. স্যার উইকলি আপডেট নোট ডাউন করে নিয়ে যায়.\nফাইনাল রিপোর্ট খুব ভালো হইতে হবে. মন মত না হলে করেকশন দিতে থাকবে.",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob A paben apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Doa koiren apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee Apnio doa koiren apu .",
+        "rating": "normal"
+      },
+      {
+        "review": "#mkn1 o valo ache",
+        "rating": "great"
+      },
+      {
+        "review": "Areh brilliant student amar section e kmne ki !",
+        "rating": "normal"
+      },
+      {
+        "review": "Ektu apnak follow korlam arki",
+        "rating": "normal"
+      },
+      {
+        "review": "Rtk sir bhalo as far as i know",
+        "rating": "great"
+      },
+      {
+        "review": "Samiyeel Alim 499A nilam. Hope for the best.",
+        "rating": "great"
+      },
+      {
+        "review": "Rtk 100/100 win for 499",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE499A (RTk) - This course can be a life-changing course if you enroll under a faculty member who will guide you in building an excellent project that will both elevate your technical skills and your CV. And, if the faculty pushes you for a publication in a reputed Q1 journal, that's a huge plus point. RTk is one such faculty. Not only does he guide you in choosing an elegant project, but he will be there throughout the entire journey: building the project to writing the research paper, to publishing the paper in a reputed Journal or Conference. When I took this course under him in 2024, all the groups in our section had published a paper based on their CSE499 project. Our paper was published in the Q1 Journal Plos Computational Biology. He is very friendly, supportive, and approachable. However, one thing about him is particularly dangerous: he is very strict with deadlines, meeting his standards, and adhering to academic integrity, including avoiding plagiarism. He will share this detail in the first class. If you fail to give regular, meaningful updates in every class, or fail to meet his deadlines, or plagiarise, he will heavily penalize your marks. He is extremely picky in giving A's. Although this is a group project, your grade depends on your own effort, not that of your group members (every member might get a different grade based on their efforts and contributions). He failed 5-6 students from our CSE499A section and also gave very low grades (D) to some students in CSE499B. So be very careful about that. If you remain consistent on a regular basis and put on honest efforts, you don't need to worry about your grade. You have made a good choice.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Muhammad Mutasim Farhan Thanks for your valuable comment",
+        "rating": "normal"
+      }
+    ],
+    "ruh": [
+      {
+        "review": "Phy107 rri slides tkei hubhu dai....\nPhy108 ruh slides theke dai but guraye dai uni... concept clear thakle para Jabe",
+        "rating": "normal"
+      },
+      {
+        "review": "Lab Ruh",
+        "rating": "normal"
+      },
+      {
+        "review": "Thauhid Ferdhous Shanto 6",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob A paba. In sha Allah",
+        "rating": "normal"
+      },
+      {
+        "review": "Arefin Amin Inshallah",
+        "rating": "normal"
+      }
+    ],
+    "sfm1": [
+      {
+        "review": "Hi everyone, I need honest reviews of the faculties:-\nCSE465 - Sfm1 sir\nCSE273 - Ara2 sir\nEEE452 - Fkr sir… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Shahadat Hossain Sowrov 2",
+        "rating": "normal"
+      },
+      {
+        "review": "Sayyid Ashraful Islam Opin ai dekha hocche tahole",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Shahadat Hossain Sowrov tu abr amr ste!!",
+        "rating": "normal"
+      },
+      {
+        "review": "Adnan Khan follow korte thak ekdin jibone success pabi.",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Shahadat Hossain Sowrov touch main rehna life bana denge",
+        "rating": "normal"
+      },
+      {
+        "review": "Adnan Khan thik hain bhai",
+        "rating": "normal"
+      },
+      {
+        "review": "Adnan Khan thora sa mera bhi bana dena, lifeless hochuka hu",
+        "rating": "normal"
+      },
+      {
+        "review": "Sayyid Ashraful Islam Opin kia bol rahe hain guru ap",
+        "rating": "normal"
+      },
+      {
+        "review": "Sfm1 worst must drop",
+        "rating": "avoid"
+      },
+      {
+        "review": "Sfm1 drop diye deo ... And drop deoyar 1 Sec age knock deo",
+        "rating": "avoid"
+      },
+      {
+        "review": "273 section koto",
+        "rating": "normal"
+      },
+      {
+        "review": "Ibrahim Sani 2",
+        "rating": "normal"
+      },
+      {
+        "review": "Jannatul Ferdous Mim ig 12",
+        "rating": "normal"
+      },
+      {
+        "review": "আপনি তো ভাই এমনি সব A",
+        "rating": "normal"
+      },
+      {
+        "review": "shikhte parba onk kisu cz nbm and sfm1 duitai top level er faculty. but grade er asha na rakhai valo.",
+        "rating": "great"
+      },
+      {
+        "review": "CSE273.1 - MKN1\nCSE438.1 - HzR\nCSE465.6 - SfM1\nEEE452.9 - FkR\nReview Plz",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Bhai shobi \n paiso",
+        "rating": "normal"
+      },
+      {
+        "review": "bumpp",
+        "rating": "normal"
+      }
+    ],
+    "sfr1": [
+      {
+        "review": "All F",
+        "rating": "normal"
+      },
+      {
+        "review": "Sharmin Akter Badhon thank you",
+        "rating": "normal"
+      },
+      {
+        "review": "Sfr1 onek bhalo porai\nBut if you want a peaceful semester i wouldn't recommend onek pera dibe and if you can't keep up you'll do bad and sir has very high expectations he's hard to please\nJSA RTK MAQM SMF1 better for good grade",
+        "rating": "harsh"
+      },
+      {
+        "review": "Onek assignments dei and ek ek ta assignment is very tough\nProject o nei na\nYou gotta work hard study after everyclass and definitely attend every class",
+        "rating": "harsh"
+      },
+      {
+        "review": "Er moddhe quiz final mid tou asei ek ek ta onek marks 20,50 erokom\nTar upor assignments er report\nReport e 100% format na maintain korte parle onek marks kaate\nAnd you have to write the reports in LaTeX",
+        "rating": "normal"
+      },
+      {
+        "review": "GoldGrapefruit1786 I know I changed my section to 11. Ss ta age newa just.",
+        "rating": "normal"
+      },
+      {
+        "review": "https://youtube.com/playlist...\nfound this playlist might be helpful to you",
+        "rating": "great"
+      },
+      {
+        "review": "CSE273 - MKN1\nCSE327 - MRH1\nCSE445 - SFR1 (Without a doubt, he is the best faculty for learning ML).\nCSE465 - NBM (I Heard from many people that he teaches extremely well in this course, but FYI, grading will be challenging. You must work hard to achieve a decent grade.)\nI suggest taking CSE445 in the upcoming semester and then CSE465 the semester after that because the syllabus is huge, and you must allocate a lot of time for learning and practicing. Taking these two courses in the same semester can be extremely challenging.",
+        "rating": "harsh"
+      }
+    ],
+    "smsl": [
+      {
+        "review": "All F",
+        "rating": "normal"
+      },
+      {
+        "review": "Sharmin Akter Badhon thank you",
+        "rating": "normal"
+      },
+      {
+        "review": "Onek assignments dei and ek ek ta assignment is very tough\nProject o nei na\nYou gotta work hard study after everyclass and definitely attend every class",
+        "rating": "harsh"
+      },
+      {
+        "review": "Er moddhe quiz final mid tou asei ek ek ta onek marks 20,50 erokom\nTar upor assignments er report\nReport e 100% format na maintain korte parle onek marks kaate\nAnd you have to write the reports in LaTeX",
+        "rating": "normal"
+      },
+      {
+        "review": "GoldGrapefruit1786 I know I changed my section to 11. Ss ta age newa just.",
+        "rating": "normal"
+      },
+      {
+        "review": "https://youtube.com/playlist...\nfound this playlist might be helpful to you",
+        "rating": "great"
+      },
+      {
+        "review": "Cse273 smsl\nEng111 Nca",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE273 Smsl\nENG111 Tshn",
+        "rating": "normal"
+      },
+      {
+        "review": "ExcitingCaterpillar4429 He knows a lot of stuffs and teaches quite well. He delivers the whole lecture in english, some students struggle with that. He takes 4 quizzes, counts best two. Gives a simple project (adding two unique features to xv6 os). Takes one assignment which includes a 5 minutes presentation (You make slides, explain the whole thing, make a video of that, post it on the canvas, that's it). Usually almost everyone gets full marks on project and assignment. If you do exactly what he tells you to do, you will get full marks. Quiz questions are very easy, usually small theories, simulations and mcqs. But his midterm and final question are a bit tricky. To do good in his exams, you have to attend all of his lectures and solve the practice problems. He provides a tons of practice problems. So here you go, his grading is also very generous, he does curve I think, depends on the performance of the section.",
+        "rating": "great"
+      },
+      {
+        "review": "A Haque No",
+        "rating": "normal"
+      },
+      {
+        "review": "As you did a course under SMSL, you already have a good idea of his teaching. Same goes for 273, he's very knowledgeable and questions were relatively easy compared to last semester. I had difficulty grasping the concepts at the beginning, as I found them to be unconventional, involving a lot of thinking and intuition.",
+        "rating": "great"
+      },
+      {
+        "review": "Jawadul Karim Tanzim bhai ami ask korle to eto boro review den na",
+        "rating": "normal"
+      },
+      {
+        "review": "Shamiul Alam Miraj he teaches very well. If you just be focused on studies that will be enough.",
+        "rating": "normal"
+      },
+      {
+        "review": "I took CSE273 under SMSL. His classes can be a bit boring, and I feel his explanations aren't always the clearest, though he definitely has a strong grasp of the subject. The best part is that he provides practice questions along with previous mid and final exam questions to study from.",
+        "rating": "great"
+      },
+      {
+        "review": "Ibrahim Sani Ekhn new system e kore nah 10✓x",
+        "rating": "normal"
+      },
+      {
+        "review": "Don't miss a chance to do the course with SMSL. Ara2 is good, but take SMSL. Don't miss the chance. His explanations are amazing and on point. It's rare to find faculties like him. One of the finest NSU has to offer. Go with SMSL.",
+        "rating": "great"
+      },
+      {
+        "review": "Smsl sir’s Classes can be boring , but you can do good in exams if you do the assignments by yourself and understand the topic.\nI studied from youtube and didn’t faced that much problem.\nSir gives partial marking if the process is right, curving may depend on whole class performance.",
+        "rating": "great"
+      },
+      {
+        "review": "SMSL isn’t taking 273 this semester. Anyways you already did 323 under him so you have the idea how he takes classes and all. It’s true that you might not understand everything that are taught in the class. But sir is always there, visit his office and clear out all your doubts. And for the exams solve practice problems on your own, exam’s questions aren’t that hard but a bit tricky, if you have clear concept you can answer them all.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      }
+    ],
+    "sti": [
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Are easy sob",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob A",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Assaduzzaman Reyan\nA তো বহুকাল যাবৎ চোখেই দেখি না!",
+        "rating": "normal"
+      },
+      {
+        "review": "You should advise 498R only when you’ve selected the project, talked about it with a faculty and decided your team. I don’t think people usually advise 498R and then find out what to do",
+        "rating": "normal"
+      },
+      {
+        "review": "The process is simple, you speak with a faculty about your idea with your team, suppose this semester. You iron some details, do a meeting or two, then next semester you advise 498R. You would then collect a form from the help desk, fill it out, take a signature from your decided faculty and submit it afterwards to the main TA room officer (I believe his name is Farid sir). Then you are set to be working.\nTo remain multiple steps ahead, you could contact your faculty of choice, with the fixed idea, start working without advising 498R. When your work is near to the end you feel, or you are about to do 499B/ your last semester, advise it for that semester and then finish it within 1. Hassle free, most efficient way to do it.",
+        "rating": "normal"
+      },
+      {
+        "review": "CleverAlpaca7901\nThanks for the detailed explanation — appreciate you taking the time.",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob gula best faculty",
+        "rating": "great"
+      },
+      {
+        "review": "Abdullah Al Sayed no curve. raw marks",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhammad Arif Bin Ekram Honestly, I think it depends on her mood. Our section got a very hard question set, and she admitted it herself.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Shammi Suchana Wasn't good for me.",
+        "rating": "great"
+      },
+      {
+        "review": "Rk Rakib can you tell me in details.Asking because I'm an average student.",
+        "rating": "normal"
+      }
+    ],
+    "syn": [
+      {
+        "review": "Kindly provide your valuable review on those faculties...\nCSE273.1- ARA2\nPhi104.9- Syn\nECO101.39- Aqrm… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "Syn best",
+        "rating": "great"
+      },
+      {
+        "review": "Ibrahim Sani hea",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily yes",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily I don't remember much clearly, because I did it 2 years ago. But I can tell you that getting an A from Sir by rote is not an option. You must study with understanding.",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily yes. Sir easygoing",
+        "rating": "normal"
+      },
+      {
+        "review": "Samiha Hossain Shoily sir ja porai tar theke question kore. Mid, final er age sir bole dey ki ki ashte pare oigula porle common ashbe. Assignment dibe ekta ar viva ase.",
+        "rating": "normal"
+      },
+      {
+        "review": "ExcellentCamel5932 no only assignment and viva",
+        "rating": "normal"
+      },
+      {
+        "review": "syn, aqrm 2 tai Goat",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "A random nsuer nah",
+        "rating": "normal"
+      },
+      {
+        "review": "You will fall in love with economics",
+        "rating": "normal"
+      }
+    ],
+    "taa": [
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Are easy sob",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob A",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Assaduzzaman Reyan\nA তো বহুকাল যাবৎ চোখেই দেখি না!",
+        "rating": "normal"
+      },
+      {
+        "review": "You should advise 498R only when you’ve selected the project, talked about it with a faculty and decided your team. I don’t think people usually advise 498R and then find out what to do",
+        "rating": "normal"
+      },
+      {
+        "review": "The process is simple, you speak with a faculty about your idea with your team, suppose this semester. You iron some details, do a meeting or two, then next semester you advise 498R. You would then collect a form from the help desk, fill it out, take a signature from your decided faculty and submit it afterwards to the main TA room officer (I believe his name is Farid sir). Then you are set to be working.\nTo remain multiple steps ahead, you could contact your faculty of choice, with the fixed idea, start working without advising 498R. When your work is near to the end you feel, or you are about to do 499B/ your last semester, advise it for that semester and then finish it within 1. Hassle free, most efficient way to do it.",
+        "rating": "normal"
+      },
+      {
+        "review": "CleverAlpaca7901\nThanks for the detailed explanation — appreciate you taking the time.",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob gula best faculty",
+        "rating": "great"
+      },
+      {
+        "review": "Abdullah Al Sayed no curve. raw marks",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhammad Arif Bin Ekram Honestly, I think it depends on her mood. Our section got a very hard question set, and she admitted it herself.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Shammi Suchana Wasn't good for me.",
+        "rating": "great"
+      },
+      {
+        "review": "Rk Rakib can you tell me in details.Asking because I'm an average student.",
+        "rating": "normal"
+      },
+      {
+        "review": "TAA sir is extremely good for learning. His grading is fair enough. But you've to put some effort into the course. More likely you'll struggle at first if your speaking skills are not good because sir will go in a rush and you could find it difficult to cope up. But if you can somehow go along with him your English skills will sky rocket.",
+        "rating": "great"
+      },
+      {
+        "review": "TAA Sir is a gem. Big win. Sir partial marking kore. Curves one grade",
+        "rating": "normal"
+      }
+    ],
+    "thn": [
+      {
+        "review": "Sumaya Suimee in detail bolo ektu",
+        "rating": "normal"
+      },
+      {
+        "review": "Raeen Rizuan just follow his instructions that will be enough",
+        "rating": "normal"
+      },
+      {
+        "review": "bio slide mukhosto korte parle thn er kache good to go ! normally quiz mid/final theke hard hbe n tricky lagse kinda! and mid/final e diagram ake just halka bekkha dilei full marks diye dei .. marking e onek bhalo!",
+        "rating": "harsh"
+      },
+      {
+        "review": "Ei cheletar kotha keu shunben na\nO exceptional apni drop dilei better tao apnar iccha",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ayishah Marium ops",
+        "rating": "normal"
+      },
+      {
+        "review": "Sohan Sezio thank you",
+        "rating": "normal"
+      },
+      {
+        "review": "Best Faculties paiso shob course e",
+        "rating": "great"
+      },
+      {
+        "review": "Thn good",
+        "rating": "great"
+      },
+      {
+        "review": "Khadiza Jahan Kheya\nkindly elaborate a bit.",
+        "rating": "normal"
+      }
+    ],
+    "tmi": [
+      {
+        "review": "Tmi Parba",
+        "rating": "normal"
+      }
+    ],
+    "tmr": [
+      {
+        "review": "Tmr abr faculty review lage, chok bondho kore exam dilao sure A",
+        "rating": "normal"
+      },
+      {
+        "review": "Tmr jonno valo kharap khub besi matter kore nah \n Parba tumi amar biswas",
+        "rating": "great"
+      }
+    ],
+    "tns1": [
+      {
+        "review": "Thauhid Ferdhous Shanto 6",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob A paba. In sha Allah",
+        "rating": "normal"
+      },
+      {
+        "review": "Arefin Amin Inshallah",
+        "rating": "normal"
+      },
+      {
+        "review": "Tns1 mam best",
+        "rating": "great"
+      }
+    ],
+    "tshn": [
+      {
+        "review": "Cse273 ara2\nEng111 tshn bt no curve, mark dey bhalo",
+        "rating": "great"
+      },
+      {
+        "review": "CSE273 Smsl\nENG111 Tshn",
+        "rating": "normal"
+      }
+    ],
+    "zum": [
+      {
+        "review": "lab zum niyo nah. oshojjokor uni",
+        "rating": "normal"
+      },
+      {
+        "review": "Lab Zum Sir niyo nah.",
+        "rating": "normal"
+      }
+    ],
+    "zzs": [
+      {
+        "review": "Dewan Najmus Saqib yes",
         "rating": "normal"
       }
     ]

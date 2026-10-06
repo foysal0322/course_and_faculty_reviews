@@ -1,0 +1,2462 @@
+=== FACULTY: ITN (Total candidate comments: 62) ===
+  1. [P0] POST: Which CSE courses should I complete before taking CSE299?...
+     COMMENT: tbh none, just 60 credits hoilei go for it, I see a lot of seniors giving good advice here but if you are confident in yourself and have always been a tech enthusiast and can learn things quickly do 299 whenever you want even if you haven't done any 3xx courses let alone 4xx ones, I did 299 solo under ITN, different faculties have different sets of requirements they want you to fulfill in your project make sure you get reviews and see if it aligns with your interest, the skill gap can be covered with thorough research and wanting to learn things. Having a team mate would burden you most of the time in these kind of projects, if I could go back in time I would honestly do all my projects solo, taught me a lot doing things solo, team mates usually slow you down.
+  2. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: MD Redwan Islam jodi pai tahole nibo, Itn sir paile itn sir nibo na auq sir nibo bujhtesinah...
+  3. [P23] POST: Suggest best faculty for CSE299...
+     COMMENT: ITN nen sir, just course na ekta professional level er kivabe kaj korte hoy everything sir korabe how to submit weekly report jeta life and other courses e help hobe. But ektai issue sir ashe na class e late kore online kore dey, As eta just project so issue howar kotha na & sir machine learning er project k priority dey / Btw apni to amni A paben
+  4. [P23] POST: Suggest best faculty for CSE299...
+     COMMENT: Msk1 ba itn
+  5. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Slf sir best for CSE411
+  6. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Sabiha Sofder
+  7. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Best of luck for IQN
+  8. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Mahi Mahmud any question
+  9. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Ishtiaque Ahmed Jibon ta shesh mama
+  10. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: For 411 just solve the sample questions provided by sir. Also attend classes regularly. It's pretty easy to get a good grade in this course
+  11. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Wahid Ahmed thanks
+  12. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: IQN everything average.
+  13. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Mazharul Islam Nibir thanks
+  14. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Pera na nite chaile & grade valo chaile go for SSH1 ……. But learning er jonno not recommended.
+  15. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Shakila Rowshan Accha thanks for your suggestions. Time ki ki unar?
+  16. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: MD Ridwan Sec and time?
+  17. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj 299 er faculty reveal korai ache
+  18. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj easy going..weekly report gula thik moto diben..Ekta final presentation hobe…Overall apni thik moto sob requirement s gula fulfil krte parle valo grade paben
+  19. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mdy sir  / , no project only presentation about Quantum computing
+  20. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Naima Siddika Presentation ta kemon hoy?? Is that easy or hard?
+  21. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj ektu hard and the last presentation should be creative.
+  22. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Naima Siddika accha thanks
+  23. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Zahin Khan kemon?
+  24. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Cse299 RIH kemon hobe.. Unar section khali paisi.
+  25. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Itn
+  26. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan ITN kemon hobe? Ektu details e bolen Mahedi vai
+  27. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj Best faculty.. Kono pera dibe na..CR hoben... Sir weekly update nibe..ki ki korsen tar expln korbe & nxt week e ki korte hobe bole dibe..project ML niye korlei A
+  28. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan accha
+  29. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan CR toh sir ei choice kore dibe, CR er proti alada care dei nki
+  30. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj sir bolbe k hote chaw..so...
+  31. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sreejan Bose kemon re??
+  32. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj balo ank sincere thkos A pabi confirm
+  33. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: ITN to sunsi onk hard going r pera ney
+  34. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: আহামেদ সাহেব tai naki .. dekha jak
+  35. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: He is helpful and understanding. But does tricky questions
+  36. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Iffijenia Jahan Joarder what kind of projects he suggests?
+  37. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Samiul Basir actually I did another course under him not this particular one.
+  38. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Sumaita Khan
+  39. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Best faculty.. Kono pera dibe na..CR hoben... Sir weekly update nibe..ki ki korsen tar expln korbe & nxt week e ki korte hobe bole dibe..project ML niye korlei A
+  40. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Mahedi Hasan projects ki teamwise hoi>?
+  41. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Samiul Basir hmm.2,3,4 max..
+  42. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Tamim Shadman
+  43. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Tanvir Chowdhury do the honors
+  44. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Sir actively pays attention to weekly tasks such as reports/related paper readings/testing out a model. If you’re up / for weekly progress ITN is the way to go. Otherwise ekbare onekkichu kore kore project dara korano isnt sir’s way.
+  45. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Tabassum YukiTabassoom NabilaChowdhury Jifam Tahmid
+  46. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Mehedi Hasan drop
+  47. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Mehedi Hasan avoid itn
+  48. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Mehedi Hasan Bolbo na, Add ase
+  49. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Chowdhury Jifam Tahmid
+  50. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: For all Details inbox the stan if itn Sazid Bin Hasan xD
+  51. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Progga Adrita yes sir
+  52. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Mazharul Tumul tips de A pawar
+  53. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Abrar Yasir Muhtasim Dishan Mir Nusrat Mahim review diye jao tomra
+  54. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: Takria Mahadi Aurnob sir khub Valo
+  55. [P48] POST: Review for CSE299.19 for ITN...
+     COMMENT: SIR shei chill Ekta manush .
+  56. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: ?? abr
+  57. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Riaz Mozumder Kollol amr jnno na bro
+  58. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Avoid ITN for CSE299
+  59. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Zahid Hasan Juel / Bhai beshi pera dibe?
+  60. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Shakib Hasan Rayan Machine Learning released project korte bolbe, kisu sikhte parben na unar kase,weekly update niya onek pera dey, grade late a pawar possibility onek in that case next semester CSE499 course nite parben na !
+  61. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Zahid Hasan Juel Horrible
+  62. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Nbm best
+
+=== FACULTY: MSRB (Total candidate comments: 72) ===
+  1. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ssh1 sure A vai
+  2. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ismail Jabirullah details bolen vai...review lgbe
+  3. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Tahsin Rahman Ssh1 er kono review lage na
+  4. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Tahsin Rahman ekta topic just ekbar bole. tarpor na bujhle, question korle rege jay. full math nije solve kore dekhay/bujhay dey na, instead students der korte dey tarpor ar sheta nije kore dey na. so jara solve korte pare na or struggle kore, tara pichay jay. / but ques easy kore, from the slides. / she wan't good for me because i don't self-study much
+  5. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Vai cg koto ... Erokom advising koto credit ar koto cg hoile possible hobe jante cai vai
+  6. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Mud Maha cg matir biche bai.. credit 86+
+  7. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: pabi na
+  8. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Tahmidur Rahman AIUB secret agent eikhane ki koris
+  9. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Azmain Takib Andhi banke ayahuuuu...!!!!
+  10. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Hat-trick hoye gelo
+  11. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Laamisa Dipika kmne ki?
+  12. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Azmain Takib cse373 same section
+  13. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Laamisa Dipika ebaro ki eksathe mara khaboo??
+  14. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Azmain Takib
+  15. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Bhai kew advice den
+  16. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: 373 same section
+  17. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Tasvir Riyad bondhu
+  18. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Azmain Takib দুজনেই টপ
+  19. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ssh1 Miss onek Valo
+  20. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Tanjim Wahid nah. onek kharap. ekta topic just ekbar bole. tarpor na bujhle, question korle rege jay. full math nije solve kore dekhay/bujhay dey na, instead students der korte dey tarpor ar sheta nije kore dey na. so jara solve korte pare na or struggle kore, tara pichay jay. / but ques easy kore, from the slides. / she wan't good for me because i don't self-study much
+  21. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Aminul Islam sad
+  22. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Vai MSRb curve king / MSRz Good
+  23. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Thauhid Ferdhous Shanto bhai ektu details e bolen.. exam gulai kmne valo kora jai etc
+  24. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Azmain Takib MSRz sir slide thekei hubuhu question dey slide prlei enough.... / MSRb sir er kache cse115 r cse215 korechilam sir onk curve kore but cse299 niye idea nai
+  25. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: ki peak advising babare ba
+  26. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: STI the best
+  27. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Tushar Abdullah bhai ektu full details den! kemon porai ? exam e qs kemon dei.. marking kemon.. etc
+  28. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Azmain Takib Well as a teacher maam is so humble and helpful. Maam teaches really well so there are no complaints about learning. She is also very helpful and listens to students. She gives a lot of partial marks. Usually students in her section get high marks so they don't have to depend much on the curve. / Her questions are directly from the topics she covered, but they can be a little confusing sometimes. For 373 in our time I felt the final examination questions were a bit tricky. Still, if you answer everything from the basics you can expect to get good marks. So any day she is a safer choice.
+  29. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ssh1 bestt
+  30. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ashiqur Rahman Khan valo grade kmne tulmu ektu advice de mama!
+  31. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ssh1 A fr
+  32. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: MSRb best for cse299. just be on time and present in all classes and submit reports before deadline. no pera, easygoing, good grades
+  33. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Soc e dekha hocche
+  34. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Mahbub Anam ok mama
+  35. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Smma has taken this course for the 1st time. He used to take 231 and many other eee based courses. / For learning if you try to attend all the class and give attention fully it will be good to go. I have done 231 on fall24. For grading in our section almost 10 people got A .
+  36. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: ScenicPomegranate5275 quiz, mid, final er Qus ki slidebased koren naki lecture notes based?
+  37. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Uni class e slide e bujhaj poraten.
+  38. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Msrb good, just be regular and on time
+  39. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Sakhiur Rahman
+  40. [P22] POST: How is Msrb for cse299?...
+     COMMENT: Not good project dibe unar iccha moto topic diye topic gula jater hoileo hoito 2/1 ta Valo topic onno keu niye gele Baki ja ase ogula te kaj Korte gele baje obostha. Resume te dekhanor moto Kono kaj e korabe na guidance o nai jhimay jhimay jabe semester based on ranking ekta grade dhoray dibe better to avoid Jodi Valo kisu Korte chan r Sikhte chan jeita future e kaje lagbe
+  41. [P22] POST: How is Msrb for cse299?...
+     COMMENT: Araf Tahsan Pavel does he curve at the end?
+  42. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Tonu Mou
+  43. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: 299 er kono material sir provide koren nai. Shudhu ekta report sample diyechhilen. 299 er jonno Msrb sir easygoing. Project, weekly updates, code er obostha dekhe rank koren maybe. Prottek week e sir ke update dekhano laagbe, project er upore base koree task joto para jaay complete korle bhalo. R sir monehoy onek line er code dekhle mone koren je bhalomoton kaj korse student ra project e. Ekhane ekta suggestion, kono task korar time e multiple code file e na rekhe ekta ba duitay shob rakhle better. Daily progress dekhaite parle pera hobe na. Bhaloi Grade den.
+  44. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Rkz e sir er shathe joto beshi para jaay interact koiren. Quiz e graph den beshi, jei chapter gula diben quiz er jonno graph gula hubohu mone rakhte parle 80% marks eshe jabe quiz e. R mid final e graph, graph er context, sir er slide, extra materials mukhosto koree eshe likhte parle motamoti marks ashe. Sir practice question er doc diye den ekta, oi question gula dekhlei enough. Mid final e likha sir er mon moton na hoile marks komay diben onek. Interact koiren bhaiya, r slide gula print koraye niyen, tahole sir khushi hoye jaben
+  45. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Mubashshira Kaisar Safita thank you so much apu for the detailed review
+  46. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: MSRb easygoing and bhaloi curve koren. Did 215 under him.
+  47. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Mama smah ja porabe tai porlei hobe. Simulation dibe xm a oigula mone rakhlei hobe. And theory ja bolbe khatai note korbi. Oikhan theke theory dibe
+  48. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Shob A
+  49. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: eee154 e faculty er shathe ektu ghesha gheshi korlei A
+  50. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Vaia mwn unexpected grading kore / Ebr amader sbay k c ar c plus diyeche / Question easy kore learning er jonme average / Kono quiz nei / 1 ta assignment dey ar project dey / Full marks paile myb A dey / And yeah kono kichu na bujhle oita bar bar sir k ask krle sir bujhay dey
+  51. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Sazid Hasan Shafin Vai cse373 smah er review den in details e
+  52. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Hello vaiya how was Msrb?
+  53. [P25] POST: CSE299-  MSRB  
+CSE373- SMAH
+EEE154- MWN     
+EEE452-  RKz  ...
+     COMMENT: Check inbox
+  54. [P30] POST: Please Help!!
+How is MSRB for CSE299 ?...
+     COMMENT: Tàsñîm Müsfîkå can you explain a bit sir kemon type project den or expect koren ektu bolle Valo hoito
+  55. [P30] POST: Please Help!!
+How is MSRB for CSE299 ?...
+     COMMENT: Kon section?
+  56. [P30] POST: Please Help!!
+How is MSRB for CSE299 ?...
+     COMMENT: Jannatul Ferdous Mim 6
+  57. [P30] POST: Please Help!!
+How is MSRB for CSE299 ?...
+     COMMENT: how was he? whar type of project he accepts? sir ki curve koren?
+  58. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Slf sir best for CSE411
+  59. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Sabiha Sofder
+  60. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Best of luck for IQN
+  61. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Mahi Mahmud any question
+  62. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Ishtiaque Ahmed Jibon ta shesh mama
+  63. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: For 411 just solve the sample questions provided by sir. Also attend classes regularly. It's pretty easy to get a good grade in this course
+  64. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Wahid Ahmed thanks
+  65. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: IQN everything average.
+  66. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: 440 is a very basic course and MSRB is a very good teacher, he will help you in every way but regularity is a must. / Eco101 is very easy but slightly confusing with all the graphs. ABA miss is a gem. She will give you case study type of question which you will analyse based on the concepts you were taught it the class. If you understand the classes well especially the graph you can expect a very good grade. One thing she doesn’t curve at all if more than 4/5 students get 93+ raw.
+  67. [P39] POST: How to survive these courses with decent grades. Kindly help...
+     COMMENT: Mazharul Islam Nibir thanks
+  68. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Cse445 section?
+  69. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Thauhid Ferdhous Shanto 6
+  70. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Sob A paba. In sha Allah
+  71. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Arefin Amin Inshallah
+  72. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: A K M Mohiuddin what about her project requirement?
+
+=== FACULTY: OISD (Total candidate comments: 57) ===
+  1. [P3] POST: How to get A/A- under these faculties? 
+Please drop your hon...
+     COMMENT: Ssh1 sure A mama... / Sti or oisd k worst aitar competition hbe. / Msrz ar review lgbenh
+  2. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: JSA onek beshi theory poray bhai
+  3. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Mohibul Islam Badhon Question pattern ki?
+  4. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Mohibul Islam Badhon bhaiya question ki easy hoy? theory kemon dey and maths kemon dey?
+  5. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: vai jsa section koto
+  6. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Afif Mohammad Affan Same section
+  7. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Double Dekhi
+  8. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Mashrafe Bin Morshed Hae Auq
+  9. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: 323 kon section
+  10. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Istiak Ahammed 5
+  11. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: JSA sir is actually good vaia. Shb slide theke dibe. Just try to interact with him in class and good to go.
+  12. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Nafees N Islam bhaiya, uni ki maths naki theory te beshi focus kore question e?
+  13. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: eepy247 Both. Mid e ektu theory beshi silo amder time e
+  14. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: OISD goated, not sure about 299
+  15. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Nazmul Hasan Sakib details review please..
+  16. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Doomed
+  17. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: John_Cena07 why :')
+  18. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Auq join howar pore first sem e korsilam onar kaceh 327 , project dekhe etto praise korse bolse sem ses e approach o korte oita niye , pore dekhi decurve kore F diye boseh aseh
+  19. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: TrustworthyRabbit1432 shobai kei decurve kore? Poray kmn? Question kmn? Details e share koren pls
+  20. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Subaita Maryam slide reading pore , onar 327 er slide khub e unorganized chilo / Ques easy motamuti slide thekei kore but last e grade dey na
+  21. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Jsa sir is good enough.Sir is good for learning and sir slides e ja porai oikhan thekei ques dei,Partial marks o dei.all You have to do is just go through his slides and solve the problems from the slides and you are good to go.
+  22. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Ifrahim Arham Samin iktu details e bolben kivabe unar kache bhalo korbo plus kon jinisgula avoid korbo . Ami cse445 niyechi aibar unar kache
+  23. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Tarif Islam Ador sir j theory gula porabe oigula mon diye shuniyen and notes koriyen....sir mcq kore oishob theory theke....and analytical problems sir slides e ja dibe oigula practice korlei hoi oirkom type er ei dei analytical problems....and yes be nice with him he will be nice with you....and yes he curves in a good manner.
+  24. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Tarif Islam Ador beside curving he gives opportunities for bonus marks by asking questions....try to get those marks as much as possible....and yeah dont leave the class unnecessarily after the quiz...he will make you red marked
+  25. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Ifrahim Arham Samin how much does sir curve?
+  26. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: How was AUQ for 323?
+  27. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: GenuineDragon5326 Super easygoing but mid porjonto valo marks rakha lagbe. Sir 2/3 quizes count koren. Mid usually 70/75 marks e nen pore 30 te convert koren and final 50 te nisen pore etawo convert hoise. Question pattern: There will be 3 sections A,b,c or 1,2,3 types First there will be Mcqs then True/false, in both sections you Have to write justification for your answers. In the third part there will be one or two Scenario based questions. For 323 it will be a math from the slides. For 327 sir will give a scenario and based on that you have to answer and justify it briefly. (All topics will come from the slides). / Now comes the grading part, here sir can be unpredictable sometimes. The reason is until midterm he will give you a lot of marks, even if your mcq gets wrong but you wrote justification, you will end up with half marks and don’t lose it. Because in Final he won’t give any marks for wrong answers. So you might expect that you got less marks then what you deserved, but it Isn’t actually! / Lastly, you won't find a super easygoing faculty like him. Thats all.
+  28. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: MD Redwan Islam thanks a lot for the detailed review.
+  29. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: GenuineDragon5326 Also about project which i forgot to mention: / For 327: Sir will give you a list of project topics. From them you have to select one. And here joto age tmi Project topic select korba toto valo topic choose korte parba. And it will help actually. And you can use Ai agents, no such restrictions here. You have to upload weekly progress report on canvas. And Ekdom last e sir will take a Presentation on what you have built. And demo er video canvas e upload kora lagbe. Thats it. / For 323: / You have to make two servers using Virtual machines and connect with one of your group members and perform some operations all will given in the canvas. One is SSH server its mandatory and another you can choose from the list lile web server/ftp etc. Its very easy. But Don't cram in the last minutes. You are good to go.
+  30. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: How was auq?
+  31. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Tousif Kabir Aushesh / Super easygoing but mid porjonto valo marks rakha lagbe. Sir 2/3 quizes count koren. Mid usually 70/75 marks e nen pore 30 te convert koren and final 50 te nisen pore etawo convert hoise. Question pattern: There will be 3 sections A,b,c or 1,2,3 types First there will be Mcqs then True/false, in both sections you Have to write justification for your answers. In the third part there will be one or two Scenario based questions. For 323 it will be a math from the slides. For 327 sir will give a scenario and based on that you have to answer and justify it briefly. (All topics will come from the slides). / Now comes the grading part, here sir can be unpredictable sometimes. The reason is until midterm he will give you a lot of marks, even if your mcq gets wrong but you wrote justification, you will end up with half marks and don’t lose it. Because in Final he won’t give any marks for wrong answers. So you might expect that you got less marks then what you deserved, but it Isn’t actually! / Lastly, you won't find a super easygoing faculty like him. Thats all.
+  32. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: MD Redwan Islam so sir unpredictable grade dey na tahole
+  33. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Tousif Kabir Aushesh / Also about project which i forgot to mention: / For 327: Sir will give you a list of project topics. From them you have to select one. And here joto age tmi Project topic select korba toto valo topic choose korte parba. And it will help actually. And you can use Ai agents, no such restrictions here. You have to upload weekly progress report on canvas. And Ekdom last e sir will take a Presentation on what you have built. And demo er video canvas e upload kora lagbe. Thats it. / For 323: / You have to make two servers using Virtual machines and connect with one of your group members and perform some operations all will given in the canvas. One is SSH server its mandatory and another you can choose from the list lile web server/ftp etc. Its very easy. But Don't cram in the last minutes. You are good to go.
+  34. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: MD Redwan Islam group project?
+  35. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Tousif Kabir Aushesh Yes
+  36. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: OISD best. Tmi bujhtei parbe na tmi 299 krteso....sir Ekta topic diben...oi related idea share krte hbe...then idea finalized hoile, every week update dekhaite hbe....just dekhaba ki krso....last class a final presentation....sesh
+  37. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Shihab Al Rezwan Hae For 299 Oisd Gem
+  38. [P11] POST: Detailed review needed 
+
+CSE327 AUQ
+CSE323 AUQ
+CSE299 OISD
+E...
+     COMMENT: Auq good
+  39. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: all best
+  40. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: FriendlyCrocodile5602 tnku
+  41. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: FriendlyCrocodile5602 Eco 101.24 / details plz, sir kih mid online e ney?
+  42. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: GentleGoldfish9857 last time ney nai. i.. / sir khokon kih korbe sir nijeo jaje nh. / tobe mid online e nibe nh prepare thakoo r short question o thakbe / question valo ei tricky hbe & notes lagle dm me or all slides
+  43. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Hey / I need notes / Can you send those to me?
+  44. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Ayo winnnnn
+  45. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Maharuf Ahmed sir kih curve kore?
+  46. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Ayo best / Quiz mid final sb mcq / Kuno effort charai A or A-
+  47. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: RafiulHasan203 last sem e short question o nise,effort obosshoi lagbe,ques valoi pechay
+  48. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Truthslayer123 amader ney nai tw / Online quiz nise / Offline quiz ney nai / Kun sec chila tumi?
+  49. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: RafiulHasan203 online e nen naki in person
+  50. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Kayfi Ajmi mid r final just offline / Quiz online a
+  51. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Oisd- sir easygoing. Project niye pera dey na. Grading fair koren. Project report r process gulo thik vabe explain korte parle vlo grade pawa jay.
+  52. [P15] POST: Please guys tell me in details about these faculties 
+Cse299...
+     COMMENT: Mdrk - Every question comes from his own book
+  53. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Oisd
+  54. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Drop OISD or change section.
+  55. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: MMA1 project focused. project tay uni beshi gurutto den. ar class thik moto korle quiz, mid, final e emnetei bhalo korben. / OISD - good for grade
+  56. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: drop OISD Teaching and grading 2 tatei baje,
+  57. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: drop oisd.
+
+=== FACULTY: MLE (Total candidate comments: 21) ===
+  1. [P4] POST: How is MLE
+For CSE299?...
+     COMMENT: He used to give rag based Chatbot for the whole class. If he still does that then easyyyy
+  2. [P4] POST: How is MLE
+For CSE299?...
+     COMMENT: Aria Tasnim easy right?
+  3. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: In cse445 he curved almost 15marks in last semester
+  4. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Samin Intisar thank you so much
+  5. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Ifthakhar Ali Mahin w mahin bhaiya
+  6. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: bumppp
+  7. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Fabiha Raiyan me @ ur nose
+  8. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Fabiha Ferdaus so real
+  9. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: He did the same in 445.
+  10. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Ahsan Rizvi thank you so much
+  11. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: MLE taking 445 this semester?
+  12. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Muhammad Aminul Islam Labib I'm not sure. i just asked for future
+  13. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Fabiha Ferdaus Only section 10 is TBA. Hoping it’s not MLE
+  14. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Muhammad Aminul Islam Labib whyyyy
+  15. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Fabiha Ferdaus heard teaching er jonno valo na
+  16. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: he teaches from the absolute beginning, answers every question. whoever said that doesn't know how to take things from him
+  17. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Fabiha Ferdaus well section 10 is new faculty
+  18. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: He did...in cse445
+  19. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Mahbuba Akter Neera thank you apu
+  20. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Mahir Labib Mahi broda wot
+  21. [P33] POST: Has anyone done CSE299 or CSE445 under MLE? I have done 115 ...
+     COMMENT: Fabiha Ferdaus nothimg the comment was made just to receive notifications about future replies
+
+=== FACULTY: AFE (Total candidate comments: 10) ===
+  1. [P5] POST: For cse299 ,who will be better between smsl and afe sir? Ple...
+     COMMENT: AFE
+  2. [P5] POST: For cse299 ,who will be better between smsl and afe sir? Ple...
+     COMMENT: Sakhiur Rahman Bhaiya detailed review diben ki type project korle full mark pete pari please ??
+  3. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Smma has taken this course for the 1st time. He used to take 231 and many other eee based courses. / For learning if you try to attend all the class and give attention fully it will be good to go. I have done 231 on fall24. For grading in our section almost 10 people got A .
+  4. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: ScenicPomegranate5275 quiz, mid, final er Qus ki slidebased koren naki lecture notes based?
+  5. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Uni class e slide e bujhaj poraten.
+  6. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: AFE unpredictable se ki cay se nijeo jane na
+  7. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: AFE best
+  8. [P6] POST: Need reviews for these faculties:
+CSE299.3— MSRB
+CSE327.2— A...
+     COMMENT: Sakhiur Rahman
+  9. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Afe sir valo / Easy going ache / Project regular basis e update nei , seta time to time update dite parle valo grade pawa possible
+  10. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Apu, how was AFE? Can you share details about mid/quiz/final q pattern?
+
+=== FACULTY: SMSL (Total candidate comments: 2) ===
+  1. [P5] POST: For cse299 ,who will be better between smsl and afe sir? Ple...
+     COMMENT: Sakhiur Rahman Bhaiya detailed review diben ki type project korle full mark pete pari please ??
+  2. [P12] POST: Suggest Some Good Faculties For Grading then learning:
+CSE32...
+     COMMENT: CSE323 --Smsl / Phy108--zum
+
+=== FACULTY: TNS1 (Total candidate comments: 33) ===
+  1. [P14] POST: Need help from seniors for cse299
+as i start my 10th semeste...
+     COMMENT: Nah bro, taking too many project courses with cse299 isn't a good idea. / CSE299 is mostly research based, so u will spend a lot of time reading papers and writing reports, the main project begins after mid, so u will get less time and huge pressure... / However, if u really need to take cse299 with other courses do under Tns1...
+  2. [P21] POST: Hello.
+URGENT!!
+Does Tns1 allow to do cse299 alone?...
+     COMMENT: Nabila Rahman koyjon er group korte hbe?
+  3. [P21] POST: Hello.
+URGENT!!
+Does Tns1 allow to do cse299 alone?...
+     COMMENT: How was she?
+  4. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Cse445 section?
+  5. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Thauhid Ferdhous Shanto 6
+  6. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Sob A paba. In sha Allah
+  7. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Arefin Amin Inshallah
+  8. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: Tns1 mam best
+  9. [P41] POST: Cse445-------MSRb
+Cse273-------MMk1
+Cse299-------TnS1
+Mat361...
+     COMMENT: A K M Mohiuddin what about her project requirement?
+  10. [P46] POST: Hello good people
+Suggest me some good faculties for those c...
+     COMMENT: Cse373- EKD / Cse327- MdSH / EEE111- Rtk / Cse299- Tns1 / His102- Kfi / Pol101- Mbu
+  11. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Pera na nite chaile & grade valo chaile go for SSH1 ……. But learning er jonno not recommended.
+  12. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Shakila Rowshan Accha thanks for your suggestions. Time ki ki unar?
+  13. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: MD Ridwan Sec and time?
+  14. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj 299 er faculty reveal korai ache
+  15. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj easy going..weekly report gula thik moto diben..Ekta final presentation hobe…Overall apni thik moto sob requirement s gula fulfil krte parle valo grade paben
+  16. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mdy sir  / , no project only presentation about Quantum computing
+  17. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Naima Siddika Presentation ta kemon hoy?? Is that easy or hard?
+  18. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj ektu hard and the last presentation should be creative.
+  19. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Naima Siddika accha thanks
+  20. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Zahin Khan kemon?
+  21. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Cse299 RIH kemon hobe.. Unar section khali paisi.
+  22. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj Best faculty.. Kono pera dibe na..CR hoben... Sir weekly update nibe..ki ki korsen tar expln korbe & nxt week e ki korte hobe bole dibe..project ML niye korlei A
+  23. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan accha
+  24. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan CR toh sir ei choice kore dibe, CR er proti alada care dei nki
+  25. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj sir bolbe k hote chaw..so...
+  26. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sreejan Bose kemon re??
+  27. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj balo ank sincere thkos A pabi confirm
+  28. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: ?? abr
+  29. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Riaz Mozumder Kollol amr jnno na bro
+  30. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Zahid Hasan Juel / Bhai beshi pera dibe?
+  31. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Shakib Hasan Rayan Machine Learning released project korte bolbe, kisu sikhte parben na unar kase,weekly update niya onek pera dey, grade late a pawar possibility onek in that case next semester CSE499 course nite parben na !
+  32. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Zahid Hasan Juel Horrible
+  33. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Nbm best
+
+=== FACULTY: SFR1 (Total candidate comments: 29) ===
+  1. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Farihaa Ahmed drop diye dibo
+  2. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Umme Jahara Simki good decision
+  3. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Umme Jahara Simki hello apu, I heard that Mua3 isn’t that good for learning, and that you need to collect his previous questions to do good? Is that true?
+  4. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Sfr1 sir 1cr er course e 3cr course shoman pressure dbe, shikhben o onk kichu .. / Effort dile A
+  5. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Eee kon section apu?
+  6. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Muhammad Zubair Bhaiya Project requirements kemn thake?
+  7. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Sfr1:- / 1) follow his instructions properly / 2) regularly update throughout the whole semester / 3) don't cross the deadline / That's all, you'll get a good grade
+  8. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Sfr1 always Best, 299 e AI chatbot বানাতে দিবে আর স্যারের কাছে গেলে ভালো গাইডেন্স পাবেন, আর স্যার অনেক কার্ভ করেন
+  9. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Can you tell me if I miss an exam he takes a special exam and viva, what would be in that exam and in viva what will he ask?
+  10. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: MMA1 - ক্লাস না করলেও স্যার কিছু বলবেনা। / কিন্তু ক্লাস করবেন।নাহলে পস্তাবেন প্রোজেক্ট করতে। / আর হ্যা- পরীক্ষার হলে বন্ধুর খাতা দেখবেন না।প্রশ্ন দেখতে সেম,কিন্তু আসলে সেম হয়না।
+  11. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: mma1 . Project er criteria alada. bhalo nh hole C grade .
+  12. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: MH1 is very easy and chill
+  13. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Chem lab which sec?
+  14. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Albi Habiba 4
+  15. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Umme Jahara Simki ami 8 e
+  16. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Try to change cse 465 section
+  17. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Lfr drop
+  18. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Khan Md Emon Shah kno?
+  19. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Umme Jahara Simki no curving
+  20. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: MH1 sir is a chill and easygoing faculty . Give you the entire semester to submit the lab report and it will as a pdf in the canvas .
+  21. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Arnob H Chowdhury He was chill and as final grade he gave me a C+ . I had Marks for a solid A
+  22. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: ExcitingPhoenix721 I don’t know the reason . But me and my friend get good grade . I got A and my friend got A-.
+  23. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: How was Lfr?
+  24. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: sir class e ja poray ta valomoto shunle r note korlei hoye jay, extra material o pora lagena. But A grade er jonno protidin class e ashte hobe jehetu sir ja bole class e tar thekei exam e ashe and materials ekbr reading dilei hobe.
+  25. [P19] POST: How to secure an A under these faculty members…. 
+CSE299-SfR...
+     COMMENT: Umme Jahara Simki mid er question and quiz questions ki lecture e ja bole oi gulor moddhe thake Ar grading kmn kore?
+  26. [P34] POST: How is Sfr1 for CSE299?...
+     COMMENT: Apu Kemon chilo?
+  27. [P38] POST: How is sfr1 for cse299?
+Can anyone provide me with a detaile...
+     COMMENT: Raheem Ul Islam bolo
+  28. [P38] POST: How is sfr1 for cse299?
+Can anyone provide me with a detaile...
+     COMMENT: Shidratul Muntaha
+  29. [P46] POST: Hello good people
+Suggest me some good faculties for those c...
+     COMMENT: •CSE373 - EKD / •CSE327- RHK1 / •EEE111+L- SMMI / •CSE299- SFR1 / •HIS102- MAKS / •POL101-HMB
+
+=== FACULTY: NLH (Total candidate comments: 216) ===
+  1. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: MLM sir best er thekeo best / NLH sir 332 shikhaite pare na emni matir manush
+  2. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Md. Sahinul Islam bhai nlh ektu detailed review diyenn
+  3. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: MLM bhalo
+  4. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: 299 same section
+  5. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Talukder Alif Mahmood dekha hobe
+  6. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: nlh good for grading, not good for learning, but too friendly. try to keep high marks, surely sir will curve (cse332)
+  7. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Max Jason Bhai ektu detailed review dewa jabeb?
+  8. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: MD Redwan Islam specific kichu jante chan? bolte pari
+  9. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: NLH only good for grading and easy question in 332
+  10. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Nlh Sir is only good for grading, not good for learning.
+  11. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Nlh is very easy going and good for grading
+  12. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Nowshin Tabassum
+  13. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: MLM sir best
+  14. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: nlh drop de,amake janay drop dish
+  15. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: Mehzabin Karim thik hain soytan
+  16. [P20] POST: Cse299, 332 - NLH 
+MAT361 - MLM 
+Review please!...
+     COMMENT: I got CSE299 NLH too but in Section 16
+  17. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Sbs valoi ache
+  18. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: NLH kon sec?
+  19. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Jarinah Tasnim 13
+  20. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Meherin Chowdhury us
+  21. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Afrn onek easy going. Quiz mcq type hoy. Mid and final er age kichu questions dibe okhan thekei ashbe shob
+  22. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Al Rakib does he take group presentation?
+  23. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Dhrubo Shihab no
+  24. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Al Rakib presentation nen uni?
+  25. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Nawar Zannah no
+  26. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Al Rakib is it possible to get an A? İf yes, then how?
+  27. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Samiha Hossain Shoily quiz er jonno slides porlei enough. And mid final er jonno j suggestions gula dito shegula chatgpt theke summarize kore dekhe jetam. Sir onek marks den, grammatical or punctuational vul na hole marks kate na tmn.
+  28. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: SbS easy going, student friendly. But exams a conceptual questions kore. Ondher moton slides memories kore labh nai. Concept bujhe porle easily bhalo kora jay exams a. Quiz, Mid, Final je marks pay sobaike 2/1 marks baraya dey setar theke
+  29. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: AFRN easy going, quizzes are important
+  30. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: Rumman Khan is it possible to get an A?
+  31. [P28] POST: Faculty Review please:
+CSE299 - NLH
+CSE327 - NbM
+EEE111 - SM...
+     COMMENT: PBH Jitso!
+  32. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Drop Ahbb
+  33. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ahidul Hasan Dipu ar option o nai je
+  34. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee Bhai drop dio na. Hudai fresher ra course newar jonno erokom negative reviews dey
+  35. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Taif Sondhi eisob fondi fikir bujhi to
+  36. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ahidul Hasan Dipu ahbb valona?
+  37. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Nafees N Islam Naaaaa
+  38. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ahidul Hasan Dipu drop dile tui e nibi
+  39. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Torik Hasan Ami already niye nisi :')
+  40. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Maln bhalo ase
+  41. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Tazkira Neety onekei je bole dkhi not good for mat361 eta ki true?
+  42. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee class boring lage.. kintu shob slide theke e dey.. abr 3ta quiz ney.. 3rd quiz er marks mid a add kore dey.. makeup mid o ney /  class a kichu notes likhte hobe oigula xm a likhle bhalo marks dey
+  43. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ahbb worst for learning but good for grading.
+  44. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Khalid Bin Alim Arno tui unr kase 225 e krso?
+  45. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee hmm vaiya korsilam.
+  46. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ahbb Good for grade / Learning nai bolle e chole
+  47. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Tashfiq Mahmud motamoti kaz chalano jay?
+  48. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: 225 emno easy
+  49. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: AHBB super curve kore !! like Super super !!
+  50. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Shahbaz Ahmed 225 e korso?
+  51. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee yes
+  52. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Mat , CSE best faculty vai. Don't drop.
+  53. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Taif Sondhi maln kmn hbe bro?
+  54. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee good
+  55. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: ATA exercise list thekei shob dibe, bt onk math thake..so practice kora lagbe, and curve o kore..bt A/A- er jonne .5 curve o korbe na, eta oni first class ei bole dibe
+  56. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Raiyan Khan uni ki sob math dhore dhore koran?
+  57. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ahbb good for grading
+  58. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fatema Hossain learning e good na kno actually?
+  59. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: cse332 NLH sir slides ar moddhe thekei question koren onk somoy cls a buzben na but na buzle sir k bolle uni onk try koren buzanor , valo manush , bonus task o den last a ekta
+  60. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Shakirin Himi usual kono pera ki den?
+  61. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee matir manush no extra pera but porte hobe daily slides buze felle A In Sha Allah.
+  62. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ata best
+  63. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Shahana Islam unr porano kmn?
+  64. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee uni khub vlo poray...akdom dhore dhore bujhabe plus apni jodi effort dite paren ma'am will try her best to help you..kintu math practice korte hobe ar kono problem hole ma'am ke bollei bujhaya dibe
+  65. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Nazmul Islam ahbb ar review de
+  66. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Mahfuzul Kabir tui diya de
+  67. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Nazmul Islam
+  68. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: ahbb ki sokal 8 tar section ta naki?
+  69. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Sifat Jaman na dupurer ta
+  70. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Mama Ahbb ekbarei kicchu poraite pare na / Kintu emne exam e question easy kore slide e ja thake oita theika e dey / Grading o bhalo
+  71. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Safayet Hossain Alif tui o 225 unr kase krsos??
+  72. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee Ho
+  73. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Could you please check your inbox?
+  74. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Urbee Rahman Mim sure
+  75. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: How was MALn? Mat 361
+  76. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: drop kore disilam
+  77. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Seeking help3427 easygoing. Question o easy e koren. Deserving grade den. Samanno curve o koren.
+  78. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Bhai 332 kon section?
+  79. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: eta 2semester ager post
+  80. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Ata kon section?
+  81. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: 2sem ager eta
+  82. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: ager post
+  83. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee oh XDD
+  84. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Fahmid Shahriar Alvee Still bump xD!
+  85. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: MALN best
+  86. [P31] POST: Review Please
+CSE 332 - NLH
+CSE 225 - AHBB
+MAT350 - ATA
+MAT3...
+     COMMENT: Bro check inbox
+  87. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: NHS1 good for learning only.
+  88. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Rafsan Rahman grade kmn dey bhaiya
+  89. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder Doesn't curve
+  90. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: NHS1 bhalooo
+  91. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Sadia Ahmed Hia Jitsi Taile
+  92. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder yes uni easy going and grade o bhalo dey
+  93. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nhs1 best. Ekdom chilled
+  94. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Abir Apurbo Jitsi Yeahhh
+  95. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Ebar ki bi semester?
+  96. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Sayyid Ashraful Islam Opin ho mama
+  97. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder nio na
+  98. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Sayyid Ashraful Islam Opin 4.69 mmmmmm
+  99. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Umar Asadul Haque 3.69 maybe
+  100. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Dirim cgpa
+  101. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Al Osama Tanvir 5/5 pailam nah…
+  102. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder vai uprer ta diyen
+  103. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: 361 bhalo na re. drop dewar age janais
+  104. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: cgpa 4.69 kivabe hoy?
+  105. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Neha Akhter ektu high hoye gesilo rds
+  106. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nhs1 jeno k suggest korsilo
+  107. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Shaikh Khatuney Zannat Rajani Zannnnaaat
+  108. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Arefin Amin same cg as yours
+  109. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Syed Shadman Zahin :0 ikr crazyyyy
+  110. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Syed Shadman Zahin na na tumi ektu vhul bolso Arefin Amin er CG 6.9
+  111. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Abrar Tajwar Mahin na. Or cg hocche.... Over 9000
+  112. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: NHS1 best
+  113. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Cse 299 NLH?
+  114. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Rehnaf Leon hae
+  115. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder post e NHL likhso
+  116. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Bro using RDS mod apk
+  117. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nazmus Sakib Hamim indeed
+  118. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nlh ez B
+  119. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: 5 na keno bujlam na kibhabe bolba "I am CGPA 5 "
+  120. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: dirim cgpa
+  121. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Tanzila Akter tor toh acheiii ar kii lagee
+  122. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Motasim Billah Mahim hoo amr cgpa 5.00
+  123. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Tanzila Akter inbox e jeye bole asho, tomar o cg baray dibe bhai:")
+  124. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Shaikh Khatuney Zannat Rajani lgbena bhaai  / ..main aise hi thik huu
+  125. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Tanzila Akter ami probation 6 eh:)
+  126. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder hae eijonnoi apnar cg eto kharap bhaia..cgpa 5.00 chara dam nai ekhn
+  127. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: 373 same section mama
+  128. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Omar Sadat Chayan le... shobai ekloge course kore.. ami na course pai.. na frnd pai
+  129. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Pakeezah Tajwar Wafa amio aktai paicy.. /  sob to moni e niye gelo
+  130. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Omar Sadat Chayan 332 o paisilam. nilam nah toder jonno jeno tora koros
+  131. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder ak semester age kora ses
+  132. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Omar Sadat Chayan khela hobe mama
+  133. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Omar Sadat Chayan ei chor gular jonno ami course pai nai.
+  134. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Minhazur Rahman Shihab mat361 review please
+  135. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Mazharul Islam Khan no learn only motivation
+  136. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Mazharul Islam Khan Shihab sir er class gula ekdomi boring. / Mid er por class er pora kisu bujhi nai. / Quiz, mid and final e sir slide thekei question koren. Slide er sob math Korte parle question common paben (just value change). Sir partial marking koren and kisu ta curve koren maybe (3-4 marks).
+  137. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: 311 e dekha hobe bro
+  138. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Albi Habiba exam eh dekhaio miah:) 231 er moton koiro na
+  139. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder ami nijei dhora khaisi 231 e
+  140. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Albi Habiba how was nlh
+  141. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Salman Fahîm changed that section, but I did 332 and nlh sir was very humble and he curves a lot
+  142. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nlh er kache mara khabi, eta bolte pari just
+  143. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Ahnaf Muhim sobai toh bhalo boltese
+  144. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder ami 299 kore mara khaisi
+  145. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Ahnaf Muhim vaiya Aktu detail e bolben? Amio NLH peyechi for 299
+  146. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nhs1 boss
+  147. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Cg4.69!!!
+  148. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nsh1 best
+  149. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Pol101-NHS1 best
+  150. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Bio sem sec
+  151. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Maharuf Ahmed bio same section
+  152. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Maharuf Ahmed review Kmn Ektu bolte parben
+  153. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: S. Anam Ridwan Shanto inbox
+  154. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: NsH1 best onek easy going
+  155. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: CSE311 same section
+  156. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Edit er ****
+  157. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: NHs1 best
+  158. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: All Credit goes to HSC GPA
+  159. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Bondhu cg mile gelo kemne!!!!
+  160. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nazia Tasmin ehhh. Tumi toh probation 4 eh
+  161. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Cse 373 must drop at 4pm
+  162. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Nazia Tasmin drop deyar chance 90% because 6 din class korbo nah. Just TBA shorar wait eh
+  163. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Kawser Sikder ekhoni drop deo. 6:40 e
+  164. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Malm akdom poraite pare na / Pura tai Self study korte hobe
+  165. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Sinthia Ahmed Rachona ayhay:( rip hoye gelo
+  166. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: Malm sir er class boring and lecture kichu bujhben na tmn hoyto but unar slide r assignment fully korte parle shob common paben quiz, mid even final eo. Uni partial marking o kore
+  167. [P35] POST: Review, please:)
+CSE311- NLH
+CSE373- TBA:)
+CSE299- NHL
+MAT36...
+     COMMENT: 3 paitei jan ber hoye jay r bhaiti 4.6999999 / ?
+  168. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Ekdom jitsen
+  169. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Atkia Sadia Anika
+  170. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Drop drop.
+  171. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: unar under e 332 korechi khob e baje obostha bisesh kore learning r grading average / akhon 299 o ki same obostha hobe kina not sure
+  172. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Nusrat Jahan ayhay
+  173. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Kew bole na
+  174. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Amio NLH. / review e pacchi na temon.
+  175. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Cse311 korlam last semester unar poranor style valo na kisu thik moto clear koren na. Xm er age sample question chailam onk kore kisui dilen na kisu proyojonio links chailam tao den nai bolsilen diben purai ajob. But last e 10 root x curve krsilen.
+  176. [P36] POST: How’s NLH for cse299 ? Please share in details...
+     COMMENT: Mehedi Hasan thanks
+  177. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Tmi to sob A
+  178. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Shakirin Himi eibar onk bhoye asi faculty niye
+  179. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Sumaya Suimee In Sha Allah hoye zabe tmr 299 amr 311 332 ar same faculty
+  180. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Rmz1 good for grading
+  181. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Nihal Azman Ananda how to do well in quiz mid final?
+  182. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Sumaya Suimee Follow slides and take class notes. Questions are a bit tricky so practice problems from slides. Follow “Gate Smashers” utube channel for practicing problems.
+  183. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Nihal Azman Ananda Thanks a lot
+  184. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Nihal Azman Ananda onar mid final er question gulo hbe bhai?
+  185. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Ibrahim Sani na bro question nei
+  186. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: EKD good
+  187. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Mahi Mahmud please elaborate. How to do well in his exams?
+  188. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Sir easygoing ase.Regular class korle bhalo kora possible
+  189. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Mahi Mahmud tui bhalo korli na ken?
+  190. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Rafid Shahriar Sami bhalo paisi to eda xD
+  191. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Mahi Mahmud taile thik ase cD
+  192. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Ads1 best
+  193. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Ads1 good
+  194. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Ads1 is really good
+  195. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Nlh good. / Helpful
+  196. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Sob best
+  197. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Yeasin Arafat ki je hobe eibar
+  198. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Sumaya Suimee sob A
+  199. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: AdS1 is good for grading
+  200. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Nlh kon sec?
+  201. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Rehnaf Leon 15
+  202. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: MAT361 -> Ads1 Sir is a good faculty. His classes are mostly dull because he jokes a lot, most of which are lame, I would say. Although I could understand what he taught, I didn't like his way of teaching. He doesn't teach the theoretical stuff, which is rather essential if you are planning to do CSE445 and CSE465 in the future. So, I would advise you to learn those by yourself. / If you just want a good grade, attend all his classes and note his lectures correctly. In the course outline, you will find a page containing the name of the exercises and the question numbers associated with each exercise. Make sure you practice those after each class and before the exam. He might or might not curve depending on the overall performance of the section. However, it's very much possible to score 95+ marks easily if you are regular and hardworking. / Overall, this course is easy, and since Ads1 Sir is chill, you will barely face any difficulties. However, it's necessary to be regular.
+  203. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Muhammad Mutasim Farhan Thanks a lot
+  204. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Sumaya Suimee you are welcome!
+  205. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Apu how was NLH?
+  206. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Rahman Aiza He was good
+  207. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Your experience with Nlh?
+  208. [P37] POST: Review Please
+Cse323- Rmz1
+Cse299- NLH
+Cse373- Ekd
+Mat361- A...
+     COMMENT: Rafid Islam He was good
+  209. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Vai nlh kemon chilo
+  210. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Jubayed Ahmed Sahel ভাল না ভাই।
+  211. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Mahabub Kowsar keno vai ? Poraite parena?
+  212. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Jubayed Ahmed Sahel Bhai course Nile bujben...Ami unar kache 299,311 krsi...lab instructor joggon Kichu blam na ...Sathe unra exam question,porano style Kichu Valo na..ki blbe nije bujben na.... retake nite caile krte paren unra kache
+  213. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Mahabub Kowsar lab instructor baje sheta bolchen? Naki sir
+  214. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Jubayed Ahmed Sahel sir ponaro style, question onkk kothin krbe....apnak Valo Korte hole onkk besi pressure dite hbe ei course......marks Tula kost ache..... / Lab instructor Valo chilo na
+  215. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: Jubayed Ahmed Sahel bhai apni ki korsen NLH er kase?
+  216. [P43] POST: Faculty review please
+Cse311 NLH section 11
+Cse299 NLH secti...
+     COMMENT: AdventurousChestnut3399 nh
+
+=== FACULTY: MUO (Total candidate comments: 71) ===
+  1. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: To get an A from MUO sir, you must make sure to show the weekly updates properly. / I missed getting a good grade because I didn’t submit the first two weeks updates properly. / Sir is a great teacher, a good man indeed
+  2. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Mohiminul Islam thanks..sir er ki kono specific preference ache? For project topic
+  3. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Sadia Eva স্যার এইরকম প্রজেক্ট এক্সপেক্ট করেন যেটা সোশ্যালি অ্যাপ্লিকেবল হবে। / রিয়েল লাইফ প্রব্লেম সলভ করবে এই টাইপ প্রজেক্ট প্রেফার করেন।
+  4. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Mohiminul Islam can you do individual project under him?
+  5. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Farina Alam জ্বী, ইন্ডিভিজ্যুয়াল্লি করতে পারবেন। / আমিও নিজেও একাই করেছি স্যারের কাছে।
+  6. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Sajedul Islam OnTu thanks..sir kon topic based project beshi prefer koren?
+  7. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Sadia Eva first class ei criteria bole dibe , tar moddhe theke ek type korlei hoy r ki
+  8. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Sajedul Islam OnTu bhaia sir er marking kmn? curve koren? and question ki slide thekei den? A/A- pawa possible?
+  9. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Rahman Aiza raw marking ei A/A- possible / Curve koren naa
+  10. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Sajedul Islam OnTu bhaia question ki slide thekei den?
+  11. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Rahman Aiza jiii
+  12. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Muo sir
+  13. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Muo sir onk nice!!
+  14. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: All best
+  15. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: How was 331 KSE ?
+  16. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Atahar Hossain dropped the course.
+  17. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: How was HSM for 445?
+  18. [P26] POST: How to ace an A under these faculties. 
+Kindly drop your sug...
+     COMMENT: Mushtasin Ahmed dropped the course
+  19. [P27] POST: Hello. I got MUO for cse299.
+I am doing it alone, I do not h...
+     COMMENT: I also took the course alone last semester under MUO. Faculty doesn't matter that much in 299. I was alone and everyone took the course together. So I dropped it. I would recommend you to take the course with one of your friends, as most of the students take the course together. You can always take the course alone but having a good project in cse299 would boost your cv/profile in the future. Doing a good big project alone will be too much hassle.
+  20. [P27] POST: Hello. I got MUO for cse299.
+I am doing it alone, I do not h...
+     COMMENT: Shamiul Alam Miraj / I actually do not know if I will have any friends to do it with
+  21. [P27] POST: Hello. I got MUO for cse299.
+I am doing it alone, I do not h...
+     COMMENT: Yes, sir does allow you to do a project alone, but a simple webpage project is not enough to earn a good grade. Sir gives you full freedom to choose your project, but it should have a social impact or solve an existing problem. / He evaluates based on the effort you put into the project when grading.
+  22. [P27] POST: Hello. I got MUO for cse299.
+I am doing it alone, I do not h...
+     COMMENT: Farhan Ishtiaque okay, thank you so much! / Actually I don’t have any extra skills outside of what I learned in NSU.
+  23. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Ji... Make sure to learn and update every week, take suggestions and act accordingly, sir rewards your efforts,
+  24. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Muhammad Sayeed Fahim bhaiya please check inbox
+  25. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Muhammad Sayeed Fahim bhai project jodi na mile last e sir ki consider koren? And sir ki 299 e curve koren?
+  26. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Nahidul Islam
+  27. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Tmr review laghe nah.
+  28. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Asif Mahmud guideline help lagbe
+  29. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Drop Muo. Khub pera khaben and drop deyar age amake ektu boilen:)
+  30. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Kawser Sikder ji bhai ekhn e dicchi. 6*5*00 b**ka*sh koren khor*ocher ta*ka shoho ekhn e dr**op diye dibo
+  31. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Sakib Ahmed Shishir chole aschi
+  32. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Me last sem
+  33. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Iftikhar Ahmed bhaiya inbox
+  34. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Iftikhar Ahmed bhaia check inbox
+  35. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Asif Ahmed
+  36. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Shaiely Ahasan hehei:3
+  37. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Shaikh Nasif ami A pabo life e kokhono/? Vaiya
+  38. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Farhan Raiyan prochur porashona korte hobee
+  39. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Shaikh Nasif er mark er jonno 4 hoilo na
+  40. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: ami pura sem pera kheye RAG llm chatbot banaye, time to time update kore j grade paisi onno faculty er kache, amr friend baccha project konovabe banaye same grade paise muo sir er kache. Sir nki onk easygoing chilo o bollo
+  41. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Faija Farhin Bintay Islam Muo sir ki project select kore den? Naki nijer moto
+  42. [P32] POST: MUO sir er kache CSE299 kore A/A- grade peyechen emon kew ac...
+     COMMENT: Meher Easha
+  43. [P46] POST: Hello good people
+Suggest me some good faculties for those c...
+     COMMENT: CSE373 - Sfm1 / CSE327 - Nbm / CSE299 - Nbm/MUO
+  44. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Pera na nite chaile & grade valo chaile go for SSH1 ……. But learning er jonno not recommended.
+  45. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Shakila Rowshan Accha thanks for your suggestions. Time ki ki unar?
+  46. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Muo
+  47. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: MD Ridwan Sec and time?
+  48. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj 299 er faculty reveal korai ache
+  49. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: MD Ridwan kemon vaiya MUO?
+  50. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj easy going..weekly report gula thik moto diben..Ekta final presentation hobe…Overall apni thik moto sob requirement s gula fulfil krte parle valo grade paben
+  51. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mdy sir  / , no project only presentation about Quantum computing
+  52. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Naima Siddika Presentation ta kemon hoy?? Is that easy or hard?
+  53. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj ektu hard and the last presentation should be creative.
+  54. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Naima Siddika accha thanks
+  55. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Zahin Khan kemon?
+  56. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Shakibur Rahman kemon vaiya Muo?
+  57. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Cse299 RIH kemon hobe.. Unar section khali paisi.
+  58. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj Best faculty.. Kono pera dibe na..CR hoben... Sir weekly update nibe..ki ki korsen tar expln korbe & nxt week e ki korte hobe bole dibe..project ML niye korlei A
+  59. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan accha
+  60. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Mahedi Hasan CR toh sir ei choice kore dibe, CR er proti alada care dei nki
+  61. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj sir bolbe k hote chaw..so...
+  62. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sreejan Bose kemon re??
+  63. [P47] POST: #HelpPost 
+Cse299 kon faculty valo hobe?  
+NvA/SnS1/SSH1/TnS...
+     COMMENT: Sumit Bosu Raj balo ank sincere thkos A pabi confirm
+  64. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: ?? abr
+  65. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Riaz Mozumder Kollol amr jnno na bro
+  66. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Zahid Hasan Juel / Bhai beshi pera dibe?
+  67. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Shakib Hasan Rayan Machine Learning released project korte bolbe, kisu sikhte parben na unar kase,weekly update niya onek pera dey, grade late a pawar possibility onek in that case next semester CSE499 course nite parben na !
+  68. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Zahid Hasan Juel Horrible
+  69. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: Nbm best
+  70. [P49] POST: Best faculty for Cse299?
+Muo / Itn / TnS1...
+     COMMENT: MUO sir ai course a ektu advance project day.
+

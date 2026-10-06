@@ -1,6 +1,7 @@
 import http.server, os, time
 
 OUT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(OUT)
 
 PAGE = b"""<script>
 addEventListener('message', async e => {
@@ -30,8 +31,9 @@ class H(http.server.BaseHTTPRequestHandler):
             self.wfile.write(body)
             return
         if self.path.startswith("/f/"):
-            p = os.path.join(OUT, os.path.basename(self.path[3:]))
-            if not os.path.exists(p):
+            rel = self.path[3:].lstrip("/")
+            p = os.path.normpath(os.path.join(ROOT, rel))
+            if not p.startswith(ROOT) or not os.path.exists(p):
                 self.send_response(404)
                 self.end_headers()
                 return
@@ -46,9 +48,13 @@ class H(http.server.BaseHTTPRequestHandler):
         self.wfile.write(PAGE)
 
     def do_POST(self):
-        name = os.path.basename(self.path.strip("/")) or f"batch_{int(time.time())}.json"
+        rel = self.path.strip("/").lstrip("/")
+        p = os.path.normpath(os.path.join(ROOT, rel)) if rel else os.path.join(OUT, f"batch_{int(time.time())}.json")
+        if not p.startswith(ROOT):
+            p = os.path.join(OUT, os.path.basename(rel))
+        os.makedirs(os.path.dirname(p), exist_ok=True)
         data = self.rfile.read(int(self.headers.get("Content-Length", 0)))
-        with open(os.path.join(OUT, name), "wb") as f:
+        with open(p, "wb") as f:
             f.write(data)
         self.send_response(200)
         self.end_headers()

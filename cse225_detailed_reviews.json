@@ -1,15 +1,927 @@
 {
   "cse225": {
+    "aba": [
+      {
+        "review": "ABA ma'am best",
+        "rating": "great"
+      }
+    ],
+    "abo": [
+      {
+        "review": "Honest REVIEWS and INSTRUCTIONS please\nCSE225+L : Sak1\nEEE141+L : AbO\nMAT250 : MLA\nP… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "Nishat Suchona 15",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "AbO sir onek easy going and friendly, his classes can be boring if you have prior background knowledge on dc circuits and he is kinda slow paced. Takes 4-5 quizzes questions are all from the textbook he only changes some values. doesnt give any assignments or whatsoever. if you face problems regarding lab be sure to talk to him about it in class. last semester he curved a bit i think but he doesnt decurve and gives marks fairly.",
+        "rating": "avoid"
+      },
+      {
+        "review": "Mubashshir Ayon thank you bro!",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhammad Nishad tor sec bol",
+        "rating": "normal"
+      },
+      {
+        "review": "Gibran Omar Rupai Sec 7.",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhammad Nishad 7",
+        "rating": "normal"
+      },
+      {
+        "review": "AbO sir er marking ektu tricky, I used to write everything in my scripts so that made it hard for him to deduce marks",
+        "rating": "harsh"
+      },
+      {
+        "review": "Rushdul Amin Raiyan yes, he curves but ever so slightly. he had his\nown grading scale in the excel specification he gave to us. it might differ so I wont say much",
+        "rating": "normal"
+      },
+      {
+        "review": "teaching is not the best, but sir will answer questions you have and is not rude. all notes are given via G Classroom so no worries. I was sleeping during my lectures",
+        "rating": "great"
+      },
+      {
+        "review": "Max Jason thank you very much!",
+        "rating": "normal"
+      },
+      {
+        "review": "Rushdul Amin Raiyan welcome. and must practice from the book. sir gave the harder questions from the book",
+        "rating": "harsh"
+      },
+      {
+        "review": "SAK1 er kache 225 korar theke ajibon 225 na kora thakleo apnar kono loss hobe na... ECE Department bole unak ato din part-time faculty hisabe rakhse.. ta na hole r o 5.5 years age theke unar r faculty hisabe continue korar kotha nah..",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop Sak1",
+        "rating": "avoid"
+      },
+      {
+        "review": "Sak1 worst vai for learning. Class e slide reading porabe. Everyday class e late e ashbe. DU er teacher. Nsu er student der gunay dhore na. Mid ney na kono. Quiz gula e mid hisebe count kore. Ja poray slide e sekhan thekei qus kore. Nije porle valo grade paoa jabe",
+        "rating": "avoid"
+      },
+      {
+        "review": "Deadliest Faculties",
+        "rating": "normal"
+      },
+      {
+        "review": "Sak1 sir er class e dekhe lekhte parle A paben . Ar shikben uni slide e ja ase tai bujhabe. Quiz nei but oita mid hisebe count kore . Tachara ajaira question korle uni kotha shunaia dibe.",
+        "rating": "normal"
+      },
+      {
+        "review": "Soudip Chanda I have a science background, and this is my GED course.",
+        "rating": "normal"
+      }
+    ],
+    "acq": [
+      {
+        "review": "Anika Tabassum i did under acq, got A",
+        "rating": "normal"
+      },
+      {
+        "review": "AKAD=> best for learning and grading\nACQ=> best for learning and grading, 10 root x curve\nMUO=> best",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "MUO, ACQ GOAT",
+        "rating": "Outstanding"
+      }
+    ],
+    "afrn": [
+      {
+        "review": "Nazifa Tasnem detailed review pls",
+        "rating": "normal"
+      },
+      {
+        "review": "LivelyCapybara8389 And jodi time thake class e tahole sir quiz mid final er porao class e poray den mane questions slide mukhosto koray dibe.",
+        "rating": "normal"
+      },
+      {
+        "review": "GreenPomegranate9580 thanks a lot for the time.",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse115-CFA\nCse225--MUO\nhis102--AFRN\nmat130--ZHN\nCse332--sfm\nReview plss!!!!",
+        "rating": "normal"
+      },
+      {
+        "review": "Afrn nice",
+        "rating": "normal"
+      },
+      {
+        "review": "Shaccho Sarkar grading kmn",
+        "rating": "normal"
+      },
+      {
+        "review": "Sfm best",
+        "rating": "great"
+      },
+      {
+        "review": "Cfa best",
+        "rating": "great"
+      },
+      {
+        "review": "Shafaet H. Ankur",
+        "rating": "normal"
+      },
+      {
+        "review": "Sunehra Ahsan rds2",
+        "rating": "normal"
+      },
+      {
+        "review": "AFRN good",
+        "rating": "great"
+      },
+      {
+        "review": "Kayfi Ajmi amader majority assignment vote disilam dekhe assignment. According to class mate curve korenai tamon akta.",
+        "rating": "normal"
+      },
+      {
+        "review": "Abdullah Mohammad Ayon AFRN worst",
+        "rating": "avoid"
+      },
+      {
+        "review": "Explain vaia",
+        "rating": "normal"
+      },
+      {
+        "review": "Raiyan Rahman true",
+        "rating": "normal"
+      },
+      {
+        "review": "Attendance full, quiz full, Mid good enough marks still B-",
+        "rating": "great"
+      },
+      {
+        "review": "Cfa vloi",
+        "rating": "normal"
+      },
+      {
+        "review": "Talha Zubayer yes",
+        "rating": "normal"
+      },
+      {
+        "review": "Bilash Das koto paili",
+        "rating": "normal"
+      },
+      {
+        "review": "Raihanul Mehrab ja dise bhaloi dise",
+        "rating": "great"
+      }
+    ],
+    "ahb": [
+      {
+        "review": "Mohaiminul Saurav kire saurav bhalo bolla ken",
+        "rating": "great"
+      },
+      {
+        "review": "Mithi La sir asolei valo manush. Kintu tomar sathe vibe match koreni. Tomar jonye kharap",
+        "rating": "great"
+      },
+      {
+        "review": "Mohaiminul Saurav to oita janay dao manushke je sirer shathe vibe match kora joruri naile jhamela korbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Mithi La achchha achchha janiye dichchhi",
+        "rating": "normal"
+      },
+      {
+        "review": ",",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225 amar section of 12. But sir kmn bujhtasi nah",
+        "rating": "normal"
+      },
+      {
+        "review": "Huzaifa Ahmed jei koyta review peyechi, valo na..",
+        "rating": "great"
+      },
+      {
+        "review": "Ahb easygoing and best for grading",
+        "rating": "great"
+      },
+      {
+        "review": "AHB bestest",
+        "rating": "great"
+      },
+      {
+        "review": "UnderstandingLemur1527 I took it a long time ago so I don't remember unfortunately but I believe it was just like any other course outline",
+        "rating": "normal"
+      },
+      {
+        "review": "Adeeb second that",
+        "rating": "normal"
+      },
+      {
+        "review": "Ovi no.bio no",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop HAI",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ovi Binary marking kore.math hole full marks.otherwise zero diye rakhe.curve kore na.Midterm ar final question onek hard kore",
+        "rating": "harsh"
+      },
+      {
+        "review": "Mahmudul Hasan Asif yes, i am serious.Ami eee111 korsi unar kase goto semester",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahmudul Hasan Asif curve kore but Mid Final e onek hard question kore! Even TA xm shesh e lift e uthe bole je question eto hard Ami Nije e Pari na",
+        "rating": "harsh"
+      },
+      {
+        "review": "HMI average...",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop hai...",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ovi teaching quality vs question toughness onek difference",
+        "rating": "harsh"
+      },
+      {
+        "review": "HMI regularly class attend korle, unar instructions follow korle, gets easy",
+        "rating": "normal"
+      }
+    ],
+    "akad": [
+      {
+        "review": "Kindly drop a detailed review on how to get good grades under these faculties.\nCSE225 : MUO\nEEE141 : SSH1\nMAT130 : AKAD… See more",
+        "rating": "avoid"
+      },
+      {
+        "review": "Mama sob goat faculty",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Muhtasim Rahman mama goat hoileo..kemne A/A- pabo review lagbe\n..edr kase jdi vlo grade na pai thle to shesh",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Ishraq Rubayet Arnob curve korle sobai A pabe\nSo curve chara e raw A paoa jay",
+        "rating": "normal"
+      },
+      {
+        "review": "AKAD=> best for learning and grading\nACQ=> best for learning and grading, 10 root x curve\nMUO=> best",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Kop",
+        "rating": "normal"
+      },
+      {
+        "review": "Rafsan Rahman sob e luck",
+        "rating": "normal"
+      },
+      {
+        "review": "Muo, SSH1, akad all are",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225- MUO is good, but unar course e onk efforts dewa lage as uni marks e den na. His grading is pretty unpredictable.\nEEE141- Ssh1 is a goated fac; follow her classes, her lectures, and her assignments for quizzes and mid; if done properly, you are good to go. Curves 1/2 depending on section and personal performance.\nMAT130- Akad, best. Follow his class and lectures; don't miss any classes, and you are good to go. He doesn't curve. Raw grade, but gives good marks on paper.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Arup Ry Thanks a lot",
+        "rating": "normal"
+      },
+      {
+        "review": "Samir Fayez project to ekhon ig shob 225 er course ei thake. Amdr time e chilo na. Amra 4 bochor age korsilam",
+        "rating": "normal"
+      },
+      {
+        "review": "Bro Show off kortese \n. Shob kotai goated",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Nabil Sajjad Evan procchur hard work kore paisi..but showoff grade a paite chai",
+        "rating": "harsh"
+      },
+      {
+        "review": "Kire aisha porli flex marte.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ratul hae mama",
+        "rating": "normal"
+      },
+      {
+        "review": "Akad sir assignment in-class nibe",
+        "rating": "normal"
+      },
+      {
+        "review": "Farhan Sadik 61",
+        "rating": "normal"
+      },
+      {
+        "review": "Koto credit complete korle emon moner moto faculty pawa jay",
+        "rating": "normal"
+      },
+      {
+        "review": "Tahnima Neha 61 credits,with lots of prayers & hard work",
+        "rating": "harsh"
+      },
+      {
+        "review": "All drop",
+        "rating": "avoid"
+      }
+    ],
+    "alhq": [
+      {
+        "review": "Tahsin Rahman alhq o vlo chilo jkhn nisilam",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Alhq worst",
+        "rating": "avoid"
+      },
+      {
+        "review": "muo, akad, alhq",
+        "rating": "normal"
+      },
+      {
+        "review": "Tahsen Ahmed accurate",
+        "rating": "normal"
+      },
+      {
+        "review": "Tahsen Ahmed true",
+        "rating": "normal"
+      },
+      {
+        "review": "In short, Alhq sir 1 grade curve kore, only if you attend all the classes .\nAnd in the end of the semester, you will have D easily",
+        "rating": "normal"
+      },
+      {
+        "review": "If possible drop alhq, he will make your life a living hell,\nAfter spending every single bit of my brain cells he still gave me a c+ grade. So not worth it brother.",
+        "rating": "avoid"
+      },
+      {
+        "review": "drop alhq",
+        "rating": "avoid"
+      },
+      {
+        "review": "Drop alhaq, 12ta quiz r raja but faculty der faculty uni...",
+        "rating": "avoid"
+      },
+      {
+        "review": "Tahiat Bushra 53",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop ALHQ asap",
+        "rating": "avoid"
+      },
+      {
+        "review": "Tousif Kabir Aushesh worst learning, difficult question",
+        "rating": "avoid"
+      },
+      {
+        "review": "Nafiur Omi dropped & shifted",
+        "rating": "avoid"
+      },
+      {
+        "review": "Tousif Kabir Aushesh Good decision",
+        "rating": "great"
+      },
+      {
+        "review": "Nafiur Omi ohk...",
+        "rating": "normal"
+      },
+      {
+        "review": "Shafaet H. Ankur eksathe che101+L neya jay, kintu seat pawa jay na lab e",
+        "rating": "normal"
+      },
+      {
+        "review": "Shafaet H. Ankur paisi...",
+        "rating": "normal"
+      },
+      {
+        "review": "Nishat Suchona ajke chilo...",
+        "rating": "normal"
+      }
+    ],
+    "ans": [
+      {
+        "review": "Rih sir core concepts and theory te focus kore, code temn ekta deyna, dileo choto ekta part likhte dibe. Quiz e 1/2 marks er choto choto short question thake, main ans ta likhte parlei full marks. Mid er Section A te Mcq thake 20ta. And section B written ( 3/5 marks er koyekta question) . Initially question dekhe hard mone hote pare but i can assure class lecture follow korle u can answer these v easily!\nCons: Uni rules maintain korte pochondo kore\n1) class e thik time e dhukte hobe. 1/2 days late is considerable but apni jodi constantly late korte thaken, he will not give the attendance\n2) Class time e sir er dike attention dite hobe. Phone/onno kisu te busy thakle sir apnk notice korbe.\n3) Sir jodi theory ans chay apnk theory tei ans dite hobe. Algorithm chaile algorithm.\nSir ask korlo ei problem ta kivabe solve kora jay, apni solve na likhe code likhe diye ashle sir marks dibena. Cause code to apni mukhosto o kore ashte paren problem ta really na bujhe. He just want to make sure apni depth e giye problem ta k feel kore solve korte partesen kina.\nFinally, mid and final er age 2ta assignment dey. Oi type er question e exam e ashe. Kono project ney na.",
+        "rating": "harsh"
+      },
+      {
+        "review": "IntelligentCelery1883 Rih sir core concepts and theory te focus kore, code temn ekta deyna, dileo choto ekta part likhte dibe. Quiz e 1/2 marks er choto choto short question thake, main ans ta likhte parlei full marks. Mid er Section A te Mcq thake 20ta. And section B written ( 3/5 marks er koyekta question) . Initially question dekhe hard mone hote pare but i can assure class lecture follow korle u can answer these v easily!\nCons: Uni rules maintain korte pochondo kore\n1) class e thik time e dhukte hobe. 1/2 days late is considerable but apni jodi constantly late korte thaken, he will not give the attendance\n2) Class time e sir er dike attention dite hobe. Phone/onno kisu te busy thakle sir apnk notice korbe.\n3) Sir jodi theory ans chay apnk theory tei ans dite hobe. Algorithm chaile algorithm.\nSir ask korlo ei problem ta kivabe solve kora jay, apni solve na likhe code likhe diye ashle sir marks dibena. Cause code to apni mukhosto o kore ashte paren problem ta really na bujhe. He just want to make sure apni depth e giye problem ta k feel kore solve korte partesen kina.\nFinally, mid and final er age 2ta assignment dey. Oi type er question e exam e ashe. Kono project ney na.",
+        "rating": "harsh"
+      },
+      {
+        "review": "LivelyCapybara8389 mpn. Sir onek chill r onek valo. Ekdom Student friendly ekjon teacher. Onek story share kore r unar real life experience theke slides bujhanor try kore. Uni quiz e mcq dey. Slide 2/3ta dey. But slides gula onek easy to memorize korar moto thake. So quiz e 10/10 pawa ekdom pani bhat. Mid r final e sir koyekta question diye dibe. Ogulai xm e dibe ekdom same to same. Ans kivabe ki korte kotha theke ki likhte hbe shob valo kore explain kore dey. Mid e 1ta 10marks question r 2ta 5marks question diyechen. Final e 2ta 10marks question and 2ta 5marks question diyechen. Sir ekta assignment dey. Otao onek easy. Sir ekdom fair marking koren. Kauke extra care or favour koren na. Shobai ke equally favour koren. Uni onek onek onek easy going.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "130 zhn~ prochur practice kora lagbe , similar type math e den but keo math a weak hoile sir is not a good choice , curve koren na . class e kichu harsh kotha sunte paren but ogula jene vul rectify korle nijer valo.\n332 sfm ~ sir probably poraite and khata dekhte khub valo basen . Protidin board a likhe poran next class e ogula review koren . Class e announced and pop quiz niben . Makeup mid o niben ,final o . Total 8 ta quiz , 2 ta mid , 2 ta final …. Ekta artificial pressure create hobe course niye coz mediocre student hole qus bujhe ans korte and number paite koshto hobe . Huge curve koren but main point is sir er course e apni dekhben na chaiteo portesen .. mental pressure handle korte parle sir best .\nEnd of the day grade jai e pan zhn and sfm er reality check life e onek help korbe tough situation handle korte .",
+        "rating": "harsh"
+      },
+      {
+        "review": "#review \n#CSE225\n#MRH1\nSir goes very fast in case of his lectures. He cancelled way too many classes. He'll cover 2/3 lectures in one lecture. Exam questions were pretty easy. You'll get partial marks for trying to ans the questions whether it's right or wrong. In exam he gave whatever he taught in class. Grade depends on final exam and final project. If your project and final goes well, you'll get good grades. He'll curve huge. If he… See more",
+        "rating": "great"
+      },
+      {
+        "review": "Cons: Too busy with his EWU events. Cancel too many classes. This semester he didn’t submit the grades in time.\nCSE327",
+        "rating": "normal"
+      },
+      {
+        "review": "Abdullah Al Shafi Yes that's true. Most of the classes he cancelled bcz of EWU. We got our grades the next morning after the deadline.",
+        "rating": "normal"
+      },
+      {
+        "review": "Farhana Akbar ebar ece sobari late hoise bcz of department",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohammad Yeasin hae ik..but bakira raat er mddhe dise",
+        "rating": "normal"
+      },
+      {
+        "review": "Safayet Kabir class notes thke korbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Farhana Akbar check inbox pls",
+        "rating": "normal"
+      },
+      {
+        "review": "Last sem sec and timing ta bole den kindly",
+        "rating": "normal"
+      },
+      {
+        "review": "ইফরাত রায়হান আকাশ MW 9:40",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahiyat Nawar Mantaqa",
+        "rating": "normal"
+      },
+      {
+        "review": "Manjur Susan",
+        "rating": "normal"
+      },
+      {
+        "review": "Fardin Ahmed Jim 8 tar class hoileo nite chai",
+        "rating": "normal"
+      },
+      {
+        "review": "Toha Suvha",
+        "rating": "normal"
+      }
+    ],
+    "apz": [
+      {
+        "review": "Ahanaf Tajwar Aiman review paisi . Apz er moto hard going but bhalo poray .onk Effort dite hobe",
+        "rating": "harsh"
+      }
+    ],
+    "ara2": [
+      {
+        "review": "373 ara2\n225 muo\n215 muo",
+        "rating": "normal"
+      }
+    ],
+    "ata": [
+      {
+        "review": "Mat 250- Ata",
+        "rating": "normal"
+      },
+      {
+        "review": "Mat250- mfu(for grading)/ mth/mas/ata",
+        "rating": "normal"
+      },
+      {
+        "review": "Mat250-Ata",
+        "rating": "normal"
+      },
+      {
+        "review": "MAT250- Ata mam",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse225-mrh1\nMat250-ata",
+        "rating": "normal"
+      },
+      {
+        "review": "Mat250 ata mam, cse231 hsm sir",
+        "rating": "normal"
+      },
+      {
+        "review": "225 BMA\n231 Abh1\n250 ATA undoubtedly",
+        "rating": "normal"
+      },
+      {
+        "review": "225 - Muo(easygoing and curves 2 grades)\n231 - Smma\n250 - ATA, MLA",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE231-Azz\nMat250-Ata",
+        "rating": "normal"
+      }
+    ],
+    "awn": [
+      {
+        "review": "...",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "mma1 new maybe bhai",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul Hae vai 225 er jonne new maybe",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul new faculty na, se senior course ney, eibar se 225 nicche.",
+        "rating": "normal"
+      },
+      {
+        "review": "Naimur Islam Abir 2",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy inbox check dao",
+        "rating": "normal"
+      },
+      {
+        "review": "Mijanur Rahman sec koto",
+        "rating": "normal"
+      },
+      {
+        "review": "Sk Safoan Jani bro.tumi korsila sir er kache ei course ta",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy yup",
+        "rating": "normal"
+      },
+      {
+        "review": "Piyush Saha",
+        "rating": "normal"
+      },
+      {
+        "review": "AWN sir teaches really well\nYou just need to take notes on everything and anything he says in class ( might sound a bit boring but his class notes are everything)\nHe will provide the sample selected questions for both mid and finals and you will get questions from there in your exams",
+        "rating": "normal"
+      },
+      {
+        "review": "Mma1 bhalo ase, question oo easy but project a bhalo korle A/A- in sha Allah",
+        "rating": "great"
+      },
+      {
+        "review": "Mat125 drop da ami niya nei",
+        "rating": "avoid"
+      },
+      {
+        "review": "Md. Mahamudul Hasan Shawan tui এস.এম. ফয়সাল শিশির re bol Or CG High",
+        "rating": "normal"
+      },
+      {
+        "review": "Abu Shahed Khan 25",
+        "rating": "normal"
+      },
+      {
+        "review": "Tazkira Neety 5",
+        "rating": "normal"
+      },
+      {
+        "review": "Nafsin Nasama Salmee sob ekshate dewar por eshe geche vule vai",
+        "rating": "normal"
+      }
+    ],
+    "bbn": [
+      {
+        "review": "Bbn slides thekei question kore. Kintu curve kore na. Partial marking oto valo na unar",
+        "rating": "great"
+      },
+      {
+        "review": "BBN :\nSir follows his own slides. If you do your own assignments and solve all the problems from his slides, then you can end up with a decent grade.\n(I did Mat125 under him)",
+        "rating": "normal"
+      }
+    ],
+    "dms": [
+      {
+        "review": "Check DMs",
+        "rating": "normal"
+      }
+    ],
+    "emn": [
+      {
+        "review": "HAI drop den ,\nbinary marking kore, hole full naile 0 , cls e emn topic porabe lagbe koto easy , xm e hard qs dey .\nHAI drop drop drop",
+        "rating": "avoid"
+      }
+    ],
+    "fdw": [
+      {
+        "review": "231-abh1 miss\nMat250- avoid fdw",
+        "rating": "normal"
+      }
+    ],
+    "fhs": [
+      {
+        "review": "CSE225 - MUO\nMAT250 - MAS\nPHY108- HRR\nENG103 - FHs\nEEE141 - NaNR\nRequesting honest review for learning and grading",
+        "rating": "normal"
+      }
+    ],
     "fth": [
       {
-        "review": "Bahutgarmihayyarr /  pls give review for fth",
+        "review": "RIH , Iqn ,FTH , Shafiur detailed review plz for\n-cse225",
+        "rating": "normal"
+      },
+      {
+        "review": "HMI",
+        "rating": "normal"
+      },
+      {
+        "review": "GenuineDragon5326 i second that",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahian Mostofa hiiii can you please inbox",
+        "rating": "normal"
+      },
+      {
+        "review": "Fth baje baje",
+        "rating": "normal"
+      },
+      {
+        "review": "Bahutgarmihayyarr\n pls give review for fth",
+        "rating": "normal"
+      },
+      {
+        "review": "Sameeha Farheen Rashid poraite parena , rude , question ask korle explain korte parena , binary marking kore 0,1 day.",
+        "rating": "normal"
+      },
+      {
+        "review": "EmeraldYuzu312 No idea.",
+        "rating": "normal"
+      }
+    ],
+    "har": [
+      {
+        "review": "Faculty review plz:\nCSE225 - RJP\nCse231 - KdA1\nMat350 - HAr\nMat361 - MdRK",
+        "rating": "normal"
+      },
+      {
+        "review": "Mama 350 361 section koto faculty same dekhi",
+        "rating": "normal"
+      },
+      {
+        "review": "Rafid Masud 350 section 7\n361 section 5",
+        "rating": "normal"
+      },
+      {
+        "review": "HAr best",
+        "rating": "great"
+      },
+      {
+        "review": "Shamimur Rahaman bro iktu details bola jabe",
+        "rating": "normal"
+      },
+      {
+        "review": "HAr mam best. Just follow her lectures. Valo curve koren",
+        "rating": "great"
+      },
+      {
+        "review": "Har mam bestt....",
+        "rating": "great"
+      },
+      {
+        "review": "Shob bhalo faculty push den ei semester cg 4 for sure.",
+        "rating": "great"
+      },
+      {
+        "review": "KDA1 goat",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Kda1 miss best . Poray bhalo . Jotokhon na bujhben bujhabe birokto na hoye marks o bhalo dey kintu uni theory project ney try korben bhalo korar oitate.",
+        "rating": "great"
+      },
+      {
+        "review": "Maymuna Khanom ok apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Maymuna Khanom yes, project Jodi Valo karor Sathe na Korean semester apner ja jabe vulte parben na",
+        "rating": "great"
+      },
+      {
+        "review": "Har mam effort dile bhalo grade den , poran o bhalo",
+        "rating": "great"
+      },
+      {
+        "review": "Tanmoy Mahmud qs hobahu den na but uni jesob math ee list den oigular concept bujhe korle para jay, kintu tricky kore ektu qs",
+        "rating": "normal"
+      },
+      {
+        "review": "Wooowww sobbgula best",
+        "rating": "great"
+      },
+      {
+        "review": "mat350 te har er review den..details e dile valo hoy jodi kore thaken",
+        "rating": "great"
+      },
+      {
+        "review": "MAT250 HAR ma'am",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse225- IAH\nCse232- Azz\nMat250- Har",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225 - MUO\nCSE232 - SMMA\nMAT250 - HAr",
+        "rating": "normal"
+      },
+      {
+        "review": "MAT250- HAR maam.",
+        "rating": "normal"
+      }
+    ],
+    "has": [
+      {
+        "review": "Someone who has done CSE225 under IqN in the previous semester, please help me with what type of questions he does on the quiz and mid, and if there are any other elementary suggestions you have to make.",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "He gave 90% of the questions (except first quiz) from the exercises of the book in last semester. So, make sure to practice those problems, especially the ones with solutions at the end of the book.",
+        "rating": "normal"
+      },
+      {
+        "review": "Tomorrow, the first phase will be over. Interestingly, Sak1 sir has not yet submitted our CSE225 grades.",
+        "rating": "normal"
+      }
+    ],
+    "him": [
+      {
+        "review": "Sak1, chill and easygoing. Not everyone likes his teaching, I get that complaint (since yeah he does teach only slide) but I found him satisfactory. Finally his exams are super easy. Whatever was in slide & what he told in class that was the exact question pattern without too much complexity. I even got 1 grade curve at the end.",
+        "rating": "normal"
+      },
+      {
+        "review": "PurplePhoenix8224 easy mcq quizzes. If you have a general idea about the chapters then you can score full. Midterm and final have broad and short questions. He provides the questions to learn. Write the answers nicely according to what he wants in the answers ask him the criteria what he wants. Sir is extremely good person.",
+        "rating": "great"
+      },
+      {
+        "review": "Stq is great but don't listen to him when he says khali slide porle and class attend korlei parba shob. Initially easy thakbe but then around mid 2 and finals everything gets more complicated and uh difficult question pattern. Onek analytical. Onek pechano. Sooo yh don't take a chill pill like he tells you to. Be vigilant. And try to attend all the classes. He doesn't give pera or cut marks for attendance. But you should attend all classes for your OWN betterment.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Tasvir Riyad",
+        "rating": "normal"
+      },
+      {
+        "review": "Sami Ahmed",
+        "rating": "normal"
+      },
+      {
+        "review": "Samim Uzzaman Sunny Mostafizur Rahman",
+        "rating": "normal"
+      },
+      {
+        "review": "Cooked",
+        "rating": "normal"
+      },
+      {
+        "review": "Regular class + class slides",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop nsu",
+        "rating": "avoid"
+      },
+      {
+        "review": "G.S. Mahin",
+        "rating": "normal"
+      },
+      {
+        "review": "Treat this course as a ged to do well. Questions will come directly from the slides. Mostly mcqs and true false if he's still maintaining this pattern. I did 1yr ago. Codes will come from slides too. It's vv easy to get full marks in quizzes just don't skip anything concepts from the slides. And he'll teach all the necessary codes for the exams. All over it was a great experience. He doesn't curve cause it's not necessary tbh since slides have everything. Good luck!",
+        "rating": "great"
+      },
+      {
+        "review": "Meyeder post ei shobai answer dey",
+        "rating": "normal"
+      },
+      {
+        "review": "Jenan Rabby i know this pain.",
+        "rating": "normal"
+      },
+      {
+        "review": "AbO sir onek easy going and friendly, his classes can be boring if you have prior background knowledge on dc circuits and he is kinda slow paced. Takes 4-5 quizzes questions are all from the textbook he only changes some values. doesnt give any assignments or whatsoever. if you face problems regarding lab be sure to talk to him about it in class. last semester he curved a bit i think but he doesnt decurve and gives marks fairly.",
+        "rating": "avoid"
+      },
+      {
+        "review": "AbO sir er marking ektu tricky, I used to write everything in my scripts so that made it hard for him to deduce marks",
+        "rating": "harsh"
+      },
+      {
+        "review": "B",
+        "rating": "normal"
+      },
+      {
+        "review": "U",
+        "rating": "normal"
+      },
+      {
+        "review": "M",
+        "rating": "normal"
+      },
+      {
+        "review": "P",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      }
+    ],
+    "hrr": [
+      {
+        "review": "CSE225 - MUO\nMAT250 - MAS\nPHY108- HRR\nENG103 - FHs\nEEE141 - NaNR\nRequesting honest review for learning and grading",
+        "rating": "normal"
+      },
+      {
+        "review": "HRr is worst..incredibly bad at teaching..give the worst possible questions in the exams..he does curve upto 3 grades but it doesn’t help as most students get literally less that 50 out of 100..\nUmm doesn’t teach well but he gives similar questions he teaches in class..make sure to take notes..he curves 1 grade if necessary\nMuo sir best in terms of grading",
+        "rating": "avoid"
+      },
+      {
+        "review": "Drop hrr",
+        "rating": "avoid"
+      },
+      {
+        "review": "HrR: You won't understand a single thing in class. No slides. The handwritten lecture notes he provides are not much of a help. He might even make you forget the physics you already know by creating confusion. Questions are hard to understand sometimes because of typos, bad English or wrong usage of terminology. But, he curves a lot in the end. I couldn't answer more than half of the paper in the final and did horrible in mid too but still ended up with an A-.",
+        "rating": "harsh"
+      }
+    ],
+    "hsm": [
+      {
+        "review": "Mat250 ata mam, cse231 hsm sir",
+        "rating": "normal"
+      },
+      {
+        "review": "225 Rjp Jbn\n231 Hsm Kda",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225 SvA (not sure if she will take this course this semester)\nCSE231 HSM",
         "rating": "normal"
       }
     ],
     "iqn": [
       {
+        "review": "RIH , Iqn ,FTH , Shafiur detailed review plz for\n-cse225",
+        "rating": "normal"
+      },
+      {
         "review": "Iqn onek pera dibe",
         "rating": "harsh"
+      },
+      {
+        "review": "HMI",
+        "rating": "normal"
+      },
+      {
+        "review": "GenuineDragon5326 i second that",
+        "rating": "normal"
       },
       {
         "review": "IQN pera dibe but will curve Onek",
@@ -20,70 +932,794 @@
         "rating": "harsh"
       },
       {
-        "review": "Are u doing cse225 under iqn",
+        "review": "Mahian Mostofa hiiii can you please inbox",
         "rating": "normal"
       },
       {
-        "review": "How to get an A under IQN in CSE225",
+        "review": "Sameeha Farheen Rashid poraite parena , rude , question ask korle explain korte parena , binary marking kore 0,1 day.",
         "rating": "normal"
       },
       {
-        "review": "IQN valo na drop",
-        "rating": "avoid"
-      },
-      {
-        "review": "Sumaya Jahan Tishme how was Iqn apu",
+        "review": "EmeraldYuzu312 No idea.",
         "rating": "normal"
       },
       {
-        "review": "IQN - easy going, exam er question boi theke dei, class mile request korle curve kore and project bad diye dei",
+        "review": "Attend all the classes. Clear all the concepts. Practice problems from book. Good to go.",
         "rating": "great"
       },
       {
-        "review": "Iqn sir er reviews mixed paba, but in reality he's an absolute gem of a teacher. He teaches really well, covers the entirety of syllabus thoroughly and takes 2 quizzes(best ta count korbe). Here's the thing though, marks chaile effort dewa lagbe. He's really knowledgeable in this field so you'll learn alot just ask questions. sir er class e attention pay koro(he doesn't like it you skip too many classes). Also sir er quiz, mid and finals er questions book thekei dey so practice the questions from the book. Genuinely a really nice guy",
-        "rating": "great"
-      },
-      {
-        "review": "Faculty Review: IqN (CSE 225) / Timing: RA, 12:15-1:30 (Section 6)                                         / This post is to clarify any confusion regarding him.… See more",
+        "review": "Practice end-of-chapter exercise problems similar to the ones Sir shows in class.",
         "rating": "normal"
       },
       {
-        "review": "Tbh IQN er kase 225 course ta onek easy going chilo",
+        "review": "Baje nis na",
+        "rating": "normal"
+      },
+      {
+        "review": "Worst vai worst..",
+        "rating": "avoid"
+      },
+      {
+        "review": "Worst ever",
+        "rating": "avoid"
+      },
+      {
+        "review": "PinkKiwi2840 they are good to go",
         "rating": "great"
       },
       {
-        "review": "Don't take iqn if you don't wanna take retake",
-        "rating": "avoid"
-      },
-      {
-        "review": "IQN er kache korar theke oi taka diye ghurte geleo takar thikthak bebohar hbe. tar rudeness,ego niye kichu nai baa bollam..main kotha hocche whole section will not learn a little bit from his lectures nd his questions are astagfirullah..even the best students nd pros got 10/25 or maybe 14/25 in mid term..",
-        "rating": "avoid"
-      },
-      {
-        "review": "Mahmud Islam vai amr porese iqn 299 e drop",
-        "rating": "avoid"
-      },
-      {
-        "review": "IQN bade shob valo",
+        "review": "Even if you get a good grade\nHis behaviour is so bad that its not gonna be worth it",
         "rating": "great"
       },
       {
-        "review": "Ahbb.. / IQN nightmare",
+        "review": "worst",
         "rating": "avoid"
       },
       {
-        "review": "Duitai same but iqn er thekr ahbb valo",
+        "review": "Asaduzzaman Sunny bhai comment section",
+        "rating": "normal"
+      },
+      {
+        "review": "Md. Wajih Awsaf",
+        "rating": "normal"
+      },
+      {
+        "review": "Worst",
+        "rating": "avoid"
+      }
+    ],
+    "isn": [
+      {
+        "review": "Questions isn’t so hard but he is",
+        "rating": "harsh"
+      }
+    ],
+    "izn": [
+      {
+        "review": "IZN worst",
+        "rating": "avoid"
+      },
+      {
+        "review": "Hasibul Hasan Risat can you share details plz",
+        "rating": "normal"
+      },
+      {
+        "review": "PurpleEagle5056 Just drop \n Curve koren na ektuo. Marks kate onek even tho spelling bhul er karoneo mark kate",
+        "rating": "avoid"
+      },
+      {
+        "review": "drop IZN",
+        "rating": "avoid"
+      },
+      {
+        "review": "Eebamie Yeol GOAT",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "phoenix_marco please elaborate a bit",
+        "rating": "normal"
+      },
+      {
+        "review": "Eebamie Yeol sir jei math gula koray oigulai exam e ashe and class seshe bole dey kon gula extra kora lagbe. Sir always class er majkhane ekta break dey and gossip kore students der sathe. And 10-20 minute age chere dey most of the time. Sir jei math gula koray and mark kore dey egula korlei straight A",
+        "rating": "normal"
+      },
+      {
+        "review": "phoenix_marco thanks a lot",
+        "rating": "normal"
+      }
+    ],
+    "kda": [
+      {
+        "review": "225 Rjp Jbn\n231 Hsm Kda",
+        "rating": "normal"
+      }
+    ],
+    "kmm": [
+      {
+        "review": "can you tell details about maqm, sti & kmm",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahian Mostofa\nMAQm- He’s very knowledgeable, he knows lot about this course, so he tries to teach his students a lot(90 mins class e almost puratai porabe), sometimes it’s gonna be hard to keep attention, but try to understand and note down everything he teaches in the class, doing assignments by yourself and attending classes would be enough for mid and final preparation, project is very important because sir himself check the project, doing good in the project will increase your possibilities to get a good grade\nSTI- Maam teaches really well, her classes are enough to understand all the concepts. Exam e questions easy e thake, but u have to be quick. She provides also very detailed slides\nKmm- Sir is super cool. He covers all the basics concepts and gives questions from slides and class practice problems. There will be a short project which carries 10/15% marks",
+        "rating": "harsh"
+      },
+      {
+        "review": "Cse215,225- Muo\nEee141- kmm",
+        "rating": "normal"
+      },
+      {
+        "review": "...",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "mma1 new maybe bhai",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul Hae vai 225 er jonne new maybe",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul new faculty na, se senior course ney, eibar se 225 nicche.",
+        "rating": "normal"
+      },
+      {
+        "review": "Naimur Islam Abir 2",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy inbox check dao",
+        "rating": "normal"
+      },
+      {
+        "review": "Mijanur Rahman sec koto",
+        "rating": "normal"
+      },
+      {
+        "review": "Sk Safoan Jani bro.tumi korsila sir er kache ei course ta",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy yup",
+        "rating": "normal"
+      },
+      {
+        "review": "Piyush Saha",
+        "rating": "normal"
+      },
+      {
+        "review": "Mma1 bhalo ase, question oo easy but project a bhalo korle A/A- in sha Allah",
         "rating": "great"
       },
       {
-        "review": "Avoid iqn! / Worst faculty.",
+        "review": "Mat125 drop da ami niya nei",
         "rating": "avoid"
+      },
+      {
+        "review": "Md. Mahamudul Hasan Shawan tui এস.এম. ফয়সাল শিশির re bol Or CG High",
+        "rating": "normal"
+      },
+      {
+        "review": "Abu Shahed Khan 25",
+        "rating": "normal"
+      },
+      {
+        "review": "Tazkira Neety 5",
+        "rating": "normal"
+      },
+      {
+        "review": "Nafsin Nasama Salmee sob ekshate dewar por eshe geche vule vai",
+        "rating": "normal"
+      }
+    ],
+    "lfr": [
+      {
+        "review": "Honest review plz!!!\nCSE225- JVN\nPHI104- LfR\nHIS102- Mzd … See more",
+        "rating": "normal"
+      }
+    ],
+    "lizn": [
+      {
+        "review": "Dont drop lizn she is the best",
+        "rating": "great"
+      }
+    ],
+    "lsa": [
+      {
+        "review": "Mat250- LSA",
+        "rating": "normal"
+      },
+      {
+        "review": "Sabbir Ahammed LSA best fac ever",
+        "rating": "great"
+      }
+    ],
+    "maqm": [
+      {
+        "review": "can you tell details about maqm, sti & kmm",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahian Mostofa\nMAQm- He’s very knowledgeable, he knows lot about this course, so he tries to teach his students a lot(90 mins class e almost puratai porabe), sometimes it’s gonna be hard to keep attention, but try to understand and note down everything he teaches in the class, doing assignments by yourself and attending classes would be enough for mid and final preparation, project is very important because sir himself check the project, doing good in the project will increase your possibilities to get a good grade\nSTI- Maam teaches really well, her classes are enough to understand all the concepts. Exam e questions easy e thake, but u have to be quick. She provides also very detailed slides\nKmm- Sir is super cool. He covers all the basics concepts and gives questions from slides and class practice problems. There will be a short project which carries 10/15% marks",
+        "rating": "harsh"
+      },
+      {
+        "review": "Prithu Purno cse215 -maqm sir chilo",
+        "rating": "normal"
+      }
+    ],
+    "mas": [
+      {
+        "review": "CSE225 - MUO\nMAT250 - MAS\nPHY108- HRR\nENG103 - FHs\nEEE141 - NaNR\nRequesting honest review for learning and grading",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahtab Ahmed joss grade dey! (Partial marking kore ek grade) then total marks theke arek grade curve dey! Kichu friend ra grade submission a arek grade curve paise",
+        "rating": "normal"
+      },
+      {
+        "review": "Smma mas both good for grading and learning",
+        "rating": "great"
+      },
+      {
+        "review": "Shb Best. Shb course e A nh paile apni poren nai",
+        "rating": "great"
+      },
+      {
+        "review": "Abrar Faiyaz I will try my best. Inshaallah\nBut porasuna ami kno semisterei kori na xD.",
+        "rating": "great"
+      },
+      {
+        "review": "Mahtab Ahmed hae but arektu pechan..vloi pechan...",
+        "rating": "normal"
+      },
+      {
+        "review": "S.H. Hossain 5",
+        "rating": "normal"
+      },
+      {
+        "review": "Xaima Zaman 5",
+        "rating": "normal"
+      },
+      {
+        "review": "All 4 faculties are goated",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Sumaya Suimee 6",
+        "rating": "normal"
+      },
+      {
+        "review": "2ta cse course try korle easily A peyen janben.",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob gula faculty e best. All the best",
+        "rating": "great"
+      },
+      {
+        "review": "MAS sir best. Just follow his slides and try to understand the concept. Sir khub e valo poray.",
+        "rating": "great"
+      },
+      {
+        "review": "All good faculties",
+        "rating": "great"
+      },
+      {
+        "review": "MAS স্যার learning and grading",
+        "rating": "normal"
+      },
+      {
+        "review": "Umme Jahara Simki any tips\nHow to get A,A-",
+        "rating": "normal"
+      },
+      {
+        "review": "Mas sir er class na follow korleo sir er slide je boi er math gula recommend korse korlei parba.",
+        "rating": "normal"
+      },
+      {
+        "review": "Tirtho Mojumder 9",
+        "rating": "normal"
+      },
+      {
+        "review": "Tazkira Neety",
+        "rating": "normal"
+      },
+      {
+        "review": "6",
+        "rating": "normal"
+      }
+    ],
+    "may": [
+      {
+        "review": "Tousif Kabir Aushesh worst learning, difficult question",
+        "rating": "avoid"
+      },
+      {
+        "review": "Nafiur Omi dropped & shifted",
+        "rating": "avoid"
+      },
+      {
+        "review": "Tousif Kabir Aushesh Good decision",
+        "rating": "great"
+      },
+      {
+        "review": "Nafiur Omi ohk...",
+        "rating": "normal"
+      },
+      {
+        "review": "Shafaet H. Ankur eksathe che101+L neya jay, kintu seat pawa jay na lab e",
+        "rating": "normal"
+      },
+      {
+        "review": "Shafaet H. Ankur paisi...",
+        "rating": "normal"
+      },
+      {
+        "review": "Nishat Suchona ajke chilo...",
+        "rating": "normal"
+      },
+      {
+        "review": "you can't do labs from different section as this is a non credit lab",
+        "rating": "normal"
+      },
+      {
+        "review": "Aziza Zaman ohk...",
+        "rating": "normal"
+      },
+      {
+        "review": "Hold on to it. Pore keu lab drop dile save kore nite parben or you can go to the department to get this issue fixed!",
+        "rating": "avoid"
+      },
+      {
+        "review": "Aziza Zaman oitar jonnoi kda1 niyesi shift hoye...",
+        "rating": "normal"
+      },
+      {
+        "review": "Joyeta Debroy don't know...",
+        "rating": "normal"
+      },
+      {
+        "review": "Nithila Mahzabin thank you...",
+        "rating": "normal"
+      },
+      {
+        "review": "Samin Al Azmain Ahmed proti bar ei to chai review advising ashle...",
+        "rating": "normal"
+      },
+      {
+        "review": "Nabil Sajjad Evan now kda1...",
+        "rating": "normal"
+      },
+      {
+        "review": "Che baad den",
+        "rating": "normal"
+      },
+      {
+        "review": "Mi Ciao vloh nkih...",
+        "rating": "normal"
+      },
+      {
+        "review": "Farina Alam",
+        "rating": "normal"
+      },
+      {
+        "review": "Nishat Tasnim Usha",
+        "rating": "normal"
+      },
+      {
+        "review": "Nishat Tasnim Usha che101 & L drop diyesi, porer bar nibo...",
+        "rating": "avoid"
+      }
+    ],
+    "mdrk": [
+      {
+        "review": "Faculty review plz:\nCSE225 - RJP\nCse231 - KdA1\nMat350 - HAr\nMat361 - MdRK",
+        "rating": "normal"
+      },
+      {
+        "review": "Mama 350 361 section koto faculty same dekhi",
+        "rating": "normal"
+      },
+      {
+        "review": "Rafid Masud 350 section 7\n361 section 5",
+        "rating": "normal"
+      },
+      {
+        "review": "Shamimur Rahaman bro iktu details bola jabe",
+        "rating": "normal"
+      },
+      {
+        "review": "Shob bhalo faculty push den ei semester cg 4 for sure.",
+        "rating": "great"
+      },
+      {
+        "review": "KDA1 goat",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Kda1 miss best . Poray bhalo . Jotokhon na bujhben bujhabe birokto na hoye marks o bhalo dey kintu uni theory project ney try korben bhalo korar oitate.",
+        "rating": "great"
+      },
+      {
+        "review": "Maymuna Khanom ok apu",
+        "rating": "normal"
+      },
+      {
+        "review": "Maymuna Khanom yes, project Jodi Valo karor Sathe na Korean semester apner ja jabe vulte parben na",
+        "rating": "great"
+      },
+      {
+        "review": "Mdrk sir best",
+        "rating": "great"
+      },
+      {
+        "review": "Tanmoy Mahmud qs hobahu den na but uni jesob math ee list den oigular concept bujhe korle para jay, kintu tricky kore ektu qs",
+        "rating": "normal"
+      },
+      {
+        "review": "RjP sir, Mdrk sir sheraa. Just do their class attentively.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ramiza Rahman Bhuiyan tmder zei shubidha diyechilen amder ta den nai ..mdrk sir",
+        "rating": "normal"
+      },
+      {
+        "review": "Wooowww sobbgula best",
+        "rating": "great"
+      }
+    ],
+    "mfu": [
+      {
+        "review": "Mat250- mfu(for grading)/ mth/mas/ata",
+        "rating": "normal"
+      },
+      {
+        "review": "For grading only\nMat250- mfu\nCse225- Sak1(you can get the best out of him if you ask the right questions; that is for learning)",
+        "rating": "great"
+      }
+    ],
+    "mhk3": [
+      {
+        "review": "Mat250- mhk3",
+        "rating": "normal"
+      },
+      {
+        "review": "225 Muo\n231 Smma\n250 mhk3",
+        "rating": "normal"
+      }
+    ],
+    "mla": [
+      {
+        "review": "Honest REVIEWS and INSTRUCTIONS please\nCSE225+L : Sak1\nEEE141+L : AbO\nMAT250 : MLA\nP… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "Nishat Suchona 15",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Cfbr",
+        "rating": "normal"
+      },
+      {
+        "review": "Mubashshir Ayon thank you bro!",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhammad Nishad tor sec bol",
+        "rating": "normal"
+      },
+      {
+        "review": "Gibran Omar Rupai Sec 7.",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhammad Nishad 7",
+        "rating": "normal"
+      },
+      {
+        "review": "Rushdul Amin Raiyan yes, he curves but ever so slightly. he had his\nown grading scale in the excel specification he gave to us. it might differ so I wont say much",
+        "rating": "normal"
+      },
+      {
+        "review": "teaching is not the best, but sir will answer questions you have and is not rude. all notes are given via G Classroom so no worries. I was sleeping during my lectures",
+        "rating": "great"
+      },
+      {
+        "review": "Max Jason thank you very much!",
+        "rating": "normal"
+      },
+      {
+        "review": "Rushdul Amin Raiyan welcome. and must practice from the book. sir gave the harder questions from the book",
+        "rating": "harsh"
+      },
+      {
+        "review": "SAK1 er kache 225 korar theke ajibon 225 na kora thakleo apnar kono loss hobe na... ECE Department bole unak ato din part-time faculty hisabe rakhse.. ta na hole r o 5.5 years age theke unar r faculty hisabe continue korar kotha nah..",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop Sak1",
+        "rating": "avoid"
+      },
+      {
+        "review": "Mat250 - MLA and PNG...jodi math a valo hon ar math korte valo lage tahole ai 2 jon e best. Normally par korte chaile avoid them.",
+        "rating": "great"
+      },
+      {
+        "review": "225: RJP\n250: MLA undoubtedly!",
+        "rating": "normal"
+      },
+      {
+        "review": "225 - Muo(easygoing and curves 2 grades)\n231 - Smma\n250 - ATA, MLA",
+        "rating": "normal"
+      }
+    ],
+    "mmr3": [
+      {
+        "review": "Sak1 worst vai for learning. Class e slide reading porabe. Everyday class e late e ashbe. DU er teacher. Nsu er student der gunay dhore na. Mid ney na kono. Quiz gula e mid hisebe count kore. Ja poray slide e sekhan thekei qus kore. Nije porle valo grade paoa jabe",
+        "rating": "avoid"
+      },
+      {
+        "review": "Drop MMR3",
+        "rating": "avoid"
+      },
+      {
+        "review": "Deadliest Faculties",
+        "rating": "normal"
+      },
+      {
+        "review": "Sak1 sir er class e dekhe lekhte parle A paben . Ar shikben uni slide e ja ase tai bujhabe. Quiz nei but oita mid hisebe count kore . Tachara ajaira question korle uni kotha shunaia dibe.",
+        "rating": "normal"
+      },
+      {
+        "review": "Soudip Chanda I have a science background, and this is my GED course.",
+        "rating": "normal"
+      },
+      {
+        "review": "S Srikant then change it as soon as possible",
+        "rating": "normal"
+      },
+      {
+        "review": "MMR3 worst.\nUnar under maximum students F/D pai.\nAnd teaching quality o valona. Class porai ekta exam a dei arekta.\nIf you don’t want to regret then drop asap.",
+        "rating": "avoid"
+      },
+      {
+        "review": "Can you check inbox please",
+        "rating": "normal"
+      },
+      {
+        "review": "Msrh theke vlo grade paua though good luck",
+        "rating": "great"
+      },
+      {
+        "review": "MSRH Peye 2 bar drop Disi. Eibar o same . 1st bar unar class e boshei unar course drop Disi.",
+        "rating": "avoid"
+      },
+      {
+        "review": "Arnob H Chowdhury Normally Saturday r class gula uni nei.Eee154 er jonno RA ta avoid korle e onare avoid kora jai",
+        "rating": "normal"
+      },
+      {
+        "review": "Sumaya Suimee hoo",
+        "rating": "normal"
+      },
+      {
+        "review": "Syeed Mahmud MSRH niya bol",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahi Mahmud onk valo faculty... Easy going. Halka practice korlei confirme A.",
+        "rating": "great"
+      },
+      {
+        "review": "Syeed Mahmud mid quiz e Vala marks paiya o B- . Halka practice e A paoya onk tough . Vaggo valo hole hoyto possible",
+        "rating": "harsh"
+      },
+      {
+        "review": "Faculty ra dhonno apnake tader section e peye\napni best",
+        "rating": "great"
+      },
+      {
+        "review": "Ibrahim Adham Surja",
+        "rating": "normal"
+      },
+      {
+        "review": "মোঃ সিফাতুল্লাহ বিন সাদিক kosom bhai..apnar review best",
+        "rating": "great"
+      },
+      {
+        "review": "bujhina kivabe ekhno msrh nsu te ase. eta nye authority er step nya drkar",
+        "rating": "normal"
+      },
+      {
+        "review": "Che101L MMR3.. same faculty\nBut review pacci na kono",
+        "rating": "normal"
+      }
+    ],
+    "mpn": [
+      {
+        "review": "Nazifa Tasnem detailed review pls",
+        "rating": "normal"
+      },
+      {
+        "review": "LivelyCapybara8389 mpn. Sir onek chill r onek valo. Ekdom Student friendly ekjon teacher. Onek story share kore r unar real life experience theke slides bujhanor try kore. Uni quiz e mcq dey. Slide 2/3ta dey. But slides gula onek easy to memorize korar moto thake. So quiz e 10/10 pawa ekdom pani bhat. Mid r final e sir koyekta question diye dibe. Ogulai xm e dibe ekdom same to same. Ans kivabe ki korte kotha theke ki likhte hbe shob valo kore explain kore dey. Mid e 1ta 10marks question r 2ta 5marks question diyechen. Final e 2ta 10marks question and 2ta 5marks question diyechen. Sir ekta assignment dey. Otao onek easy. Sir ekdom fair marking koren. Kauke extra care or favour koren na. Shobai ke equally favour koren. Uni onek onek onek easy going.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "LivelyCapybara8389 And jodi time thake class e tahole sir quiz mid final er porao class e poray den mane questions slide mukhosto koray dibe.",
+        "rating": "normal"
+      },
+      {
+        "review": "GreenPomegranate9580 thanks a lot for the time.",
+        "rating": "normal"
+      },
+      {
+        "review": "Mpn obviously",
+        "rating": "normal"
+      }
+    ],
+    "ms1": [
+      {
+        "review": "Honest review plz\nCse225+L- BMH\nEEE141+L- AYH\nMAT130- MS1\nHIS102- MAKs",
+        "rating": "normal"
+      },
+      {
+        "review": "Ms1 ez A, best man alive",
+        "rating": "great"
+      },
+      {
+        "review": "Tausif Mushtaque yeyeye",
+        "rating": "normal"
+      },
+      {
+        "review": "Tanvir Ann Noor section 12",
+        "rating": "normal"
+      },
+      {
+        "review": "Zidan Rudra Ami 13 e",
+        "rating": "normal"
+      },
+      {
+        "review": "Mehedi Hasan 225 hobe bro",
+        "rating": "normal"
+      },
+      {
+        "review": "Bmh bestttttt",
+        "rating": "great"
+      },
+      {
+        "review": "Zidan Rudra yess",
+        "rating": "normal"
+      },
+      {
+        "review": "Tabassum Yuki great",
+        "rating": "normal"
+      },
+      {
+        "review": "Ms1\nValo kore bhujay,\nCurve kore nah tmn,\nBonus mcq de.\nA-/B+ uthano easy",
+        "rating": "great"
+      },
+      {
+        "review": "Saifuzzaman insha allah hoping for the best.",
+        "rating": "great"
+      },
+      {
+        "review": "Shadman Shakib section 6",
+        "rating": "normal"
+      },
+      {
+        "review": "Zidan Rudra same faculty but sec alada",
+        "rating": "normal"
+      },
+      {
+        "review": "M. MD SaifullahM. MD Saifullah 12",
+        "rating": "normal"
+      },
+      {
+        "review": "Shadman Shakib same",
+        "rating": "normal"
+      },
+      {
+        "review": "M. MD SaifullahM. MD Saifullah cls a dakha hoba inshaallah bro",
+        "rating": "normal"
+      },
+      {
+        "review": "Maks best sir onk bhalo ar easy going",
+        "rating": "great"
+      },
+      {
+        "review": "Umaira Chowdhury at last maks er review pailam.Apu maks niya arektu details a bolben plz.",
+        "rating": "normal"
+      },
+      {
+        "review": "Zidan Rudra sir easygoing ase class bhalo kore korle parba ar sir quiz e mcq nei so overall best",
+        "rating": "great"
+      },
+      {
+        "review": "Umaira Chowdhury thanks a lot for your valuable information.",
+        "rating": "normal"
+      }
+    ],
+    "mth": [
+      {
+        "review": "Mat250- mfu(for grading)/ mth/mas/ata",
+        "rating": "normal"
+      }
+    ],
+    "mtn2": [
+      {
+        "review": "Diya Bhattacharjee mtn2",
+        "rating": "normal"
+      },
+      {
+        "review": "Ahanaf Tajwar Aiman Kire mtn2 e ki togre dise naki",
+        "rating": "normal"
+      },
+      {
+        "review": "Sajim Salehin ho",
+        "rating": "normal"
+      },
+      {
+        "review": "Mtn2 is not easygoing but good for learning",
+        "rating": "great"
+      },
+      {
+        "review": "Muhtasim Rahman accha",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Sak1",
+        "rating": "normal"
+      },
+      {
+        "review": "SAK1 bad for learning, raw marks er upor grade dibe mane ja paba tai, class e performance vlo hole 1 grade curve korte pare.",
+        "rating": "normal"
+      },
+      {
+        "review": "Bumppoo",
+        "rating": "normal"
+      },
+      {
+        "review": "Bumppooooooooooo",
+        "rating": "normal"
+      },
+      {
+        "review": "Bumppooo",
+        "rating": "normal"
+      }
+    ],
+    "mto": [
+      {
+        "review": "Rakib Rayhan sir grade late a publish kre but sir er class thik mto krle , sir ER Sathe thik bhabe response krle and quiz gula bhalo marks tulte parlei easily bhalo grade paua jayy. And another this sir 0.5 marks o curve kren na akdom raw marks ER upor grading kre.",
+        "rating": "great"
       }
     ],
     "muo": [
       {
-        "review": "Kindly drop a detailed review on how to get good grades under these faculties. / CSE225 : MUO / EEE141 : SSH1 / MAT130 : AKAD… See more",
+        "review": "Kindly drop a detailed review on how to get good grades under these faculties.\nCSE225 : MUO\nEEE141 : SSH1\nMAT130 : AKAD… See more",
         "rating": "avoid"
+      },
+      {
+        "review": "Mama sob goat faculty",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Muhtasim Rahman mama goat hoileo..kemne A/A- pabo review lagbe\n..edr kase jdi vlo grade na pai thle to shesh",
+        "rating": "Outstanding"
       },
       {
         "review": "kire abar muo sir nisos",
@@ -94,179 +1730,245 @@
         "rating": "great"
       },
       {
-        "review": "AKAD=> best for learning and grading / ACQ=> best for learning and grading, 10 root x curve / MUO=> best",
-        "rating": "great"
+        "review": "Ishraq Rubayet Arnob curve korle sobai A pabe\nSo curve chara e raw A paoa jay",
+        "rating": "normal"
+      },
+      {
+        "review": "AKAD=> best for learning and grading\nACQ=> best for learning and grading, 10 root x curve\nMUO=> best",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Kop",
+        "rating": "normal"
+      },
+      {
+        "review": "Rafsan Rahman sob e luck",
+        "rating": "normal"
       },
       {
         "review": "Muo, SSH1, akad all are",
         "rating": "normal"
       },
       {
-        "review": "CSE225- MUO is good, but unar course e onk efforts dewa lage as uni marks e den na. His grading is pretty unpredictable. / EEE141- Ssh1 is a goated fac; follow her classes, her lectures, and her assignments for quizzes and mid; if done properly, you are good to go. Curves 1/2 depending on section and personal performance. / MAT130- Akad, best. Follow his class and lectures; don't miss any classes, and you are good to go. He doesn't curve. Raw grade, but gives good marks on paper.",
-        "rating": "great"
-      },
-      {
-        "review": "Ishraq Rubayet Arnob muo sir ques tough kre / Akad sir o marks dey na onekkkkk boka dey / Ssh1 mam onek biased nish na ektao tor bhalor jonnoi bltesi",
+        "review": "CSE225- MUO is good, but unar course e onk efforts dewa lage as uni marks e den na. His grading is pretty unpredictable.\nEEE141- Ssh1 is a goated fac; follow her classes, her lectures, and her assignments for quizzes and mid; if done properly, you are good to go. Curves 1/2 depending on section and personal performance.\nMAT130- Akad, best. Follow his class and lectures; don't miss any classes, and you are good to go. He doesn't curve. Raw grade, but gives good marks on paper.",
         "rating": "harsh"
       },
       {
-        "review": "MUO AKAD crazy good",
+        "review": "Arup Ry Thanks a lot",
+        "rating": "normal"
+      },
+      {
+        "review": "Samir Fayez project to ekhon ig shob 225 er course ei thake. Amdr time e chilo na. Amra 4 bochor age korsilam",
+        "rating": "normal"
+      },
+      {
+        "review": "Bro Show off kortese \n. Shob kotai goated",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Nabil Sajjad Evan procchur hard work kore paisi..but showoff grade a paite chai",
+        "rating": "harsh"
+      },
+      {
+        "review": "Kire aisha porli flex marte.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ratul hae mama",
+        "rating": "normal"
+      },
+      {
+        "review": "MUO, ACQ GOAT",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Farhan Sadik 61",
+        "rating": "normal"
+      },
+      {
+        "review": "Koto credit complete korle emon moner moto faculty pawa jay",
+        "rating": "normal"
+      }
+    ],
+    "mzd": [
+      {
+        "review": "Honest review plz!!!\nCSE225- JVN\nPHI104- LfR\nHIS102- Mzd … See more",
+        "rating": "normal"
+      }
+    ],
+    "nanr": [
+      {
+        "review": "CSE225 - MUO\nMAT250 - MAS\nPHY108- HRR\nENG103 - FHs\nEEE141 - NaNR\nRequesting honest review for learning and grading",
+        "rating": "normal"
+      }
+    ],
+    "njl": [
+      {
+        "review": "Cse225 - Rjp(Best for both)\nCse231 -Njl(Although lots of negative reviews around there. Easygoing but no curving, mind it.)",
+        "rating": "great"
+      }
+    ],
+    "nsr": [
+      {
+        "review": "Next faculty upcoming for ECE department Named “NSr”",
+        "rating": "normal"
+      }
+    ],
+    "nus": [
+      {
+        "review": "Nus Huh ohk...",
+        "rating": "normal"
+      }
+    ],
+    "oisd": [
+      {
+        "review": "...",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "mma1 new maybe bhai",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul Hae vai 225 er jonne new maybe",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul new faculty na, se senior course ney, eibar se 225 nicche.",
+        "rating": "normal"
+      },
+      {
+        "review": "Naimur Islam Abir 2",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy inbox check dao",
+        "rating": "normal"
+      },
+      {
+        "review": "Mijanur Rahman sec koto",
+        "rating": "normal"
+      },
+      {
+        "review": "Sk Safoan Jani bro.tumi korsila sir er kache ei course ta",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy yup",
+        "rating": "normal"
+      },
+      {
+        "review": "Piyush Saha",
+        "rating": "normal"
+      },
+      {
+        "review": "Mma1 bhalo ase, question oo easy but project a bhalo korle A/A- in sha Allah",
         "rating": "great"
       },
       {
-        "review": "ssh1 muo akad omygoddddd",
+        "review": "Mat125 drop da ami niya nei",
+        "rating": "avoid"
+      },
+      {
+        "review": "Md. Mahamudul Hasan Shawan tui এস.এম. ফয়সাল শিশির re bol Or CG High",
         "rating": "normal"
       },
       {
-        "review": "Muo & Akad both are goated.",
+        "review": "Abu Shahed Khan 25",
         "rating": "normal"
       },
       {
-        "review": "373- SMAH / 215,225-MUO / Both are very easy going and it’s easy to get straight A from them",
-        "rating": "great"
-      },
-      {
-        "review": "373 ara2 / 225 muo / 215 muo",
+        "review": "Tazkira Neety 5",
         "rating": "normal"
       },
       {
-        "review": "Rjp for learning muo for grading",
+        "review": "Nafsin Nasama Salmee sob ekshate dewar por eshe geche vule vai",
+        "rating": "normal"
+      }
+    ],
+    "omg": [
+      {
+        "review": "Hasibul Hasan Risat can you share details plz",
         "rating": "normal"
       },
       {
-        "review": "MUO or RJP / RiH sir Valo but unpredicted, Akbar mara khawya Suru korle upni automatic mara khawyar loop a Cole jaben. / MUO sir main topic gula poray and unar style ta ektu alada , onek faculty just nam bole uni oi topic er details poray and question kore .mane class a ja korabe seitai important, slide ba outline er theke class note besi effective. Marking ektu tight but grade uthay dey sir . / RJP sir onek experienced person, topic gula onek gucay bujhanor cesta koren + student friendly, grade o Valo den .upni nijeke prove korben sir upnake grade diye dibe",
-        "rating": "great"
+        "review": "PurpleEagle5056 Just drop \n Curve koren na ektuo. Marks kate onek even tho spelling bhul er karoneo mark kate",
+        "rating": "avoid"
       },
       {
-        "review": "His102 / MPN or AFRn  / Cse225 / RjP or MUO … See more",
+        "review": "Eebamie Yeol GOAT",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "phoenix_marco please elaborate a bit",
         "rating": "normal"
       },
       {
-        "review": "MUO anyday but pabenna",
+        "review": "Eebamie Yeol sir jei math gula koray oigulai exam e ashe and class seshe bole dey kon gula extra kora lagbe. Sir always class er majkhane ekta break dey and gossip kore students der sathe. And 10-20 minute age chere dey most of the time. Sir jei math gula koray and mark kore dey egula korlei straight A",
         "rating": "normal"
       },
       {
-        "review": "Nazib Ahmed Irtiza I got muo",
+        "review": "phoenix_marco thanks a lot",
         "rating": "normal"
-      },
-      {
-        "review": "MUO anyday but pabenna (2)",
-        "rating": "normal"
-      },
-      {
-        "review": "Cse215,225- Muo / Eee141- kmm",
-        "rating": "normal"
-      },
-      {
-        "review": "Cse 215, 225- MUO / Eee141 - Dmm",
-        "rating": "normal"
-      },
+      }
+    ],
+    "png": [
       {
         "review": "MUO & PNG best",
         "rating": "great"
       },
       {
-        "review": "RjP or MUO who is good for CSE225??",
-        "rating": "great"
-      },
-      {
-        "review": "Cse115-CFA / Cse225--MUO / his102--AFRN / mat130--ZHN / Cse332--sfm / Review plss!!!!",
-        "rating": "normal"
-      },
-      {
-        "review": "Muo sir BEST, GOATED",
-        "rating": "great"
-      },
-      {
-        "review": "MUO class onk miss dey..though online a makeup ney. I personally don't like this",
-        "rating": "normal"
-      },
-      {
-        "review": "Muo best / Avoid zhn",
+        "review": "Do not drop png",
         "rating": "avoid"
       },
       {
-        "review": "CSE225 - MUO / MAT250 - MAS / PHY108- HRR / ENG103 - FHs / EEE141 - NaNR / Requesting honest review for learning and grading",
-        "rating": "normal"
-      },
+        "review": "Mat250 - MLA and PNG...jodi math a valo hon ar math korte valo lage tahole ai 2 jon e best. Normally par korte chaile avoid them.",
+        "rating": "great"
+      }
+    ],
+    "psk": [
       {
-        "review": "CSE225+L - MUO / EEE111+L - SFA / MAT350 - UMM / See more",
-        "rating": "normal"
-      },
-      {
-        "review": "HRr is worst..incredibly bad at teaching..give the worst possible questions in the exams..he does curve upto 3 grades but it doesn’t help as most students get literally less that 50 out of 100.. / Umm doesn’t teach well but he gives similar questions he teaches in class..make sure to take notes..he curves 1 grade if necessary / Muo sir best in terms of grading",
+        "review": "Sak1 worst vai for learning. Class e slide reading porabe. Everyday class e late e ashbe. DU er teacher. Nsu er student der gunay dhore na. Mid ney na kono. Quiz gula e mid hisebe count kore. Ja poray slide e sekhan thekei qus kore. Nije porle valo grade paoa jabe",
         "rating": "avoid"
       },
       {
-        "review": "MUO Sir is a",
+        "review": "Deadliest Faculties",
         "rating": "normal"
       },
       {
-        "review": "MUO is the king, aint nobody like him",
+        "review": "Sak1 sir er class e dekhe lekhte parle A paben . Ar shikben uni slide e ja ase tai bujhabe. Quiz nei but oita mid hisebe count kore . Tachara ajaira question korle uni kotha shunaia dibe.",
         "rating": "normal"
       },
       {
-        "review": "Muo greatest of all time",
+        "review": "If you don't have a strong basic of micro economy then I would suggest to change psk. She's an excellent teacher and that is why her exam questions are the way they are. Her grading might be the worst I've ever faced in NSU. Just not a good overall faculty if you are not planning to major in economics.",
+        "rating": "avoid"
+      },
+      {
+        "review": "Soudip Chanda I have a science background, and this is my GED course.",
         "rating": "normal"
       },
       {
-        "review": "Muo and smma besttt",
+        "review": "S Srikant then change it as soon as possible",
         "rating": "normal"
       },
       {
-        "review": "Muo & Zbm sir best!!",
-        "rating": "great"
-      },
-      {
-        "review": "1.Muo - onek bhalo but sir onek class miss dei so ekto niche theke pore agai rakha lagbe naki uni onek class miss dibe then last a jaiye speed run dibe tokhn copeup kora tough hobe. Porai onek bhalo.question motamoti not so hard not so easy. Sir onek bhalo . Behavior onek bhalo. Ekto biased class a response kora lagbe naile bhalo grade paben na. Sir er kase porichito hoite parle A sure. / 2. Mas - he is the example of a teacher.onek bhalo best faculty. Sir questions onek easy kore. Answer ekto hoilei marks diye dei. Class a onek bhalo porai best. Class a monojog dile perai nai Kono.best grade 1 curve kore. / 3.zbm - sir bhalo. Sir er porano bujha Jai na. Uni onek effort dei tao buji na unar porano. Sir onek bhalo Manus. Question hard Kore quiz mid sob gulai so onek effort dite hobe.",
-        "rating": "harsh"
-      },
-      {
-        "review": "Muo sir valo, slide gula valo vabe porle valo grade paba..",
-        "rating": "great"
-      },
-      {
-        "review": "MD Hossain Ahmmed Taufiq Done with Muo",
+        "review": "Can you check inbox please",
         "rating": "normal"
-      },
-      {
-        "review": "CSE225 MUO, CSE231 SMMA",
-        "rating": "normal"
-      },
-      {
-        "review": "Cse225-MUO / Cse231-SMMA / Mat250-MAS",
-        "rating": "normal"
-      },
-      {
-        "review": "cse225 - muo / cse231 - smma",
-        "rating": "normal"
-      },
-      {
-        "review": "225 Muo / 231 Smma / 250 mhk3",
-        "rating": "normal"
-      },
-      {
-        "review": "225 - Muo(easygoing and curves 2 grades) / 231 - Smma / 250 - ATA, MLA",
-        "rating": "normal"
-      },
-      {
-        "review": "CSE225 - MUO / CSE232 - SMMA / MAT250 - HAr",
-        "rating": "normal"
-      },
-      {
-        "review": "Best for CSE225-Rjp/RIH/ MUO?",
-        "rating": "great"
-      },
-      {
-        "review": "In terms of learning and fair grading: MUO",
-        "rating": "normal"
-      },
-      {
-        "review": "Ibrahim Chowdhury mama MMA1 age dekhbo pai kina, na paile MRH1. Bujhli nitam holo MUO but sir sick thaken onek ei jnne pera hbe dekhe r nicchi na. Cancer patient bujhos e tw. Naile MUO nitam",
-        "rating": "harsh"
       }
     ],
     "rih": [
+      {
+        "review": "RIH , Iqn ,FTH , Shafiur detailed review plz for\n-cse225",
+        "rating": "normal"
+      },
+      {
+        "review": "HMI",
+        "rating": "normal"
+      },
       {
         "review": "Don't even think of RIH for this course.",
         "rating": "normal"
@@ -276,15 +1978,35 @@
         "rating": "normal"
       },
       {
+        "review": "GenuineDragon5326 i second that",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahian Mostofa hiiii can you please inbox",
+        "rating": "normal"
+      },
+      {
+        "review": "Sameeha Farheen Rashid poraite parena , rude , question ask korle explain korte parena , binary marking kore 0,1 day.",
+        "rating": "normal"
+      },
+      {
         "review": "Rih is the worst faculty ever for this course bhai, rih er kache ei course neyar theke na neya hajar gune better, ontoto retake er tk ta toh bachbe. Nile emni retake e nite hobe, ekta ; missing er jonno 3mark kate. Emon mark katbe je curve koreo desired grade pawa impossible.",
         "rating": "avoid"
       },
       {
-        "review": "Rih sir core concepts and theory te focus kore, code temn ekta deyna, dileo choto ekta part likhte dibe. Quiz e 1/2 marks er choto choto short question thake, main ans ta likhte parlei full marks. Mid er Section A te Mcq thake 20ta. And section B written ( 3/5 marks er koyekta question) . Initially question dekhe hard mone hote pare but i can assure class lecture follow korle u can answer these v easily! / Cons: Uni rules maintain korte pochondo kore / 1) class e thik time e dhukte hobe. 1/2 days late is considerable but apni jodi constantly late korte thaken, he will not give the attendance / 2) Class time e sir er dike attention dite hobe. Phone/onno kisu te busy thakle sir apnk notice korbe. / 3) Sir jodi theory ans chay apnk theory tei ans dite hobe. Algorithm chaile algorithm. / Sir ask korlo ei problem ta kivabe solve kora jay, apni solve na likhe code likhe diye ashle sir marks dibena. Cause code to apni mukhosto o kore ashte paren problem ta really na bujhe. He just want to make sure apni depth e giye problem ta k feel kore solve korte partesen kina. / Finally, mid and final er age 2ta assignment dey. Oi type er question e exam e ashe. Kono project ney na.",
+        "review": "Rih sir core concepts and theory te focus kore, code temn ekta deyna, dileo choto ekta part likhte dibe. Quiz e 1/2 marks er choto choto short question thake, main ans ta likhte parlei full marks. Mid er Section A te Mcq thake 20ta. And section B written ( 3/5 marks er koyekta question) . Initially question dekhe hard mone hote pare but i can assure class lecture follow korle u can answer these v easily!\nCons: Uni rules maintain korte pochondo kore\n1) class e thik time e dhukte hobe. 1/2 days late is considerable but apni jodi constantly late korte thaken, he will not give the attendance\n2) Class time e sir er dike attention dite hobe. Phone/onno kisu te busy thakle sir apnk notice korbe.\n3) Sir jodi theory ans chay apnk theory tei ans dite hobe. Algorithm chaile algorithm.\nSir ask korlo ei problem ta kivabe solve kora jay, apni solve na likhe code likhe diye ashle sir marks dibena. Cause code to apni mukhosto o kore ashte paren problem ta really na bujhe. He just want to make sure apni depth e giye problem ta k feel kore solve korte partesen kina.\nFinally, mid and final er age 2ta assignment dey. Oi type er question e exam e ashe. Kono project ney na.",
         "rating": "harsh"
       },
       {
-        "review": "IntelligentCelery1883 Rih sir core concepts and theory te focus kore, code temn ekta deyna, dileo choto ekta part likhte dibe. Quiz e 1/2 marks er choto choto short question thake, main ans ta likhte parlei full marks. Mid er Section A te Mcq thake 20ta. And section B written ( 3/5 marks er koyekta question) . Initially question dekhe hard mone hote pare but i can assure class lecture follow korle u can answer these v easily! / Cons: Uni rules maintain korte pochondo kore / 1) class e thik time e dhukte hobe. 1/2 days late is considerable but apni jodi constantly late korte thaken, he will not give the attendance / 2) Class time e sir er dike attention dite hobe. Phone/onno kisu te busy thakle sir apnk notice korbe. / 3) Sir jodi theory ans chay apnk theory tei ans dite hobe. Algorithm chaile algorithm. / Sir ask korlo ei problem ta kivabe solve kora jay, apni solve na likhe code likhe diye ashle sir marks dibena. Cause code to apni mukhosto o kore ashte paren problem ta really na bujhe. He just want to make sure apni depth e giye problem ta k feel kore solve korte partesen kina. / Finally, mid and final er age 2ta assignment dey. Oi type er question e exam e ashe. Kono project ney na.",
+        "review": "EmeraldYuzu312 No idea.",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse225- RIH",
+        "rating": "normal"
+      },
+      {
+        "review": "IntelligentCelery1883 Rih sir core concepts and theory te focus kore, code temn ekta deyna, dileo choto ekta part likhte dibe. Quiz e 1/2 marks er choto choto short question thake, main ans ta likhte parlei full marks. Mid er Section A te Mcq thake 20ta. And section B written ( 3/5 marks er koyekta question) . Initially question dekhe hard mone hote pare but i can assure class lecture follow korle u can answer these v easily!\nCons: Uni rules maintain korte pochondo kore\n1) class e thik time e dhukte hobe. 1/2 days late is considerable but apni jodi constantly late korte thaken, he will not give the attendance\n2) Class time e sir er dike attention dite hobe. Phone/onno kisu te busy thakle sir apnk notice korbe.\n3) Sir jodi theory ans chay apnk theory tei ans dite hobe. Algorithm chaile algorithm.\nSir ask korlo ei problem ta kivabe solve kora jay, apni solve na likhe code likhe diye ashle sir marks dibena. Cause code to apni mukhosto o kore ashte paren problem ta really na bujhe. He just want to make sure apni depth e giye problem ta k feel kore solve korte partesen kina.\nFinally, mid and final er age 2ta assignment dey. Oi type er question e exam e ashe. Kono project ney na.",
         "rating": "harsh"
       },
       {
@@ -292,37 +2014,49 @@
         "rating": "normal"
       },
       {
-        "review": "GiftedZebra8364 Arnob Mallik / Rih- Sir theory and core concepts gulo te focus kore. Quiz e choto code othoba theory related 1 marks er 5-10 ta question dey. R mid, final e 20 marks er MCQ and 20 marks written thake.Mid r final er age duita assignment o dey, oi type er question e ashe exam e. Class attend korle easily answer kora jay.",
+        "review": "GiftedZebra8364 Arnob Mallik\nRih- Sir theory and core concepts gulo te focus kore. Quiz e choto code othoba theory related 1 marks er 5-10 ta question dey. R mid, final e 20 marks er MCQ and 20 marks written thake.Mid r final er age duita assignment o dey, oi type er question e ashe exam e. Class attend korle easily answer kora jay.",
         "rating": "normal"
       },
       {
-        "review": "MUO or RJP / RiH sir Valo but unpredicted, Akbar mara khawya Suru korle upni automatic mara khawyar loop a Cole jaben. / MUO sir main topic gula poray and unar style ta ektu alada , onek faculty just nam bole uni oi topic er details poray and question kore .mane class a ja korabe seitai important, slide ba outline er theke class note besi effective. Marking ektu tight but grade uthay dey sir . / RJP sir onek experienced person, topic gula onek gucay bujhanor cesta koren + student friendly, grade o Valo den .upni nijeke prove korben sir upnake grade diye dibe",
+        "review": "MUO or RJP\nRiH sir Valo but unpredicted, Akbar mara khawya Suru korle upni automatic mara khawyar loop a Cole jaben.\nMUO sir main topic gula poray and unar style ta ektu alada , onek faculty just nam bole uni oi topic er details poray and question kore .mane class a ja korabe seitai important, slide ba outline er theke class note besi effective. Marking ektu tight but grade uthay dey sir .\nRJP sir onek experienced person, topic gula onek gucay bujhanor cesta koren + student friendly, grade o Valo den .upni nijeke prove korben sir upnake grade diye dibe",
         "rating": "great"
       },
       {
-        "review": "225 - RIH / 250 - MAS / 231 - SMMA",
+        "review": "225 - RIH\n250 - MAS\n231 - SMMA",
         "rating": "normal"
       },
       {
-        "review": "225 - RIH / 231 - SMMA / 250 - MAS",
+        "review": "225 - RIH\n231 - SMMA\n250 - MAS",
         "rating": "normal"
       },
       {
-        "review": "Best for CSE225-Rjp/RIH/ MUO?",
-        "rating": "great"
+        "review": "سايما محمود Thank you!",
+        "rating": "normal"
       },
       {
-        "review": "এলগোরিদম এর প্রশ্ন সব ফ্যাকাল্টি মোটামুটি সেম টাইপের করে থাকেন।ল্যাব এ একটু আলাদা। / RIH Er Questions ektu Theory Type hoy.. / Uni class e o onek besi Theory poran",
+        "review": "Nafis Forkan Thank you!",
+        "rating": "normal"
+      },
+      {
+        "review": "Nabila Tabassum Oyshi unar lab instructor amar moton :'vvvvv",
         "rating": "normal"
       }
     ],
     "rjp": [
       {
-        "review": "Section Exchange / CSE 225 / You will get: CSE225- Section01 (RjP) / See more",
+        "review": "Check inbox",
         "rating": "normal"
       },
       {
-        "review": "Cse225 - Rjp(Best for both) / Cse231 -Njl(Although lots of negative reviews around there. Easygoing but no curving, mind it.)",
+        "review": "Toufiq Hasan check",
+        "rating": "normal"
+      },
+      {
+        "review": "I have section 3",
+        "rating": "normal"
+      },
+      {
+        "review": "Cse225 - Rjp(Best for both)\nCse231 -Njl(Although lots of negative reviews around there. Easygoing but no curving, mind it.)",
         "rating": "great"
       },
       {
@@ -331,14 +2065,22 @@
       },
       {
         "review": "RjP absolutely best for learning and grading. Best Faculty in Nsu",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "MUO or RJP\nRiH sir Valo but unpredicted, Akbar mara khawya Suru korle upni automatic mara khawyar loop a Cole jaben.\nMUO sir main topic gula poray and unar style ta ektu alada , onek faculty just nam bole uni oi topic er details poray and question kore .mane class a ja korabe seitai important, slide ba outline er theke class note besi effective. Marking ektu tight but grade uthay dey sir .\nRJP sir onek experienced person, topic gula onek gucay bujhanor cesta koren + student friendly, grade o Valo den .upni nijeke prove korben sir upnake grade diye dibe",
         "rating": "great"
       },
       {
-        "review": "MUO or RJP / RiH sir Valo but unpredicted, Akbar mara khawya Suru korle upni automatic mara khawyar loop a Cole jaben. / MUO sir main topic gula poray and unar style ta ektu alada , onek faculty just nam bole uni oi topic er details poray and question kore .mane class a ja korabe seitai important, slide ba outline er theke class note besi effective. Marking ektu tight but grade uthay dey sir . / RJP sir onek experienced person, topic gula onek gucay bujhanor cesta koren + student friendly, grade o Valo den .upni nijeke prove korben sir upnake grade diye dibe",
-        "rating": "great"
+        "review": "Nazifa Tasnem detailed review pls",
+        "rating": "normal"
       },
       {
-        "review": "His102 / MPN or AFRn  / Cse225 / RjP or MUO … See more",
+        "review": "LivelyCapybara8389 And jodi time thake class e tahole sir quiz mid final er porao class e poray den mane questions slide mukhosto koray dibe.",
+        "rating": "normal"
+      },
+      {
+        "review": "GreenPomegranate9580 thanks a lot for the time.",
         "rating": "normal"
       },
       {
@@ -346,45 +2088,709 @@
         "rating": "normal"
       },
       {
-        "review": "RjP or MUO who is good for CSE225??",
-        "rating": "great"
+        "review": "Rafsan Rahman Not sure",
+        "rating": "normal"
+      },
+      {
+        "review": "RjP everyday everytime",
+        "rating": "normal"
+      },
+      {
+        "review": "Mubashshir Ayon seat pabona",
+        "rating": "normal"
+      },
+      {
+        "review": "Rido Krusg Monday te Mid. Mara kheye janacchi",
+        "rating": "normal"
+      },
+      {
+        "review": "Ismail Jabirullah check inbox vai",
+        "rating": "normal"
       },
       {
         "review": "Anywhere you see rjp. Go for it",
-        "rating": "normal"
-      },
-      {
-        "review": "RjP sir, Mdrk sir sheraa. Just do their class attentively.",
-        "rating": "normal"
-      },
-      {
-        "review": "Rafid Islam i didn't do this course under HMI, i did it under RjP",
-        "rating": "normal"
-      },
-      {
-        "review": "225: RJP / 250: MLA undoubtedly!",
-        "rating": "normal"
-      },
-      {
-        "review": "Muhtadina Serniabat Tasin sec 1 always rjp",
-        "rating": "normal"
-      },
-      {
-        "review": "225 Rjp Jbn / 231 Hsm Kda",
-        "rating": "normal"
-      },
-      {
-        "review": "Best for CSE225-Rjp/RIH/ MUO?",
         "rating": "great"
       },
       {
-        "review": "RJP teaches well and grading is fair.",
+        "review": "Both...",
+        "rating": "normal"
+      },
+      {
+        "review": "Faculty review plz:\nCSE225 - RJP\nCse231 - KdA1\nMat350 - HAr\nMat361 - MdRK",
+        "rating": "normal"
+      },
+      {
+        "review": "Mama 350 361 section koto faculty same dekhi",
+        "rating": "normal"
+      }
+    ],
+    "rrn": [
+      {
+        "review": "Joe Wilco rrn sir bhalo kintu Unar under e thaka lab instructor abar dangerous",
+        "rating": "great"
+      }
+    ],
+    "scg": [
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohaiminul Saurav kire saurav bhalo bolla ken",
+        "rating": "great"
+      },
+      {
+        "review": "Mithi La sir asolei valo manush. Kintu tomar sathe vibe match koreni. Tomar jonye kharap",
+        "rating": "great"
+      },
+      {
+        "review": "Mohaiminul Saurav to oita janay dao manushke je sirer shathe vibe match kora joruri naile jhamela korbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Mithi La achchha achchha janiye dichchhi",
+        "rating": "normal"
+      },
+      {
+        "review": ",",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225 amar section of 12. But sir kmn bujhtasi nah",
+        "rating": "normal"
+      },
+      {
+        "review": "Huzaifa Ahmed jei koyta review peyechi, valo na..",
+        "rating": "great"
+      },
+      {
+        "review": "UnderstandingLemur1527 I took it a long time ago so I don't remember unfortunately but I believe it was just like any other course outline",
+        "rating": "normal"
+      },
+      {
+        "review": "Adeeb second that",
+        "rating": "normal"
+      },
+      {
+        "review": "Ovi no.bio no",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop HAI",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ovi Binary marking kore.math hole full marks.otherwise zero diye rakhe.curve kore na.Midterm ar final question onek hard kore",
+        "rating": "harsh"
+      },
+      {
+        "review": "Mahmudul Hasan Asif yes, i am serious.Ami eee111 korsi unar kase goto semester",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahmudul Hasan Asif curve kore but Mid Final e onek hard question kore! Even TA xm shesh e lift e uthe bole je question eto hard Ami Nije e Pari na",
+        "rating": "harsh"
+      },
+      {
+        "review": "HMI average...",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop hai...",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ovi teaching quality vs question toughness onek difference",
+        "rating": "harsh"
+      },
+      {
+        "review": "HMI regularly class attend korle, unar instructions follow korle, gets easy",
+        "rating": "normal"
+      },
+      {
+        "review": "SCG is very passionate about physics.. sir learning er jonno onk valo..best try kore std der k bujjate.sir er kache korle concept clear thakle valo hoy.sir cay jate students der concept clear thake.. mukhosto kichu uni like koren na..quiz er age assignment den.. quiz er que o khan thekei similar type ase.\nsir onk strict.. curve koren na",
+        "rating": "harsh"
+      }
+    ],
+    "sfa": [
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "MD Rafi Al Islam 3",
+        "rating": "normal"
+      },
+      {
+        "review": "MD Rafi Al Islam 3,4",
+        "rating": "normal"
+      },
+      {
+        "review": "225 drop dile amare dio",
+        "rating": "avoid"
+      },
+      {
+        "review": "361 kon section",
+        "rating": "normal"
+      },
+      {
+        "review": "Tasbid Al Rahman 3",
+        "rating": "normal"
+      },
+      {
+        "review": "Ratul Hassan us",
+        "rating": "normal"
+      },
+      {
+        "review": "MALn easy for grading, but shob nijer shikhte hobe, questions are easy, slide follow korlei enough. Dont hope for curving though",
+        "rating": "normal"
+      },
+      {
+        "review": "...",
+        "rating": "normal"
+      },
+      {
+        "review": "....",
         "rating": "normal"
       }
     ],
     "shafiur": [
       {
+        "review": "RIH , Iqn ,FTH , Shafiur detailed review plz for\n-cse225",
+        "rating": "normal"
+      },
+      {
+        "review": "HMI",
+        "rating": "normal"
+      },
+      {
+        "review": "GenuineDragon5326 i second that",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahian Mostofa hiiii can you please inbox",
+        "rating": "normal"
+      },
+      {
+        "review": "Sameeha Farheen Rashid poraite parena , rude , question ask korle explain korte parena , binary marking kore 0,1 day.",
+        "rating": "normal"
+      },
+      {
+        "review": "EmeraldYuzu312 No idea.",
+        "rating": "normal"
+      },
+      {
+        "review": "Shafiur kemon",
+        "rating": "normal"
+      },
+      {
         "review": "Shafiur Rahman Nobo 7",
+        "rating": "normal"
+      }
+    ],
+    "squ": [
+      {
+        "review": "...",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "mma1 new maybe bhai",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul Hae vai 225 er jonne new maybe",
+        "rating": "normal"
+      },
+      {
+        "review": "Arafat Zaman Ratul new faculty na, se senior course ney, eibar se 225 nicche.",
+        "rating": "normal"
+      },
+      {
+        "review": "Naimur Islam Abir 2",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy inbox check dao",
+        "rating": "normal"
+      },
+      {
+        "review": "Squ best",
+        "rating": "great"
+      },
+      {
+        "review": "Mijanur Rahman sec koto",
+        "rating": "normal"
+      },
+      {
+        "review": "Sk Safoan Jani bro.tumi korsila sir er kache ei course ta",
+        "rating": "normal"
+      },
+      {
+        "review": "Mohan Dev Roy yup",
+        "rating": "normal"
+      },
+      {
+        "review": "Piyush Saha",
+        "rating": "normal"
+      },
+      {
+        "review": "Mma1 bhalo ase, question oo easy but project a bhalo korle A/A- in sha Allah",
+        "rating": "great"
+      },
+      {
+        "review": "Mat125 drop da ami niya nei",
+        "rating": "avoid"
+      },
+      {
+        "review": "Md. Mahamudul Hasan Shawan tui এস.এম. ফয়সাল শিশির re bol Or CG High",
+        "rating": "normal"
+      },
+      {
+        "review": "Abu Shahed Khan 25",
+        "rating": "normal"
+      },
+      {
+        "review": "Squ onk vlo",
+        "rating": "normal"
+      },
+      {
+        "review": "Tazkira Neety 5",
+        "rating": "normal"
+      },
+      {
+        "review": "Nafsin Nasama Salmee sob ekshate dewar por eshe geche vule vai",
+        "rating": "normal"
+      }
+    ],
+    "ssh1": [
+      {
+        "review": "Kindly drop a detailed review on how to get good grades under these faculties.\nCSE225 : MUO\nEEE141 : SSH1\nMAT130 : AKAD… See more",
+        "rating": "avoid"
+      },
+      {
+        "review": "Mama sob goat faculty",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Muhtasim Rahman mama goat hoileo..kemne A/A- pabo review lagbe\n..edr kase jdi vlo grade na pai thle to shesh",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Ssh1 best\nJust follow her slides and lectures",
+        "rating": "great"
+      },
+      {
+        "review": "Ishraq Rubayet Arnob curve korle sobai A pabe\nSo curve chara e raw A paoa jay",
+        "rating": "normal"
+      },
+      {
+        "review": "Kop",
+        "rating": "normal"
+      },
+      {
+        "review": "Rafsan Rahman sob e luck",
+        "rating": "normal"
+      },
+      {
+        "review": "Muo, SSH1, akad all are",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225- MUO is good, but unar course e onk efforts dewa lage as uni marks e den na. His grading is pretty unpredictable.\nEEE141- Ssh1 is a goated fac; follow her classes, her lectures, and her assignments for quizzes and mid; if done properly, you are good to go. Curves 1/2 depending on section and personal performance.\nMAT130- Akad, best. Follow his class and lectures; don't miss any classes, and you are good to go. He doesn't curve. Raw grade, but gives good marks on paper.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Arup Ry Thanks a lot",
+        "rating": "normal"
+      },
+      {
+        "review": "Samir Fayez project to ekhon ig shob 225 er course ei thake. Amdr time e chilo na. Amra 4 bochor age korsilam",
+        "rating": "normal"
+      },
+      {
+        "review": "Bro Show off kortese \n. Shob kotai goated",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Nabil Sajjad Evan procchur hard work kore paisi..but showoff grade a paite chai",
+        "rating": "harsh"
+      },
+      {
+        "review": "Kire aisha porli flex marte.",
+        "rating": "normal"
+      },
+      {
+        "review": "Ratul hae mama",
+        "rating": "normal"
+      },
+      {
+        "review": "Farhan Sadik 61",
+        "rating": "normal"
+      },
+      {
+        "review": "Koto credit complete korle emon moner moto faculty pawa jay",
+        "rating": "normal"
+      },
+      {
+        "review": "Tahnima Neha 61 credits,with lots of prayers & hard work",
+        "rating": "harsh"
+      },
+      {
+        "review": "All drop",
+        "rating": "avoid"
+      },
+      {
+        "review": "Raisa Zahin tmrai sob best faculty ar kache koro",
+        "rating": "great"
+      }
+    ],
+    "sti": [
+      {
+        "review": "can you tell details about maqm, sti & kmm",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahian Mostofa\nMAQm- He’s very knowledgeable, he knows lot about this course, so he tries to teach his students a lot(90 mins class e almost puratai porabe), sometimes it’s gonna be hard to keep attention, but try to understand and note down everything he teaches in the class, doing assignments by yourself and attending classes would be enough for mid and final preparation, project is very important because sir himself check the project, doing good in the project will increase your possibilities to get a good grade\nSTI- Maam teaches really well, her classes are enough to understand all the concepts. Exam e questions easy e thake, but u have to be quick. She provides also very detailed slides\nKmm- Sir is super cool. He covers all the basics concepts and gives questions from slides and class practice problems. There will be a short project which carries 10/15% marks",
+        "rating": "harsh"
+      }
+    ],
+    "stq": [
+      {
+        "review": "Sajim Salehin ho",
+        "rating": "normal"
+      },
+      {
+        "review": "Muhtasim Rahman accha",
+        "rating": "normal"
+      },
+      {
+        "review": "Bump",
+        "rating": "normal"
+      },
+      {
+        "review": "Sak1",
+        "rating": "normal"
+      },
+      {
+        "review": "Stq slides pore kichu bujha jay nah . Exam er questions onek conceptual kore . He doesn’t curve",
+        "rating": "normal"
+      },
+      {
+        "review": "SAK1 bad for learning, raw marks er upor grade dibe mane ja paba tai, class e performance vlo hole 1 grade curve korte pare.",
+        "rating": "normal"
+      },
+      {
+        "review": "Bumppoo",
+        "rating": "normal"
+      },
+      {
+        "review": "Bumppooooooooooo",
+        "rating": "normal"
+      },
+      {
+        "review": "Bumppooo",
+        "rating": "normal"
+      },
+      {
+        "review": "Stq is great but don't listen to him when he says khali slide porle and class attend korlei parba shob. Initially easy thakbe but then around mid 2 and finals everything gets more complicated and uh difficult question pattern. Onek analytical. Onek pechano. Sooo yh don't take a chill pill like he tells you to. Be vigilant. And try to attend all the classes. He doesn't give pera or cut marks for attendance. But you should attend all classes for your OWN betterment.",
+        "rating": "harsh"
+      }
+    ],
+    "sva": [
+      {
+        "review": "CSE225 SvA (not sure if she will take this course this semester)\nCSE231 HSM",
+        "rating": "normal"
+      }
+    ],
+    "tae": [
+      {
+        "review": "SkilledSeahorse5841 he says je kore. But amr tae kore nai I think. So idk. I had high hopes for his course but mon moto grade ashe nai. Mainly because ami unar kotha shunsi and bell deinai class e. I hope apni regular class attend korle and practice korle A paben.",
+        "rating": "normal"
+      }
+    ],
+    "thn": [
+      {
+        "review": "215 rjp sir jodi ney thn rjp",
+        "rating": "normal"
+      }
+    ],
+    "tmi": [
+      {
+        "review": "Farhan Sadik 40 around hoileo paba tmi",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahmud Islam tmi nije chaile cancel kore dite paro",
+        "rating": "normal"
+      },
+      {
+        "review": "Mazharul Islam Nibir tmi to shob e parooo",
+        "rating": "normal"
+      },
+      {
+        "review": "Rahimul Haque Afrad hae A paicho tmi tai",
+        "rating": "normal"
+      }
+    ],
+    "tmn": [
+      {
+        "review": "Ms1\nValo kore bhujay,\nCurve kore nah tmn,\nBonus mcq de.\nA-/B+ uthano easy",
+        "rating": "great"
+      }
+    ],
+    "umm": [
+      {
+        "review": "UMM sir valo",
+        "rating": "great"
+      },
+      {
+        "review": "Mohaiminul Saurav kire saurav bhalo bolla ken",
+        "rating": "great"
+      },
+      {
+        "review": "Mithi La sir asolei valo manush. Kintu tomar sathe vibe match koreni. Tomar jonye kharap",
+        "rating": "great"
+      },
+      {
+        "review": "Mohaiminul Saurav to oita janay dao manushke je sirer shathe vibe match kora joruri naile jhamela korbe",
+        "rating": "normal"
+      },
+      {
+        "review": "Mithi La achchha achchha janiye dichchhi",
+        "rating": "normal"
+      },
+      {
+        "review": ",",
+        "rating": "normal"
+      },
+      {
+        "review": "CSE225 amar section of 12. But sir kmn bujhtasi nah",
+        "rating": "normal"
+      },
+      {
+        "review": "Huzaifa Ahmed jei koyta review peyechi, valo na..",
+        "rating": "great"
+      },
+      {
+        "review": "UnderstandingLemur1527 I took it a long time ago so I don't remember unfortunately but I believe it was just like any other course outline",
+        "rating": "normal"
+      },
+      {
+        "review": "umm sir best for learning ,good person , partial marking diye ekdom voray dibe but curve korbe na.",
+        "rating": "great"
+      },
+      {
+        "review": "Adeeb second that",
+        "rating": "normal"
+      },
+      {
+        "review": "Ovi no.bio no",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop HAI",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ovi Binary marking kore.math hole full marks.otherwise zero diye rakhe.curve kore na.Midterm ar final question onek hard kore",
+        "rating": "harsh"
+      },
+      {
+        "review": "Mahmudul Hasan Asif yes, i am serious.Ami eee111 korsi unar kase goto semester",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahmudul Hasan Asif curve kore but Mid Final e onek hard question kore! Even TA xm shesh e lift e uthe bole je question eto hard Ami Nije e Pari na",
+        "rating": "harsh"
+      },
+      {
+        "review": "HMI average...",
+        "rating": "normal"
+      },
+      {
+        "review": "Drop hai...",
+        "rating": "avoid"
+      },
+      {
+        "review": "Ovi teaching quality vs question toughness onek difference",
+        "rating": "harsh"
+      },
+      {
+        "review": "HMI regularly class attend korle, unar instructions follow korle, gets easy",
+        "rating": "normal"
+      }
+    ],
+    "zbm": [
+      {
+        "review": "Mahtab Ahmed joss grade dey! (Partial marking kore ek grade) then total marks theke arek grade curve dey! Kichu friend ra grade submission a arek grade curve paise",
+        "rating": "normal"
+      },
+      {
+        "review": "ZBM best",
+        "rating": "great"
+      },
+      {
+        "review": "Shb Best. Shb course e A nh paile apni poren nai",
+        "rating": "great"
+      },
+      {
+        "review": "Abrar Faiyaz I will try my best. Inshaallah\nBut porasuna ami kno semisterei kori na xD.",
+        "rating": "great"
+      },
+      {
+        "review": "zbm sir er kase onkk beshi efforts dte hbe...uni cls e beshi poran..akdm hiji biji obostha,,, qus ta o standard koren...xm e mark ektu beshi dei,jar karone curve kren na",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahtab Ahmed hae but arektu pechan..vloi pechan...",
+        "rating": "normal"
+      },
+      {
+        "review": "ZBM sir joos . 1-2 grade curve koren. tobe sir onek beshi porann",
+        "rating": "normal"
+      },
+      {
+        "review": "S.H. Hossain 5",
+        "rating": "normal"
+      },
+      {
+        "review": "Xaima Zaman 5",
+        "rating": "normal"
+      },
+      {
+        "review": "All 4 faculties are goated",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Sumaya Suimee 6",
+        "rating": "normal"
+      },
+      {
+        "review": "2ta cse course try korle easily A peyen janben.",
+        "rating": "normal"
+      },
+      {
+        "review": "Sob gula faculty e best. All the best",
+        "rating": "great"
+      },
+      {
+        "review": "All good faculties",
+        "rating": "great"
+      },
+      {
+        "review": "Umme Jahara Simki any tips\nHow to get A,A-",
+        "rating": "normal"
+      },
+      {
+        "review": "Naimur Rahman Ratul *Zbm section -6",
+        "rating": "normal"
+      },
+      {
+        "review": "Tirtho Mojumder 9",
+        "rating": "normal"
+      },
+      {
+        "review": "Tazkira Neety",
+        "rating": "normal"
+      },
+      {
+        "review": "6",
+        "rating": "normal"
+      },
+      {
+        "review": "Mahtab Ahmed",
+        "rating": "normal"
+      }
+    ],
+    "zhn": [
+      {
+        "review": "Cse115-CFA\nCse225--MUO\nhis102--AFRN\nmat130--ZHN\nCse332--sfm\nReview plss!!!!",
+        "rating": "normal"
+      },
+      {
+        "review": "Shaccho Sarkar grading kmn",
+        "rating": "normal"
+      },
+      {
+        "review": "Sfm best",
+        "rating": "great"
+      },
+      {
+        "review": "Cfa best",
+        "rating": "great"
+      },
+      {
+        "review": "drop Zhn unless you wanna pay for your sins",
+        "rating": "avoid"
+      },
+      {
+        "review": "Shafaet H. Ankur",
+        "rating": "normal"
+      },
+      {
+        "review": "Zhn pora bhalo bujhay but literally worst in terms of grading so if u prioritize grade rather than learning I would highly recommend to drop",
+        "rating": "avoid"
+      },
+      {
+        "review": "Sunehra Ahsan rds2",
+        "rating": "normal"
+      },
+      {
+        "review": "Kayfi Ajmi amader majority assignment vote disilam dekhe assignment. According to class mate curve korenai tamon akta.",
+        "rating": "normal"
+      },
+      {
+        "review": "Explain vaia",
+        "rating": "normal"
+      },
+      {
+        "review": "Raiyan Rahman true",
+        "rating": "normal"
+      },
+      {
+        "review": "Attendance full, quiz full, Mid good enough marks still B-",
+        "rating": "great"
+      },
+      {
+        "review": "Cfa vloi",
+        "rating": "normal"
+      },
+      {
+        "review": "Talha Zubayer yes",
+        "rating": "normal"
+      },
+      {
+        "review": "Zhn drop",
+        "rating": "avoid"
+      },
+      {
+        "review": "Droppp zhn",
+        "rating": "avoid"
+      },
+      {
+        "review": "Bilash Das koto paili",
+        "rating": "normal"
+      },
+      {
+        "review": "Raihanul Mehrab ja dise bhaloi dise",
+        "rating": "great"
+      },
+      {
+        "review": "SFM BEST",
+        "rating": "great"
+      },
+      {
+        "review": "Rifah Nanjiba Prithila review",
+        "rating": "normal"
+      }
+    ],
+    "zum": [
+      {
+        "review": "Can you give me a review about ZUM in phy 108",
         "rating": "normal"
       }
     ]

@@ -1,0 +1,126 @@
+{
+  "act360": {
+    "mibs": [
+      {
+        "review": "Afaik mibs bhalo",
+        "rating": "great"
+      },
+      {
+        "review": "MIBS is great, 202 krsilam.",
+        "rating": "great"
+      },
+      {
+        "review": "Mibs easygoing",
+        "rating": "great"
+      },
+      {
+        "review": "MIBS best",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "mibs isnt that good for learning. i felt his classes were generic and average grades were provided. he explains the courses easily but its hard to catch up at his speed. theres less interaction in class and no way to catch up once you fall behind for any reason. his exams are easy tho.",
+        "rating": "normal"
+      }
+    ],
+    "eaa": [
+      {
+        "review": "Eaa goodd",
+        "rating": "great"
+      },
+      {
+        "review": "EAA best",
+        "rating": "Outstanding"
+      }
+    ],
+    "ibd": [
+      {
+        "review": "IBD best . Make sure to writethe broad question in details with examples. Follow his handouts. You’re good to go",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Ibd good just lazy sometimes",
+        "rating": "normal"
+      },
+      {
+        "review": "Ibd- sir is very easygoing, his quizzes are very easy and mid, final e just write as per the law language jeta slides e ache . Random English e bujhay likhle he is not gonna like it memorise korte hobe ektu.",
+        "rating": "great"
+      }
+    ],
+    "msa3": [
+      {
+        "review": "Msa3 best",
+        "rating": "Outstanding"
+      }
+    ],
+    "uhm": [
+      {
+        "review": "UHM is good for learning",
+        "rating": "great"
+      }
+    ],
+    "ndm": [
+      {
+        "review": "Ndm best faculty.Just follow her instructions. Easy D+.",
+        "rating": "avoid"
+      }
+    ],
+    "nwa": [
+      {
+        "review": "If you good at memorizing then go for NwA otherwise don't go",
+        "rating": "normal"
+      },
+      {
+        "review": "NWA theke TBA valo",
+        "rating": "normal"
+      },
+      {
+        "review": "Nwa drop",
+        "rating": "avoid"
+      }
+    ],
+    "tba": [
+      {
+        "review": "NWA theke TBA valo",
+        "rating": "great"
+      }
+    ],
+    "syna": [
+      {
+        "review": "SyNA sir best",
+        "rating": "Outstanding"
+      }
+    ],
+    "sr3": [
+      {
+        "review": "SR3 Sir is an amazing faculty. He is very helpful and you can learn a lot from him.",
+        "rating": "Outstanding"
+      }
+    ],
+    "mgr": [
+      {
+        "review": "mgr sir is good..",
+        "rating": "great"
+      },
+      {
+        "review": "Mgr change koro rkb neo",
+        "rating": "avoid"
+      }
+    ],
+    "abp1": [
+      {
+        "review": "Abp1 niye kisu bolar nai...u can sleep or go out of his class...bcoz at the end of the semester...he will just give random average grade b,b- mostly...a,a- expect korleo u will find him giving it to unexpected ppl...",
+        "rating": "harsh"
+      },
+      {
+        "review": "Abp1 valo",
+        "rating": "great"
+      }
+    ],
+    "rkb": [
+      {
+        "review": "Mgr change koro rkb neo",
+        "rating": "great"
+      }
+    ]
+  }
+}

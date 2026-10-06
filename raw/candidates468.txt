@@ -1,0 +1,326 @@
+=== #3 POST (22 comments) ===
+Which CSE courses should I complete before taking CSE299?
+   - There's no official prerequisite, but u must do at least cse311, cse327. However, doing cse445, cse465, cse495B before cse299 is recommended. Usually people do cse299 before cse499...
+   - Sakhiur Rahman thanks alot man!! / So basically 311&327 must to do well...
+   - Rido Krusg you must finish 60 credits
+   - Urbee Rahman Mim i already done that ,but didn't completed 311(doing now) and 327
+   - Rido Krusg I don't think finishing cse311 before CSE 299 is mandatory . In my situation, I have done cse311 and cse299 together in one semester. In simple meaning, there is no specific prerequisites for CSE 299 except for finishing 60 credits.
+   - F
+   - 499
+   - It honestly depends on what kind of project you're aiming for. I'd say to make sure you complete at least 311 as it'll give you a basic idea on web development. And 327 if you can. For me I did 311 only before jumping into 299 but that didn't cause me any trouble. If you're going for ML/DL based project you can do 445/465. / Thing is you'll automatically learn things along the way while working on your project if you have the dedication and eagerness. Just think about what you wanna work on and don't fret too much
+   - Shaira Tahsin thanks alot
+   - 311
+   - Sadaf Kibria Sufal apni ki 311 age korsilen naki bhaiya?
+   - Saymon Feroz Sadaf amr eisob kora lage na direct 299 korsi
+   - 311 kore thaklei jothesto. I did 327 and 299 together. / 327 is quite insightful (how a software is finally deployed from initial planning and modifications). So ami ui class e ja shuntam, obhabe 299 er project e aganor try kortam. / 299 is fun, most students der eta first big project. And if you get a good teammate tahole you’ll end up more confident with doing future projects
+   - 327,311 and if possible 445.
+   - tbh none, just 60 credits hoilei go for it, I see a lot of seniors giving good advice here but if you are confident in yourself and have always been a tech enthusiast and can learn things quickly do 299 whenever you want even if you haven't done any 3xx courses let alone 4xx ones, I did 299 solo under ITN, different faculties have different sets of requirements they want you to fulfill in your project make sure you get reviews and see if it aligns with your interest, the skill gap can be covered with thorough research and wanting to learn things. Having a team mate would burden you most of the time in these kind of projects, if I could go back in time I would honestly do all my projects solo, taught me a lot doing things solo, team mates usually slow you down.
+   - Ffffff
+   - Just do the 327 under goat NBM and you are good to go .
+   - I did 445,465 before 299 . And I did 299 with 465 course. So I didn't have to give extra effort to this 299.
+   - 445 327 311
+   - What kind of project you would want to do , what would you need to learn for that project , do those courses
+   - Toky Tajwar Mikail Thank you bhaiya
+   - The only prerequisite is to complete 60 credits. That's all. / Usually, Cse311 is your baseline. But other courses help boost your knowledge. For example, / If you're interested in AI and ML: either of 445/465/468 or two / If you're interested in Hardware/Embedded: Cse331 / Interest in Software: Cse327 / Interest in Operating Systems: Cse323 and Cse332 / Interest in Cybersecurity: Cse438 and Cse488 / The courses are merely meant to give you the myriad possibilities in the CSE field. Think of it as getting better gear for your boss fight. / But that shouldn't stop you from doing any project you want. Take me as a reference, I haven't taken any Machine Learning course, yet I learned everything from scratch and built a pretty good ML project in less than 3 months. So, it's very feasible.
+
+=== #9 POST (60 comments) ===
+Advising at NSU is more hectic than anything else, and the ECE Department makes it too hard to get our desired courses as planned. As a result its nearly impossible to finish up all the course within a 4-5 year timeline at NSU for any department, but its possible if we make a proper planning ahead of our semesters. /  / Here is the breakdown of how I completed my graduation including all the courses from the ECE Department majoring in CSE within 3 years and 8 months timeline! Hop… See more
+   - Congrats bro
+   - Congrats brother!! can you give some tips how to maintain a good cgpa?
+   - I didn't had that good CGPA but what I follow is that I studied very less but strategically and smartly at my uni days.
+   - Nazmus Sakib Nihal understood bro good luck for your future
+   - Bhaia how did you balance so many courses?
+   - CopperCorgi7122 nijer iccha moto advising is all I did
+   - How was the pressure of 22 Credits and how well did you do in that particular semester? Just an estimation would be appreciated
+   - Bi semester and faculty easygoing thakay pressure beshi feel hoynai but I felt more pressure at Spring 2024 due to my bad advising
+   - Oh and that term cgpa was 3.44
+   - Bhaiya will it be a wise desicion if I choose to complete all GED courses in 2 consequetive semesters, so that I can concentrate on my Major Courses properly?
+   - Shibraj Deb no because due to per-requisite of the CSE courses, graduation will be delayed
+   - Ami spring24 e ektao CSE course painai
+   - Mostly department e gelei diye dito
+   - Nazmus Sakib Nihal heard Department chair behavior is rough. Is it true?
+   - Nazmus Sakib Nihal giye Je Boro line dekhsilam  /  bt convince korte parle dito hoyto
+   - Congratulations
+   - How did you take more than 18 creds?
+   - Bi semester e newa jeto upto 22 credit.
+   - Nazmus Sakib Nihal i see thank you
+   - How was ur 465 and 499 experience with nbm sir? and do u know if he is going to take these courses this upcoming semester? cause i am also willing to take under him.
+   - Goated faculty, must take.
+   - Congrats bro. I have a question. You have done phy108 in 2024 but lab in 2026. Didnt it incur any problem? Or i can do it?
+   - No because phy108L is mostly relatable with EEE111 and I had to wait for my lab teammate so we could take the courses together.
+   - Same same. Though majhe Bi-semester eshe planning elomelo kore diyechilo and movement er karone research er kaj pichay gesilo, still 3 years and 10 months e complete korechi.
+   - How was png in mat250 and rme in ben205
+   - PNg sir is best for any of the math courses. RME miss is also good but no curve and cut marks frequently.
+   - Can you give me a detailed Abt review for eco101?
+   - Goated faculty, getting into his section is tough during advising.
+   - Nazmus Sakib Nihal A detailed review please / Like his question pattern, Grading (Curves or not)
+   - Bhai na advising e BOT use kore IT theke ban khaisilen? Apni na?
+   - BanglarBagh /  hay unie
+   - Bahutgarmihayyarr /  Bhai uni extension use kore courses, valo valo faculty nise and timing o valo. Ekhon suggestions dicche / Irony
+   - Bahutgarmihayyarr /   /  etai science
+   - Nope, different ID.
+   - Barakallahu feek<3
+   - Nazmus Sakib Nihal vai, plz check inbox
+   - How 138 credits intead of 133 ?
+   - It's 139 now as Phy108L grade was missing. I have done an extra CSE elective course and MAT116 will be excluded as well making it 133 credit.
+   - Nazmus Sakib Nihal cse kunta exclude korben?
+   - CSE482/273 maybe cause ekta extra kora hoye gese
+   - Nazmus Sakib Nihal how was your experience with rih in cse482?
+   - I did under nqh sir, valoi chilo.
+   - Bhayia, can you please mention your CGPA?
+   - The OG Summer 23
+   - Facultys so goated couldn't resist myself for taking courses
+   - Nazmus Sakib Nihal that was my first semester. Lots of good memories. The campus vibe was pretty different back then!
+   - Hii Bhaiya! / How was EzM? Could you please give me some insights?
+   - Valo chilo, but sir maybe ekhn ar course neyna naki sure na
+   - Hi bhaiya! Congratulations!! Could you please tell me how was KHU ma'am for ENG111?
+   - KHU miss is the best for this course, best best
+   - The bi semester thing actually backlogs this post. But congratulations!
+   - Congratulations. I see you've done 273, 445, 465, 468. I've also done 445, 465, 273. I'm also thinking of taking 468. Did you select 468 as open elective and 273 another trail?
+   - 445 exclude / 465,468 major / 482 minor / 273 open
+   - Nazmus Sakib Nihal you can replace HIS103 with CSE elective courses right?
+   - Yep thanks for the heads up, I completely forgot about that. And yes I can replace his103 with cse445, will do
+   - Would you like to share your cgpa?
+   - Hello bhaiya! First of all , congratulations! Could you share the detailed review of SMAH for cse373?
+   - For minor how many course need to take?
+   - 498R er jonno ki section alada alada?
+   - Can you please share some review info about NBM
+
+=== #13 POST (23 comments) ===
+Isn’t CSE468 – Computer Vision being offered next semester?
+   - F
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Bump
+   - Up
+   - Cfbr
+   - Up
+   - Bump
+   - You can ask to AFe sir and msrb sir, as usually they used to take this course
+   - No. / And the apprent reason is: students enroll this course without having the basics of 445 and 465, which prevents the faculty from completing the course goals.
+   - Ridwan Rafi pre requisite kore dile to hoy?
+   - Rifah Nanjiba Prithila Open trail e emn hard prerequisite dewa possible na. / And, prerequisite dile course e dekha jabe enroll krbe 3-4 jon jehetu 445-465 both complete kora der moddhe 468 newar manush kom. / So, dekha jabe shesh prjnto section cancel hbe. / Only viable solution: 20-30 jon capable student sir er sathe kotha bole permission niye dept e application kora.
+   - Ridwan Rafi so, it requires AFE sir's permission, right?
+   - Sakhiur Rahman If you can manage 20-30 people who are interested to enroll in this course and all of them have good basics over ML & DL, you can go and talk to AFE sir. If he shows interest and permits you, you'll have to submit an application to the dept.
+   - Ridwan Rafi thanks bro...
+   - .
+   - AFE sir say he will take this course next semester. Before taken that course you should complete cse445 and cse465.
+   - Nope
+   - AFE sir did say he's planning on taking the course next semester but before that you'll have to know the concepts of neural network so complete 465 first if you haven't
+   - Shaira Tahsin thanks for the suggestions
+
+=== #16 POST (25 comments) ===
+CSE468 - Computer Vision - Fall 2025 / Faculty: Dr. MD Adnan Arefeen Sir [AFE] / After 3 years gap, finally ECE dept offered CSE468 Course in Fall 2025 semester under AFE sir, so we didn't miss the chance to take this course. The course syllabus is completely based on Computer Vision as in image/video processing with VLM, CNN, Transformers and such.… See more
+   - Sir is the GOAT.
+   - Sir ekta cutie
+   - This course only for those people who have done cse445, 465 or are knowledgeable about ML/DL.
+   - AFE sir shera
+   - Assaduzzaman Munna ezpz
+   - Moontaha Rawshan Hae.. Also shikhar moton ekta course
+   - 3 years kibhabe 2024 ei toh offer korsilo
+   - Nope didn't. Last offered at Fall 2022.
+   - Nazmus Sakib Nihal Accha Hae 2023 te last offer hoisilo
+   - Washio Ferdous Rubai
+   - What about grading does he curve?
+   - AFE is the GOAT / . AFE sir ei course na nile pura mara khaitam. / This course requires significant improvements, and at least CSE445/CSE465 should be a prerequisite for it. / Cons: / 1. The most unorganized course I have ever done. / 2. Faculty seems to have no idea what students are learning. / 3. If someone has no previous experience in machine learning or neural networks, this course will be hell for them. / 4. The course only taught us CNN/ViT/Autoencoders/RCNN. Despite the low course content, many students were struggling. / Pros: / 1. AFE sir
+   - Faiyad Hossain hobe ebar
+   - Shadman Shahriar inshallah mathe neme chokka ar chokka
+   - Faiaz Hayder
+   - Abdullah Al Soikot / Asaduzzaman Sunny
+   - Best faculty
+   - Can I dm you?
+   - Sure.
+   - Ayhay..age jane 495B na nia eta nitam
+   - vai keo CSE445, CSE465 na kore ei faculty niyen na, easygoing vebe grade er chintay ashle msrb nen ...VLM niye youtube a temon valo resource o nai, ar sir er paper gula dekheo bujha jay onk knowledge ase onr..othocho kicho student er jonne just ViT porjonto cover korte pare.. ekjon comment korlo "Faculty seems to have no idea what students are learning." ! eita true, ekhon keo jodi 445, 465 na kore ashe tare kivabe ViT theke shekhano shuru korbe..ei course er main content gulai ashar kotha vision transformer er por theke.. sir semester er shuru tei rag, vision rag, clip eshob niye ekta overview dey jate shobai project shuru korte pare, ekhon je 445 e kore nai tar mathay eshob kivabe dhukbe! 465 a to ontoto transformers porjonto poray fele
+   - Raiyan Khan this, lekhar jonne marattok thanks. This course isn’t meant to revise 445 or 465, kulay uthte na parle this is on the student
+   - Can you kindly share the course contents?
+   - Extremely sorry, I don't saved the content actually.
+   - Nazmus Sakib NihalNo worries brother. Thanks!
+
+=== #18 POST (45 comments) ===
+Choose one: / CSE327 - NbM vs AFE / CSE373 - ARa2 vs STI / CSE331 - MOJ vs RQN vs ACQ / CSE445 - AZK vs Rtk vs MAQM vs MSRb / See more
+   - 327-nbm / 373-ara2 / 445-rtk
+   - Sabbir Ahmed Sakil how is ara2? may I know?
+   - F
+   - 331 ACQ
+   - Sanjida Khanom Meem can you give details please?
+   - 327 nbm anyday
+   - 331 RQN
+   - Shaira Tahsin pls ami seat pabona
+   - Nh Ashik  /  sorry
+   - nite parini brother
+   - Fahmid Shahriar Alvee amio na bro
+   - Shaira Tahsin apu RQN sir ki kono project dey?
+   - ExcitingCaterpillar4429 lab e ekta hardware project thake
+   - 445 msrb
+   - Samiyeel Alim how is MSRb for CSE445. Review plz
+   - Rokib Hasan Oli good for learning / Great for grading
+   - Nbm for 327 will be the best... syllabus is short and he will mainly focus on the project...
+   - Nithila Mahzabin does Nbm sir give freedom to work with any framework and language?
+   - Afe / Sti / Acq / Rtk / Muo
+   - Iftikhar Ahmed how is acq review plz
+   - 327 mrh1 / 373 ekd / 331 acq / 299 nlh / eigula bade onnogula nile mere felbo
+   - right now ja situation choltese kono ekta section khali pailei milad dibo
+   - adu bhai
+   - How is acq??
+   - chk inbx.
+   - 327-Nbm
+   - kichui to pelam na bondhu
+   - Sougo Okita can you please share the details what kind of project sir preferred ?
+   - Israt Jahan Ina unique, like very unique unlike gibberish management system / Very user friendly UI / And yes, Advanced
+   - Sougo Okita advanced like?and sir ki fixed project diye dibe ?
+   - 445 - Rtk
+   - 299- MLE
+   - Pr101- fsa
+   - bestt,, but 10rootx curve koreo pass korano jayna
+   - mkt107- introduction to content HSa best
+   - Humayra Ahmed Samia ami korsi ai faculty er kase amar grade er 12 ta bajay dise
+   - Bhai koyta paisen?
+   - Mahabub Kowsar just ekta course
+   - Kire bhai cse331 kon section / ?
+   - pailam na bhai
+   - Cse327 - RSY / Cse373 - STI / CSE331 - MAQm / CSE445 - JSA or MAQm / CSE299 - MUO or NLH
+   - Asif Anik does sti mam curve?
+   - ExcitingSunflower5630 not a single number tarupor mam ta mon moto grade dey
+   - BakingBrainmadam nijer mon moto grade dey not amdr
+   - Asif Anik can you give details about rsy please
+
+=== #20 POST (37 comments) ===
+Hello all. I am planning to study in the field of AI and Deep Learning, and wanna know what's the best 2 pick out of these 4 courses, and why? Course difficulty is not an issue. Just want to get the most bang for my buck.  / Cse445: Machine Learning / Cse465: Pattern Recognition and Neural Network / Cse468: Computer Vision… See more
+   - F
+   - 445 onk maths bt practical coding korayna ( formula gulao onk Boro  / )
+   - Albi Habiba Trail courses were never meant to be easy
+   - Mahdin Muhammad Jakir bhai easy hard er jonno na, my point is eta practical kichu shikhay na, theory and maths korabe but coding dekhabena / I thought atleast TA or RA diye ektu coding stuff dekhabe ( maybe Sfr1 nile shikhte parbi), lab thakle ig it would have been perfecf
+   - Albi Habiba take nbm, sfm1 or the more performance focused faculties.
+   - Mahdin Muhammad Jakir section Khali thakle na, sobai ki Sfm1 Sfr1 pay naki
+   - Mahdin Muhammad Jakir nbm sir 445 nen na
+   - F
+   - F
+   - Tui earthquake er moddhe eisob post des kn
+   - Albi Habiba admin dui din por approve kore.. is it really my fault?
+   - Mahdin Muhammad Jakir admin earthquake er moddhe kn approve kore?
+   - Mahdin Muhammad Jakir yes
+   - Nafiur Omi table er niche shuye thako
+   - aage baicha ne,tarpor course kor
+   - Would say 468 if nsu put a prerequisite of doing 465 before enrolling in this course / But if AFE sir takes 468 again in the next semester taile you can do it as you will also learn about research papers a lot / As for the theory, since I'm still in the middle of doing this course so would be able to give a better review after this semester ends
+   - Snahashis Sarker Arnob Cool, thank you!
+   - F
+   - 465 and 468/468B (it's your preference). However, you need to understand the fundamentals before enrolling in 465.
+   - Sayyid Ashraful Islam Opin Understood. Thank you!
+   - F
+   - Following
+   - .
+   - 445 / 468
+   - Sajadul Akash Cool, thank you!
+   - If you really want to be in the field of ML then first do CSE445 (Classical Machine Learning) under SFM1 sir, it will develop the base for you, then go for CSE465 (Pattern Recognition and Neural Network) under NBM sir it will open the room for you to explore further into deep learning then you can go for CSE495 (Natural Language Processing) or 419 (Data Mining) this three or 4 courses will help you to mastery the Ml field. / Use your open elective here instead of doing other irrelevant courses. Also, I will advise you to take a minor in mathematics or physics to get more involved in the advancement of ML and mathematics, as they are intertwined.
+   - Abu Ammar IbnaMannan Salmoon That's quite a deep insight! I'm already doing a minor in math, which is a plus point. Thank you!
+   - Mahdin Muhammad Jakir great, Jazakallah
+   - Abu Ammar IbnaMannan Salmoon Bhai can you please tell me what kind of project sfm1 sir assigns for cse445 course? Also questions kemon koren?
+   - 465 & 495B
+   - Nazmus Sakib Nihal cool, thank you!
+   - 465 495b / Imma do both. Lemme know when.
+   - Labiba Faiza alrite, many thanks!
+   - 465 and 495B nlp if u have to choose any two.
+   - Imam Hossain Strong pick. Thank you!
+   - 445 & 465
+   - Noor Jahan Jedne, sure thing. Thank you!
+
+=== #22 POST (37 comments) ===
+Which 1 course should I drop among all these ? / BIO103 - THn / CSE331 - SAMD / CSE425 - EzM… See more
+   - .
+   - .
+   - .
+   - 331 kokhn paila bhai
+   - Arebi Sarker phase 1 ei
+   - sheraa
+   - 468 drop diye dao ST te bashay boshe chill koro
+   - Md. Nafizur Rahman ei course ta onekdin por offer korse, last offered Spring 2024
+   - ahha tahole shob kore felo
+   - THN mam is one of the sweetest faculty, though for bio she might take a small presentation
+   - Nithila Mahzabin bio103 course eo presentation ?
+   - Nazmus Sakib Nihal (Not completely sure about that)
+   - F
+   - Vai cse 425 jodi drop deo janaio.. Ami section change korbo
+   - Rehnaf Leon 425 to EzM sir er ekta new section open korse ajke
+   - Nazmus Sakib Nihal vai amr advising 4.20 e
+   - Nazmus Sakib Nihal new sec 10 ezm sir er?
+   - Faija Farhin Bintay Islam Till now it's TBA
+   - drop CSE445 / inbox me before dropping
+   - THN bhalo faculty
+   - Thn good
+   - 425 ar 445 duitai drop kore dao
+   - Faheema Shaheed Tamanna
+   - 331 drop dile vai bole diyen
+   - 6 days a week pera hobena?
+   - Samiyeel Alim hope so na
+   - drop NSU
+   - If you want to drop Cse468 , then plz let me know .
+   - Jarinah Tasnim dropping 468 isn't in my plan anymore, it's either 331 or 425
+   - 468 kon trail er course?
+   - Jubayed Ahmed Sahel AI
+   - Nazmus Sakib Nihal etar ki kono pre requisite ase vai? And afe kmn bolte paren?
+   - Jubayed Ahmed Sahel no pre req, but website e 440 dekhay.
+   - How was 331 SAMD ?
+   - how was SAMD?
+   - How was EzM?
+   - How was ezm?
+
+=== #25 POST (11 comments) ===
+Which two courses should I choose from AI Trail ? CSE445 or CSE465 or CSE468  / If I go with CSE468, I'm planning not to do CSE445. Is it okay ?
+   - F
+   - Following
+   - F
+   - Cse445 which section are you in?
+   - Jannatul Ferdous Mim Sfr1 , section 3
+   - .
+   - Website link?
+   - Tasbiul Hasan Towsif
+   - Website link??
+   - Tanvir Al Mahi https://nihalxx3.github.io/rds2.northsouth.edu-Fall2025/
+   - Nazmus Sakib Nihal tmke NSU taar IT section e neyna keno?
+
+=== #29 POST (15 comments) ===
+Can’t believe it’s my last semester at NSU!  /  Time really flew by! / Here are the courses I’ve picked for my final lap  / : / CSE468 – Computer Vision  / EEE452 – Engineering Economics and Management  / EEE498R – Intern/Co-op/Directed Research  / See more
+   - Soc101 Maj besttt
+   - EEE452- Go for FKR or HAI... avoid RKZ / Soc : AYO and Syna is good.. MJun not recommended..
+   - Muntakim Riasad hai er review diben kindly
+   - Out of topic but since you’ve taken MAT481, are you doing a minor in Mathematics? If so, how has been the experience?
+   - Syed Amin Hossain following
+   - Soc101-Nah1 / His101-Agr2
+   - I do not think 498R can be completed in one semester only
+   - 468 offer korece?
+   - Shah Amanullah amra chole jaoyar porei eisob offer korbee bhai!! Amra ar pacchina
+   - Na Mi Rah tai to dekhteci apuu
+   - Soc101-awo
+   - soc101- Maj sir
+   - MAT481 is pretty easy. MLA Sir takes the course, and if you just pay attention in his lectures, take notes, do the homework, and avoid calculation mistakes in the exams, you’re good to go. He also curves. I messed up quite a bit in both mid and final and ended up with an average grade after curving.
+   - Soc101- Syna
+   - SOC101- TzF MUST!!!!!
+
+=== #38 POST (12 comments) ===
+What is the easiest EEE trail course? / I already took EEE433/CSE465 and CSE468.
+   - How did you take CSE465 as a EEE student? Isn't CSE373 are pre requisite for that course?
+   - Abdur Rahman Labib double major
+   - Promela Tajrina check inbox please
+   - Take EEE413
+   - Etar lab Oshinnna ney
+   - A.K. Mohd Hemel Haque 411 kori nai and I dunno konta kajer Cadence or Verilog
+   - Promela Tajrina, 411 na korleo you can do it. This one will be more beneficial than 411. You may reach out to Oshin for further information.
+   - A.K. Mohd Hemel Haque I don’t want benefits; I want an easy semester. Also, no offense but Oshin apur kotha class e shuna jay na
+   - Promela Tajrina, eta easy course e. / Also, Oshin apu, tek notes and kheye-deye class koraite jayen
+   - Take EEE333 (Artificial Intelligence) Faculty: ALK1. Easy and interesting course. It has no lab. And try to be in class on time, so that you can grab a front seat, which would help you to be able to listen to your faculty. Otherwise, everyone would have to carry a mic for the backbenchers. No offense.
+   - Oshin Mumtaha apu, I’ve thought about taking CSE440/EEE333. But a friend of mine has been telling me to add “weight” to my transcript by taking courses from more than 1 trail. And he said EEE411 is really easy. I’m really confused. I just want to focus on research next semester.
+   - Tajrina Promela apu apni EEE & CSE te double major ki bhabe kortesen? Double major korar req ki? kono link share korte parben jai khan theke ami dekhte parbo?
+
+=== #49 POST (7 comments) ===
+does anyone know which faculties instruct  / CSE 427 Software Quality Assurances & Testing / CSE 419 Data Mining / and / CSE 468 Computer Vision… See more
+   - bump
+   - MD Ashraful Islam dekho eita e boltesilam tmk
+   - Bushra Hossain Onika
+   - BUMP
+   - Request chairman, chairman might ask you to bring list of students who are interested for the courses...need decent number of students.
+   - I wanted to take CSE 427 this semester but in vain. This course is no longer offered
+   - CSE427 aibar NBM sir newar high possibility ase.

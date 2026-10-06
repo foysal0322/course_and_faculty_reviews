@@ -1,0 +1,72 @@
+{
+  "bus251": {
+    "amtr": [
+      {
+        "review": "Amtr bus251 e easy going. Classes attend korlei easy enough to get an A/A-.",
+        "rating": "great"
+      },
+      {
+        "review": "Amtr mam is a sweetheart, follow her lecture and you are good to go.",
+        "rating": "great"
+      }
+    ],
+    "hmm1": [
+      {
+        "review": "HMM1 is one of the best faculties in NSU.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "She’s best for every course whatever she is taking.",
+        "rating": "Outstanding"
+      }
+    ],
+    "lkk": [
+      {
+        "review": "Very good indeed. A bit strict in terms of classroom behavior and etiquette, but questions are very easy and almost similar as the ones she shows in class.",
+        "rating": "great"
+      },
+      {
+        "review": "She is a sweetheart, really sooo good faculty in NSU. Bhalo grade and learning also.",
+        "rating": "Outstanding"
+      }
+    ],
+    "sqt": [
+      {
+        "review": "Sqt is a bit strict but teaches really well. Just try to score good on the written part of exams, and submit assignments on time. Sir curves a grade or maybe two depending on the class average.",
+        "rating": "great"
+      }
+    ],
+    "tya": [
+      {
+        "review": "Tya is really sweet. Ma'am is good for both learning and grading. Questions are quite easy and she curves.",
+        "rating": "great"
+      },
+      {
+        "review": "Tya curves depending on class performance.",
+        "rating": "great"
+      }
+    ],
+    "uhm": [
+      {
+        "review": "You don’t need to do anything. Just follow her class and you’ll be good to go.",
+        "rating": "great"
+      }
+    ],
+    "zbr": [
+      {
+        "review": "Zbr is love.",
+        "rating": "great"
+      },
+      {
+        "review": "Bad for teaching but she did decent grading.",
+        "rating": "normal"
+      }
+    ],
+    "zmu": [
+      {
+        "review": "She is not that good in teaching plus her slides are not well organized. Her mids and final consisted of only mcqs when I did it with her. Those were extremely hard than what she taught in class. Lastly, she doesn’t curve a single grade despite her poor teaching skills. The only positive thing is she is student friendly.",
+        "rating": "avoid"
+      }
+    ]
+  }
+}
