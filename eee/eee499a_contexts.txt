@@ -1,0 +1,327 @@
+--- MATCH ['nanr', 'lih'] at 0 ---
+0: Would it be really hard doing  EEE415 (Nanr) EEE342 (LIH) EEE452 (RKZ)… See more
+1: Can I do eee499A under sns1 sir alone , without a group or is there any other facultythat allows?if anyone knows please let me know. Thanks!
+2: Assalamualaikum everyone I’m looking for group members for EEE499A. I’m hoping to team up with people who are hardworking, responsible, and genuinely interested in putting effort into the project. We can discuss together and finalize the topic and faculty based on our interests and ideas. See more
+3: Apu did you finish the EEE498?
+4: Tasnim Ahsan Anan No
+5: Help post! I seriously need some help regarding EEE499A During pre-advising, if I take EEE499A, can't take more than 10.5 credits. Does the credit limit increase during the 1st or 2nd phase advising? See more
+
+--- MATCH ['sns1'] at 1 ---
+1: Can I do eee499A under sns1 sir alone , without a group or is there any other facultythat allows?if anyone knows please let me know. Thanks!
+2: Assalamualaikum everyone I’m looking for group members for EEE499A. I’m hoping to team up with people who are hardworking, responsible, and genuinely interested in putting effort into the project. We can discuss together and finalize the topic and faculty based on our interests and ideas. See more
+3: Apu did you finish the EEE498?
+4: Tasnim Ahsan Anan No
+5: Help post! I seriously need some help regarding EEE499A During pre-advising, if I take EEE499A, can't take more than 10.5 credits. Does the credit limit increase during the 1st or 2nd phase advising? See more
+6: CSE 499A / EEE 499A: RESEARCH OPPORTUNITIES IN ADVANCED HARDWARE & INTELLIGENT SYSTEMS Are you looking for a supervisor for your Senior Design Project (Capstone) CSE499A / EEE499A in the Summer 2026 semester? Dr. Mohsin Sajjad (MOJ) is now accepting student groups for high-impact research projects. WHY CHOOSE DR. MOJ? Dr. MOJ specializes in the intersection of machine intelligence, automation, and electronic systems. This is an ideal opportunity for students aiming for careers o… See more
+
+--- MATCH ['moj'] at 6 ---
+6: CSE 499A / EEE 499A: RESEARCH OPPORTUNITIES IN ADVANCED HARDWARE & INTELLIGENT SYSTEMS Are you looking for a supervisor for your Senior Design Project (Capstone) CSE499A / EEE499A in the Summer 2026 semester? Dr. Mohsin Sajjad (MOJ) is now accepting student groups for high-impact research projects. WHY CHOOSE DR. MOJ? Dr. MOJ specializes in the intersection of machine intelligence, automation, and electronic systems. This is an ideal opportunity for students aiming for careers o… See more
+7: CSE498R sir allow koren?
+8: Rakibul Islam You can talk to sir. I'm not sure whether the seats are available or not.
+9: I am currently doing CSE499A under him.
+10: Asif Tanjim how is he? what type of projects he prefer? easy going?
+11: Shahnewaj Abrar Chowdhury he’s good. 3 types of projects he preferred us to and yes easy going. Kaj korte hobe onek
+
+--- MATCH ['fma'] at 14 ---
+14: 499(FMA) Group inclusion post. EEE499A / CSE499A . Is there anyone from EEE/CSE/ETE 499A section 16 ( FMA ) who is yet to join a group yet? If not please DM me as me and my groupmate would like to have another individual as well.
+15: Can i join ?
+16: Apurbo Ahnaf nou
+17: Amni rejection !!!! Ami ai course e fail korbo
+18: Please give a review of MDY for EEE499A!
+19: for grade, best for anything else, joke
+
+--- MATCH ['mdy'] at 18 ---
+18: Please give a review of MDY for EEE499A!
+19: for grade, best for anything else, joke
+20: EEE499A er faculty reveal hoise?
+21: MD Harun yes
+22: Fahriba Nusrat Hyder Could you please provide me with the list? Actually, I can’t see it.
+23: how as he apu? hardgoing?
+
+--- MATCH ['kmm'] at 24 ---
+24: 499(KMM) Group inclusion post. EEE499A / CSE499A . Is there anyone from EEE/CSE/ETE 499A  section 4 ( KMM ) who is yet to join a group yet? If not please DM me.
+25: Anyone in EEE499A.16 FMA miss without group mates?
+26: Miss er room no jana ache?
+27: Section exchange offer: I get : EEE499A.10 You get : EEE499A .5 Please inbox if anyone wants to exchange or drop
+28: Exchange Offer You give: EEE499A (KMM) I give : EEE499A (MDY)
+29: Minhajul Azam Mushfiqur Rahman Olive aj ami poristhitir shikar   tai bole tmra evabe haha dila
+
+--- MATCH ['fma'] at 25 ---
+25: Anyone in EEE499A.16 FMA miss without group mates?
+26: Miss er room no jana ache?
+27: Section exchange offer: I get : EEE499A.10 You get : EEE499A .5 Please inbox if anyone wants to exchange or drop
+28: Exchange Offer You give: EEE499A (KMM) I give : EEE499A (MDY)
+29: Minhajul Azam Mushfiqur Rahman Olive aj ami poristhitir shikar   tai bole tmra evabe haha dila
+30: Everyone plz help  "Can I take EEE299 and EEE499A together? If not, is it possible to complete EEE499A in one semester?"
+
+--- MATCH ['mdy', 'kmm'] at 28 ---
+28: Exchange Offer You give: EEE499A (KMM) I give : EEE499A (MDY)
+29: Minhajul Azam Mushfiqur Rahman Olive aj ami poristhitir shikar   tai bole tmra evabe haha dila
+30: Everyone plz help  "Can I take EEE299 and EEE499A together? If not, is it possible to complete EEE499A in one semester?"
+31: which faculty will be good and helpful for EEE499A?  if it matters in any way, i plan on majoring in power and would like to do a project based on power too!
+32: Take KMM Bondu
+33: EEE499A section 15 (Rtk) ... anyone?
+
+--- MATCH ['kmm'] at 32 ---
+32: Take KMM Bondu
+33: EEE499A section 15 (Rtk) ... anyone?
+34: How is RTK sir for EEE499A?
+35: Shift to kmm instead
+36: Unk avoid koran allah er waste Regret korban. Plz. Either drop or section change
+37: Al Amin 15
+
+--- MATCH ['rtk'] at 33 ---
+33: EEE499A section 15 (Rtk) ... anyone?
+34: How is RTK sir for EEE499A?
+35: Shift to kmm instead
+36: Unk avoid koran allah er waste Regret korban. Plz. Either drop or section change
+37: Al Amin 15
+38: Tashfia Rahman Tahiya same...apnar grpmate ase?
+
+--- MATCH ['rtk'] at 34 ---
+34: How is RTK sir for EEE499A?
+35: Shift to kmm instead
+36: Unk avoid koran allah er waste Regret korban. Plz. Either drop or section change
+37: Al Amin 15
+38: Tashfia Rahman Tahiya same...apnar grpmate ase?
+39: How’s SFM1 for EEE499A ? TIA
+
+--- MATCH ['kmm'] at 35 ---
+35: Shift to kmm instead
+36: Unk avoid koran allah er waste Regret korban. Plz. Either drop or section change
+37: Al Amin 15
+38: Tashfia Rahman Tahiya same...apnar grpmate ase?
+39: How’s SFM1 for EEE499A ? TIA
+40: Eidike Nanr Ma'am pawa ami
+
+--- MATCH ['unk'] at 36 ---
+36: Unk avoid koran allah er waste Regret korban. Plz. Either drop or section change
+37: Al Amin 15
+38: Tashfia Rahman Tahiya same...apnar grpmate ase?
+39: How’s SFM1 for EEE499A ? TIA
+40: Eidike Nanr Ma'am pawa ami
+41: Tabeeb Bin Tarik best for learning
+
+--- MATCH ['sfm1'] at 39 ---
+39: How’s SFM1 for EEE499A ? TIA
+40: Eidike Nanr Ma'am pawa ami
+41: Tabeeb Bin Tarik best for learning
+42: Rahimul Haque Afrad acha
+43: Tabeeb Bin Tarik May Holy Creator Give You Peace
+44: Tabeeb Bin Tarik congratulations time thakte changr koro
+
+--- MATCH ['nanr'] at 40 ---
+40: Eidike Nanr Ma'am pawa ami
+41: Tabeeb Bin Tarik best for learning
+42: Rahimul Haque Afrad acha
+43: Tabeeb Bin Tarik May Holy Creator Give You Peace
+44: Tabeeb Bin Tarik congratulations time thakte changr koro
+45: Mushfiqur Rahman no options left
+
+--- MATCH ['aqu'] at 47 ---
+47: Mushfiqur Rahman changed it to Aqu
+48: Project bhalo na hoile pera dibe onek.
+49: Eee 154- MSRH  Eee241L - IQR  Eee342 - LIH  Eee363 - AQU  Eee 413 - IQR … See more
+50: Can someone please provide me with a format for submitting an application to advise for EEE499A. Thank you.
+51: Department a giye form chaile e dibe
+52: Nushin Tabassum I meant je getting an application signed by a faculty then submitting to dept head, oita
+
+--- MATCH ['lih', 'iqr', 'aqu'] at 49 ---
+49: Eee 154- MSRH  Eee241L - IQR  Eee342 - LIH  Eee363 - AQU  Eee 413 - IQR … See more
+50: Can someone please provide me with a format for submitting an application to advise for EEE499A. Thank you.
+51: Department a giye form chaile e dibe
+52: Nushin Tabassum I meant je getting an application signed by a faculty then submitting to dept head, oita
+53: Shadman Sabiq tmi form niye fill up Kore facultyr kache giye sign niba that's all then oita submit kore diba
+54: Anyone from EEE499A Section- ( 3,11,15) wants to exchange ? You’ll get section 8 (SFM1)
+
+--- MATCH ['sfm1'] at 54 ---
+54: Anyone from EEE499A Section- ( 3,11,15) wants to exchange ? You’ll get section 8 (SFM1)
+55: Joy Bangla
+56: Md Rifat Hossen Jitse ebar nouka
+57: Sanzida Raha ay hay akhn ki Hobe ???
+58: Faria Hoque Tuly bye
+59: Sourav Roy Asholeo ?
+
+--- MATCH ['abo'] at 67 ---
+67: Anyone in EEE499A.14 AbO without group mates?
+68: Anyone in sec 19 without group mate?
+69: ami ase emran bhai
+70: Urgent help needed: how is KMM for EEE499A? If I continue and do 499B and 498R under him, does he help with publication? Help would be much appreciated. Thanks!
+71: Ektu pera hobe, if you can endure that hopefully you'll land in a decent place. Coping up with him is rhe main issue honestly
+72: আরিয়ান আহমেদthanks for the input bhaiya. Also, do you know if he helps with publications?
+
+--- MATCH ['kmm'] at 70 ---
+70: Urgent help needed: how is KMM for EEE499A? If I continue and do 499B and 498R under him, does he help with publication? Help would be much appreciated. Thanks!
+71: Ektu pera hobe, if you can endure that hopefully you'll land in a decent place. Coping up with him is rhe main issue honestly
+72: আরিয়ান আহমেদthanks for the input bhaiya. Also, do you know if he helps with publications?
+73: Yes he does. Infact, one of my senior is in japan currently who previously worked with him. Its gonna be a tedious prodcess though, but with patience and hard work, you're good to go
+74: আরিয়ান আহমেদthank you so much for the information!
+75: Robin Khan glad to be of any help bro and best wishes for you man!
+
+--- MATCH ['abo'] at 76 ---
+76: Anyone in CSE/EEE499A.19 AbO without group mates?
+77: How is szz for EEE499A ? Sir ki hardware based project korte de ..?
+78: Check inbox bro
+79: Bony Chowdhury haa
+80: faculty k CC kore chairman k mail den, r ki korben?
+81: Tanim Refat D dhoraye dibe ekta
+
+--- MATCH ['szz'] at 77 ---
+77: How is szz for EEE499A ? Sir ki hardware based project korte de ..?
+78: Check inbox bro
+79: Bony Chowdhury haa
+80: faculty k CC kore chairman k mail den, r ki korben?
+81: Tanim Refat D dhoraye dibe ekta
+82: Kono solution nai! It’s your bad luck.. You can try to convince rjp sir to advice you 499A after 2nd phase. If it’s your 10th or 11th semester there is a high chance sir will allow you to do 499A. Best of luck
+
+--- MATCH ['rjp'] at 82 ---
+82: Kono solution nai! It’s your bad luck.. You can try to convince rjp sir to advice you 499A after 2nd phase. If it’s your 10th or 11th semester there is a high chance sir will allow you to do 499A. Best of luck
+83: Miraj Hossain Shawon 11th semester and eta nitei hobe anyhow
+84: Mushfira Chowdhury Prova Dont worry.. One of my frnd didn’t get a seat in 499A last semester. He convinced rjp sir and got 499A.
+85: Miraj Hossain Shawon seat to thakena, sir er icche moto section dey?
+86: Mushfira Chowdhury Prova it’s upto you.. He will try to give you your desired section.
+87: Miraj Hossain Shawon thank you so much
+
+--- MATCH ['rjp'] at 84 ---
+84: Mushfira Chowdhury Prova Dont worry.. One of my frnd didn’t get a seat in 499A last semester. He convinced rjp sir and got 499A.
+85: Miraj Hossain Shawon seat to thakena, sir er icche moto section dey?
+86: Mushfira Chowdhury Prova it’s upto you.. He will try to give you your desired section.
+87: Miraj Hossain Shawon thank you so much
+88: Mushfira Chowdhury Prova good luck
+89: Abo rockzz Always Late Lotif
+
+--- MATCH ['abo'] at 89 ---
+89: Abo rockzz Always Late Lotif
+90: Mahbub Robin somossa ki onar?Universityr Rules follow kore na kno?
+91: Shahriyer Rahaman unr jonno amar ajkal 5 ta Major eksathe nite hoy   cz grade dite late korlo pre requisite thaka oii semester a 4 ta GED nisilam   Akhn GED ses
+92: Mahbub Robin apni kon semester a vaia?
+93: we are in a same page
+94: Sir k mail o korlam Reply dise 'noted'
+
+--- MATCH ['abo'] at 103 ---
+103: Ami ebar EEE141 korlam still grade Pai Nai .. faculty: AbO
+104: sir may be khata haraye felche
+105: Senior vaia/apura kindly EEE499A, EEE499B and, EEE498 nie kichu idea dben? How to choose faculty? Or How to choose project topic? I want to have some general idea Will it be a wise decision to take EEE498 in the last semester? … See more
+106: Must take eee498 with 499A
+107: EEE499A totally luck velky luck. 1st session a advising thakleo Khali pawa mushkil. And choose EEE based faculties and those jara publication koray. 499 a CSE and EEE ratio is like 35:5. So group koreo ek sathe section neya tough. But group chara nile trust me baje level er mara khawar chance ase. And some faculties take 499B and 498 together. Thats easier. But other than that 498R tough eee courses er sathe na neya better. Cuz you gotta put a lot of time in research, self study and more for 499 and 498. So choose accordingly. And 499 a group kore ek faculty pawa onk boro luck er bepar. Na mille pera.
+108: Sariah Tul Qarim sariah amr dui semester left 499 A and 499 B er kontar shathe 498 nile valo hbe?
+
+--- MATCH ['kas'] at 123 ---
+123: How is KAS for EEE499A
+124: Maisha Tabassum Suhi Kamrul Hasan Shuvo bolo kisu
+125: Faysal kicu bol
+126: My EEE499A group-mate got separated. But we have planned a project since last semester. In this case what we can do? Can anyone please suggest?
+127: Fatema Islam Mim apu
+128: Sabrina Sultana Safa Dear thanks for mentioning me.
+
+--- MATCH ['kmm'] at 176 ---
+176: Stay happy with Kmm
+177: EEE499A sec 1 keu asen??Need help.
+178: Intisha Sarker can you check your inbox
+179: Tomar na graduation complete?
+180: Md Shafayet Alam helping someone.. Etao bujho na chih!
+181: Md Shafayet Alam tor o na complete. Ekhane ki koros
+
+--- MATCH ['rtk', 'rrn'] at 184 ---
+184: RTK , RRN or ABH1 Who is better for EEE499A ? TIA
+185: sobai valo
+186: MI Munna akhn theke post e mention korte hobe .. atel polapain dure thakun
+187: Asmany Shornaly Honest review deyai thik na ei jonno
+188: MI Munna tmr jonno shobai valo Amr jonno na
+189: Asmany Shornaly Dustami koren Keno apu apni
+
+--- MATCH ['rrn'] at 190 ---
+190: RRN EEE499 NICCHE OMG
+191: Mustafiz   kmn uni ?
+192: Asmany Shornaly valo manus ektu strict but lege thakle ekta paper published korabe grade nea pera nai o uni emnie dibe
+193: rtk paoa luck eer bepar
+194: RTK sir best
+195: Rtk sir joss.
+
+--- MATCH ['rtk'] at 193 ---
+193: rtk paoa luck eer bepar
+194: RTK sir best
+195: Rtk sir joss.
+196: Undoubtedly RTK sir
+197: Mahmudul Hasan Asif
+198: #URGENT EEE499A Sec-17 Time: T-8:00AM Any Guess about the faculty?
+
+--- MATCH ['rtk'] at 194 ---
+194: RTK sir best
+195: Rtk sir joss.
+196: Undoubtedly RTK sir
+197: Mahmudul Hasan Asif
+198: #URGENT EEE499A Sec-17 Time: T-8:00AM Any Guess about the faculty?
+199: EEE499A Anyone knows EEE faculties who accept hardware projects for 499A??? … See more
+
+--- MATCH ['rtk'] at 195 ---
+195: Rtk sir joss.
+196: Undoubtedly RTK sir
+197: Mahmudul Hasan Asif
+198: #URGENT EEE499A Sec-17 Time: T-8:00AM Any Guess about the faculty?
+199: EEE499A Anyone knows EEE faculties who accept hardware projects for 499A??? … See more
+200: Laisul Morshed vai parle ektu help kor. Kuno boro vai re mention de jara jane kun kun EEE faculties 499 ney
+
+--- MATCH ['rtk'] at 196 ---
+196: Undoubtedly RTK sir
+197: Mahmudul Hasan Asif
+198: #URGENT EEE499A Sec-17 Time: T-8:00AM Any Guess about the faculty?
+199: EEE499A Anyone knows EEE faculties who accept hardware projects for 499A??? … See more
+200: Laisul Morshed vai parle ektu help kor. Kuno boro vai re mention de jara jane kun kun EEE faculties 499 ney
+201: Nakib Alam Shovon eee er porichito boro vai nai re bt cse er hobe... Same faculty ra ki ei course ney?
+
+--- MATCH ['szz', 'sns1'] at 212 ---
+212: Anyone here who wants to switch sections of EEE499A between SZZ and SNS1. Please let me know.
+213: Sahib you are asking why ? I would say why not ?
+214: Sahib Khan sns1 better nah ?
+215: Drop your EEE499A faculty and section here, plz!!
+216: Sec:6+7(Kmm Sir) Sec:9(Sns1 Sir)
+217: Sec:4(Nva miss)
+
+--- MATCH ['sns1'] at 214 ---
+214: Sahib Khan sns1 better nah ?
+215: Drop your EEE499A faculty and section here, plz!!
+216: Sec:6+7(Kmm Sir) Sec:9(Sns1 Sir)
+217: Sec:4(Nva miss)
+218: Sec:15(Mdy Sir) Sec: 5(Szz sir) Sec10(Srd1 Miss)
+219: How is szz (sazzad sir) for EEE499A ? Urgently need a review.
+
+--- MATCH ['kmm', 'sns1'] at 216 ---
+216: Sec:6+7(Kmm Sir) Sec:9(Sns1 Sir)
+217: Sec:4(Nva miss)
+218: Sec:15(Mdy Sir) Sec: 5(Szz sir) Sec10(Srd1 Miss)
+219: How is szz (sazzad sir) for EEE499A ? Urgently need a review.
+220: Shahriar Shakhawat can you give me some details please brother?
+221: Iqutiar Digonto easy going temon kono pera nai. Project niye jhamela kore na. Grade niyeo jhamela koren na.
+
+--- MATCH ['nva'] at 217 ---
+217: Sec:4(Nva miss)
+218: Sec:15(Mdy Sir) Sec: 5(Szz sir) Sec10(Srd1 Miss)
+219: How is szz (sazzad sir) for EEE499A ? Urgently need a review.
+220: Shahriar Shakhawat can you give me some details please brother?
+221: Iqutiar Digonto easy going temon kono pera nai. Project niye jhamela kore na. Grade niyeo jhamela koren na.
+222: Kon section?
+
+--- MATCH ['mdy', 'szz'] at 218 ---
+218: Sec:15(Mdy Sir) Sec: 5(Szz sir) Sec10(Srd1 Miss)
+219: How is szz (sazzad sir) for EEE499A ? Urgently need a review.
+220: Shahriar Shakhawat can you give me some details please brother?
+221: Iqutiar Digonto easy going temon kono pera nai. Project niye jhamela kore na. Grade niyeo jhamela koren na.
+222: Kon section?
+223: Kon section tmi?
+
+--- MATCH ['szz'] at 219 ---
+219: How is szz (sazzad sir) for EEE499A ? Urgently need a review.
+220: Shahriar Shakhawat can you give me some details please brother?
+221: Iqutiar Digonto easy going temon kono pera nai. Project niye jhamela kore na. Grade niyeo jhamela koren na.
+222: Kon section?
+223: Kon section tmi?
+224: Sir best One of the best But I heard that sir ei sem e D and F ow dicen But he is the best Lucky to have him as our mentor for 499
+
+--- MATCH ['mdy'] at 256 ---
+256: sir ke bolo new section open korte then mdy sir ke bolo
+257: Vaiya, eee321 na kore neya jabe 499A?
+258: sir help korbe
+259: Yes took last semester.
+260: Vaiya, eee321 r 499A ek sathe neya jabe?
+261: Farhad Sajib ekta thakle nite dibe. last semester a niyechi. chairman sir er kach theke nite parbe

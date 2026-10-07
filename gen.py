@@ -1,0 +1,68 @@
+﻿import json
+
+data = {
+    "eee311": {
+        "mjun": [
+            {"review": "Mjun sera A", "rating": "Outstanding"},
+            {"review": "Mjun will make you write a research paper and won't help you out with anything at all , in his classes he only talks about his personal achievements and his publications which has no connection to the actual course, his exams are not easy either, you have to self study if you want a good grade. The only good thing is he doesn't decurve. He hands out good grades.", "rating": "normal"},
+            {"review": "Drop mjun Question set koren 10- 15 ta And akta set er shthe onno set er mil thake na Mcq hard hoy", "rating": "avoid"},
+            {"review": "Mjun gives 10 sets of questions for all types of exams , and all 10 sets are different including all mcqs and sqs or cqs , how is that fair", "rating": "harsh"}
+        ],
+        "moj": [
+            {"review": "311 moj sir is really good, apni onar class monojog diye Korle ar daily Korle class er poda class ei bujhe jaben, sir onek valo kore bujai, question easy I kore apni concept clear rakhle easily parben, ar sir er project ta valo moto korben, sir project er somoi Viva nei, project related questions kore, project valo Korle sir valo marks dei and sir curve kore. To be apni regularity maintain Korle curve chara I A paben, EEE er Amar kora sob course er moddhe Ami sir er poda sobcheye valo bujhtam", "rating": "great"},
+            {"review": "Moj. Slide theke question dey. Class boring lagbe onek", "rating": "normal"}
+        ],
+        "mkl": [
+            {"review": "Mkl for super curving and easy exams", "rating": "Outstanding"},
+            {"review": "For Mkl, just understand the basic concepts that he teaches in class. In the exam, there'll be easy and basic conceptual questions. That'll be enough for A/A- .", "rating": "great"},
+            {"review": "MKL best! Just class follow korben ar notes korben.", "rating": "Outstanding"},
+            {"review": "Bhai MkL er review cheye flex niccho?", "rating": "Outstanding"},
+            {"review": "Tonny bolse MKL o valo...", "rating": "great"},
+            {"review": "Mkl = Easily A", "rating": "Outstanding"}
+        ],
+        "scg": [
+            {"review": "MS1 and SCG good", "rating": "great"},
+            {"review": "SCG is good for both learning and grading. Just remember 1 thing, bhuleo board er picture nite jayen na, jhari khaben", "rating": "great"}
+        ],
+        "mslk": [
+            {"review": "Mslk curve kore na Quiz mid and final e question mistake kore Oita niye complain korle bole \"its just 1 2 marks\" ignore Shob quiz count korbe Class e mumbling kore r slides reading pore", "rating": "avoid"}
+        ],
+        "bun": [
+            {"review": "Bun sir great, Teaches well, punctual, student friendly, everything comes from slides, Do well in the quizzes (Mcqs only) as those carry 30% of total (best 3 out of 4). Mid and finals e mcq + short ques (30 marks each). No curve tho", "rating": "great"},
+            {"review": "Bun bhalona, 0.25 marks o curve korena. + Silly mistake , english, handwriting er jonno marks kaate ,jeita onek damage kore. Shob marks kaate raw marks ee upor, so comeback deua tough quiz mid e aktu kharap korle", "rating": "harsh"}
+        ],
+        "auz": [
+            {"review": "Did 107 under auz, Teaching motamoti, spends a lot of time on derivations jeita exam e deina, Assignment er maths are hard, but exams e easy e dei, Try to do well in the quizzes, Never be late in class, not even 1 min, sir hates being late and also no phones allowed during class. Mainly go through the formulas well", "rating": "normal"}
+        ],
+        "ksd": [
+            {"review": "ksd is good not that bad", "rating": "normal"}
+        ],
+        "hrr": [
+            {"review": "Hrr onk boring faculty class e pora bujha jay na phy108 is a hard course unar lecture too slow too boring but he gives some sample ques to practice for mid final okhan theke 50% ashe and onk theoritical ques kore math jegula dey easy but theory ans kora hard onk porte hby physics love korte hby and lastly he curves 1grade", "rating": "normal"}
+        ],
+        "rjp": [
+            {"review": "RjP best. Tricky question. But curves. No F. Minimum D.", "rating": "great"},
+            {"review": "Rjp sir best", "rating": "Outstanding"},
+            {"review": "Rjp sir is one of the most humble person you may find in nsu . His teaching is good and also very friendly . He did curve 1-2 grade based on the entire class situation.", "rating": "Outstanding"}
+        ],
+        "mtm": [
+            {"review": "MTM - worst for learning", "rating": "avoid"},
+            {"review": "Mtm.. best of luck", "rating": "avoid"}
+        ],
+        "emn": [
+            {"review": "Almost prottek cls er shesh onar nijer slide er practice work korte dey jetake uni tahajjud quiz bole help niye kora jay coursemate der oigula sob attend korle mid ar final e 2.7 ,3 mark er moto sobaike curve kore uni ja kore fairly kore kono 1 jon er dorkar hole korbe emn nah.....quiz er mark o curve kore...", "rating": "great"}
+        ],
+        "ays": [
+            {"review": "Ays good for grading", "rating": "great"}
+        ],
+        "akad": [
+            {"review": "Vai Akad shei...", "rating": "Outstanding"}
+        ]
+    }
+}
+
+import os
+os.makedirs('eee', exist_ok=True)
+with open('eee/eee311_detailed_reviews.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
+print("Done")
