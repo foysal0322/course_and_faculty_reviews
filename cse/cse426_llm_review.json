@@ -1,0 +1,52 @@
+{
+  "cse426": {
+    "rjp": [
+      {
+        "review": "#FacultyReview\n\n[I haven't preserved any of the course materials. Neither will I give you the gclassroom code as I have seen people getting reported to the proctor for it. So, please don't dm me asking for them. Thank you.]\n\nCSE426 (RJP)\nThis is an elective course from the 'Algorithm' trail. This course mainly teaches how a code is compiled, many parsing techniques (parse tree derivation, more on regular expressions, left recursion elimination, etc.), intermediate code gener… See more",
+        "rating": "normal"
+      },
+      {
+        "review": "RJP sir is excellent. Did 438 under him this semester. Teaches really well.",
+        "rating": "normal"
+      },
+      {
+        "review": "I've done courses under RJP, RTK and I can relate. the way you explained your experience rather than saying best or worst, i hope everyone does the same",
+        "rating": "avoid"
+      },
+      {
+        "review": "Cse326 RJP sir...",
+        "rating": "normal"
+      },
+      {
+        "review": "How to get an A , nothing less (bcoz last semester, can't retake anymore) in :\nCse373 sfm1\nCse426 rjp.",
+        "rating": "great"
+      }
+    ],
+    "rtk": [
+      {
+        "review": "I've done courses under RJP, RTK and I can relate. the way you explained your experience rather than saying best or worst, i hope everyone does the same",
+        "rating": "avoid"
+      },
+      {
+        "review": "RTK sir is a godsend!!! Such an amazing person and the way he teaches is beyond imagination! Did EEE141 with him, hope to get him for EEE111 :')",
+        "rating": "normal"
+      },
+      {
+        "review": "Rtk Sir\nHe's not only a good teacher, but also a great human being! Undoubtedly he's one of the best mentors I've got in my undergrad life!",
+        "rating": "Outstanding"
+      }
+    ],
+    "mzk": [
+      {
+        "review": "Sayma Rahman Mim mzk to haste haste bash diye dei",
+        "rating": "normal"
+      }
+    ],
+    "sfm1": [
+      {
+        "review": "How to get an A , nothing less (bcoz last semester, can't retake anymore) in :\nCse373 sfm1\nCse426 rjp.",
+        "rating": "great"
+      }
+    ]
+  }
+}
