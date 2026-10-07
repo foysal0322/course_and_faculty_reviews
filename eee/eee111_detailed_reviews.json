@@ -1,21 +1,169 @@
 {
   "eee111": {
-    "rtk": [
+    "lih": [
       {
-        "review": "For EEE111 chokh bondho kore RTK niben ar amake pore thanks diben. Slides and class lectures focus korle, instant bujhaye setar uporei easy question ask kore.",
+        "review": "Lih vlo ache. EEE major hole lih er kache kora worthy",
+        "rating": "great"
+      }
+    ],
+    "abs3": [
+      {
+        "review": "ABS3 sir ekjon feresta",
         "rating": "Outstanding"
       }
     ],
-    "kse": [
+    "nck": [
       {
-        "review": "kse is goat... mid and final e 10rootx curve, no quiz, 5 assignments, 60% true false and mcq, and 40% problem solving.",
+        "review": "Nck bhai nienna. Pora kicchu bujbenna",
+        "rating": "avoid"
+      }
+    ],
+    "mslk": [
+      {
+        "review": "MSLK এর ঘটনা কি সব পড়ায় ফেলতেছে। কোনদিন দেখব GED ও পড়ানো শুরু করবে।",
+        "rating": "normal"
+      }
+    ],
+    "hai": [
+      {
+        "review": "Sadaf Kibria Sufal in the final i literally didn't write anything properly and still ended up with B. HAI",
         "rating": "great"
+      },
+      {
+        "review": "I did EEE111 under HAI sir. He was very easygoing.",
+        "rating": "great"
+      }
+    ],
+    "rtk": [
+      {
+        "review": "Rtk is taking this time, grab that section",
+        "rating": "great"
+      },
+      {
+        "review": "For EEE111 chokh bondho kore RTK niben ar amake pore thanks diben",
+        "rating": "great"
+      },
+      {
+        "review": "Rtk best",
+        "rating": "Outstanding"
+      }
+    ],
+    "aqu": [
+      {
+        "review": "Aqu the goat.",
+        "rating": "Outstanding"
+      }
+    ],
+    "ipti": [
+      {
+        "review": "Jahan Ipti Maam boi jeita follow kore ektu tough pora. 8 ta quiz nibe 4 ta count kore 50% marks\nmid 20% final 30%, mid , final a bonus question thake and cheat sheet allow kore maam. but boi porte hoy onek question boi thekei hoy. slide nai unar. and 2/3 grade curve hobe",
+        "rating": "normal"
       }
     ],
     "svs": [
       {
-        "review": "Best faculty aitai details... student friendly, but average grade dey (b/B-).",
+        "review": "SVS>>>>>>>>>>>>>>",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Only svs is real",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Svs average দেয় b/B-",
         "rating": "normal"
+      }
+    ],
+    "ait": [
+      {
+        "review": "phy108 AIT just follow his lectures\nsir mainly focuses on formula derivation\nmight give easy math problems in the final exam",
+        "rating": "great"
+      }
+    ],
+    "srfz": [
+      {
+        "review": "Srfz is easygoing. There are no presentations instead he assigns movie reviews. Just follow his lectures and you can get an A.",
+        "rating": "great"
+      },
+      {
+        "review": "Srfz best faculty. Just need to attend the classes and understand the slides. He teaches really well. If you ever face any problem you can ask him. He'll count best 1 quiz out of 2. Quizzes are mcq only. There will be broad question on mid and final. He will discuss the topics again before exams. It's easy to get A or A- with minimum effort.",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "Srfz nie amr dui frnd retake diteche so not suggest u bro sunsi quiz para jai but mid final e emon question kore j ses",
+        "rating": "harsh"
+      }
+    ],
+    "auz": [
+      {
+        "review": "Drop Auz and save your mental peace and CG",
+        "rating": "avoid"
+      }
+    ],
+    "alhq": [
+      {
+        "review": "drop Alhq, i did Alhq with almost my maximum effort and now i am retaking the course",
+        "rating": "avoid"
+      },
+      {
+        "review": "i changed alhq and got tnf , akhon dekhi unar review o kharap",
+        "rating": "avoid"
+      },
+      {
+        "review": "okay tnf is basically project effort+competition == grade and\nalhq is basically dead end",
+        "rating": "avoid"
+      },
+      {
+        "review": "Alhq will cook u",
+        "rating": "avoid"
+      },
+      {
+        "review": "drop alhq, lagle cse332 koironah vai karon amr frnd ra suffer korte korte jibon naata banaiya felsilo & kse is goat...",
+        "rating": "avoid"
+      },
+      {
+        "review": "beche thakte chaile alhq drop de",
+        "rating": "avoid"
+      }
+    ],
+    "tnf": [
+      {
+        "review": "i changed alhq and got tnf , akhon dekhi unar review o kharap",
+        "rating": "avoid"
+      },
+      {
+        "review": "okay tnf is basically project effort+competition == grade and\nalhq is basically dead end",
+        "rating": "normal"
+      }
+    ],
+    "kse": [
+      {
+        "review": "drop alhq, lagle cse332 koironah vai karon amr frnd ra suffer korte korte jibon naata banaiya felsilo & kse is goat...",
+        "rating": "Outstanding"
+      },
+      {
+        "review": "kse; no quiz: only assignment + mid/final r aga question dagay dei: oigulai theke common paben",
+        "rating": "great"
+      }
+    ],
+    "fdw": [
+      {
+        "review": "Fdw valow..kon section??",
+        "rating": "great"
+      },
+      {
+        "review": "Fdw sir er review lage na",
+        "rating": "great"
+      },
+      {
+        "review": "Fdw best. Ez ques, teaches very well",
+        "rating": "Outstanding"
+      }
+    ],
+    "slu": [
+      {
+        "review": "SLU will make you question nsu’s recruitment criteria, no other way to put it",
+        "rating": "avoid"
       }
     ]
   }
