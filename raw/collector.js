@@ -44,8 +44,8 @@ function scroller(d) {
 
 async function readComments(k) {
   // The comment count lives on the "Leave a comment" button; it exists even when a post has no reactions.
-  const cb = [...k.querySelectorAll('[role=button][aria-label="Leave a comment"]')].find(b => /^\d+$/.test(b.innerText.trim()));
-  if (!cb || cb.closest('a[href]')) return {comments: [], permalink: ''};
+  const cb = [...k.querySelectorAll('[role=button][aria-label="Leave a comment"]')].find(b => /^\d+$/.test(b.innerText.trim()) && !b.closest('a[href]'));
+  if (!cb) return {comments: [], permalink: ''};
   cb.click();
   await sleep(rnd(2500, 4000));
   const d = [...document.querySelectorAll('[role=dialog]')].pop();
@@ -75,8 +75,10 @@ async function readComments(k) {
     text: [...a.querySelectorAll('div[dir=auto]')].map(e => e.innerText.trim()).filter(Boolean).join('\n'),
     image_alt: [...a.querySelectorAll('img')].map(i => i.alt || '').filter(x => x.length > 15),
   })).filter(c => c.text || c.image_alt.length);
-  const x = d.querySelector('[aria-label=Close]');
-  if (x) x.click();
+  try {
+    const x = d.querySelector('[aria-label=Close]');
+    if (x) x.click(); else d.dispatchEvent(new KeyboardEvent('keydown', {key: 'Escape', keyCode: 27, bubbles: true}));
+  } catch (e) {}
   await sleep(rnd(1800, 2800));
   return {comments, permalink};
 }
