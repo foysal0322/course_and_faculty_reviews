@@ -1,0 +1,4 @@
+selenium_data/
+fb_cookies.json
+__pycache__/
+*.pyc

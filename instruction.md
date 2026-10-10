@@ -94,7 +94,10 @@ Call `execute_script` with the **full contents of `raw/collector.js`** as `scrip
 `started ...` immediately and keeps running inside the page.
 
 For each post, the collector:
-1. **Course Code Pre-Check:** Checks if the post text or image alt explicitly contains the target course code (e.g., `CSE445`, `CSE 445`, `CSE-445`). If the post does NOT contain the course code, **do NOT open the comment section**; record the post text and move immediately to the next post.
+1. **Expand 'See more' and Course Code Pre-Check:**
+   - In the feed post, if a "See more" expander is present in the post text/body, **click it first** to expand the full post content.
+   - After expanding, search for the target course code (e.g. `ECO349`, `ECO 349`, `ECO-349`).
+   - If the course code is **absent** from the post text and image alt, **skip the post immediately** without opening the comment section or counting it.
 2. If it contains the course code, clicks the post's **"Leave a comment"** button (the one showing the comment count).
 3. Switches the comment filter to **All comments**.
 4. Keeps clicking "View more comments" / "View N replies" / "See more" and scrolling the
@@ -177,7 +180,7 @@ flag the judgment calls (split opinions, sarcasm, skipped non-reference faculty)
   - Replies that only ask a follow-up question or request details without providing a verdict are **NOT reviews** and MUST be dropped.
 
 ### Course/faculty validation
-- **MANDATORY COURSE CODE INCLUSION RULE:** The post text (or its direct comment thread context) **MUST explicitly contain the target course code** (e.g., `CSE434`, `CSE 434`, `CSE-434`, `CSE_434`). If a post/thread does NOT explicitly mention the target course code, skip and drop it completely to prevent cross-course leakage.
+- **MANDATORY COURSE CODE INCLUSION RULE:** The post text (or its direct comment thread context) **MUST explicitly contain the target course code** (e.g., `CSE434`, `CSE 434`, `CSE-434`, `CSE_434`). If a post contains a "See more" link/button in its message, click it first to expand the complete text before checking for the course code. If a post/thread does NOT explicitly mention the target course code, skip and drop it completely to prevent cross-course leakage.
 - **ALL FACULTY INCLUSION RULE:** Include **ALL faculty members** related to, mentioned in, or reviewed for the target course code.
 - Do not restrict extraction to static reference lists. Automatically discover and include all faculty members mentioned by students in posts/threads belonging to that course.
 - Validate faculty codes against full NSU faculty databases when available, but preserve any newly discovered faculty who teach or are reviewed for that course.
@@ -268,39 +271,40 @@ Every kept comment is its **own** review with its **own** rating:
 
 ## 9. Scraping safety (avoid Facebook restrictions)
 
-- One post at a time, randomized human-like delays (1–4 s between clicks, ~5–7 s between
-  posts). Never parallelize tabs or run two collectors.
-- Stop immediately on any block / "slow down" / "going too fast" / "misusing this
-  feature" message, and report it to the user.
-- **Stop as soon as "End of results" is on screen** (after finishing posts already loaded).
-  Don't keep scrolling.
-- Cap each run based on the requirement to hit 10 meaningful reviews per faculty, or until reaching posts from 2020. You can run multiple batches if needed.
-- Never read or save Messenger chat content. Only read the group feed (`[role=feed]`) and
-  post dialogs. The page also has `role=article` elements from Messenger chats; ignore them.
-- Do only what the user asked. If the user says stop, set `window.__fb.stop = true`,
-  save, and don't restart.
+- **Zero Reactions / Likes Rule:**
+  - **NEVER** click Like or React on any post or comment while scraping.
+  - Event listeners must permanently block all clicks on Like / React elements (`[aria-label="Like"]`, `[aria-label="React"]`, `Remove Like`) via `stopImmediatePropagation()` and `preventDefault()`.
+- **Strict Course Code Filtering (Department & Number Together):**
+  - Both department code and course number **MUST** appear together in the post (e.g., for `ECO101`: both `eco` and `101` present together as `/\beco[\s-_]*101\b/i`).
+  - If the course code is absent from the post text or image alt, **skip the post immediately** without opening comments or counting it.
+- **Mandatory "See More" Pre-Check:**
+  - If a post contains a "See more" expander in the feed, **click it first** to reveal the full post body before evaluating course code presence.
+  - If the course code is not found after expansion, skip immediately.
+- **Folder Organization by Department:**
+  - Store scraped course data into dedicated departmental folders (e.g. `MIS/`, `ECO/`, `Political Science & Sociology/`, `History/`, `marketing/`, `HR/`, `INB/`, `English/`).
+- **Cooldown Between Consecutive Courses:**
+  - Always maintain at least a **30-second cooldown** between consecutive course scrapes to avoid triggering rate limits or temporary restrictions.
+- **Standard Post Limit:**
+  - Cap each course scrape at **max 60 posts** (or stop when "End of results" is reached).
+- **Periodic Progress Updates:**
+  - Set schedule timers (e.g. every 2 or 3 or 5 minutes as requested by the user) to inspect live counts and present clean summary tables showing post & comment counts.
+- **Pacing & Delays:**
+  - One post at a time, randomized human-like delays (1–4 s between clicks, ~5–7 s between posts). Never parallelize tabs or run two collectors.
+  - Stop immediately on any block / "slow down" / "going too fast" / "misusing this feature" message, and report it to the user.
+- **Messenger / Chat Dialog Filter:**
+  - Never read or save Messenger chat content. When selecting comment dialogs (`[role=dialog]`), explicitly exclude flyouts with `aria-label` matching `Notifications|Chat|Messenger`.
+- Do only what the user asked. If the user says stop, set `window.__fb.stop = true`, save, and don't restart.
 
 ---
 
 ## 10. Known pitfalls (already fixed in `collector.js`, but keep them in mind)
 
-1. **Obfuscated text.** A post's `innerText` is padded with repeated "Facebook" filler.
-   Read the message from `[data-ad-rendering-role=story_message]`, or fall back to
-   `div[dir=auto]`.
-2. **Hidden dates.** The search results don't expose post dates. Estimate age from comment
-   labels ("… 2 years ago") if you need a cutoff.
-3. **Virtualized feed.** Results render blank until scrolled into view, and more load only
-   near the bottom. Scroll each blank item into view, and scroll to the bottom when nothing
-   new is found.
-4. **Half-rendered posts.** Only mark a post as processed after its message text exists;
-   otherwise it gets skipped forever.
-5. **Comment button.** Use `[aria-label="Leave a comment"]` with a numeric count. Posts with
-   comments but no reactions have only this one numeric button. An older "two numeric
-   buttons" rule skipped them, which lost all replies to "How is RRn for CSE215?" posts.
-6. **Page reloads.** Sometimes opening a post forces a full reload. State is lost, but
-   `.cur` + resume-from-disk handle it. Re-navigate and re-run.
-7. **Stale sink reference.** Always re-acquire it with `window.open('', 'fbsink')` before
-   `postMessage`. A saved reference silently stopped working once, and nothing was written
-   until a manual push.
-8. **Closing a post dialog** can navigate away (e.g. to the Facebook home page) if the
-   dialog was the first history entry. Re-navigate to the search URL if that happens.
+1. **Accidental Likes / Reacts.** Facebook buttons can trigger profile reactions if misidentified. Ensure all clicks on Like/React elements are hard-blocked via event listeners.
+2. **Obfuscated text.** A post's `innerText` is padded with repeated "Facebook" filler. Read the message from `[data-ad-rendering-role=story_message]`, or fall back to `div[dir=auto]`.
+3. **Hidden dates.** The search results don't expose post dates. Estimate age from comment labels ("… 2 years ago") if you need a cutoff.
+4. **Virtualized feed.** Results render blank until scrolled into view, and more load only near the bottom. Scroll each blank item into view, and scroll to the bottom when nothing new is found.
+5. **Half-rendered posts.** Only mark a post as processed after its message text exists; otherwise it gets skipped forever.
+6. **Comment button.** Use `[aria-label="Leave a comment"]` with a numeric count. Posts with comments but no reactions have only this one numeric button. An older "two numeric buttons" rule skipped them, which lost all replies to "How is RRn for CSE215?" posts.
+7. **Page reloads & Permalink Navigation.** Sometimes opening or closing a post forces a full reload or transitions to `/permalink/<id>`. State is safely preserved on disk in `q_<course>.json`. To recover: navigate back to the group search URL (`https://www.facebook.com/groups/241165482653333/search/?q=<course>`), wait for `[role=feed]`, and re-inject `collector.js` to resume seamlessly from the saved count on disk.
+8. **Stale sink reference.** Always re-acquire it with `window.open('', 'fbsink')` before `postMessage`. A saved reference silently stops working across reloads.
+9. **Notification & Chat Flyouts.** Facebook may spawn flyouts with `[role=dialog]` for notifications or messaging. Filter out dialogs labeled with `Notifications`, `Chat`, or `Messenger` when interacting with post dialogs.

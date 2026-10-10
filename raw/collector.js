@@ -1,18 +1,51 @@
 // Sent through Selenium execute_script on the Facebook group search page. args: [outputName, maxPosts]
 // Progress lives on disk through the localhost sink tab because Facebook clears localStorage on reload.
-const NAME = arguments[0], MAX = arguments[1] || 60;
+const NAME = (typeof arguments !== 'undefined' && arguments[0]) || window.__fbTargetName || 'ECO/q_eco101.json';
+const MAX = (typeof arguments !== 'undefined' && arguments[1]) || window.__fbTargetMax || 60;
+const SEARCH_URL = location.href;
 if (window.__fb && window.__fb.running) return 'already running';
 const S = window.__fb = {posts: [], running: true, done: false, log: [], stop: false, name: NAME, saves: 0};
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const rnd = (a, b) => a + Math.random() * (b - a);
+
 // Re-acquire the sink tab on every use: the window reference silently goes stale after reloads.
 const getSink = () => {
   const w = window.open('', 'fbsink');
-  try { if (w.location.href === 'about:blank') w.location = 'http://127.0.0.1:8765/'; } catch (e) {}
+  try { if (w.location.href === 'about:blank') w.location = 'http://127.0.0.1:8085/'; } catch (e) {}
   window.focus();
   return w;
 };
 getSink();
+
+// Permanently block any click on Like or React elements during scraping
+document.addEventListener('click', e => {
+  const el = e.target.closest('[role=button]');
+  if (el) {
+    const aria = el.getAttribute('aria-label') || '';
+    if (/Like|React/i.test(aria) || aria === 'Remove Like') {
+      e.stopImmediatePropagation();
+      e.preventDefault();
+    }
+  }
+}, true);
+
+// Parse course code from output name, e.g. "ECO/q_eco101.json" -> "eco", "101"
+const mCode = NAME.match(/q_([a-z]+)(\d+)/i);
+let courseRegex = null;
+if (mCode) {
+  const dept = mCode[1];
+  const num = mCode[2];
+  courseRegex = new RegExp('\\b' + dept + '[\\s-_]*' + num + '\\b', 'i');
+}
+
+function hasCourseCode(k, info) {
+  if (!courseRegex) return true;
+  if (courseRegex.test(info.text)) return true;
+  if (courseRegex.test(k.innerText || '')) return true;
+  if (info.image_alt && info.image_alt.some(a => courseRegex.test(a))) return true;
+  return false;
+}
+
 const want = {};
 addEventListener('message', e => {
   const m = e.data;
@@ -30,9 +63,30 @@ const ended = () => /End of results/i.test(document.body.innerText);
 function postInfo(k) {
   const msgEls = [...k.querySelectorAll('[data-ad-rendering-role=story_message],[data-ad-comet-preview=message]')];
   let text = msgEls.map(e => e.innerText.trim()).filter(Boolean)[0] || '';
-  if (!text) text = [...k.querySelectorAll('div[dir=auto]')].map(e => e.innerText.trim()).filter(Boolean).slice(0, 3).join('\n');
+  if (!text) text = [...k.querySelectorAll('div[dir=auto]')].map(e => e.innerText.trim()).filter(Boolean).slice(0, 5).join('\n');
+  if (!text) text = k.innerText.trim();
   const imgs = [...k.querySelectorAll('img')].map(i => i.alt || '').filter(a => a.length > 15);
   return {text, image_alt: imgs};
+}
+
+async function expandPostSeeMore(k) {
+  const candidates = [...k.querySelectorAll('[role=button], span, div')].filter(el => {
+    if (el.children.length > 0) return false;
+    if (el.closest('a[href]')) return false;
+    const txt = el.innerText.trim();
+    return /^(See more|\.\.\.\s*See more)$/i.test(txt);
+  });
+  for (const c of candidates) {
+    const btn = c.closest('[role=button]') || c;
+    const aria = btn.getAttribute('aria-label') || '';
+    if (/Like|React/i.test(aria) || aria === 'Remove Like') continue;
+    try {
+      btn.scrollIntoView({block: 'nearest'});
+      await sleep(300);
+      btn.click();
+      await sleep(rnd(1200, 2000));
+    } catch (e) {}
+  }
 }
 
 function scroller(d) {
@@ -43,12 +97,18 @@ function scroller(d) {
 }
 
 async function readComments(k) {
-  // The comment count lives on the "Leave a comment" button; it exists even when a post has no reactions.
-  const cb = [...k.querySelectorAll('[role=button][aria-label="Leave a comment"]')].find(b => /^\d+$/.test(b.innerText.trim()) && !b.closest('a[href]'));
+  const btns = [...k.querySelectorAll('[role=button]')].filter(b => !b.closest('a') && !b.querySelector('a'));
+  const cb = btns.find(b => {
+    const aria = b.getAttribute('aria-label') || '';
+    if (/Like|React/i.test(aria)) return false;
+    if (aria === 'Leave a comment') return true;
+    const t = b.innerText.trim();
+    return /^\d+\s+comments?$/i.test(t);
+  });
   if (!cb) return {comments: [], permalink: ''};
   cb.click();
   await sleep(rnd(2500, 4000));
-  const d = [...document.querySelectorAll('[role=dialog]')].pop();
+  const d = [...document.querySelectorAll('[role=dialog]')].filter(d => !/Notifications|Chat|Messenger/i.test(d.getAttribute('aria-label') || '')).pop();
   if (!d) return {comments: [], permalink: ''};
   const permalink = location.href;
   const filt = [...d.querySelectorAll('[role=button]')].find(b => /^(Most relevant|Newest|All comments)$/.test(b.innerText.trim()));
@@ -75,11 +135,23 @@ async function readComments(k) {
     text: [...a.querySelectorAll('div[dir=auto]')].map(e => e.innerText.trim()).filter(Boolean).join('\n'),
     image_alt: [...a.querySelectorAll('img')].map(i => i.alt || '').filter(x => x.length > 15),
   })).filter(c => c.text || c.image_alt.length);
-  try {
-    const x = d.querySelector('[aria-label=Close]');
-    if (x) x.click(); else d.dispatchEvent(new KeyboardEvent('keydown', {key: 'Escape', keyCode: 27, bubbles: true}));
-  } catch (e) {}
-  await sleep(rnd(1800, 2800));
+  const closeBtn = d.querySelector('[aria-label="Close"]') || d.querySelector('[aria-label=Close]');
+  if (closeBtn && !closeBtn.closest('a[href]') && closeBtn.tagName !== 'A') {
+    closeBtn.click();
+    await sleep(rnd(1500, 2500));
+  } else {
+    document.dispatchEvent(new KeyboardEvent('keydown', {key: 'Escape', code: 'Escape', keyCode: 27, which: 27, bubbles: true}));
+    await sleep(rnd(1500, 2500));
+  }
+  const still = [...document.querySelectorAll('[role=dialog]')].pop();
+  if (still) {
+    const x = still.querySelector('[aria-label="Close"]') || still.querySelector('[aria-label=Close]');
+    if (x && !x.closest('a[href]') && x.tagName !== 'A') { x.click(); await sleep(1500); }
+    else { document.dispatchEvent(new KeyboardEvent('keydown', {key: 'Escape', code: 'Escape', keyCode: 27, bubbles: true})); await sleep(1500); }
+  }
+  if (!location.href.includes('search/?q=') && document.querySelector('[role=feed]')) {
+    try { history.replaceState(null, '', SEARCH_URL); } catch (e) {}
+  }
   return {comments, permalink};
 }
 
@@ -94,7 +166,7 @@ async function readComments(k) {
   let idle = 0;
   while (!S.stop && S.posts.length < MAX) {
     if (blocked()) { S.log.push('BLOCK WARNING detected, stopping'); break; }
-    const feed = document.querySelector('[role=feed]');
+    const feed = document.querySelector('[role=feed]') || document.querySelector('[role=main]');
     if (!feed) { await sleep(3000); idle++; if (idle > 8) break; continue; }
     const kids = [...feed.children].filter(k => !seen.has(k));
     let got = 0;
@@ -105,27 +177,30 @@ async function readComments(k) {
         await sleep(rnd(1500, 2500));
         if (!k.innerText.trim()) continue;
       }
-      // Only mark a post as seen once its message has rendered; half-loaded posts are retried later.
+
+      // Expand "See more" in post body if present before checking course code
+      await expandPostSeeMore(k);
+
       const info = postInfo(k);
       if (!info.text && !info.image_alt.length) continue;
       seen.add(k);
       const key = info.text.slice(0, 150);
       if (seenText.has(key)) continue;
       seenText.add(key);
+
+      // Verify course code presence: both department and code must be present together
+      if (!hasCourseCode(k, info)) {
+        S.log.push('skipped post without ' + (mCode ? mCode[0] : 'course code'));
+        continue;
+      }
+
       got++;
       k.scrollIntoView({block: 'center'});
       await sleep(rnd(1000, 2000));
       persist(info);
       await sleep(500);
-      const courseMatch = NAME.match(/[a-z]{3}\d+[a-z]*/i);
-      const coursePat = courseMatch ? new RegExp('\\b' + courseMatch[0].slice(0, 3) + '[-_\\s]?' + courseMatch[0].slice(3) + '\\b', 'i') : null;
-      const fullPostHeader = info.text + ' ' + info.image_alt.join(' ');
-      const hasCourse = !coursePat || coursePat.test(fullPostHeader);
-
       let c = {comments: [], permalink: ''};
-      if (hasCourse) {
-        try { c = await readComments(k); } catch (e) { S.log.push('err ' + e.message); }
-      }
+      try { c = await readComments(k); } catch (e) { S.log.push('err ' + e.message); }
       S.posts.push({...info, ...c});
       save();
       persist();
@@ -134,8 +209,13 @@ async function readComments(k) {
       await sleep(c.comments.length ? rnd(5000, 7000) : rnd(2500, 3500));
     }
     if (got === 0 && ended()) { S.log.push('End of results reached'); break; }
-    if (got === 0) { idle++; if (idle > 8) { S.log.push('no more posts'); break; } } else idle = 0;
-    if (got === 0) window.scrollTo(0, document.body.scrollHeight); else window.scrollBy(0, rnd(600, 900));
+    if (kids.length === 0) {
+      idle++;
+      if (idle > 8) { S.log.push('no more posts'); break; }
+    } else {
+      idle = 0;
+    }
+    window.scrollBy(0, rnd(600, 900));
     await sleep(rnd(4000, 6000));
   }
   save();
