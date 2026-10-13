@@ -720,22 +720,22 @@
         "**cse440": "msdl,msrb,tba"
     },
     {
-        "cse445": "jsa,maqm,msrb,rtk,sfm1,sfr1"
+        "**cse445": "jsa,maqm,msrb,rtk,sfm1,sfr1"
     },
     {
-        "cse465": "afe,azk,nbm,oisd,sfm1"
+        "**cse465": "afe,azk,nbm,oisd,sfm1"
     },
     {
-        "cse468": "nbm,shaifur"
+        "**cse468": "nbm,shaifur"
     },
     {
-        "cse482": "tba"
+        "**cse482": "tba"
     },
     {
         "cse482l": "tba"
     },
     {
-        "cse491": "sti"
+        "**cse491": "sti"
     },
     {
         "cse495a": "sns1"

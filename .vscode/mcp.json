@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "selenium": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@angiejones/mcp-selenium@latest"]
+    }
+  }
+}
