@@ -19,8 +19,15 @@ addEventListener('message', async e => {
 
 
 class H(http.server.BaseHTTPRequestHandler):
-    def log_message(self, *a):
-        pass
+    def end_headers(self):
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+        self.send_header("Access-Control-Allow-Headers", "*")
+        super().end_headers()
+
+    def do_OPTIONS(self):
+        self.send_response(200)
+        self.end_headers()
 
     def do_GET(self):
         if self.path.startswith("/queue"):
@@ -62,12 +69,14 @@ class H(http.server.BaseHTTPRequestHandler):
         if not p.startswith(ROOT):
             p = os.path.join(OUT, os.path.basename(rel))
         os.makedirs(os.path.dirname(p), exist_ok=True)
-        data = self.rfile.read(int(self.headers.get("Content-Length", 0)))
+        length = int(self.headers.get("Content-Length", 0))
+        data = self.rfile.read(length) if length > 0 else b""
         with open(p, "wb") as f:
             f.write(data)
+        print(f"[sink] Saved {len(data)} bytes to {p}", flush=True)
         self.send_response(200)
         self.end_headers()
         self.wfile.write(b"ok")
 
 
-http.server.HTTPServer(("127.0.0.1", 8085), H).serve_forever()
+http.server.ThreadingHTTPServer(("127.0.0.1", 8085), H).serve_forever()

@@ -1,0 +1,70 @@
+{
+  "his205": {
+    "ABS3": [
+      {
+        "review": "A student who took HIS205 with him said he was good.",
+        "rating": "great"
+      }
+    ],
+    "AQR1": [
+      {
+        "review": "A student who took HIS205 with him said he was one of their favorite faculty members and that they enjoyed the course.",
+        "rating": "great"
+      }
+    ],
+    "AYM": [
+      {
+        "review": "Described as the best.",
+        "rating": "great"
+      }
+    ],
+    "GMF": [
+      {
+        "review": "Described as experienced, helpful, and student-friendly, though some students find his classes boring. He requires attendance, provides short slides and exam suggestions, and accepts conceptually correct answers in students’ own words. The reviewer believed he might curve one or two marks but was unsure.",
+        "rating": "great"
+      }
+    ],
+    "KLM": [
+      {
+        "review": "Described as a legend and easygoing.",
+        "rating": "great"
+      },
+      {
+        "review": "Described as the best.",
+        "rating": "great"
+      }
+    ],
+    "MAR2": [
+      {
+        "review": "Described as humble and knowledgeable, with fair grading, though students need to put in substantial effort.",
+        "rating": "great"
+      },
+      {
+        "review": "One student found his classes a little boring but said he gives good grades and exam suggestions.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A student said MAR2 was as good as ABS3 and that they had no complaints.",
+        "rating": "great"
+      },
+      {
+        "review": "Called the best, but students should attend every class because he covers a lot of material.",
+        "rating": "great"
+      },
+      {
+        "review": "Praised alongside BAI, with the commenter saying it was easy to earn an A or A− under them.",
+        "rating": "great"
+      }
+    ],
+    "NCH": [
+      {
+        "review": "Praised as a great faculty for history.",
+        "rating": "great"
+      },
+      {
+        "review": "A student said cheating was possible in his class, that he explains very well and is a genuinely good person, and that he provides likely exam questions before midterms and finals and is willing to help.",
+        "rating": "great"
+      }
+    ]
+  }
+}

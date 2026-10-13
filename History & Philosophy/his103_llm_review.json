@@ -1,0 +1,158 @@
+{
+  "his103": {
+    "AFBS": [
+      {
+        "review": "Attending his classes regularly is enough to do well.",
+        "rating": "great"
+      }
+    ],
+    "MAR2": [
+      {
+        "review": "He is a great and exceptionally kind, wholesome faculty member.",
+        "rating": "outstanding"
+      }
+    ],
+    "SAMS": [
+      {
+        "review": "He makes history engaging and easy to remember. His exams are straightforward and partially marked; quizzes are easy, and lecture notes help with the short-answer and broad questions. He assigns a research-based paper and holds a brief viva. Attending and participating in class are important, so he may not suit students who cannot attend regularly.",
+        "rating": "outstanding"
+      },
+      {
+        "review": "A student described him as easygoing, with fair questions and good grading, and reported that a friend earned an A-.",
+        "rating": "great"
+      },
+      {
+        "review": "Several students said he does not curve; one reported that friends repeatedly received A- grades without a curve.",
+        "rating": "harsh"
+      },
+      {
+        "review": "One student felt his expectations were excessively demanding for a three-month course and said the grading was average, around B/B+.",
+        "rating": "harsh"
+      }
+    ],
+    "SWH1": [
+      {
+        "review": "One student advised avoiding him. Another said he gives a question bank that exams draw from, with short questions in quizzes and the midterm, broad questions in the final, and a presentation.",
+        "rating": "harsh"
+      },
+      {
+        "review": "A student said he causes a lot of stress, insults students, treats them like soldiers, and gives B+ grades.",
+        "rating": "avoid"
+      }
+    ],
+    "MSIA": [
+      {
+        "review": "A student strongly advised against taking his class, saying it made their life miserable.",
+        "rating": "avoid"
+      },
+      {
+        "review": "A student currently taking his class described him as excellent so far.",
+        "rating": "great"
+      }
+    ],
+    "IZN": [
+      {
+        "review": "A student said exams use questions from the question bank, with short questions in quizzes and the midterm and broad questions in the final; the course also includes a presentation.",
+        "rating": "moderate"
+      }
+    ],
+    "AFRN": [
+      {
+        "review": "He is humble, friendly, and easygoing. Exams are fairly easy; quizzes are multiple-choice, and he provides sample questions or suggestions for the midterm and final. He gives good marks, but his lectures can be boring and he was still new to teaching.",
+        "rating": "great"
+      },
+      {
+        "review": "He is down-to-earth and grades fairly without bias, but the lectures are boring enough that students may need to study on their own.",
+        "rating": "moderate"
+      },
+      {
+        "review": "He is easygoing and gives exam suggestions, with questions coming from them; quizzes and assignments are manageable, but he does not curve.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A student said he gives good grades, exam suggestions, and questions drawn from those suggestions, making it easy to earn marks, though the classes are boring.",
+        "rating": "great"
+      },
+      {
+        "review": "One student found him easygoing but said the lectures were hard to understand and the grading was poor; the exam questions were posted online and repeated on the exams with many options.",
+        "rating": "harsh"
+      },
+      {
+        "review": "A sarcastic comment implied his classes are so boring they could put someone to sleep.",
+        "rating": "harsh"
+      }
+    ],
+    "SAR3": [
+      {
+        "review": "He teaches HIS103 through politics and international-relations perspectives, makes the classes interesting, and highlights important topics and dates in short slide decks. Memorizing the material is the main requirement.",
+        "rating": "great"
+      },
+      {
+        "review": "A student described him as good and easygoing.",
+        "rating": "great"
+      }
+    ],
+    "MBK1": [
+      {
+        "review": "His questions are straightforward and based on his slides. Quizzes are multiple-choice and the midterm is written; there is no presentation, but there is an assignment summarizing pages from a book. He is lenient and teaches well, though he does not curve.",
+        "rating": "great"
+      }
+    ],
+    "FSY": [
+      {
+        "review": "She is friendly, teaches the material clearly, and uses her lessons for exam questions. Her quizzes use short, focused questions, and the slides are sufficient.",
+        "rating": "outstanding"
+      },
+      {
+        "review": "She teaches well and grades what students deserve. The course includes an individual poster presentation, and students can earn full marks on short questions by stating the main concepts.",
+        "rating": "great"
+      },
+      {
+        "review": "Her slides are somewhat lengthy, but she repeats important topics and makes clear what to prioritize.",
+        "rating": "great"
+      }
+    ],
+    "MBU": [
+      {
+        "review": "A student said he is a good person and that following his class and exam suggestions is the key to doing well; exam questions come from those suggestions.",
+        "rating": "great"
+      }
+    ],
+    "MGRN": [
+      {
+        "review": "A student simply described him as the best.",
+        "rating": "great"
+      }
+    ],
+    "TRH": [
+      {
+        "review": "A student said he gives fair grades.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A student described him as very easygoing.",
+        "rating": "great"
+      }
+    ],
+    "AQR1": [
+      {
+        "review": "He is friendly, helpful, and down-to-earth, and tries to make a usually boring history course interactive. He assigns no extra burden and neither curves nor decurves; students receive what they earn.",
+        "rating": "great"
+      },
+      {
+        "review": "A student said to follow his class carefully to do well.",
+        "rating": "great"
+      },
+      {
+        "review": "A student described him as easygoing and among the best for marking and grading.",
+        "rating": "outstanding"
+      }
+    ],
+    "ZRS": [
+      {
+        "review": "Her midterms and final are easy, but her quizzes are very difficult and she does not curve.",
+        "rating": "moderate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "his101": {
+    "ABP1": [
+      {
+        "review": "Several students describe him as easygoing and say exams require lengthy written answers.",
+        "rating": "great"
+      },
+      {
+        "review": "One student says he shares exam suggestions shortly before quizzes and midterms and questions follow them; assessments are manageable, B+ is attainable, and more effort can earn A/A-.",
+        "rating": "great"
+      },
+      {
+        "review": "A student reports earning an A- through attentive participation, describes him as friendly, and says he allows makeups and added rather than deducted marks before the final.",
+        "rating": "great"
+      },
+      {
+        "review": "Some students say grades are often around B/B+, with A/A- difficult or uncommon even after strong effort; one reports receiving B+ instead of the grade expected.",
+        "rating": "harsh"
+      },
+      {
+        "review": "One reviewer says his lectures are not very engaging, but worksheets before exams, an easy solo presentation and learning-outcome task, and maintaining a positive relationship can make doing well manageable.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A detailed negative review reports no curve, limited marks despite strong work, only one A in the section, and an average grade; the reviewer strongly advises choosing another faculty.",
+        "rating": "avoid"
+      }
+    ],
+    "AGR2": [
+      {
+        "review": "Students describe him as friendly and fun and say exam questions are direct and easy when studied from the slides.",
+        "rating": "great"
+      },
+      {
+        "review": "A student says he values interaction: attend and participate, write on the board, and make sure he knows your name; being a class representative gave that reviewer an advantage.",
+        "rating": "moderate"
+      },
+      {
+        "review": "Students say he gives quiz and exam suggestions and appreciates long, relevant answers; with steady effort, strong grades including A/A- are achievable.",
+        "rating": "great"
+      }
+    ],
+    "ASZ": [
+      {
+        "review": "A detailed reviewer calls him a knowledgeable, humble historian who teaches Bengal's history through storytelling. Quizzes can be tricky, but attendance and notes make exams and viva manageable; grades are described as deserved, an A is possible, and he usually does not curve.",
+        "rating": "outstanding"
+      },
+      {
+        "review": "Some students say his lectures are long and require detailed notes; lecture content may not match the slides, missing class makes the course difficult, and it may be hard if ancient or medieval history does not interest you.",
+        "rating": "moderate"
+      }
+    ],
+    "MBK1": [
+      {
+        "review": "Students repeatedly praise her as very good and easygoing, advising students to attend, take notes, and follow her guidance on what matters for exams.",
+        "rating": "outstanding"
+      },
+      {
+        "review": "A student says her teaching is story-based and questions follow what she teaches in class; attend, take notes, and answer in the same narrative style.",
+        "rating": "great"
+      }
+    ],
+    "MDI1": [
+      {
+        "review": "Several students call him one of the best or a goated faculty member.",
+        "rating": "outstanding"
+      },
+      {
+        "review": "A student advises attending regularly and participating; he may seem strict about marks, but reportedly curves, and a well-prepared final is important.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A student says his classes often focus on local culture, politics, religion, and songs rather than the slides.",
+        "rating": "moderate"
+      },
+      {
+        "review": "One reviewer says he makes the course unnecessarily complicated and hard to learn from; grades may depend on familiarity and communication, and the reviewer objects to class presentation videos being collected for YouTube.",
+        "rating": "avoid"
+      }
+    ],
+    "SLN": [
+      {
+        "review": "Several students describe the course as very difficult, report receiving a C or needing a retake, and strongly recommend avoiding her.",
+        "rating": "avoid"
+      },
+      {
+        "review": "A detailed firsthand account describes feeling demeaned, having correct work undervalued, and seeing unfair or preferential grading; the overall class experience was stressful and unpleasant.",
+        "rating": "avoid"
+      },
+      {
+        "review": "Another student says they worked consistently but received a disappointing final grade, felt their effort was not reflected, and strongly advises against taking her.",
+        "rating": "avoid"
+      },
+      {
+        "review": "A student who earned an A- says the workload is substantial but manageable with punctual attendance and thorough notes; they describe her as strict but did not personally observe bias.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A student says regular attendance and detailed notes can make A/A- possible, though substantial effort is required.",
+        "rating": "moderate"
+      },
+      {
+        "review": "One student says she gave marks generously in their experience, including overlooking spelling mistakes.",
+        "rating": "great"
+      },
+      {
+        "review": "A student says she teaches history as a story; note everything, ask what can be skipped, and expect questions from both readings and lectures.",
+        "rating": "moderate"
+      },
+      {
+        "review": "A student says she does not curve and makes exam questions hard.",
+        "rating": "harsh"
+      }
+    ],
+    "ZRS": [
+      {
+        "review": "A detailed review praises her clear, engaging teaching and sweet manner. Quizzes can be somewhat tough but stay within class lectures and slides; the reviewer says she gives good marks and curves.",
+        "rating": "great"
+      }
+    ]
+  }
+}

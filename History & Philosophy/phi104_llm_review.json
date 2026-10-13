@@ -1,0 +1,138 @@
+{
+  "phi104": {
+    "ABM1": [
+      {
+        "review": "A commenter called ABM1 the worst faculty for PHI104.",
+        "rating": "avoid"
+      }
+    ],
+    "EZK": [
+      {
+        "review": "PHI104 was described as easier under EZK.",
+        "rating": "great"
+      },
+      {
+        "review": "EZK was recommended as one of the best choices for PHI104.",
+        "rating": "great"
+      }
+    ],
+    "JSU": [
+      {
+        "review": "A commenter recommended both JSU and MNT as the best choices for PHI104.",
+        "rating": "great"
+      }
+    ],
+    "KIS": [
+      {
+        "review": "The reviewer praised KIS's discussion-based, participatory teaching and innovative assignments, saying students learn through analysis and should participate actively. KIS is friendly, helpful, lenient, and fair, but does not curve; quizzes count individually, and students must cover all suggested exam topics and arrive on time.",
+        "rating": "great"
+      },
+      {
+        "review": "Another commenter said KIS does curve.",
+        "rating": "moderate"
+      }
+    ],
+    "LFR": [
+      {
+        "review": "The reviewer says full attendance and note-taking are needed; despite that, they finished with a B+.",
+        "rating": "moderate"
+      },
+      {
+        "review": "Commenters called LFR a very good choice and said grading is based on merit, with no curve.",
+        "rating": "great"
+      },
+      {
+        "review": "Questions come from material covered in class; a viva replaces presentations, participation is expected every class, attendance is checked closely, and there is an individual assignment.",
+        "rating": "moderate"
+      },
+      {
+        "review": "The reviewer says following lectures can lead to an A/A-, questions come from what is taught in class, and the instructor did not curve when they took the course.",
+        "rating": "great"
+      }
+    ],
+    "MMEE": [
+      {
+        "review": "Several commenters simply described MMEE as good or the best.",
+        "rating": "great"
+      },
+      {
+        "review": "A reviewer described MMEE as a very humble person.",
+        "rating": "great"
+      },
+      {
+        "review": "A reviewer earned an A-. There was no presentation, but the individual-assignment viva was easy; quizzes required reading the chapters, exams had many but direct questions, and classes were lively and friendly.",
+        "rating": "great"
+      },
+      {
+        "review": "The reviewer called MMEE one of the coolest faculty and said students get many opportunities to earn marks. The five multiple-choice/true-false quizzes allow the best two or three to count, exams are manageable with suggestions, and reasonable effort should earn a good grade; the assignment still needs care.",
+        "rating": "great"
+      },
+      {
+        "review": "A commenter said the lowest grade is usually around B/B+.",
+        "rating": "moderate"
+      }
+    ],
+    "MNT": [
+      {
+        "review": "Several commenters simply called MNT the best.",
+        "rating": "great"
+      },
+      {
+        "review": "The reviewer strongly recommends MNT for PHI104. The syllabus is short and understandable; two of three quizzes count, and there is one midterm, one final, an individual report, and a viva on a selected chapter. MNT is calm and gentle, but slide-based classes can be boring, participation is expected, and even one absence may affect attendance. Exam and viva marking is generous, grading is lenient and unbiased, and the overall experience was good.",
+        "rating": "great"
+      },
+      {
+        "review": "A commenter said that despite considerable effort, B+ was the highest grade they received.",
+        "rating": "harsh"
+      },
+      {
+        "review": "A commenter strongly advised against taking PHI104 with MNT.",
+        "rating": "avoid"
+      },
+      {
+        "review": "MNT expects camera-on attendance and reportedly takes attendance both online and offline. There is a viva, two class assignments, a quiz, a presentation, and a final report. The reviewer says exam questions are easy and grades are fair and based on merit, though there is no curve.",
+        "rating": "moderate"
+      },
+      {
+        "review": "The reviewer describes MNT as very relaxed: questions are easy, partial answers can earn marks, and B+ is attainable even with limited attendance; full attendance can lead to A-, and hard work to an A. Presentations are flexible and low-pressure.",
+        "rating": "great"
+      },
+      {
+        "review": "MNT is described as a kind person who discusses the slides in class, though some classes may feel boring. Grading can make the difference between high- and low-effort students feel small. Classwork and participation matter; quizzes draw from slides, exams use slides and the book, presentations are optional, the project report is substantial, and viva questions are easy.",
+        "rating": "moderate"
+      }
+    ],
+    "NKZ": [
+      {
+        "review": "NKZ was called a great choice for students who understand spoken English; the reviewer praised his speeches.",
+        "rating": "great"
+      },
+      {
+        "review": "The reviewer praised NKZ as a splendid speaker and philosopher, with engaging discussion-based questions, and said he gives A grades to students who meet the standard.",
+        "rating": "outstanding"
+      }
+    ],
+    "RAK": [
+      {
+        "review": "RAK was described as good, easygoing, and strongly recommended. One reviewer said exams have two long questions and sometimes short questions; grades average B/B+, with A less common but B+ attainable fairly easily.",
+        "rating": "moderate"
+      }
+    ],
+    "SOJ": [
+      {
+        "review": "SOJ is described as a new, chill, easygoing faculty; studying the slides and handouts should be enough.",
+        "rating": "great"
+      }
+    ],
+    "SYN": [
+      {
+        "review": "The reviewer found PHI104 easier than PHI101 and earned an A- under SYN.",
+        "rating": "great"
+      },
+      {
+        "review": "Quizzes are difficult, but midterms and finals are easy; the faculty takes vivas and gives good marks for reasonably detailed answers. The reviewer thinks he may curve by about one grade.",
+        "rating": "moderate"
+      }
+    ]
+  }
+}

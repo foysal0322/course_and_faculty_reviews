@@ -1,0 +1,68 @@
+{
+  "phi101": {
+    "JSU": [
+      {
+        "review": "Described as very nice. Students say that listening carefully, taking notes, and participating in class make earning an A easy.",
+        "rating": "great"
+      },
+      {
+        "review": "One reviewer explicitly advises avoiding him, alleging that he is extremely biased against women.",
+        "rating": "avoid"
+      }
+    ],
+    "KRL": [
+      {
+        "review": "A commenter says writing answers in your own words is capped at 17/20 and that near-verbatim slide answers seem necessary to earn an A.",
+        "rating": "harsh"
+      }
+    ],
+    "MTN4": [
+      {
+        "review": "The course is described as boring, but the material comes from the slides and an A is said to be easy to earn.",
+        "rating": "great"
+      },
+      {
+        "review": "One commenter says he is not good for grading.",
+        "rating": "harsh"
+      },
+      {
+        "review": "Attending lectures is said to make good grades easy; the instructor gives two midterms and counts the better one.",
+        "rating": "great"
+      },
+      {
+        "review": "Described as an excellent, easygoing instructor. Reviewers say regular attendance is important for understanding the class.",
+        "rating": "great"
+      },
+      {
+        "review": "Reviewers describe him as friendly, fun-loving, and cooperative, with enjoyable classes and fair grading. They say memorizing the slides can lead to a good grade.",
+        "rating": "great"
+      },
+      {
+        "review": "A commenter recommends him as a very nice person and says he may become one of a student's favorite faculty members.",
+        "rating": "great"
+      }
+    ],
+    "NKZ": [
+      {
+        "review": "Described as friendly and generous with marks. The open-book exam uses agree/disagree prompts, and marks depend on how well students explain their views; a 10-mark bonus exam is also offered.",
+        "rating": "outstanding"
+      }
+    ],
+    "RAK": [
+      {
+        "review": "Described as very easygoing and well regarded. Reviewers say she indicates likely exam questions, teaches material that appears on the exam, and grades generously.",
+        "rating": "great"
+      },
+      {
+        "review": "The course is described as very relaxed despite the potentially intimidating subject, with little material to cover and clear guidance on what to prepare. There are two MCQ quizzes with the better one counted, a midterm, and a viva; exams ask for two broad answers.",
+        "rating": "outstanding"
+      }
+    ],
+    "SYN": [
+      {
+        "review": "The quizzes are described as difficult because they require memorizing authors' theories, but the rest of the course is easy. The instructor has no presentation, only a viva, asks straightforward questions, and curves by one grade.",
+        "rating": "great"
+      }
+    ]
+  }
+}
