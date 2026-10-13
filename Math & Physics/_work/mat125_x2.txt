@@ -1,0 +1,269 @@
+#COURSE mat125 | KNOWN_FACULTY: ahbn,amk,aur,fdw,kkar,kmrn,lsa,mas,mfu,ms1,mshs,nisd,omg,rkhn,taa1,umm
+==X82==|raw\q_cse434.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4549115318638937/|Hi everyone, I had a really tough semester due to personal reasons and it hit my CGPA hard. I'm now trying to plan out the rest of my degree carefully so I can raise my CGPA properly and still graduate by Summer 2029.... I have 4 retakes in total(hopefully ar barbe na ), all in Math (MAT120, MAT125, MAT130, plus one more listed below) since math has been my weak point. I've been practicing hard the last few days to prep for these f… See more
+[x82.0]|Irfan Mahmud 2 weeks ago|120 130 e Jodi retake khete hoy
+250 350 are very hard courses
+[x82.1]|Aronno Biswas Joy 2 weeks ago|Ged rakha valo per semester 1 ta kore
+==X83==|raw\q_cse445.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4201924256691380/|Can anyone give me detailed review of the following courses ? CSE440 CSE445 CSE465 CSE495A CSE495B
+[x83.13]|Saif Mohammed a year ago|CSE440: Artificial Intelligence
+This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA.
+I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts.
+The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+[x83.14]|Saif Mohammed a year ago|CSE445: Machine Learning
+This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important.
+I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks.
+The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+[x83.15]|Marzia Rahman to Saif Mohammed's comment a year ago|Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+[x83.18]|Saif Mohammed a year ago|CSE465: Pattern Recognition & Neural Network
+This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background.
+I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch.
+The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+[x83.23]|শাহরিয়ার জামান a year ago|Cse495A: Introduction to robotics
+Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot.
+You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+==X84==|raw\q_cse465.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4201924256691380/|Can anyone give me detailed review of the following courses ? CSE440 CSE445 CSE465 CSE495A CSE495B
+[x84.13]|Saif Mohammed a year ago|CSE440: Artificial Intelligence
+This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA.
+I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts.
+The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+[x84.14]|Saif Mohammed a year ago|CSE445: Machine Learning
+This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important.
+I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks.
+The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+[x84.15]|Marzia Rahman to Saif Mohammed's comment a year ago|Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+[x84.18]|Saif Mohammed a year ago|CSE465: Pattern Recognition & Neural Network
+This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background.
+I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch.
+The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+[x84.23]|শাহরিয়ার জামান a year ago|Cse495A: Introduction to robotics
+Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot.
+You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+==X85==|raw\q_cse468.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4549115318638937/|Hi everyone, I had a really tough semester due to personal reasons and it hit my CGPA hard. I'm now trying to plan out the rest of my degree carefully so I can raise my CGPA properly and still graduate by Summer 2029.... I have 4 retakes in total(hopefully ar barbe na ), all in Math (MAT120, MAT125, MAT130, plus one more listed below) since math has been my weak point. I've been practicing hard the last few days to prep for these f… See more
+[x85.0]|Irfan Mahmud 2 weeks ago|120 130 e Jodi retake khete hoy
+250 350 are very hard courses
+[x85.1]|Aronno Biswas Joy 2 weeks ago|Ged rakha valo per semester 1 ta kore
+==X86==|raw\q_cse468.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4316183531932118/|Review please CSE 173 SLE MAT125 MAS I need A/A-
+[x86.0]|DeshiBilai69 37 weeks ago|MAS which section?
+[x86.4]|Tanzila Akter 37 weeks ago|sle best
+[x86.6]|Asaduzzaman Soad 37 weeks ago|SLE amr time e vlo chilo grade vlo paisi
+[x86.11]|SleepyKiddo to Purnota Gomes's comment 19 weeks ago|Prithu Purno I dropped and took fdw
+==X87==|raw\q_cse468.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/3800761006807709/|Completed first semester Alhamdulillah as a CSE student. For 2nd semester Wanted to know which faculties to AVOID for these courses- cse215 Cse173… See more
+[x87.0]|Sabrina Tabassum Tonima 2 years ago|215 er jonno avoid szz
+[x87.2]|Muhammad Aminul Islam Labib 2 years ago|CSE215 - RRn; CSE173 - Sft : easy going
+[x87.3]|Rafiur Rahman to Muhammad Aminul Islam Labib's comment 2 years ago|Muhammad Aminul Islam Labib RRn avoid korbo cse215 er jonno?
+[x87.4]|Muhammad Aminul Islam Labib to Rafiur Rahman's reply 2 years ago|Rafiur Rahman nah easy going, previous question repeat kore... almost 80% and highest ke 100% dhore
+[x87.5]|Tushar Abdullah 2 years ago|MAT 116 - MAIM / KKAR
+MAT 125 - KKAR
+[x87.6]|Tousif Kabir Aushesh 2 years ago|Ami drop disi duita course mat116 r arekta mone naih...
+[x87.8]|Puspita Das 2 years ago|Mat125-Avoid Zhn
+[x87.9]|Towsif Hasan Tarif 2 years ago|for mat 125 avoid Zhn
+[x87.11]|Jashea Ummay Marzan Hridika 2 years ago|Mat116- avoid sdt
+[x87.13]|Nazia Nawshin Neeva 2 years ago|Avoid Zhn at any cost
+!!
+[x87.14]|Shah MD Abir 2 years ago|Mat125-Avoid Zhn
+[x87.15]|Du R Joy 2 years ago|Bio103 -avoid FZD
+[x87.16]|Kawser Sikder 2 years ago|Recommendation,( Best)
+Cse215- MAY sir
+Cse173- Akr sir
+His102- Ahb sir
+Mat116- Akad Sir/ AtA mam( maybe mam ekhon 116 nen na)
+Mat125- AtA mam
+Ben205- Adk1
+[x87.17]|Abir Al Mahdi 2 years ago|Mat125 avoid LSA and LKS
+[x87.18]|Arman Hossain Nawmee 2 years ago|Avoid MDE for mat125
+[x87.19]|Tanjim Al Islam 2 years ago|CSE 173 avoid ITN
+Mat 116-Avoid SwK
+[x87.20]|Tanvir Islam to Tanjim Al Islam's comment 2 years ago|Tanjim Al Islam wah vai wah...
+ITN joss theke ITN avoid?
+[x87.21]|Tanjim Al Islam to Tanvir Islam's reply 2 years ago|Tanvir Islamhalay pera dey na..sathe kichu poray o na...amader mid abar final er pore nilo..ekhon dekhi result agami sem e pai na ki
+[x87.24]|Raisa Mahabub Ahona 2 years ago|Bio103 - avoid KRC
+Mat125-Avoid LKS
+CSE215-Avoid RRN
+[x87.25]|Md. Mehenuf Hossain Bhuiyan to Raisa Mahabub Ahona's comment 2 years ago|Raisa Mahabub Ahona msk ke avoid korte bolbi na?
+[x87.26]|Md. Mehenuf Hossain Bhuiyan 2 years ago|his102 - avoid ATI
+[x87.27]|Mahmud Islam 2 years ago|Avoid IQN for CSE225 or any course
+[x87.28]|Humayra Rahman Nipa 2 years ago|Bio103- Avoid CAK
+[x87.29]|Tasmia Ramisha 2 years ago|Bio103 avoid ArIm
+Ben205 avoid Mbq
+Mat125 avoid LKS
+[x87.30]|せんぱい 2 years ago|CSE215: Sfr1, Msrb
+CSE173: Msk1, Akr
+MAT116: Akad sir
+, KKaR
+[x87.32]|Sadia Shaon 2 years ago|Mat125- kkar
+==X88==|raw\q_cse491.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4555046894712446/|Looking for reviews on these courses/faculties: • CSE 215 — MFT • MAT 120 — NSR • MAT 125 — KMRN See more
+[x88.0]|EfficientFrog8191 2 weeks ago|Nsr vlo & easy going. Just go through her class notes. Nothing else needed
+[x88.4]|Shahjahan Shanto to Faaahhbencher's comment a week ago|Faaahhbencher kmrn easy going
+[x88.5]|Nabil Hossain to Faaahhbencher's comment a week ago|Faaahhbencher MFT sir barely teaches anything in class...not good it terms of learning..gossips a lot and keeps bragging abt his own achievements... he'll take around 8/9 quizzes, but questions are pretty easy
+==X89==|raw\q_cse491.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4549115318638937/|Hi everyone, I had a really tough semester due to personal reasons and it hit my CGPA hard. I'm now trying to plan out the rest of my degree carefully so I can raise my CGPA properly and still graduate by Summer 2029.... I have 4 retakes in total(hopefully ar barbe na ), all in Math (MAT120, MAT125, MAT130, plus one more listed below) since math has been my weak point. I've been practicing hard the last few days to prep for these f… See more
+[x89.0]|Irfan Mahmud 2 weeks ago|120 130 e Jodi retake khete hoy
+250 350 are very hard courses
+[x89.1]|Aronno Biswas Joy 2 weeks ago|Ged rakha valo per semester 1 ta kore
+==X90==|raw\q_cse491.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/3817023028514840/|CSE 215+L >>CFA ENG 111>> TAA MAT 125 >>TAa1 PHI 104>> KIS Honest review please
+[x90.2]|Mahedi Hasan 2 years ago|Cfa best
+[x90.4]|Er Nyt to Mahedi Hasan's comment 2 years ago|Mahedi Hasan grade kemon dey? R lab instructor kemon?
+[x90.7]|Jubayer Ahmed Jim to Md. Mokarrabin Mihir's reply 2 years ago|Md. Mokarrabin Mihir thak bondhu bad deo
+[x90.8]|Tanjim Al Islam 2 years ago|Cfa valo ache mama..but sec 18/19 e aisa por..MAY sir ache
+[x90.14]|Thauhid Ferdhous Shanto 2 years ago|MAT125 e amr o TAa1...tmr section 20?
+[x90.16]|Khan Md Emon Shah 2 years ago|taa1 & lfr curve করে না যা marks পাবা তাই
+[x90.17]|Md. Mokarrabin Mihir to Khan Md Emon Shah's comment 2 years ago|Khan Md Emon Shah average grading Kemon?
+[x90.18]|Khan Md Emon Shah to Md. Mokarrabin Mihir's reply 2 years ago|Md. Mokarrabin Mihir total marks যা পাবা তাই grade দেয় কোনো average grading করে না
+[x90.21]|Mysha A. 2 years ago|Drop taa
+[x90.22]|Arefin Amin 2 years ago|Cfa valo. Exam e Careful thakle A paba.
+Taa1 valo na. Class e koray easy math. Onk lazy. Golpor kore khali. Chill. But exam e onk tough question dey. Age theke prepared thakle pera nai. But as class e easy koraise and chill sobai vabse easy question e korabe. But no.
+Kis Nsu er best faculty. Quiz tricky kore double negative thake arki. Just read the question 3-4 times. Hands down best.
+Best of luck Md. Mokarrabin Mihir
+[x90.26]|Faiyad Hossain 2 years ago|CFA's great. He is able to boil down concepts to their core elements and communicate them in conjunction with simple examples and programmatic demonstrations. With respect to his exams, you can do well if you only study the stuff he teaches, however, you should be mindful of the details required in your answers, as they can be easily overlooked if you're only considering what is expected of you to answer, without reaching for the best concievable answer.
+Sir is normally present in the lab as well, so his guidance will be sometimes available then as well, but I hope that your lab instructor is well-equipped to teach the course.
+==X91==|raw\q_cse491.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/3713123032238174/|Review please ! Cse215-Mmba Mat125-umm Mat130-MFU Che101-Hms His103-Mar2
+[x91.0]|Mahbub Mehedi Shupto 2 years ago|Mar2 easy
+[x91.12]|Sumaiya Basher Riyana to Khalid Baybars's reply 2 years ago|Nsuer Spoidermon sir first class e ashen e nai
+[x91.15]|Adeeb 2 years ago|umm vlo, cls e ja poray oitar ase pasei grade dey, number vlo dey, bt grade curve kore nh
+[x91.19]|Ishrak Hossain to Khalid Baybars's comment 2 years ago|Nsuer Spoidermon first class e sir e ashe nai class theke ghure aschi ar Lab to first week e hoy na
+[x91.21]|Ishrak Hossain to Jobayer Ahmed's comment 2 years ago|Jobayer Ahmed easy going slide theke question dey
+[x91.22]|Abdullah Al Sayed 2 years ago|How was mmba for 215? in terms of teaching, marking and grading? TIA!
+[x91.23]|Ishrak Hossain to Abdullah Al Sayed's comment 2 years ago|Abdullah Al Sayed not good for learning but easy question kore slide theke. Likhle marks dey Bhaloi
+[x91.24]|Er Nyt to Ishrak Hossain's reply 2 years ago|Ishrak Hossain what grade did you get?heard she's good for b/b+ bt doesn’t wanna give As
+[x91.26]|Amina Prity 2 years ago|Mat125 section?
+[x91.29]|Ishrak Hossain to Asif Shahriar Tauhid's comment 2 years ago|Asif Shahriar Tauhid not good for learning but easy question kore slide theke. Likhle marks dey Bhaloi
+[x91.33]|Tamim Hasan 2 years ago|Mar2 joss
+[x91.35]|খালেদ সাইফুল্লাহ মুমিন 2 years ago|#FacultyReview HMS
+#course Che101
+#Drop and save your money.
+Basically, He is a new faculty from JU. His grading is very much horrible. The course Che101 itself is easy according to him, but he wasn’t able to reach us his lectures properly. Also, Sir didn’t make proper marking as if anyone writes anything outside the slide, he doesn’t give any marks. He wanted us to memorise whole slides. Sir did not curve grades and even also give so many “F” to many students in this GED course, others end up with C & D. I would recommend everyone to drop this course if you find HMS without any hesitation.
+==X92==|raw\q_cse495a.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4201924256691380/|Can anyone give me detailed review of the following courses ? CSE440 CSE445 CSE465 CSE495A CSE495B
+[x92.13]|Saif Mohammed a year ago|CSE440: Artificial Intelligence
+This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA.
+I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts.
+The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+[x92.14]|Saif Mohammed a year ago|CSE445: Machine Learning
+This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important.
+I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks.
+The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+[x92.15]|Marzia Rahman to Saif Mohammed's comment a year ago|Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+[x92.18]|Saif Mohammed a year ago|CSE465: Pattern Recognition & Neural Network
+This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background.
+I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch.
+The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+[x92.23]|শাহরিয়ার জামান a year ago|Cse495A: Introduction to robotics
+Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot.
+You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+==X93==|raw\q_cse495b.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4201924256691380/|Can anyone give me detailed review of the following courses ? CSE440 CSE445 CSE465 CSE495A CSE495B
+[x93.13]|Saif Mohammed a year ago|CSE440: Artificial Intelligence
+This course is mostly theory-based and provides a broad introduction to AI. It doesn’t offer much specialization in any specific topic, but it’s still a good choice if you’re looking for an elective or open elective that can help boost your CGPA.
+I took it under MSRb sir. He mainly followed Stanford’s AI Course (CS221). Four modules are covered: Reflex-based Models, State-based Models, Variable-based Models, and Logic-based Models. The structure was organized and easy to follow, especially if you’re new to AI concepts.
+The grading system included 2 quizzes (best one counted), a bonus viva on quiz day, a midterm that was more problem-solving and math-oriented, a final exam that combined theory with math, and one group project assigned by Sir. Overall, it’s a manageable and helpful course if you want a solid overview of AI without diving too deep.
+[x93.14]|Saif Mohammed a year ago|CSE445: Machine Learning
+This is a traditional ML course that helps you build a solid foundation in the field. It mainly focuses on regression, classification algorithms, and evaluation metrics. Prerequisites include Python, Statistics, and LaTeX, so having a basic grip on these is important.
+I took it under MAQm sir. His lectures were mostly based on Aurélien Géron’s ML textbook and StatQuest with Josh Starmer. Topics covered throughout the semester included EDA, preprocessing, regression, classification, SVM, decision trees, ensemble learning, unsupervised learning, reinforcement learning, and even a short intro to neural networks.
+The course had one surprise quiz, one coding-based ML assignment with a report and viva, a mid and final exam (both allowing a one-sided cheat sheet), and a group project. The question patterns are MCQs, mathematical, and short questions. The project carried significant weight with marks for proposal, progress, final report, demo, and viva. Project Evaluation is done by the Sir, TA and RA. Overall, your grade will depend a lot on the assignment and project, so those are the key parts to focus on. Overall, this course provides a good understanding of ML at the beginner level.
+[x93.15]|Marzia Rahman to Saif Mohammed's comment a year ago|Saif Mohammed I'm from EEE Background, I'm planning to take ML as an open Elective course. Can you please suggest what topics I should learn before taking this course?
+[x93.18]|Saif Mohammed a year ago|CSE465: Pattern Recognition & Neural Network
+This is a good specialized course in the AI trail, giving you a solid understanding of Deep Learning. Although Machine Learning is not a prerequisite in the curriculum, having prior knowledge of ML definitely helps in understanding deep learning topics more easily. Prerequisites include Python, Statistics, LaTeX, and ideally some ML background.
+I took it under SvA Ma’am. She followed the 100 Days of Deep Learning YouTube playlist for lectures. Throughout the semester, she covered three main architectures: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). In addition, the TA conducted two coding sessions on PyTorch.
+The evaluation system included two quizzes (best one counted), one midterm, and one final exam. Most questions were based on the specific architectures, combining theory with mathematics. There were no assignments in this course. For the group project, the TA provided three domains, and students could pick one to propose their project idea. About two weeks were given for the project, so starting early is highly recommended. The project was evaluated by both the Maam and the TA. Overall, this course helps you gain specialization in Deep Learning, making it a valuable continuation after the Machine Learning course.
+[x93.23]|শাহরিয়ার জামান a year ago|Cse495A: Introduction to robotics
+Basic course where you will learn how to solve practical/real life problems, robotics equations and using those equation how to create simulation of a robot path/trajectory/optimal path/line extraction, image processing etc. This course will build a strong intuition about how a bot is implemented to an environment. Here you will get the chance to learn PYTHON from the basics. Using the Python language, faculty will teach you how to implement different equations in python and create simulations before building a bot.
+You will need a basic idea of MAT 125,MAT 350, MAT 361, CSE 373 in this course.
+==X94==|raw\q_eco135.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4437042103179593/|Faculty suggestions please who doesn't decurve and make questions from class lecture! Eco135 Eco172 Mat125 His103 See more
+[x94.2]|Sunehra Farjan 19 weeks ago|Eco 172 - mzq,aba
+Mzq ma’am er teaching style khubi bhalo easy korei bujhay question o class ja bole tai ashe conceptual questions class a bole dey ki korbe ar maths class a practice koray onk oiguloi ashe
+Quiz a mcq o thake maths o thake math mcq er jonno slide porbi slide thekei diye thake uni concept bujhay den class a
+Mid a maths thake conceptual question thake mcq o thake final o same
+Decurve korena tobe curve o I think korena depends
+And ma’am number prochur kate maths a katena but conceptual a onk kate defination a kate but uni class a bole dey ki likhte hobe protita math er last a jei part ta explain kora lagbe oita uni likhe de bar bar mention kore likhte oita na likhlei kete dey
+Aba ma’am bhalo shunsi shobay bole most probably hoyto marks eto kate na mzq ma’am er moto
+[x94.5]|Sunehra Farjan 19 weeks ago|His103- aym sir er kache korsi presentation neynai viva o neynay just an easy assignment quiz 3 ta ney amader shomoy 3 ta quiz attend korle best 1 count korsilo 
+ quiz full mcq
+Mid and final er question pattern same broad questions and 1 line er short questions but sir er kache A paowa I think ektu pera cause uni onk easy going so shobay number kom beshi kachakachi pay ektu porlei hoy arki B+ paowa easy A paowar jonno maybe beshi lekha lagbe
+[x94.7]|Afinoor Hossain Shoity 19 weeks ago|Eco-135- abt sir
+He gave the exactly the same questions which were done in classes just changed the digits. But time management gets a little bit tough, especially during the mid-02. Does not take any quiz, he gives assignments in replacement. Although not the best for learning, if you practice the maths, you will end up with a good grade.
+Eco172- Aba Ma’am
+Loved doing this course under her. Takes three quizzes- mcqs and some short maths. The mcq will come from the slides and the short maths will also be from what was practiced. In the two mids and finals there were mcq as well. And then there were mathematical problem. You will find one/two maths with a slight twist but nothing too difficult if you have good understanding over the topic. I don’t know whether she curves or not.
+==X95==|raw\q_eco135.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4324809567736181/|In terms of content, How similar/overlapping are Eco135 & Mat120?
+[x95.2]|Raqib S Zaman 36 weeks ago|In eco135, only one chptr is about matrix whereas in mat125, the whole course is about matrix. You can call it the later part of what's taught of matrix in eco135 actually.
+==X96==|raw\q_eco135.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4312178015666003/|Faculties to AVOID for: Eco103 Eco135 Eco172 Bus 251 Mat125 Thanks in advance!
+[x96.0]|Sakib Hasan 38 weeks ago|Bus251 Ehn Sir
+==X97==|raw\q_eco135.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4202217796662026/|Honest Review Please! •Eco104 - AKP •Eco135 - Abt •Mat125 - MSHS •Che101 - MABA
+[x97.0]|Ashiqur Rahman Khan a year ago|MsHs good for grading, one of the worst for learning
+[x97.1]|Samia Khan Opi to Ashiqur Rahman Khan's comment a year ago|Ashiqur Rahman Khan Ms1 ki bhaia better hobe onar theke?
+[x97.2]|Ashiqur Rahman Khan to Samia Khan Opi's reply a year ago|Samia Khan Opi I heard Ms1 teaches really good, he also curves a little. But his mid final questions are very hard. I think if you can do self study, MsHs would be better.
+[x97.4]|Rafsan B a year ago|Abt best and chill faculty ekdom
+==X98==|raw\q_eco135.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/3516509295232883/|Hello everyone I am from eco dept Now in my first semester I'm doing eco 101 Is it wise to take Eco104 and Eco135 (i haven't done Mat125) together in my next( my 2ND) semester!?
+[x98.1]|S. Tasnim 3 years ago|Mat125 has nothing to do with eco135, eco135 is comparatively easier than mat125. It's completely fine to take these two courses together
+[x98.3]|Khandaker Fariha Lubaba 3 years ago|Yes it's perfectly fine. In fact I would suggest you do 104 and 135 in your second semester. That way you can progress more smoothly with courses like 245,172, 173 in the upcoming semesters.
+==X99==|raw\q_eco172.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4437042103179593/|Faculty suggestions please who doesn't decurve and make questions from class lecture! Eco135 Eco172 Mat125 His103 See more
+[x99.2]|Sunehra Farjan 19 weeks ago|Eco 172 - mzq,aba
+Mzq ma’am er teaching style khubi bhalo easy korei bujhay question o class ja bole tai ashe conceptual questions class a bole dey ki korbe ar maths class a practice koray onk oiguloi ashe
+Quiz a mcq o thake maths o thake math mcq er jonno slide porbi slide thekei diye thake uni concept bujhay den class a
+Mid a maths thake conceptual question thake mcq o thake final o same
+Decurve korena tobe curve o I think korena depends
+And ma’am number prochur kate maths a katena but conceptual a onk kate defination a kate but uni class a bole dey ki likhte hobe protita math er last a jei part ta explain kora lagbe oita uni likhe de bar bar mention kore likhte oita na likhlei kete dey
+Aba ma’am bhalo shunsi shobay bole most probably hoyto marks eto kate na mzq ma’am er moto
+[x99.5]|Sunehra Farjan 19 weeks ago|His103- aym sir er kache korsi presentation neynai viva o neynay just an easy assignment quiz 3 ta ney amader shomoy 3 ta quiz attend korle best 1 count korsilo 
+ quiz full mcq
+Mid and final er question pattern same broad questions and 1 line er short questions but sir er kache A paowa I think ektu pera cause uni onk easy going so shobay number kom beshi kachakachi pay ektu porlei hoy arki B+ paowa easy A paowar jonno maybe beshi lekha lagbe
+[x99.7]|Afinoor Hossain Shoity 19 weeks ago|Eco-135- abt sir
+He gave the exactly the same questions which were done in classes just changed the digits. But time management gets a little bit tough, especially during the mid-02. Does not take any quiz, he gives assignments in replacement. Although not the best for learning, if you practice the maths, you will end up with a good grade.
+Eco172- Aba Ma’am
+Loved doing this course under her. Takes three quizzes- mcqs and some short maths. The mcq will come from the slides and the short maths will also be from what was practiced. In the two mids and finals there were mcq as well. And then there were mathematical problem. You will find one/two maths with a slight twist but nothing too difficult if you have good understanding over the topic. I don’t know whether she curves or not.
+==X100==|raw\q_eco172.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4437895776427559/|Bio103-Bun Eco172-Mzq Mat125- AuR Soc101-SQL Faculty review please
+[x100.4]|CleverShark5025 to Afia Farzana Tasnia's reply 19 weeks ago|Easygoing
+[x100.10]|Afia Farzana Tasnia to GrayChipmunk3671's comment 2 weeks ago|GrayChipmunk3671 Very good
+[x100.11]|GrayChipmunk3671 to Afia Farzana Tasnia's reply 2 weeks ago|Afia Farzana Tasnia could you please give some details like quizzes mids and all. I heard je curve koren na
+[x100.12]|Afia Farzana Tasnia to GrayChipmunk3671's reply 2 weeks ago|GrayChipmunk3671 curve koren na but marks tula easy. Quiz 4 ta theke best 3 count koren. Quiz mcq so ekhane 30 marks uthano easy because question easy thake. Mid and final er question ektu tricky mone hote pare but jodi class attend koren and slides valo moto poren tahole decent mark uthano possible.
+==X101==|raw\q_eco172.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4312178015666003/|Faculties to AVOID for: Eco103 Eco135 Eco172 Bus 251 Mat125 Thanks in advance!
+[x101.0]|Sakib Hasan 38 weeks ago|Bus251 Ehn Sir
+==X102==|raw\q_eco172.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4081802925370181/|Eco104= AQRM, Jvhn, aba, Akb. Which faculty is best for learning, grading, and great lecture skills. Eco172= aba, Rsa, mzq.Which faculty is best for learning, grading, and great lecture skills. His103= AFRN, Mar2, mgrn. Which faculty is best for learning, grading, and great lecture skills.… See more
+[x102.2]|Deeptangshu Saha to Samiha Hossain Shoily's reply 38 weeks ago|Try to get his class at (04:20pm to 05:50pm) because at this time every student gets tired after doing lot of classes all day long and this is the plus point to curve for sir.
+[x102.4]|Tanvir Hossain Tuhin a year ago|Eco172 rsa maam ar nai
+[x102.7]|Sharmin Fatema a year ago|Eco- aqrm
+His- mgrn,mar2
+Mat125- omg, umm
+[x102.13]|Samantha Rahman a year ago|Eco104- aqrm, jvhn, ABA maam all are AMAZINGGGGGG
+[x102.15]|Samantha Rahman to Samiha Hossain Shoily's reply 38 weeks ago|Samiha Hossain Shoily yes apu In Shaa Allah. Just try not to miss classes and take notes. Kono topic bujhte problem hole visit them in their office hours, they were very helpful when I did my eco courses under them.
+[x102.16]|Sadika Saira a year ago|Eco 172 aba
+Mat125 bbn
+==X103==|raw\q_eco172.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/3216898765193939/|I need teachers for math125 & Eco172. please let me know if anyone interested
+[x103.1]|Md Asif 4 years ago|Mat125 - knock me
+==X104==|raw\q_eco173.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/3974456626104812/|Review pls Thank u! Eco173-ayo Mat125-omg Pbh101-ZZs Psy101 lab- NAK1
+[x104.0]|Taha Taief a year ago|Omg
+[x104.1]|Abu Masroor Ahmed a year ago|Ayo sir onk fast poray. Not great for learning but question easy e kore. Take MZQ if possible.
+[x104.5]|Farah Suzana a year ago|Omg sir sheii
+[x104.9]|Iftikhar Ahmed to Dipta Karmakar's reply a year ago|Dipta Karmakar how about grading and question pattern?
+[x104.12]|Zarin Sadaf Nadee a year ago|omg decurve koren
+==X105==|raw\q_eco201.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/2028658120684682/|Is it a good idea to take ECO204 before ECO201? Thanks!
+[x105.2]|Anika Farhat to Anika Farhat's comment 8 years ago|Honestly kono maths ney! Formula derive korte hoy and formula based maths shob! So chill! Kon kon math courses nila?
+[x105.3]|Mirza Mamnun to Anika Farhat's comment 8 years ago|MAT120 and MAT125 
+ Taile I'm taking 204 as my 5th course.
+[x105.5]|Anika Farhat to Anika Farhat's comment 8 years ago|Eco101 and 104 both are really easy! Ekshatheo korte parba chaile if O/A levels’e you had economics!
+Omg 120 and 125 ekshathe? More jaonai? Raida Zerin
+[x105.7]|Mirza Mamnun to Anika Farhat's comment 8 years ago|Anika Farhat Sure I'll let you know which section I'll take. Raida Zerin and I had the same faculty for MAT125 this semester but I dropped it because the faculty doesn't really teach squat
+[x105.8]|Raida Zerin to Anika Farhat's comment 8 years ago|Morei jacchi ami, Anika. Failing Mat 125 and Mat 120 doing well bc people were dropping like flies and we have 7 people left in our section so the faculty gave up on us
+[x105.9]|Anika Farhat to Anika Farhat's comment 8 years ago|Wow! Mat125 kintu super hard 
+ mat120 tao bhalo, yeah!
+[x105.10]|Raida Zerin to Anika Farhat's comment 8 years ago|Mirza Mamnun here's hoping you don't end up with the same faculty. This is always my one fear when I consider dropping. I held on bc apparently he is the best one for 125 regardless of this methods. Dead inside.
+==X106==|raw\q_eco204.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/2028658120684682/|Is it a good idea to take ECO204 before ECO201? Thanks!
+[x106.2]|Anika Farhat to Anika Farhat's comment 8 years ago|Honestly kono maths ney! Formula derive korte hoy and formula based maths shob! So chill! Kon kon math courses nila?
+[x106.3]|Mirza Mamnun to Anika Farhat's comment 8 years ago|MAT120 and MAT125 
+ Taile I'm taking 204 as my 5th course.
+[x106.5]|Anika Farhat to Anika Farhat's comment 8 years ago|Eco101 and 104 both are really easy! Ekshatheo korte parba chaile if O/A levels’e you had economics!
+Omg 120 and 125 ekshathe? More jaonai? Raida Zerin
+[x106.7]|Mirza Mamnun to Anika Farhat's comment 8 years ago|Anika Farhat Sure I'll let you know which section I'll take. Raida Zerin and I had the same faculty for MAT125 this semester but I dropped it because the faculty doesn't really teach squat
+[x106.8]|Raida Zerin to Anika Farhat's comment 8 years ago|Morei jacchi ami, Anika. Failing Mat 125 and Mat 120 doing well bc people were dropping like flies and we have 7 people left in our section so the faculty gave up on us
+[x106.9]|Anika Farhat to Anika Farhat's comment 8 years ago|Wow! Mat125 kintu super hard 
+ mat120 tao bhalo, yeah!
+[x106.10]|Raida Zerin to Anika Farhat's comment 8 years ago|Mirza Mamnun here's hoping you don't end up with the same faculty. This is always my one fear when I consider dropping. I held on bc apparently he is the best one for 125 regardless of this methods. Dead inside.
+==X107==|raw\q_eee312.json|https://www.facebook.com/groups/Nsu.faculty.course.grade/permalink/4204939039723235/|Do let me know how to do well in these courses as well as in the labs : EEE211+L - SMMA EEE312+L - Mfy MAT125 - OMG… See more
+[x107.0]|Shamiul Alam Miraj a year ago|OMG is good afaik.
+[x107.1]|Sheikh Rabab to Shamiul Alam Miraj's comment a year ago|Shamiul Alam Miraj shunsi average for learning but emnetey lenient
+[x107.2]|Shamiul Alam Miraj to Sheikh Rabab's reply a year ago|Sheikh Rabab 125 onek basic ekta course. Mid er por halka ektu complex theory ache but nije nijei manageable. Omg Grade bhalo dey sunchi. 2023 er dike onek popular chilo math er jonno.
+[x107.9]|Zarin Sadaf Nadee a year ago|Sfy goat
+[x107.11]|Zarin Sadaf Nadee to Sheikh Rabab's reply a year ago|Sheikh Rabab analytical ques dibe mid and final e, both mcq+theory(short ques and graph) thakbe. Sudhu ma'am r lectures and assignment cover korle enough to get an A/-A
+[x107.17]|Albi Habiba a year ago|Smma qs ektu lengthy dey bt easy qs dey, cheleder bhalo grade dey pera nai
+[x107.18]|Sheikh Rabab to Albi Habiba's comment a year ago|Albi Habiba damnn bhai ektur jonno bhoy peye gesilam biased naki
+[x107.20]|Safat Uddin a year ago|Omg sure A
+[x107.23]|Sheikh Rabab to Mahiyat Angona's reply 37 weeks ago|Mahiyat Angona learning is average. He teaches well but full semester e he only teaches seriously when the concept is new, other than that poraye na temon. But doing well is easy under him, onek kom syllabus, questions come from assignments and hw, those questions are pretty basic, without effort e B/B+ pawa jay sheikhane self study ektu korle A tula jabe but he doesn't curve beyond B+, you'll have to score A/A- in raw marks
+[x107.33]|Md. Mushfiqur Rahman a year ago|omg স্যার ক্লাসে যেই ম্যাথ গুলো করায় + দাগায়ে দেয় আর যেগুলো এসাইনমেন্ট দেয়, সেগুলো থেকেই ভ্যালু চেঞ্জ করে হুবুহু কুইজ, মিড, ফাইনালে দেয়, কার্ভ তেমন করেনা, মার্কস তোলা অনেক সহজ ।
+[x107.38]|Snahashis Sarker Arnob a year ago|SMMA curves a lot but apnake onk practice korte hbe nahole apni konovabei time er mddhe full answer korte parben na.
+Also, course tai emn je ekta minor bhul korleo pura answer wrong ashbe so ei course er pise apnake onk effort dite hbe.
+tbe, sir teaches well.

@@ -1,0 +1,753 @@
+[15:48:01] sink already running on 8085
+[15:48:03] opening Chrome (profile: C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\Scrapper\chrome-profile)
+[15:48:03] Chrome is ready for automation
+[15:48:25] imported the existing Chrome session into the scraper profile
+[15:48:31] sink already running on 8085
+[15:48:32] Facebook session found in the scraper profile
+[15:48:32] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt203
+[15:48:40] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt203
+[15:48:40] group 241165482653333: feed present = True
+[15:48:42] sink tab is ready
+[15:48:42] group 241165482653333: collector said 'started raw/q_bbt203.json'
+[15:48:57] group 241165482653333: 0 posts, 1 saves, log: ['resumed with 0']
+[15:49:12] group 241165482653333: 1 posts, 3 saves, log: ['resumed with 0']
+[15:49:42] group 241165482653333: 2 posts, 6 saves, log: ['skipped post without q_bbt203']
+[15:50:27] group 241165482653333: finished with 2 posts
+[15:50:27] saved 2 unique posts to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\raw\q_bbt203.json
+[15:50:27] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt203
+[15:50:36] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt203
+[15:50:36] group 171372522341869: feed present = True
+[15:50:36] sink tab already open
+[15:50:36] group 171372522341869: collector said 'started raw/q_bbt203.json'
+[15:50:51] group 171372522341869: 2 posts, 1 saves, log: ['resumed with 2']
+[15:51:06] group 171372522341869: 3 posts, 3 saves, log: ['resumed with 2']
+[15:51:36] group 171372522341869: 4 posts, 7 saves, log: ['resumed with 2']
+[15:51:51] group 171372522341869: 5 posts, 9 saves, log: ['resumed with 2']
+[15:52:21] group 171372522341869: 6 posts, 13 saves, log: ['resumed with 2']
+[15:52:51] group 171372522341869: 7 posts, 15 saves, log: ['resumed with 2']
+[15:53:21] group 171372522341869: 8 posts, 18 saves, log: ['resumed with 2']
+[15:53:51] group 171372522341869: 9 posts, 21 saves, log: ['resumed with 2']
+[15:54:21] group 171372522341869: 10 posts, 24 saves, log: ['resumed with 2']
+[15:54:51] group 171372522341869: 11 posts, 27 saves, log: ['resumed with 2']
+[15:55:21] group 171372522341869: 12 posts, 30 saves, log: ['resumed with 2']
+[15:55:51] group 171372522341869: 13 posts, 33 saves, log: ['skipped post without q_bbt203']
+[15:56:21] group 171372522341869: 14 posts, 37 saves, log: ['skipped post without q_bbt203']
+[15:56:51] group 171372522341869: 15 posts, 40 saves, log: ['skipped post without q_bbt203']
+[15:57:06] group 171372522341869: 16 posts, 42 saves, log: ['skipped post without q_bbt203']
+[15:57:51] group 171372522341869: 17 posts, 46 saves, log: ['skipped post without q_bbt203']
+[15:58:06] group 171372522341869: 18 posts, 48 saves, log: ['skipped post without q_bbt203']
+[15:58:36] group 171372522341869: 20 posts, 54 saves, log: ['skipped post without q_bbt203']
+[15:59:06] group 171372522341869: 21 posts, 57 saves, log: ['skipped post without q_bbt203']
+[15:59:36] group 171372522341869: 22 posts, 61 saves, log: ['skipped post without q_bbt203']
+[15:59:51] group 171372522341869: 23 posts, 64 saves, log: ['skipped post without q_bbt203']
+[16:00:21] group 171372522341869: 24 posts, 67 saves, log: ['skipped post without q_bbt203']
+[16:00:36] group 171372522341869: 25 posts, 69 saves, log: ['skipped post without q_bbt203']
+[16:01:06] group 171372522341869: 26 posts, 72 saves, log: ['skipped post without q_bbt203']
+[16:01:21] group 171372522341869: finished with 26 posts
+[16:01:21] saved 26 unique posts to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\raw\q_bbt203.json
+[16:01:21] second group finished with fewer than 60 posts (end of results)
+[16:01:23] done: bbt203 -> 26 posts in C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\raw\q_bbt203.json
+[16:05:22] sink already running on 8085
+[16:05:22] Chrome DevTools is available on 9222.
+[16:05:22] collector found: True
+[16:05:22] output folder: C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT
+[16:05:22] courses: bbt221, bbt230, bbt312, bbt314, bbt315, bbt316, bbt317, bbt318, bbt335, bbt413, bbt415, bbt416, bbt417, bbt418, bbt419, bbt421, bbt422, bbt423, bbt424, bbt427
+[16:05:22] check complete
+[16:05:26] sink already running on 8085
+[16:05:27] Facebook session found in the scraper profile
+[16:05:27] ===== [1/20] bbt221 =====
+[16:05:27] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt221
+[16:05:35] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt221
+[16:05:35] group 241165482653333: feed present = True
+[16:05:35] sink tab already open
+[16:05:35] group 241165482653333: collector said 'started BBT/q_bbt221.json'
+[16:05:50] group 241165482653333: 0 posts, 1 saves, log: ['resumed with 0']
+[16:06:05] group 241165482653333: 1 posts, 3 saves, log: ['skipped post without q_bbt221']
+[16:06:50] group 241165482653333: finished with 1 posts
+[16:06:50] bbt221: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt221.json
+[16:06:50] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt221
+[16:06:58] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt221
+[16:06:58] group 171372522341869: feed present = True
+[16:06:58] sink tab already open
+[16:06:58] group 171372522341869: collector said 'started BBT/q_bbt221.json'
+[16:07:13] group 171372522341869: 1 posts, 1 saves, log: ['resumed with 1']
+[16:07:28] group 171372522341869: 2 posts, 3 saves, log: ['resumed with 1']
+[16:07:58] group 171372522341869: 3 posts, 6 saves, log: ['resumed with 1']
+[16:08:28] group 171372522341869: 4 posts, 9 saves, log: ['resumed with 1']
+[16:08:58] group 171372522341869: 5 posts, 13 saves, log: ['resumed with 1']
+[16:09:28] group 171372522341869: 6 posts, 16 saves, log: ['skipped post without q_bbt221']
+[16:09:58] group 171372522341869: 7 posts, 19 saves, log: ['skipped post without q_bbt221']
+[16:10:28] group 171372522341869: 8 posts, 21 saves, log: ['skipped post without q_bbt221']
+[16:10:58] group 171372522341869: 9 posts, 24 saves, log: ['skipped post without q_bbt221']
+[16:11:28] group 171372522341869: 10 posts, 27 saves, log: ['skipped post without q_bbt221']
+[16:12:13] group 171372522341869: 11 posts, 30 saves, log: ['skipped post without q_bbt221']
+[16:12:43] group 171372522341869: 12 posts, 33 saves, log: ['skipped post without q_bbt221']
+[16:13:13] group 171372522341869: 13 posts, 36 saves, log: ['skipped post without q_bbt221']
+[16:13:43] group 171372522341869: 14 posts, 40 saves, log: ['skipped post without q_bbt221']
+[16:14:13] group 171372522341869: 15 posts, 43 saves, log: ['skipped post without q_bbt221']
+[16:14:43] group 171372522341869: 16 posts, 45 saves, log: ['skipped post without q_bbt221']
+[16:15:14] group 171372522341869: 17 posts, 48 saves, log: ['skipped post without q_bbt221']
+[16:15:59] group 171372522341869: 18 posts, 52 saves, log: ['skipped post without q_bbt221']
+[16:16:14] group 171372522341869: 19 posts, 54 saves, log: ['skipped post without q_bbt221']
+[16:16:44] group 171372522341869: 20 posts, 57 saves, log: ['skipped post without q_bbt221']
+[16:17:14] group 171372522341869: 21 posts, 60 saves, log: ['skipped post without q_bbt221']
+[16:17:59] group 171372522341869: 22 posts, 63 saves, log: ['skipped post without q_bbt221']
+[16:18:29] group 171372522341869: 23 posts, 66 saves, log: ['skipped post without q_bbt221']
+[16:19:14] group 171372522341869: 24 posts, 70 saves, log: ['skipped post without q_bbt221']
+[16:19:44] group 171372522341869: 25 posts, 72 saves, log: ['skipped post without q_bbt221']
+[16:20:29] group 171372522341869: 26 posts, 76 saves, log: ['skipped post without q_bbt221']
+[16:20:59] group 171372522341869: 27 posts, 79 saves, log: ['skipped post without q_bbt221']
+[16:21:29] group 171372522341869: 28 posts, 82 saves, log: ['skipped post without q_bbt221']
+[16:21:44] group 171372522341869: 29 posts, 84 saves, log: ['skipped post without q_bbt221']
+[16:22:14] group 171372522341869: 30 posts, 87 saves, log: ['skipped post without q_bbt221']
+[16:22:59] group 171372522341869: 31 posts, 91 saves, log: ['skipped post without q_bbt221']
+[16:23:29] group 171372522341869: 32 posts, 94 saves, log: ['skipped post without q_bbt221']
+[16:23:59] group 171372522341869: 33 posts, 96 saves, log: ['skipped post without q_bbt221']
+[16:24:44] group 171372522341869: 34 posts, 100 saves, log: ['skipped post without q_bbt221']
+[16:25:14] group 171372522341869: 35 posts, 103 saves, log: ['skipped post without q_bbt221']
+[16:25:44] group 171372522341869: 36 posts, 106 saves, log: ['skipped post without q_bbt221']
+[16:26:14] group 171372522341869: 37 posts, 109 saves, log: ['skipped post without q_bbt221']
+[16:26:29] group 171372522341869: 38 posts, 111 saves, log: ['skipped post without q_bbt221']
+[16:26:59] group 171372522341869: 39 posts, 114 saves, log: ['skipped post without q_bbt221']
+[16:27:29] group 171372522341869: 40 posts, 117 saves, log: ['skipped post without q_bbt221']
+[16:27:59] group 171372522341869: 41 posts, 121 saves, log: ['skipped post without q_bbt221']
+[16:28:29] group 171372522341869: 42 posts, 123 saves, log: ['skipped post without q_bbt221']
+[16:29:00] group 171372522341869: 43 posts, 126 saves, log: ['skipped post without q_bbt221']
+[16:29:30] group 171372522341869: 44 posts, 129 saves, log: ['skipped post without q_bbt221']
+[16:30:15] group 171372522341869: 45 posts, 133 saves, log: ['skipped post without q_bbt221']
+[16:30:30] group 171372522341869: 46 posts, 135 saves, log: ['skipped post without q_bbt221']
+[16:31:15] group 171372522341869: 47 posts, 139 saves, log: ['skipped post without q_bbt221']
+[16:31:45] group 171372522341869: 48 posts, 141 saves, log: ['skipped post without q_bbt221']
+[16:32:15] group 171372522341869: 49 posts, 144 saves, log: ['skipped post without q_bbt221']
+[16:32:45] group 171372522341869: 50 posts, 148 saves, log: ['skipped post without q_bbt221']
+[16:33:15] [1/20] bbt221: FAILED - The collector stopped responding in group 171372522341869 (the page probably reloaded).
+[16:33:15] ===== [2/20] bbt230 =====
+[16:33:15] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt230
+[16:33:22] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt230
+[16:33:22] group 241165482653333: feed present = True
+[16:33:23] sink tab already open
+[16:33:23] group 241165482653333: collector said 'started BBT/q_bbt230.json'
+[16:33:38] group 241165482653333: 0 posts, 1 saves, log: ['resumed with 0']
+[16:33:53] group 241165482653333: 1 posts, 4 saves, log: ['resumed with 0']
+[16:34:23] group 241165482653333: 2 posts, 7 saves, log: ['resumed with 0']
+[16:34:38] group 241165482653333: 3 posts, 9 saves, log: ['resumed with 0']
+[16:34:53] group 241165482653333: finished with 3 posts
+[16:34:53] bbt230: 3 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt230.json
+[16:34:53] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt230
+[16:35:00] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt230
+[16:35:00] group 171372522341869: feed present = True
+[16:35:00] sink tab already open
+[16:35:00] group 171372522341869: collector said 'started BBT/q_bbt230.json'
+[16:35:15] group 171372522341869: 3 posts, 1 saves, log: ['resumed with 3']
+[16:35:30] group 171372522341869: 4 posts, 4 saves, log: ['resumed with 3']
+[16:36:00] group 171372522341869: 5 posts, 7 saves, log: ['resumed with 3']
+[16:36:15] group 171372522341869: 6 posts, 9 saves, log: ['resumed with 3']
+[16:36:45] group 171372522341869: 7 posts, 12 saves, log: ['resumed with 3']
+[16:37:15] group 171372522341869: 8 posts, 15 saves, log: ['resumed with 3']
+[16:38:01] group 171372522341869: 9 posts, 19 saves, log: ['skipped post without q_bbt230']
+[16:38:16] group 171372522341869: 10 posts, 21 saves, log: ['skipped post without q_bbt230']
+[16:38:46] group 171372522341869: 11 posts, 24 saves, log: ['skipped post without q_bbt230']
+[16:39:16] group 171372522341869: 12 posts, 27 saves, log: ['skipped post without q_bbt230']
+[16:39:46] group 171372522341869: 13 posts, 30 saves, log: ['skipped post without q_bbt230']
+[16:40:31] group 171372522341869: 14 posts, 33 saves, log: ['skipped post without q_bbt230']
+[16:41:01] group 171372522341869: 15 posts, 37 saves, log: ['skipped post without q_bbt230']
+[16:41:31] group 171372522341869: 16 posts, 40 saves, log: ['skipped post without q_bbt230']
+[16:42:01] group 171372522341869: 17 posts, 43 saves, log: ['skipped post without q_bbt230']
+[16:42:16] group 171372522341869: 18 posts, 45 saves, log: ['skipped post without q_bbt230']
+[16:43:01] group 171372522341869: 19 posts, 49 saves, log: ['skipped post without q_bbt230']
+[16:43:31] group 171372522341869: 20 posts, 52 saves, log: ['skipped post without q_bbt230']
+[16:44:01] group 171372522341869: 21 posts, 55 saves, log: ['skipped post without q_bbt230']
+[16:44:16] group 171372522341869: 22 posts, 57 saves, log: ['skipped post without q_bbt230']
+[16:44:46] group 171372522341869: 23 posts, 60 saves, log: ['skipped post without q_bbt230']
+[16:45:16] group 171372522341869: 24 posts, 63 saves, log: ['skipped post without q_bbt230']
+[16:45:46] group 171372522341869: 25 posts, 66 saves, log: ['skipped post without q_bbt230']
+[16:46:31] group 171372522341869: 26 posts, 69 saves, log: ['skipped post without q_bbt230']
+[16:47:01] group 171372522341869: 27 posts, 72 saves, log: ['skipped post without q_bbt230']
+[16:47:31] group 171372522341869: 28 posts, 75 saves, log: ['skipped post without q_bbt230']
+[16:48:01] group 171372522341869: 29 posts, 78 saves, log: ['skipped post without q_bbt230']
+[16:48:16] group 171372522341869: 30 posts, 81 saves, log: ['skipped post without q_bbt230']
+[16:48:46] group 171372522341869: 31 posts, 84 saves, log: ['skipped post without q_bbt230']
+[16:49:17] group 171372522341869: 32 posts, 87 saves, log: ['skipped post without q_bbt230']
+[16:49:47] group 171372522341869: 33 posts, 90 saves, log: ['skipped post without q_bbt230']
+[16:50:17] group 171372522341869: 34 posts, 93 saves, log: ['skipped post without q_bbt230']
+[16:50:47] group 171372522341869: 35 posts, 96 saves, log: ['skipped post without q_bbt230']
+[16:51:17] group 171372522341869: 36 posts, 100 saves, log: ['skipped post without q_bbt230']
+[16:51:47] group 171372522341869: 37 posts, 103 saves, log: ['skipped post without q_bbt230']
+[16:52:17] group 171372522341869: 38 posts, 106 saves, log: ['skipped post without q_bbt230']
+[16:52:47] group 171372522341869: 39 posts, 108 saves, log: ['skipped post without q_bbt230']
+[16:53:17] group 171372522341869: 40 posts, 111 saves, log: ['skipped post without q_bbt230']
+[16:53:47] group 171372522341869: 41 posts, 115 saves, log: ['skipped post without q_bbt230']
+[16:54:02] group 171372522341869: 42 posts, 117 saves, log: ['skipped post without q_bbt230']
+[16:54:32] group 171372522341869: 43 posts, 121 saves, log: ['skipped post without q_bbt230']
+[16:54:47] group 171372522341869: 44 posts, 124 saves, log: ['skipped post without q_bbt230']
+[16:55:02] group 171372522341869: 45 posts, 126 saves, log: ['skipped post without q_bbt230']
+[16:55:32] group 171372522341869: 47 posts, 132 saves, log: ['skipped post without q_bbt230']
+[16:56:02] group 171372522341869: 48 posts, 135 saves, log: ['skipped post without q_bbt230']
+[16:56:32] group 171372522341869: 49 posts, 138 saves, log: ['skipped post without q_bbt230']
+[16:57:02] group 171372522341869: 50 posts, 142 saves, log: ['skipped post without q_bbt230']
+[16:57:17] group 171372522341869: 51 posts, 145 saves, log: ['skipped post without q_bbt230']
+[16:57:48] group 171372522341869: 52 posts, 148 saves, log: ['skipped post without q_bbt230']
+[16:58:18] group 171372522341869: 53 posts, 151 saves, log: ['skipped post without q_bbt230']
+[16:58:33] group 171372522341869: 54 posts, 153 saves, log: ['skipped post without q_bbt230']
+[16:59:03] group 171372522341869: 55 posts, 156 saves, log: ['skipped post without q_bbt230']
+[16:59:18] [2/20] bbt230: FAILED - The collector stopped responding in group 171372522341869 (the page probably reloaded).
+[16:59:18] ===== [3/20] bbt312 =====
+[16:59:18] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt312
+[16:59:26] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt312
+[16:59:26] group 241165482653333: feed present = True
+[16:59:26] sink tab already open
+[16:59:26] group 241165482653333: collector said 'started BBT/q_bbt312.json'
+[16:59:41] group 241165482653333: 0 posts, 1 saves, log: ['resumed with 0']
+[16:59:56] group 241165482653333: 1 posts, 3 saves, log: ['resumed with 0']
+[17:00:26] group 241165482653333: 2 posts, 6 saves, log: ['resumed with 0']
+[17:00:57] group 241165482653333: 3 posts, 9 saves, log: ['resumed with 0']
+[17:01:12] group 241165482653333: finished with 3 posts
+[17:01:12] bbt312: 3 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt312.json
+[17:01:12] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt312
+[17:01:20] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt312
+[17:01:20] group 171372522341869: feed present = True
+[17:01:20] sink tab already open
+[17:01:20] group 171372522341869: collector said 'started BBT/q_bbt312.json'
+[17:01:35] group 171372522341869: 3 posts, 1 saves, log: ['resumed with 3']
+[17:02:20] group 171372522341869: 4 posts, 3 saves, log: ['resumed with 3']
+[17:02:50] group 171372522341869: 5 posts, 7 saves, log: ['resumed with 3']
+[17:03:20] group 171372522341869: 6 posts, 9 saves, log: ['resumed with 3']
+[17:03:50] group 171372522341869: 7 posts, 12 saves, log: ['resumed with 3']
+[17:04:35] group 171372522341869: 8 posts, 16 saves, log: ['skipped post without q_bbt312']
+[17:05:05] group 171372522341869: 9 posts, 19 saves, log: ['skipped post without q_bbt312']
+[17:05:35] group 171372522341869: 10 posts, 22 saves, log: ['skipped post without q_bbt312']
+[17:06:05] group 171372522341869: 11 posts, 25 saves, log: ['skipped post without q_bbt312']
+[17:06:35] group 171372522341869: 12 posts, 27 saves, log: ['skipped post without q_bbt312']
+[17:07:05] group 171372522341869: 13 posts, 30 saves, log: ['skipped post without q_bbt312']
+[17:07:35] group 171372522341869: 14 posts, 34 saves, log: ['skipped post without q_bbt312']
+[17:08:05] group 171372522341869: 15 posts, 37 saves, log: ['skipped post without q_bbt312']
+[17:08:20] group 171372522341869: 16 posts, 40 saves, log: ['skipped post without q_bbt312']
+[17:08:50] group 171372522341869: 17 posts, 44 saves, log: ['End of results reached']
+[17:08:50] group 171372522341869: finished with 17 posts
+[17:08:50] bbt312: 17 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt312.json
+[17:08:50] bbt312: second group finished below 60 posts (end of results)
+[17:08:50] [3/20] bbt312: done with 17 posts
+[17:08:50] ===== [4/20] bbt314 =====
+[17:08:50] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt314
+[17:08:58] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt314
+[17:08:58] group 241165482653333: feed present = True
+[17:08:58] sink tab already open
+[17:08:58] group 241165482653333: collector said 'started BBT/q_bbt314.json'
+[17:09:13] group 241165482653333: 0 posts, 1 saves, log: ['resumed with 0']
+[17:09:28] group 241165482653333: 1 posts, 3 saves, log: ['skipped post without q_bbt314']
+[17:10:13] group 241165482653333: finished with 1 posts
+[17:10:13] bbt314: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt314.json
+[17:10:13] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt314
+[17:10:20] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt314
+[17:10:20] group 171372522341869: feed present = True
+[17:10:20] sink tab already open
+[17:10:21] group 171372522341869: collector said 'started BBT/q_bbt314.json'
+[17:10:36] group 171372522341869: 1 posts, 1 saves, log: ['resumed with 1']
+[17:10:51] group 171372522341869: 2 posts, 3 saves, log: ['resumed with 1']
+[17:11:51] group 171372522341869: 3 posts, 6 saves, log: ['resumed with 1']
+[17:12:21] group 171372522341869: 4 posts, 9 saves, log: ['resumed with 1']
+[17:12:51] group 171372522341869: 5 posts, 12 saves, log: ['resumed with 1']
+[17:13:36] group 171372522341869: 6 posts, 16 saves, log: ['resumed with 1']
+[17:13:51] group 171372522341869: 7 posts, 18 saves, log: ['resumed with 1']
+[17:14:21] group 171372522341869: 8 posts, 21 saves, log: ['resumed with 1']
+[17:14:51] group 171372522341869: 9 posts, 25 saves, log: ['resumed with 1']
+[17:15:06] group 171372522341869: 10 posts, 27 saves, log: ['resumed with 1']
+[17:15:36] group 171372522341869: 11 posts, 31 saves, log: ['resumed with 1']
+[17:16:06] group 171372522341869: 12 posts, 33 saves, log: ['skipped post without q_bbt314']
+[17:16:36] group 171372522341869: 13 posts, 37 saves, log: ['skipped post without q_bbt314']
+[17:16:51] group 171372522341869: 14 posts, 39 saves, log: ['skipped post without q_bbt314']
+[17:17:36] group 171372522341869: 15 posts, 43 saves, log: ['skipped post without q_bbt314']
+[17:17:51] group 171372522341869: 16 posts, 45 saves, log: ['skipped post without q_bbt314']
+[17:18:21] group 171372522341869: 17 posts, 49 saves, log: ['skipped post without q_bbt314']
+[17:18:36] group 171372522341869: 18 posts, 51 saves, log: ['skipped post without q_bbt314']
+[17:19:06] group 171372522341869: 19 posts, 55 saves, log: ['skipped post without q_bbt314']
+[17:19:21] group 171372522341869: 20 posts, 57 saves, log: ['skipped post without q_bbt314']
+[17:19:51] group 171372522341869: 21 posts, 61 saves, log: ['skipped post without q_bbt314']
+[17:20:06] group 171372522341869: 22 posts, 64 saves, log: ['skipped post without q_bbt314']
+[17:20:21] group 171372522341869: 23 posts, 66 saves, log: ['skipped post without q_bbt314']
+[17:21:21] group 171372522341869: 24 posts, 69 saves, log: ['skipped post without q_bbt314']
+[17:21:36] group 171372522341869: finished with 24 posts
+[17:21:36] bbt314: 24 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt314.json
+[17:21:36] bbt314: second group finished below 60 posts (end of results)
+[17:21:36] [4/20] bbt314: done with 24 posts
+[17:21:36] ===== [5/20] bbt315 =====
+[17:21:36] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt315
+[17:21:44] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt315
+[17:21:44] group 241165482653333: feed present = True
+[17:21:44] sink tab already open
+[17:21:44] group 241165482653333: collector said 'started BBT/q_bbt315.json'
+[17:21:59] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt315']
+[17:22:44] group 241165482653333: finished with 0 posts
+[17:22:44] bbt315: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt315.json
+[17:22:44] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt315
+[17:22:51] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt315
+[17:22:51] group 171372522341869: feed present = True
+[17:22:51] sink tab already open
+[17:22:51] group 171372522341869: collector said 'started BBT/q_bbt315.json'
+[17:23:06] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[17:23:51] group 171372522341869: 1 posts, 4 saves, log: ['resumed with 0']
+[17:24:21] group 171372522341869: 2 posts, 7 saves, log: ['resumed with 0']
+[17:24:51] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[17:25:21] group 171372522341869: 4 posts, 13 saves, log: ['resumed with 0']
+[17:25:36] group 171372522341869: 5 posts, 15 saves, log: ['resumed with 0']
+[17:26:06] group 171372522341869: 6 posts, 19 saves, log: ['resumed with 0']
+[17:26:21] group 171372522341869: 7 posts, 21 saves, log: ['resumed with 0']
+[17:27:06] group 171372522341869: 8 posts, 25 saves, log: ['resumed with 0']
+[17:27:36] group 171372522341869: 9 posts, 28 saves, log: ['resumed with 0']
+[17:28:06] group 171372522341869: 10 posts, 31 saves, log: ['resumed with 0']
+[17:28:21] group 171372522341869: 11 posts, 33 saves, log: ['resumed with 0']
+[17:29:06] group 171372522341869: 12 posts, 36 saves, log: ['resumed with 0']
+[17:29:36] group 171372522341869: 13 posts, 40 saves, log: ['resumed with 0']
+[17:29:51] group 171372522341869: 14 posts, 43 saves, log: ['skipped post without q_bbt315']
+[17:30:21] group 171372522341869: 15 posts, 45 saves, log: ['skipped post without q_bbt315']
+[17:30:51] group 171372522341869: 16 posts, 49 saves, log: ['skipped post without q_bbt315']
+[17:31:07] group 171372522341869: 17 posts, 52 saves, log: ['skipped post without q_bbt315']
+[17:31:37] group 171372522341869: 18 posts, 56 saves, log: ['End of results reached']
+[17:31:37] group 171372522341869: finished with 18 posts
+[17:31:37] bbt315: 18 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt315.json
+[17:31:37] bbt315: second group finished below 60 posts (end of results)
+[17:31:37] [5/20] bbt315: done with 18 posts
+[17:31:37] ===== [6/20] bbt316 =====
+[17:31:37] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt316
+[17:31:44] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt316
+[17:31:44] group 241165482653333: feed present = True
+[17:31:44] sink tab already open
+[17:31:44] group 241165482653333: collector said 'started BBT/q_bbt316.json'
+[17:31:59] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt316']
+[17:32:44] group 241165482653333: finished with 0 posts
+[17:32:44] bbt316: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt316.json
+[17:32:44] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt316
+[17:32:52] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt316
+[17:32:52] group 171372522341869: feed present = True
+[17:32:52] sink tab already open
+[17:32:52] group 171372522341869: collector said 'started BBT/q_bbt316.json'
+[17:33:07] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[17:33:22] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[17:33:52] group 171372522341869: 2 posts, 6 saves, log: ['resumed with 0']
+[17:34:22] group 171372522341869: 3 posts, 9 saves, log: ['resumed with 0']
+[17:34:52] group 171372522341869: 4 posts, 13 saves, log: ['resumed with 0']
+[17:35:07] group 171372522341869: 5 posts, 15 saves, log: ['resumed with 0']
+[17:35:37] group 171372522341869: 6 posts, 18 saves, log: ['skipped post without q_bbt316']
+[17:35:52] group 171372522341869: finished with 6 posts
+[17:35:52] bbt316: 6 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt316.json
+[17:35:52] bbt316: second group finished below 60 posts (end of results)
+[17:35:52] [6/20] bbt316: done with 6 posts
+[17:35:52] ===== [7/20] bbt317 =====
+[17:35:52] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt317
+[17:35:59] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt317
+[17:35:59] group 241165482653333: feed present = True
+[17:36:00] sink tab already open
+[17:36:00] group 241165482653333: collector said 'started BBT/q_bbt317.json'
+[17:36:15] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt317']
+[17:37:00] group 241165482653333: finished with 0 posts
+[17:37:00] bbt317: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt317.json
+[17:37:00] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt317
+[17:37:07] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt317
+[17:37:07] group 171372522341869: feed present = True
+[17:37:07] sink tab already open
+[17:37:07] group 171372522341869: collector said 'started BBT/q_bbt317.json'
+[17:37:22] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[17:37:37] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[17:38:22] group 171372522341869: 2 posts, 7 saves, log: ['resumed with 0']
+[17:38:52] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[17:39:07] group 171372522341869: 4 posts, 12 saves, log: ['resumed with 0']
+[17:39:37] group 171372522341869: 5 posts, 15 saves, log: ['resumed with 0']
+[17:40:22] group 171372522341869: 6 posts, 18 saves, log: ['resumed with 0']
+[17:40:37] group 171372522341869: 7 posts, 22 saves, log: ['resumed with 0']
+[17:40:52] group 171372522341869: 8 posts, 24 saves, log: ['resumed with 0']
+[17:41:22] group 171372522341869: 9 posts, 27 saves, log: ['resumed with 0']
+[17:41:52] group 171372522341869: 10 posts, 31 saves, log: ['resumed with 0']
+[17:42:07] group 171372522341869: 11 posts, 33 saves, log: ['resumed with 0']
+[17:42:37] group 171372522341869: 12 posts, 37 saves, log: ['resumed with 0']
+[17:42:52] group 171372522341869: 13 posts, 39 saves, log: ['resumed with 0']
+[17:43:07] group 171372522341869: finished with 13 posts
+[17:43:07] bbt317: 13 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt317.json
+[17:43:07] bbt317: second group finished below 60 posts (end of results)
+[17:43:07] [7/20] bbt317: done with 13 posts
+[17:43:07] ===== [8/20] bbt318 =====
+[17:43:07] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt318
+[17:43:14] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt318
+[17:43:14] group 241165482653333: feed present = True
+[17:43:15] sink tab already open
+[17:43:15] group 241165482653333: collector said 'started BBT/q_bbt318.json'
+[17:43:30] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt318']
+[17:44:15] group 241165482653333: finished with 0 posts
+[17:44:15] bbt318: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt318.json
+[17:44:15] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt318
+[17:44:22] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt318
+[17:44:22] group 171372522341869: feed present = True
+[17:44:22] sink tab already open
+[17:44:22] group 171372522341869: collector said 'started BBT/q_bbt318.json'
+[17:44:37] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[17:44:52] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[17:45:22] group 171372522341869: 2 posts, 6 saves, log: ['resumed with 0']
+[17:45:52] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[17:46:22] group 171372522341869: 4 posts, 12 saves, log: ['resumed with 0']
+[17:47:07] group 171372522341869: 5 posts, 17 saves, log: ['End of results reached']
+[17:47:07] group 171372522341869: finished with 5 posts
+[17:47:07] bbt318: 5 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt318.json
+[17:47:07] bbt318: second group finished below 60 posts (end of results)
+[17:47:07] [8/20] bbt318: done with 5 posts
+[17:47:07] ===== [9/20] bbt335 =====
+[17:47:07] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt335
+[17:47:15] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt335
+[17:47:15] group 241165482653333: feed present = True
+[17:47:15] sink tab already open
+[17:47:15] group 241165482653333: collector said 'started BBT/q_bbt335.json'
+[17:47:30] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt335']
+[17:48:15] group 241165482653333: finished with 0 posts
+[17:48:15] bbt335: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt335.json
+[17:48:15] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt335
+[17:48:23] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt335
+[17:48:23] group 171372522341869: feed present = True
+[17:48:23] sink tab already open
+[17:48:23] group 171372522341869: collector said 'started BBT/q_bbt335.json'
+[17:48:38] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[17:48:53] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[17:49:38] group 171372522341869: 2 posts, 7 saves, log: ['resumed with 0']
+[17:50:08] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[17:50:38] group 171372522341869: 4 posts, 13 saves, log: ['resumed with 0']
+[17:50:53] group 171372522341869: 5 posts, 15 saves, log: ['skipped post without q_bbt335']
+[17:51:08] group 171372522341869: finished with 5 posts
+[17:51:08] bbt335: 5 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt335.json
+[17:51:08] bbt335: second group finished below 60 posts (end of results)
+[17:51:08] [9/20] bbt335: done with 5 posts
+[17:51:08] ===== [10/20] bbt413 =====
+[17:51:08] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt413
+[17:51:15] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt413
+[17:51:15] group 241165482653333: feed present = True
+[17:51:15] sink tab already open
+[17:51:15] group 241165482653333: collector said 'started BBT/q_bbt413.json'
+[17:51:30] group 241165482653333: 0 posts, 1 saves, log: ['resumed with 0']
+[17:51:45] group 241165482653333: 1 posts, 3 saves, log: ['resumed with 0']
+[17:52:45] group 241165482653333: finished with 1 posts
+[17:52:45] bbt413: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt413.json
+[17:52:45] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt413
+[17:52:52] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt413
+[17:52:52] group 171372522341869: feed present = True
+[17:52:52] sink tab already open
+[17:52:52] group 171372522341869: collector said 'started BBT/q_bbt413.json'
+[17:53:07] group 171372522341869: 1 posts, 1 saves, log: ['resumed with 1']
+[17:53:23] group 171372522341869: 2 posts, 3 saves, log: ['resumed with 1']
+[17:53:53] group 171372522341869: 3 posts, 7 saves, log: ['resumed with 1']
+[17:54:08] group 171372522341869: 4 posts, 10 saves, log: ['resumed with 1']
+[17:54:23] group 171372522341869: 5 posts, 12 saves, log: ['resumed with 1']
+[17:55:23] group 171372522341869: finished with 5 posts
+[17:55:23] bbt413: 5 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt413.json
+[17:55:23] bbt413: second group finished below 60 posts (end of results)
+[17:55:23] [10/20] bbt413: done with 5 posts
+[17:55:23] ===== [11/20] bbt415 =====
+[17:55:23] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt415
+[17:55:30] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt415
+[17:55:30] group 241165482653333: feed present = True
+[17:55:30] sink tab already open
+[17:55:30] group 241165482653333: collector said 'started BBT/q_bbt415.json'
+[17:55:45] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt415']
+[17:56:30] group 241165482653333: finished with 0 posts
+[17:56:30] bbt415: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt415.json
+[17:56:30] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt415
+[17:56:37] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt415
+[17:56:37] group 171372522341869: feed present = True
+[17:56:37] sink tab already open
+[17:56:37] group 171372522341869: collector said 'started BBT/q_bbt415.json'
+[17:56:52] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[17:57:07] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[17:57:37] group 171372522341869: 2 posts, 6 saves, log: ['resumed with 0']
+[17:58:07] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[17:58:37] group 171372522341869: 4 posts, 13 saves, log: ['resumed with 0']
+[17:58:52] group 171372522341869: 5 posts, 15 saves, log: ['resumed with 0']
+[17:59:08] group 171372522341869: finished with 5 posts
+[17:59:08] bbt415: 5 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt415.json
+[17:59:08] bbt415: second group finished below 60 posts (end of results)
+[17:59:08] [11/20] bbt415: done with 5 posts
+[17:59:08] ===== [12/20] bbt416 =====
+[17:59:08] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt416
+[17:59:15] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt416
+[17:59:15] group 241165482653333: feed present = True
+[17:59:15] sink tab already open
+[17:59:15] group 241165482653333: collector said 'started BBT/q_bbt416.json'
+[17:59:30] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt416']
+[18:00:15] group 241165482653333: finished with 0 posts
+[18:00:15] bbt416: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt416.json
+[18:00:15] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt416
+[18:00:23] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt416
+[18:00:23] group 171372522341869: feed present = True
+[18:00:23] sink tab already open
+[18:00:23] group 171372522341869: collector said 'started BBT/q_bbt416.json'
+[18:00:38] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[18:01:08] group 171372522341869: 1 posts, 4 saves, log: ['resumed with 0']
+[18:01:38] group 171372522341869: 2 posts, 7 saves, log: ['resumed with 0']
+[18:02:08] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[18:02:23] group 171372522341869: 4 posts, 12 saves, log: ['resumed with 0']
+[18:02:53] group 171372522341869: 5 posts, 15 saves, log: ['resumed with 0']
+[18:03:08] group 171372522341869: finished with 5 posts
+[18:03:08] bbt416: 5 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt416.json
+[18:03:08] bbt416: second group finished below 60 posts (end of results)
+[18:03:08] [12/20] bbt416: done with 5 posts
+[18:03:08] ===== [13/20] bbt417 =====
+[18:03:08] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt417
+[18:03:15] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt417
+[18:03:15] group 241165482653333: feed present = True
+[18:03:15] sink tab already open
+[18:03:15] group 241165482653333: collector said 'started BBT/q_bbt417.json'
+[18:03:30] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt417']
+[18:04:15] group 241165482653333: finished with 0 posts
+[18:04:15] bbt417: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt417.json
+[18:04:15] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt417
+[18:04:23] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt417
+[18:04:23] group 171372522341869: feed present = True
+[18:04:23] sink tab already open
+[18:04:23] group 171372522341869: collector said 'started BBT/q_bbt417.json'
+[18:04:38] group 171372522341869: 0 posts, 0 saves, log: ['skipped post without q_bbt417']
+[18:05:08] group 171372522341869: finished with 0 posts
+[18:05:08] bbt417: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt417.json
+[18:05:08] bbt417: second group finished below 60 posts (end of results)
+[18:05:08] [13/20] bbt417: done with 0 posts
+[18:05:08] ===== [14/20] bbt418 =====
+[18:05:08] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt418
+[18:05:15] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt418
+[18:05:15] group 241165482653333: feed present = True
+[18:05:15] sink tab already open
+[18:05:15] group 241165482653333: collector said 'started BBT/q_bbt418.json'
+[18:05:30] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt418']
+[18:06:15] group 241165482653333: finished with 0 posts
+[18:06:15] bbt418: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt418.json
+[18:06:15] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt418
+[18:06:22] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt418
+[18:06:22] group 171372522341869: feed present = True
+[18:06:22] sink tab already open
+[18:06:22] group 171372522341869: collector said 'started BBT/q_bbt418.json'
+[18:06:37] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[18:06:52] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[18:07:37] group 171372522341869: finished with 1 posts
+[18:07:37] bbt418: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt418.json
+[18:07:37] bbt418: second group finished below 60 posts (end of results)
+[18:07:37] [14/20] bbt418: done with 1 posts
+[18:07:37] ===== [15/20] bbt419 =====
+[18:07:37] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt419
+[18:07:44] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt419
+[18:07:44] group 241165482653333: feed present = True
+[18:07:45] sink tab already open
+[18:07:45] group 241165482653333: collector said 'started BBT/q_bbt419.json'
+[18:08:00] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt419']
+[18:08:45] group 241165482653333: finished with 0 posts
+[18:08:45] bbt419: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt419.json
+[18:08:45] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt419
+[18:08:52] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt419
+[18:08:52] group 171372522341869: feed present = True
+[18:08:52] sink tab already open
+[18:08:52] group 171372522341869: collector said 'started BBT/q_bbt419.json'
+[18:09:07] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[18:09:22] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[18:10:07] group 171372522341869: finished with 1 posts
+[18:10:07] bbt419: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt419.json
+[18:10:07] bbt419: second group finished below 60 posts (end of results)
+[18:10:07] [15/20] bbt419: done with 1 posts
+[18:10:07] ===== [16/20] bbt421 =====
+[18:10:07] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt421
+[18:10:14] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt421
+[18:10:14] group 241165482653333: feed present = True
+[18:10:14] sink tab already open
+[18:10:14] group 241165482653333: collector said 'started BBT/q_bbt421.json'
+[18:10:29] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt421']
+[18:11:14] group 241165482653333: finished with 0 posts
+[18:11:14] bbt421: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt421.json
+[18:11:14] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt421
+[18:11:21] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt421
+[18:11:21] group 171372522341869: feed present = True
+[18:11:21] sink tab already open
+[18:11:21] group 171372522341869: collector said 'started BBT/q_bbt421.json'
+[18:11:36] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[18:11:51] group 171372522341869: 1 posts, 4 saves, log: ['resumed with 0']
+[18:12:06] group 171372522341869: 2 posts, 6 saves, log: ['resumed with 0']
+[18:12:51] group 171372522341869: finished with 2 posts
+[18:12:51] bbt421: 2 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt421.json
+[18:12:51] bbt421: second group finished below 60 posts (end of results)
+[18:12:51] [16/20] bbt421: done with 2 posts
+[18:12:51] ===== [17/20] bbt422 =====
+[18:12:51] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt422
+[18:13:00] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt422
+[18:13:00] group 241165482653333: feed present = True
+[18:13:00] sink tab already open
+[18:13:00] group 241165482653333: collector said 'started BBT/q_bbt422.json'
+[18:13:15] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt422']
+[18:14:00] group 241165482653333: finished with 0 posts
+[18:14:00] bbt422: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt422.json
+[18:14:00] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt422
+[18:14:07] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt422
+[18:14:07] group 171372522341869: feed present = True
+[18:14:07] sink tab already open
+[18:14:07] group 171372522341869: collector said 'started BBT/q_bbt422.json'
+[18:14:22] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[18:14:52] group 171372522341869: 1 posts, 4 saves, log: ['resumed with 0']
+[18:15:37] group 171372522341869: 2 posts, 6 saves, log: ['resumed with 0']
+[18:17:22] group 171372522341869: finished with 2 posts
+[18:17:22] bbt422: 2 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt422.json
+[18:17:22] bbt422: second group finished below 60 posts (end of results)
+[18:17:22] [17/20] bbt422: done with 2 posts
+[18:17:22] ===== [18/20] bbt423 =====
+[18:17:22] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt423
+[18:17:29] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt423
+[18:17:29] group 241165482653333: feed present = True
+[18:17:29] sink tab already open
+[18:17:29] group 241165482653333: collector said 'started BBT/q_bbt423.json'
+[18:17:44] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt423']
+[18:18:30] group 241165482653333: finished with 0 posts
+[18:18:30] bbt423: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt423.json
+[18:18:30] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt423
+[18:18:38] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt423
+[18:18:38] group 171372522341869: feed present = True
+[18:18:38] sink tab already open
+[18:18:38] group 171372522341869: collector said 'started BBT/q_bbt423.json'
+[18:18:53] group 171372522341869: 0 posts, 1 saves, log: ['resumed with 0']
+[18:19:23] group 171372522341869: 1 posts, 3 saves, log: ['resumed with 0']
+[18:19:53] group 171372522341869: 2 posts, 6 saves, log: ['resumed with 0']
+[18:20:38] group 171372522341869: 3 posts, 10 saves, log: ['resumed with 0']
+[18:20:53] group 171372522341869: 4 posts, 12 saves, log: ['resumed with 0']
+[18:22:38] group 171372522341869: finished with 4 posts
+[18:22:38] bbt423: 4 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt423.json
+[18:22:38] bbt423: second group finished below 60 posts (end of results)
+[18:22:38] [18/20] bbt423: done with 4 posts
+[18:22:38] ===== [19/20] bbt424 =====
+[18:22:38] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt424
+[18:22:45] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt424
+[18:22:45] group 241165482653333: feed present = True
+[18:22:45] sink tab already open
+[18:22:45] group 241165482653333: collector said 'started BBT/q_bbt424.json'
+[18:23:00] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt424']
+[18:23:45] group 241165482653333: finished with 0 posts
+[18:23:45] bbt424: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt424.json
+[18:23:45] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt424
+[18:23:53] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt424
+[18:23:53] group 171372522341869: feed present = True
+[18:23:53] sink tab already open
+[18:23:53] group 171372522341869: collector said 'started BBT/q_bbt424.json'
+[18:24:08] group 171372522341869: 0 posts, 0 saves, log: ['skipped post without q_bbt424']
+[18:24:53] group 171372522341869: finished with 0 posts
+[18:24:53] bbt424: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt424.json
+[18:24:53] bbt424: second group finished below 60 posts (end of results)
+[18:24:53] [19/20] bbt424: done with 0 posts
+[18:24:53] ===== [20/20] bbt427 =====
+[18:24:53] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt427
+[18:25:00] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt427
+[18:25:00] group 241165482653333: feed present = True
+[18:25:00] sink tab already open
+[18:25:00] group 241165482653333: collector said 'started BBT/q_bbt427.json'
+[18:25:15] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt427']
+[18:26:00] group 241165482653333: finished with 0 posts
+[18:26:00] bbt427: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt427.json
+[18:26:00] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt427
+[18:26:08] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt427
+[18:26:08] group 171372522341869: feed present = True
+[18:26:08] sink tab already open
+[18:26:08] group 171372522341869: collector said 'started BBT/q_bbt427.json'
+[18:26:23] [20/20] bbt427: FAILED - The collector stopped responding in group 171372522341869 (the page probably reloaded).
+[18:26:25] finished 20 course(s)
+[18:27:10] sink already running on 8085
+[18:27:15] Facebook session found in the scraper profile
+[18:27:15] ===== [1/5] bbt221 =====
+[18:27:15] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt221
+[18:27:23] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt221
+[18:27:23] group 241165482653333: feed present = True
+[18:27:23] sink tab already open
+[18:27:23] group 241165482653333: collector said 'started BBT/q_bbt221.json'
+[18:27:38] group 241165482653333: 52 posts, 0 saves, log: ['skipped post without q_bbt221']
+[18:28:23] group 241165482653333: finished with 52 posts
+[18:28:23] bbt221: 52 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt221.json
+[18:28:23] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt221
+[18:28:30] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt221
+[18:28:30] group 171372522341869: feed present = True
+[18:28:30] sink tab already open
+[18:28:31] group 171372522341869: collector said 'started BBT/q_bbt221.json'
+[18:28:46] group 171372522341869: 52 posts, 0 saves, log: ['resumed with 52']
+[19:17:35] group 171372522341869: 53 posts, 3 saves, log: ['skipped post without q_bbt221']
+[19:18:05] group 171372522341869: 54 posts, 7 saves, log: ['skipped post without q_bbt221']
+[19:18:20] group 171372522341869: 55 posts, 9 saves, log: ['skipped post without q_bbt221']
+[19:18:50] group 171372522341869: 56 posts, 12 saves, log: ['skipped post without q_bbt221']
+[19:19:20] group 171372522341869: 57 posts, 15 saves, log: ['skipped post without q_bbt221']
+[19:19:50] group 171372522341869: 58 posts, 18 saves, log: ['skipped post without q_bbt221']
+[19:20:20] group 171372522341869: 59 posts, 21 saves, log: ['skipped post without q_bbt221']
+[19:21:05] group 171372522341869: 60 posts, 24 saves, log: ['skipped post without q_bbt221']
+[19:21:20] group 171372522341869: finished with 60 posts
+[19:21:20] bbt221: 60 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt221.json
+[19:21:20] [1/5] bbt221: done with 60 posts
+[19:21:20] ===== [2/5] bbt230 =====
+[19:21:20] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt230
+[19:21:28] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt230
+[19:21:28] group 241165482653333: feed present = True
+[19:21:28] sink tab already open
+[19:21:28] group 241165482653333: collector said 'started BBT/q_bbt230.json'
+[19:21:43] group 241165482653333: 56 posts, 2 saves, log: ['End of results reached']
+[19:21:43] group 241165482653333: finished with 56 posts
+[19:21:43] bbt230: 56 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt230.json
+[19:21:43] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt230
+[19:21:50] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt230
+[19:21:50] group 171372522341869: feed present = True
+[19:21:50] sink tab already open
+[19:21:50] group 171372522341869: collector said 'started BBT/q_bbt230.json'
+[19:22:05] group 171372522341869: 56 posts, 0 saves, log: ['resumed with 56']
+[19:23:35] group 171372522341869: 57 posts, 3 saves, log: ['skipped post without q_bbt230']
+[19:24:20] group 171372522341869: 58 posts, 6 saves, log: ['skipped post without q_bbt230']
+[19:24:50] group 171372522341869: 59 posts, 10 saves, log: ['skipped post without q_bbt230']
+[19:25:20] group 171372522341869: 60 posts, 14 saves, log: ['skipped post without q_bbt230']
+[19:25:20] group 171372522341869: finished with 60 posts
+[19:25:20] bbt230: 60 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt230.json
+[19:25:20] [2/5] bbt230: done with 60 posts
+[19:25:20] ===== [3/5] bbt427 =====
+[19:25:20] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt427
+[19:25:27] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt427
+[19:25:27] group 241165482653333: feed present = True
+[19:25:27] sink tab already open
+[19:25:27] group 241165482653333: collector said 'started BBT/q_bbt427.json'
+[19:25:42] group 241165482653333: 1 posts, 0 saves, log: ['skipped post without q_bbt427']
+[19:26:28] group 241165482653333: finished with 1 posts
+[19:26:28] bbt427: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt427.json
+[19:26:28] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt427
+[19:26:35] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt427
+[19:26:35] group 171372522341869: feed present = True
+[19:26:35] sink tab already open
+[19:26:35] group 171372522341869: collector said 'started BBT/q_bbt427.json'
+[19:26:50] group 171372522341869: 1 posts, 0 saves, log: ['resumed with 1']
+[19:27:35] group 171372522341869: finished with 1 posts
+[19:27:35] bbt427: 1 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt427.json
+[19:27:35] bbt427: second group finished below 60 posts (end of results)
+[19:27:35] [3/5] bbt427: done with 1 posts
+[19:27:35] ===== [4/5] bbt417 =====
+[19:27:35] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt417
+[19:27:42] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt417
+[19:27:42] group 241165482653333: feed present = True
+[19:27:42] sink tab already open
+[19:27:42] group 241165482653333: collector said 'started BBT/q_bbt417.json'
+[19:27:57] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt417']
+[19:28:42] group 241165482653333: finished with 0 posts
+[19:28:42] bbt417: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt417.json
+[19:28:42] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt417
+[19:28:49] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt417
+[19:28:49] group 171372522341869: feed present = True
+[19:28:49] sink tab already open
+[19:28:49] group 171372522341869: collector said 'started BBT/q_bbt417.json'
+[19:29:04] group 171372522341869: 0 posts, 0 saves, log: ['skipped post without q_bbt417']
+[19:29:49] group 171372522341869: finished with 0 posts
+[19:29:49] bbt417: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt417.json
+[19:29:49] bbt417: second group finished below 60 posts (end of results)
+[19:29:49] [4/5] bbt417: done with 0 posts
+[19:29:49] ===== [5/5] bbt424 =====
+[19:29:49] group 241165482653333: navigating to https://www.facebook.com/groups/241165482653333/search/?q=bbt424
+[19:29:57] group 241165482653333: landed on https://www.facebook.com/groups/241165482653333/search/?q=bbt424
+[19:29:57] group 241165482653333: feed present = True
+[19:29:57] sink tab already open
+[19:29:57] group 241165482653333: collector said 'started BBT/q_bbt424.json'
+[19:30:12] group 241165482653333: 0 posts, 0 saves, log: ['skipped post without q_bbt424']
+[19:30:57] group 241165482653333: finished with 0 posts
+[19:30:57] bbt424: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt424.json
+[19:30:57] group 171372522341869: navigating to https://www.facebook.com/groups/171372522341869/search/?q=bbt424
+[19:31:04] group 171372522341869: landed on https://www.facebook.com/groups/171372522341869/search/?q=bbt424
+[19:31:04] group 171372522341869: feed present = True
+[19:31:04] sink tab already open
+[19:31:04] group 171372522341869: collector said 'started BBT/q_bbt424.json'
+[19:31:19] group 171372522341869: 0 posts, 0 saves, log: ['skipped post without q_bbt424']
+[19:32:04] group 171372522341869: finished with 0 posts
+[19:32:04] bbt424: 0 unique posts saved to C:\Users\SMFoysalAhmed\Desktop\course_and_faculty_reviews\BBT\q_bbt424.json
+[19:32:04] bbt424: second group finished below 60 posts (end of results)
+[19:32:04] [5/5] bbt424: done with 0 posts
+[19:32:06] finished 5 course(s)
