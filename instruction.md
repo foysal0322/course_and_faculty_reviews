@@ -30,15 +30,8 @@ the user asks.
 course_and_faculty_reviews/
   course_faculty.json          reference COURSE → FACULTY data (authoritative)
   instruction.md               this file
-  cseXXX_*_reviews.json        final outputs, one per course
-  raw/
-    sink.py                    local helper server that writes scraped data to disk
-    collector.js               in-page scraper (sent through Selenium)
-    q_<course>.json            raw scraped posts + comments
-    q_<course>.json.cur        post being processed right now (crash recovery)
-    q_<course>.json.done       written when a run ends (log + count)
-    extract173.py / extract215.py   print candidate comments for manual judging
-    build173.py / build215.py       turn judged picks into the final JSON
+  <department>/q_<course>.json raw scraped posts + comments organized by department (e.g. PHR/, pbh/)
+  <course>_detailed_reviews.json final outputs, one per course
 ```
 
 ## 3. Dynamic Faculty Discovery Rule
@@ -51,93 +44,84 @@ course_and_faculty_reviews/
 
 ## 4. Environment and tools
 
-- **OS:** Windows, PowerShell. Python is available (`python`).
-- **Browser:** Chrome, driven by the **`user-selenium` MCP** (`start_browser`, `navigate`,
-  `execute_script`, `take_screenshot`, `window`). The user is already logged into
-  Facebook in that Chrome session.
-  - If no session exists: `start_browser` with `{"browser": "chrome"}`. Edge doesn't work
-    (no driver installed).
-  - Don't use the Cursor built-in browser for scraping.
-- **Group search URL** (replace the query):
-  `https://www.facebook.com/groups/1574365339447298/search/?q=cse215`
-  Use the default "Top" sort. The "Most recent" toggle returns only ~5 results.
+- **OS:** Linux / Windows. Python 3 is available.
+- **Browser Automation:** Driven via Chrome DevTools / Browser Subagent (`mcp_chrome_devtools` / Selenium). The user is already logged into Facebook in the Chrome session.
+  - Don't use the built-in simple web fetchers for scraping dynamic Facebook pages.
+- **Two Group Search URLs & Fallback Workflow:**
+  Scrape each course using the two authoritative NSU Facebook groups:
+  1. **Group 1 (Primary):**
+     `https://www.facebook.com/groups/1574365339447298/search/?q={course_code}` (NSU Faculty Course & Grade Analysis)
+  2. **Group 2 (Secondary / Fallback):**
+     `https://www.facebook.com/groups/241165482653333/search/?q={course_code}`
+  - **Fallback Rule:** If Group 1 yields fewer than 60 posts (or search results exhaust before reaching 60), the scraper **MUST automatically search Group 2** to collect further reviews before concluding the course.
+  - Use the default search sorting ("Top" / relevant).
 
-### Why a local helper server is needed
-Facebook's page security policy blocks `fetch` to localhost, blocks `eval`/`new Function`,
-blocks loading scripts from `http://127.0.0.1`, and **wipes `localStorage` on reload**.
-Blob downloads didn't land on disk either. What works: the collector opens a second tab,
-`http://127.0.0.1:8765/` (named `fbsink`), and sends data to it with `postMessage`. That
-page POSTs it to `raw/sink.py`, which writes files into `raw/`. The sink also serves saved
-files back (`GET /f/<name>`) so a restarted collector can resume.
-
-The helper tab reappears if it's closed. That's expected; tell the user to leave it open.
+### NO Localhost Sink Server (Clean In-Memory Collection)
+- **DO NOT run or use `http://127.0.0.1:8085/` or `raw/sink.py`.** Localhost sink servers are deprecated and prohibited.
+- Scraper collects posts and comments directly **in-memory** within the browser session (`window.__fb` / `sessionStorage`).
+- Extracted JSON is dumped directly via subagent / DevTools evaluation and persisted to disk (e.g. `<department>/q_<course>.json`) using Python file writes.
+- If a course yields 0 matching reviews across both groups, write an empty array `[]` to `<department>/q_<course>.json`.
 
 ---
 
 ## 5. Step-by-step workflow for a new course
 
-### Step 1: Start the sink server (if it isn't running)
-```powershell
-try { (Invoke-WebRequest http://127.0.0.1:8765/ -UseBasicParsing -TimeoutSec 3).StatusCode } catch { "down" }
-# if down:
-Start-Process python -ArgumentList "raw\sink.py" -WindowStyle Hidden
-```
-If you edit `sink.py`, kill every old instance first (`Get-Process python | Stop-Process -Force`),
-because a stale process keeps serving the old code.
+### Step 1: Prepare the Department Output Folder
+Ensure the target department directory exists (e.g. `PHR/`, `pbh/`, `MIS/`, `ECO/`).
+Files are saved as `<department>/q_<course_code_lowercase>.json` (e.g. `pbh/q_pbh101.json`).
 
-### Step 2: Open the search
-`navigate` to the group search URL with `q=<course code>` (e.g. `cse215`).
+### Step 2: Open Group 1 Search
+Navigate to Group 1 search URL:
+`https://www.facebook.com/groups/1574365339447298/search/?q={course_code}`
 
-### Step 3: Start the collector
-Call `execute_script` with the **full contents of `raw/collector.js`** as `script` and
-`args: ["q_<course>.json", 60]` (the output file name and the max post count). It returns
-`started ...` immediately and keeps running inside the page.
-
-For each post, the collector:
-1. **Expand 'See more' and Course Code Pre-Check:**
+### Step 3: Run the In-Page Collector
+Execute the safe in-page collector runner with:
+1. **Zero Reactions / Likes Event Blocker:**
+   Permanently block clicks on Like/React elements (`[aria-label="Like"]`, `[aria-label="React"]`, `Remove Like`) via `e.stopImmediatePropagation()` and `e.preventDefault()`.
+2. **Expand 'See more' and Course Code Pre-Check:**
    - In the feed post, if a "See more" expander is present in the post text/body, **click it first** to expand the full post content.
-   - After expanding, search for the target course code (e.g. `ECO349`, `ECO 349`, `ECO-349`).
-   - If the course code is **absent** from the post text and image alt, **skip the post immediately** without opening the comment section or counting it.
-2. If it contains the course code, clicks the post's **"Leave a comment"** button (the one showing the comment count).
-3. Switches the comment filter to **All comments**.
-4. Keeps clicking "View more comments" / "View N replies" / "See more" and scrolling the
-   comment box until nothing new loads. Ensure all truncated comments with "See more" are clicked to expand the full text.
-5. Reads every comment (`role=article`; its `aria-label` holds author + relative age).
-6. Closes the dialog, saves to disk, scrolls the page a little, and **waits ~5–7 s**
-   before the next post (~3 s for posts without comments).
-7. When nothing new is loaded, scrolls to the bottom to trigger more results.
+   - Match the target course code strictly (e.g. `/\bpbh[\s-_]*101\b/i`).
+   - If the course code is **absent** from the post text and image alt, **skip the post immediately** without opening comments or counting it.
+3. **Open and Expand Comments:**
+   - Click the post's **"Leave a comment"** / comment count button.
+   - Switch comment filter to **All comments**.
+   - Expand all "View more comments", "View N replies", and comment "See more" text.
+   - Exclude any flyouts/dialogs matching `Notifications|Chat|Messenger`.
+4. **Collect Verbatim Data:**
+   - Extract post verbatim text, `image_alt`, author/relative-time comment labels, comment text, and post permalink.
+5. **Human Pacing:**
+   - 1–4 s between clicks, ~5–7 s between posts. Never hammer requests.
 
-It stops when:
-- **"End of results"** is on screen and no unprocessed posts remain,
-- it reaches the max post count,
-- it finds nothing new for ~9 rounds, or
-- Facebook shows any block / "slow down" / "going too fast" warning.
+### Step 4: Fallback to Group 2 (If < 60 Posts)
+- When Group 1 ends or exhausts results:
+  - If the collected post count is **< 60 posts**, navigate to Group 2:
+    `https://www.facebook.com/groups/241165482653333/search/?q={course_code}`
+  - Continue scraping until 60 posts are reached or Group 2 results exhaust.
+  - Merge and deduplicate posts by `permalink`.
 
-### Step 5: Monitor
-Poll every ~5 minutes (never in a tight loop):
-```js
-const S=window.__fb; return S?{n:S.posts.length, running:S.running, saves:S.saves, log:S.log}:'no state '+location.href
-```
-Also check that the file on disk is growing:
-```powershell
-python -c "import json;d=json.load(open('raw/q_cse215.json',encoding='utf-8'));print(len(d),sum(len(p['comments']) for p in d))"
-```
-- **If the in-page count grows but the file doesn't**, saves are failing. Push manually:
-  ```js
-  const w=window.open('','fbsink'); window.focus(); w.postMessage({name:window.__fb.name, body:JSON.stringify(window.__fb.posts)},'*'); return 'sent'
+### Step 5: Save Raw Course Data
+- Save the collected array of posts and comments into `<department>/q_<course>.json`.
+- If 0 matching reviews were found across both groups, write `[]`.
+
+### Step 6: Monitor & Progress Reporting
+- Check progress every 5 minutes (using a scheduled background timer/cron).
+- Report live completed course counts, posts collected, and active course status.
+
+### Step 7: Git Commit & Push
+- When all courses in a requested batch are finished:
+  ```bash
+  git add <department>/
+  git commit -m "Scrape and save reviews for <department> courses"
+  git push origin main
   ```
-- **If the result is `no state`**, the page reloaded and killed the collector. `navigate`
-  back to the search URL and run Step 4 again with the same file name. It resumes from
-  disk, and the post that caused the reload is recorded without comments and skipped.
-- **To stop** when the user asks: `window.__fb.stop = true`, then push a manual save.
 
-### Step 5: Extract candidates for LLM evaluation
+### Step 8: Extract candidates for LLM evaluation
 Run a candidate extraction script (e.g. `python -c ...` or an `extract_<course>.py` script).
 It reads `q_<course>.json`, checks course code relevance, dynamically matches candidate comments against all discovered faculty initials for that course, and outputs two files:
 - `candidates_<course>.txt` (Human-readable text thread file)
 - `<course>_llm_candidates.json` (Structured candidate review objects)
 
-### Step 6: Automated LLM Evaluation & Sentiment Processing (Gemini Flash Model)
+### Step 9: Automated LLM Evaluation & Sentiment Processing (Gemini Flash Model)
 Use an LLM subagent (preferably **Gemini Flash** / `flash` tier model for cost efficiency across all course batches):
 1. **Full-Text Semantic Comprehension (No String-Keyword Reliance):**
    - Read every candidate comment end-to-end to understand genuine student sentiment, underlying tone, emotions, overall experience, and intent.
@@ -158,7 +142,7 @@ Use an LLM subagent (preferably **Gemini Flash** / `flash` tier model for cost e
 5. **Output Generation:**
    - Save directly to `<course>_detailed_reviews.json` (or inside subject folders like `accounting/` or `finance/`).
 
-### Step 7: Report to the user
+### Step 10: Report to the user
 Give a per-faculty table of review counts by rating, name faculty with no reviews, and
 flag the judgment calls (split opinions, sarcasm, skipped non-reference faculty).
 
@@ -306,5 +290,5 @@ Every kept comment is its **own** review with its **own** rating:
 5. **Half-rendered posts.** Only mark a post as processed after its message text exists; otherwise it gets skipped forever.
 6. **Comment button.** Use `[aria-label="Leave a comment"]` with a numeric count. Posts with comments but no reactions have only this one numeric button. An older "two numeric buttons" rule skipped them, which lost all replies to "How is RRn for CSE215?" posts.
 7. **Page reloads & Permalink Navigation.** Sometimes opening or closing a post forces a full reload or transitions to `/permalink/<id>`. State is safely preserved on disk in `q_<course>.json`. To recover: navigate back to the group search URL (`https://www.facebook.com/groups/241165482653333/search/?q=<course>`), wait for `[role=feed]`, and re-inject `collector.js` to resume seamlessly from the saved count on disk.
-8. **Stale sink reference.** Always re-acquire it with `window.open('', 'fbsink')` before `postMessage`. A saved reference silently stops working across reloads.
+8. **In-Memory & Storage Persistence.** Keep state safely captured in browser memory (`window.__fb` / `sessionStorage`) so if any single post or thread lags, data already gathered remains intact and can be saved directly.
 9. **Notification & Chat Flyouts.** Facebook may spawn flyouts with `[role=dialog]` for notifications or messaging. Filter out dialogs labeled with `Notifications`, `Chat`, or `Messenger` when interacting with post dialogs.
