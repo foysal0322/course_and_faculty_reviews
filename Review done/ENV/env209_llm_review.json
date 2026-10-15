@@ -1,0 +1,34 @@
+{
+  "env209": {
+    "bkf": [
+      {
+        "review": "Foul",
+        "rating": "avoid"
+      },
+      {
+        "review": "best 4 learning but worst 4 grading 󾌳",
+        "rating": "moderate"
+      },
+      {
+        "review": "কেমেস্ট্রির BKF হইলে ড্রপ দেন,গ্রেড আন্ডা দিবে",
+        "rating": "avoid"
+      },
+      {
+        "review": "Drop BKF",
+        "rating": "avoid"
+      },
+      {
+        "review": "BKF=বিনা কারণে ফেল\nDrop asap",
+        "rating": "avoid"
+      },
+      {
+        "review": "BKF & MS1 = BASH",
+        "rating": "avoid"
+      },
+      {
+        "review": "BKF- Bina Karone fail",
+        "rating": "avoid"
+      }
+    ]
+  }
+}
